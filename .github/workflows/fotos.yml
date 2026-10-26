@@ -1,0 +1,38 @@
+name: Guardar fotos reales
+
+# Descarga las fotos reales de Colombia (Pexels, uso libre) dentro del repo,
+# para el flyer y para que la app cargue más rápido.
+on:
+  push:
+    paths: ['.github/workflows/fotos.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fotos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar
+        run: |
+          mkdir -p img/fotos
+          baja () { curl -sSL --fail -o "img/fotos/$1.jpg" "https://images.pexels.com/photos/$2/pexels-photo-$2.$3?auto=compress&cs=tinysrgb&w=1600&fm=jpg"; }
+          baja restaurante-medellin 16740980 jpeg
+          baja cocinero-medellin 15837093 jpeg
+          baja bandeja-paisa 37024910 jpeg
+          baja mercado-medellin 38308504 jpeg
+          baja comida-callejera-bogota 37597786 jpeg
+          baja mariscos 36921556 png
+          baja empanadas 37025262 jpeg
+          baja arepas 29465176 jpeg
+          baja mercado-bogota 17264447 jpeg
+          curl -sSL --fail -o img/fotos/medellin-video-poster.jpg "https://images.pexels.com/videos/31646890/building-architecture-cityvibes-31646890.jpeg?auto=compress&w=1600"
+          ls -la img/fotos
+      - name: Guardar en el repo
+        run: |
+          git config user.name "robot-fotos"
+          git config user.email "robot-fotos@users.noreply.github.com"
+          git add img/fotos
+          git diff --cached --quiet || (git commit -m "Fotos reales de Colombia para la app y el flyer" && git push)
