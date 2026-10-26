@@ -1,0 +1,35 @@
+{
+  "actualizado": null,
+  "zona": "America/Bogota",
+  "total": 4,
+  "noticias": [
+    {
+      "titulo": "El corrientazo ya se acerca a los $20.000 y restaurantes sienten el golpe en sus ventas",
+      "enlace": "https://www.elcolombiano.com/negocios/precio-corrientazo-colombia-2026-almuerzo-EH42104415",
+      "fecha": "",
+      "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
+      "titulo": "Bares y restaurantes piden medidas de alivio por el impacto inflacionario y tributario",
+      "enlace": "https://www.portafolio.co/negocios/comercio/acodres-pide-medidas-de-alivio-ante-el-impacto-inflacionario-y-tributario-sobre-el-sector-gastronomico-en-bogota-486016",
+      "fecha": "",
+      "fuente": "Portafolio",
+      "imagen": ""
+    },
+    {
+      "titulo": "Salario mínimo e IPC presionan los costos de los restaurantes: así subió la bandeja paisa en Medellín",
+      "enlace": "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985",
+      "fecha": "2026-01-18T12:00:00.000Z",
+      "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ya subió hasta la hamburguesa, ¿cuánto vale una en Medellín este 2026?",
+      "enlace": "https://www.elcolombiano.com/negocios/precio-hamburguesa-medellin-2026-alza-costos-GE32411777",
+      "fecha": "2026-01-10T12:00:00.000Z",
+      "fuente": "El Colombiano",
+      "imagen": ""
+    }
+  ]
+}

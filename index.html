@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Restaurantes al Día</title>
+<meta name="description" content="Seguimiento ciudadano a los cierres de restaurantes en Medellín y Antioquia: cifras, costos, noticias del día y calculadora. Vibras Positivas HM.">
+<meta name="theme-color" content="#16110e">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="https://images.pexels.com/photos/37024910/pexels-photo-37024910.jpeg?auto=compress&cs=tinysrgb&w=192&h=192&fit=crop">
+<link rel="apple-touch-icon" href="https://images.pexels.com/photos/37024910/pexels-photo-37024910.jpeg?auto=compress&cs=tinysrgb&w=180&h=180&fit=crop">
+<meta property="og:title" content="Restaurantes al Día — Mesas en riesgo">
+<meta property="og:description" content="802 cierres en Antioquia entre enero y septiembre de 2026. Las cifras, las causas y las noticias de hoy.">
+<meta property="og:image" content="https://images.pexels.com/photos/16740980/pexels-photo-16740980.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630&fit=crop">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="#inicio">
+    <span class="brand-text"><b>Restaurantes al Día</b><small data-i18n="brandSub">Vibras Positivas HM</small></span>
+  </a>
+  <nav class="nav">
+    <a href="#hoy" data-i18n="navHoy">Hoy</a>
+    <a href="#cifras" data-i18n="navCifras">Cifras</a>
+    <a href="#calculadora" data-i18n="navCalc">Calculadora</a>
+    <a href="#noticias" data-i18n="navNoticias">Noticias</a>
+  </nav>
+  <div class="top-actions">
+    <button id="btnRefresh" class="btn btn-refresh" type="button" data-i18n="refresh">Actualizar</button>
+    <button id="btnLang" class="btn btn-lang" type="button" aria-label="Cambiar idioma">EN</button>
+  </div>
+</header>
+
+<div class="ticker" aria-live="polite">
+  <span class="ticker-label" data-i18n="tickerLabel">Última hora</span>
+  <div class="ticker-track"><div class="ticker-inner" id="ticker"><span data-i18n="tickerLoading">Buscando noticias en vivo...</span></div></div>
+</div>
+
+<!-- HERO con fotos reales -->
+<section class="hero" id="inicio">
+  <div class="hero-slides" id="heroSlides">
+    <div class="slide active slide-video">
+      <video id="heroVideo" autoplay muted loop playsinline preload="metadata" poster="https://images.pexels.com/videos/31646890/building-architecture-cityvibes-31646890.jpeg?auto=compress&w=1600">
+        <source src="https://videos.pexels.com/video-files/31646890/13483071_2560_1440_30fps.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div class="slide" style="background-image:url('https://images.pexels.com/photos/16740980/pexels-photo-16740980.jpeg?auto=compress&cs=tinysrgb&w=1600')"></div>
+    <div class="slide" style="background-image:url('https://images.pexels.com/photos/15837093/pexels-photo-15837093.jpeg?auto=compress&cs=tinysrgb&w=1600')"></div>
+    <div class="slide" style="background-image:url('https://images.pexels.com/photos/37024910/pexels-photo-37024910.jpeg?auto=compress&cs=tinysrgb&w=1600')"></div>
+    <div class="slide" style="background-image:url('https://images.pexels.com/photos/37597786/pexels-photo-37597786.jpeg?auto=compress&cs=tinysrgb&w=1600')"></div>
+  </div>
+  <p class="hero-caption" id="heroCaption">Medellín, Antioquia</p>
+  <div class="hero-shade"></div>
+  <div class="hero-content">
+    <p class="kicker" data-i18n="heroKicker">Seguimiento ciudadano · Medellín y Antioquia · 2026</p>
+    <h1 data-i18n="heroTitle">Mesas en riesgo</h1>
+    <p class="hero-lead" data-i18n="heroLead">Los ingredientes y la nómina se están comiendo las ventas de los restaurantes. Aquí están las cifras, las causas y lo que pasa hoy.</p>
+    <div class="hero-stats">
+      <div class="hstat"><b class="count" data-to="802">0</b><span data-i18n="hs1">cierres en Antioquia, ene–sep 2026</span></div>
+      <div class="hstat"><b class="count" data-to="1561">0</b><span data-i18n="hs2">aperturas en el mismo período</span></div>
+      <div class="hstat"><b><span class="count" data-to="80">0</span>%</b><span data-i18n="hs3">de cada venta se va en insumos y nómina</span></div>
+      <div class="hstat"><b><span class="count" data-to="7.04" data-dec="2">0</span>%</b><span data-i18n="hs4">inflación anual en Medellín (sep)</span></div>
+    </div>
+    <div class="hero-clock"><span data-i18n="clockLabel">Hora de Colombia</span> <b id="clock">--</b></div>
+  </div>
+</section>
+
+<!-- HOY -->
+<section class="sec sec-hoy" id="hoy">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow" data-i18n="hoyEyebrow">Se actualiza cada vez que entra</p>
+      <h2><span data-i18n="hoyTitle">Hoy</span> <span class="today-date" id="todayDate"></span></h2>
+      <p class="status" id="liveStatus" data-i18n="statusIdle">Preparando la búsqueda en vivo...</p>
+    </div>
+    <div class="hoy-grid" id="hoyGrid">
+      <div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div>
+    </div>
+  </div>
+</section>
+
+<!-- GALERÍA -->
+<section class="sec sec-gal">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow" data-i18n="galEyebrow">Lo que está en juego</p>
+      <h2 data-i18n="galTitle">Las mesas de Colombia</h2>
+      <p class="sec-lead" data-i18n="galLead">Detrás de cada cifra hay una cocina, un mercado y una familia que vive de vender comida.</p>
+    </div>
+  </div>
+  <div class="gal-track"><div class="gal-inner"><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/16740980/pexels-photo-16740980.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Almuerzo en un restaurante de Medellín"><figcaption data-es="Almuerzo en un restaurante de Medellín" data-en="Lunch at a restaurant in Medellín">Almuerzo en un restaurante de Medellín</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/15837093/pexels-photo-15837093.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Cocinero atendiendo en un restaurante de Medellín"><figcaption data-es="Cocinero atendiendo en un restaurante de Medellín" data-en="A cook serving customers in Medellín">Cocinero atendiendo en un restaurante de Medellín</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/37024910/pexels-photo-37024910.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Bandeja paisa"><figcaption data-es="Bandeja paisa" data-en="Bandeja paisa">Bandeja paisa</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/38308504/pexels-photo-38308504.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Puesto de mercado en Medellín: plátano, ajo, repollo"><figcaption data-es="Puesto de mercado en Medellín: plátano, ajo, repollo" data-en="Market stall in Medellín: plantain, garlic, cabbage">Puesto de mercado en Medellín: plátano, ajo, repollo</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/37597786/pexels-photo-37597786.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Carrito de comida callejera en Bogotá"><figcaption data-es="Carrito de comida callejera en Bogotá" data-en="Street food cart in Bogotá">Carrito de comida callejera en Bogotá</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/36921556/pexels-photo-36921556.png?auto=compress&cs=tinysrgb&w=900" alt="Cazuela de mariscos en un restaurante colombiano"><figcaption data-es="Cazuela de mariscos en un restaurante colombiano" data-en="Seafood platter at a Colombian restaurant">Cazuela de mariscos en un restaurante colombiano</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/37025262/pexels-photo-37025262.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Empanadas colombianas con ají"><figcaption data-es="Empanadas colombianas con ají" data-en="Colombian empanadas with ají">Empanadas colombianas con ají</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/29465176/pexels-photo-29465176.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Arepas con carne desmechada"><figcaption data-es="Arepas con carne desmechada" data-en="Arepas with shredded beef">Arepas con carne desmechada</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/17264447/pexels-photo-17264447.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Callejón de mercado en Bogotá"><figcaption data-es="Callejón de mercado en Bogotá" data-en="Market alley in Bogotá">Callejón de mercado en Bogotá</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/16740980/pexels-photo-16740980.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Almuerzo en un restaurante de Medellín"><figcaption data-es="Almuerzo en un restaurante de Medellín" data-en="Lunch at a restaurant in Medellín">Almuerzo en un restaurante de Medellín</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/15837093/pexels-photo-15837093.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Cocinero atendiendo en un restaurante de Medellín"><figcaption data-es="Cocinero atendiendo en un restaurante de Medellín" data-en="A cook serving customers in Medellín">Cocinero atendiendo en un restaurante de Medellín</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/37024910/pexels-photo-37024910.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Bandeja paisa"><figcaption data-es="Bandeja paisa" data-en="Bandeja paisa">Bandeja paisa</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/38308504/pexels-photo-38308504.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Puesto de mercado en Medellín: plátano, ajo, repollo"><figcaption data-es="Puesto de mercado en Medellín: plátano, ajo, repollo" data-en="Market stall in Medellín: plantain, garlic, cabbage">Puesto de mercado en Medellín: plátano, ajo, repollo</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/37597786/pexels-photo-37597786.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Carrito de comida callejera en Bogotá"><figcaption data-es="Carrito de comida callejera en Bogotá" data-en="Street food cart in Bogotá">Carrito de comida callejera en Bogotá</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/36921556/pexels-photo-36921556.png?auto=compress&cs=tinysrgb&w=900" alt="Cazuela de mariscos en un restaurante colombiano"><figcaption data-es="Cazuela de mariscos en un restaurante colombiano" data-en="Seafood platter at a Colombian restaurant">Cazuela de mariscos en un restaurante colombiano</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/37025262/pexels-photo-37025262.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Empanadas colombianas con ají"><figcaption data-es="Empanadas colombianas con ají" data-en="Colombian empanadas with ají">Empanadas colombianas con ají</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/29465176/pexels-photo-29465176.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Arepas con carne desmechada"><figcaption data-es="Arepas con carne desmechada" data-en="Arepas with shredded beef">Arepas con carne desmechada</figcaption></figure><figure class="gcard"><img loading="lazy" src="https://images.pexels.com/photos/17264447/pexels-photo-17264447.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Callejón de mercado en Bogotá"><figcaption data-es="Callejón de mercado en Bogotá" data-en="Market alley in Bogotá">Callejón de mercado en Bogotá</figcaption></figure></div></div>
+</section>
+
+<!-- OJO CON LAS CIFRAS -->
+<section class="sec sec-ojo">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow" data-i18n="ojoEyebrow">Análisis con lupa</p>
+      <h2 data-i18n="ojoTitle">Ojo: hay tres números distintos</h2>
+      <p class="sec-lead" data-i18n="ojoLead">La noticia mezcla datos de alcances diferentes. No son lo mismo y no se deben comparar entre sí.</p>
+    </div>
+    <div class="trio">
+      <article class="trio-card reveal">
+        <b class="big">520</b>
+        <h3 data-i18n="t1h">Medellín</h3>
+        <p data-i18n="t1p">Es la cifra del titular: cierres en la capital antioqueña en lo corrido del año.</p>
+      </article>
+      <article class="trio-card reveal">
+        <b class="big">802</b>
+        <h3 data-i18n="t2h">Antioquia</h3>
+        <p data-i18n="t2p">Es la cifra de la infografía: restaurantes y bares cerrados en todo el departamento entre enero y septiembre.</p>
+      </article>
+      <article class="trio-card reveal">
+        <b class="big">+4.400</b>
+        <h3 data-i18n="t3h">Colombia</h3>
+        <p data-i18n="t3p">Restaurantes cancelados en el país en el año, según la Cámara de Comercio de Medellín y Acoga.</p>
+      </article>
+    </div>
+    <p class="note" data-i18n="ojoNote">Si alguien le dice "cerraron 802 restaurantes en Medellín", está mezclando datos: 802 es Antioquia.</p>
+  </div>
+</section>
+
+<!-- CIFRAS -->
+<section class="sec sec-cifras" id="cifras">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow" data-i18n="cifEyebrow">Las cifras</p>
+      <h2 data-i18n="cifTitle">No es un desplome: es un frenazo</h2>
+      <p class="sec-lead" data-i18n="cifLead">En 2026 abren más restaurantes de los que cierran. Lo que cae es la apertura de negocios nuevos, y el saldo a favor se achica.</p>
+    </div>
+
+    <div class="chart-card reveal">
+      <h3 data-i18n="c1title">Restaurantes y bares en Antioquia</h3>
+      <div class="legend"><span class="lg lg-a" data-i18n="aperturas">Aperturas</span><span class="lg lg-c" data-i18n="cierres">Cierres</span></div>
+      <div class="bars-group">
+        <div class="bgroup">
+          <div class="bpair">
+            <div class="bar bar-a" data-h="2253"><em>2.253</em></div>
+            <div class="bar bar-c" data-h="1050"><em>1.050</em></div>
+          </div>
+          <span class="blabel" data-i18n="y2025">2025 (año completo)</span>
+        </div>
+        <div class="bgroup">
+          <div class="bpair">
+            <div class="bar bar-a" data-h="1561"><em>1.561</em></div>
+            <div class="bar bar-c" data-h="802"><em>802</em></div>
+          </div>
+          <span class="blabel" data-i18n="y2026">2026 (ene–sep)</span>
+        </div>
+        <div class="bgroup proj">
+          <div class="bpair">
+            <div class="bar bar-a" data-h="2081"><em>≈2.081</em></div>
+            <div class="bar bar-c" data-h="1069"><em>≈1.069</em></div>
+          </div>
+          <span class="blabel" data-i18n="y2026p">2026 proyectado a 12 meses</span>
+        </div>
+      </div>
+      <p class="fine" data-i18n="c1fine">Proyección: cálculo de Vibras Positivas HM con el ritmo de enero a septiembre (cifra × 12 ÷ 9). No es un dato oficial.</p>
+    </div>
+
+    <div class="kpis">
+      <div class="kpi reveal"><b>47</b><span data-i18n="k1">cierres por cada 100 aperturas en 2025</span></div>
+      <div class="kpi reveal hot"><b>51</b><span data-i18n="k2">cierres por cada 100 aperturas en 2026</span></div>
+      <div class="kpi reveal"><b>−8%</b><span data-i18n="k3">menos aperturas proyectadas que en 2025</span></div>
+      <div class="kpi reveal"><b>≈0%</b><span data-i18n="k4">cambio en los cierres proyectados frente a 2025</span></div>
+    </div>
+
+    <div class="split">
+      <div class="chart-card reveal">
+        <h3 data-i18n="c2title">¿A dónde se va cada $100 que vende un restaurante?</h3>
+        <div class="stack" id="stackBar">
+          <div class="seg seg-mp" style="--w:43%"><span>43</span></div>
+          <div class="seg seg-nom" style="--w:37%"><span>37</span></div>
+          <div class="seg seg-rest" style="--w:20%"><span>20</span></div>
+        </div>
+        <ul class="stack-legend">
+          <li><i class="sw sw-mp"></i><span data-i18n="sMp">Materias primas: $43</span></li>
+          <li><i class="sw sw-nom"></i><span data-i18n="sNom">Nómina: $37</span></li>
+          <li><i class="sw sw-rest"></i><span data-i18n="sRest">Quedan $20 para arriendo, servicios, impuestos, domicilios... y la ganancia</span></li>
+        </ul>
+        <p class="fine" data-i18n="c2fine">Una regla general del sector es que insumos más nómina no pasen de 60 a 65%. Con 80%, un mes flojo deja al negocio en rojo.</p>
+      </div>
+      <div class="chart-card reveal">
+        <h3 data-i18n="c3title">Inflación anual a septiembre de 2026</h3>
+        <div class="hbars">
+          <div class="hrow"><span data-i18n="medellin">Medellín</span><div class="hbar"><div class="hfill hot" data-w="7.04"></div></div><b>7,04%</b></div>
+          <div class="hrow"><span data-i18n="nacional">Promedio nacional</span><div class="hbar"><div class="hfill" data-w="6.29"></div></div><b>6,29%</b></div>
+        </div>
+        <h3 class="mt" data-i18n="c4title">Turistas extranjeros en Medellín</h3>
+        <div class="hbars">
+          <div class="hrow"><span data-i18n="tur25">2025 (año)</span><div class="hbar"><div class="hfill" data-w="1178777" data-max="1178777"></div></div><b>1.178.777</b></div>
+          <div class="hrow"><span data-i18n="tur26">2026 (ene–sep)</span><div class="hbar"><div class="hfill hot" data-w="862141" data-max="1178777"></div></div><b>862.141</b></div>
+        </div>
+        <p class="fine" data-i18n="c4fine">Entre enero y septiembre llegaron 1,8% menos visitantes extranjeros que en el mismo período de 2025 (Migración Colombia y Anato).</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CAUSAS con foto real -->
+<section class="sec sec-causas">
+  <video class="causas-photo" autoplay muted loop playsinline preload="none" poster="https://images.pexels.com/videos/18446842/comuna-13-medellin-18446842.jpeg?auto=compress&w=1400" data-src="https://videos.pexels.com/video-files/18446842/18446842-uhd_2560_1440_30fps.mp4"></video>
+  <div class="wrap causas-wrap">
+    <div class="sec-head">
+      <p class="eyebrow" data-i18n="cauEyebrow">Por qué está pasando</p>
+      <h2 data-i18n="cauTitle">La tenaza: costos arriba, clientes abajo</h2>
+    </div>
+    <div class="causas">
+      <div class="causa reveal"><b>+23,7%</b><h3 data-i18n="ca1h">Salario mínimo 2026</h3><p data-i18n="ca1p">El alza del mínimo, sumada a la ampliación del recargo nocturno, golpeó de frente a bares y restaurantes.</p></div>
+      <div class="causa reveal"><b>+22,4%</b><h3 data-i18n="ca2h">Ingredientes del corrientazo</h3><p data-i18n="ca2p">El costo de los ingredientes de un almuerzo tradicional pasó de unos $15.505 a $18.984 por persona entre 2025 y 2026.</p></div>
+      <div class="causa reveal"><b>7,04%</b><h3 data-i18n="ca3h">Inflación de Medellín</h3><p data-i18n="ca3p">Por encima del promedio del país. Pesan alimentos, arriendos, servicios públicos comerciales e impuestos.</p></div>
+      <div class="causa reveal"><b>−1,8%</b><h3 data-i18n="ca4h">Menos turistas</h3><p data-i18n="ca4p">Bajó la llegada de extranjeros, justo en las zonas donde se concentró la inversión gastronómica.</p></div>
+      <div class="causa reveal"><b data-i18n="ca5b">Menos</b><h3 data-i18n="ca5h">Clientes que se cuidan</h3><p data-i18n="ca5p">Parte de la gente dejó de almorzar por fuera o pide menos para cuadrar el presupuesto.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- CALCULADORA -->
+<section class="sec sec-calc" id="calculadora">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow" data-i18n="calEyebrow">Haga la cuenta</p>
+      <h2 data-i18n="calTitle">¿Cuánto le queda a un restaurante?</h2>
+      <p class="sec-lead" data-i18n="calLead">Ponga los números de un negocio real o de uno imaginario y vea cuánto queda al final del mes.</p>
+    </div>
+    <div class="calc">
+      <form class="calc-form" id="calcForm" autocomplete="off">
+        <label><span data-i18n="fVentas">Ventas del mes ($)</span><input type="text" inputmode="numeric" id="fVentas" value="30.000.000"></label>
+        <label><span data-i18n="fMp">Materias primas (% de las ventas)</span><input type="range" id="fMp" min="20" max="60" value="43"><output id="oMp">43%</output></label>
+        <label><span data-i18n="fNom">Nómina (% de las ventas)</span><input type="range" id="fNom" min="15" max="55" value="37"><output id="oNom">37%</output></label>
+        <label><span data-i18n="fArr">Arriendo del local ($)</span><input type="text" inputmode="numeric" id="fArr" value="3.000.000"></label>
+        <label><span data-i18n="fSer">Servicios públicos ($)</span><input type="text" inputmode="numeric" id="fSer" value="1.200.000"></label>
+        <label><span data-i18n="fOtros">Impuestos y otros gastos (% de las ventas)</span><input type="range" id="fOtros" min="0" max="20" value="8"><output id="oOtros">8%</output></label>
+      </form>
+      <div class="calc-out" id="calcOut">
+        <p class="co-label" data-i18n="coLabel">Le queda al dueño</p>
+        <b class="co-num" id="coNum">$0</b>
+        <p class="co-pct" id="coPct">0%</p>
+        <div class="co-meter"><div class="co-fill" id="coFill"></div></div>
+        <p class="co-msg" id="coMsg"></p>
+        <img class="co-photo" loading="lazy" src="https://images.pexels.com/photos/15837093/pexels-photo-15837093.jpeg?auto=compress&cs=tinysrgb&w=900" alt="Cocinero atendiendo en un restaurante de Medellín">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- NOTICIAS -->
+<section class="sec sec-news" id="noticias">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow" data-i18n="newsEyebrow">Robot de noticias cada 30 minutos + búsqueda en vivo</p>
+      <h2 data-i18n="newsTitle">Todas las noticias del caso</h2>
+      <p class="status" id="robotStatus"></p>
+    </div>
+    <input id="newsFilter" class="filter" type="search" placeholder="Buscar: Acodres, Medellín, nómina..." data-i18n-ph="filterPh">
+    <div class="news-grid" id="newsGrid"></div>
+    <button id="btnMore" class="btn btn-more" type="button" data-i18n="more">Ver más</button>
+  </div>
+</section>
+
+<!-- QUÉ PUEDE HACER -->
+<section class="sec sec-accion">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow" data-i18n="acEyebrow">Usted puede ayudar</p>
+      <h2 data-i18n="acTitle">Qué podemos hacer como ciudadanos</h2>
+    </div>
+    <div class="acciones">
+      <div class="accion reveal"><b>01</b><p data-i18n="a1">Almuerce de vez en cuando en el restaurante del barrio. Un corrientazo a la semana sostiene empleos formales.</p></div>
+      <div class="accion reveal"><b>02</b><p data-i18n="a2">Si pide domicilio, pregunte si el restaurante tiene su propio canal: las comisiones de las plataformas se comen su margen.</p></div>
+      <div class="accion reveal"><b>03</b><p data-i18n="a3">Comparta esta app y las cifras completas, no solo el titular. Los datos mal contados también hacen daño.</p></div>
+      <div class="accion reveal"><b>04</b><p data-i18n="a4">Siga el debate de la Ley Gastronómica en el Congreso y pregunte a sus representantes qué alivios proponen.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ANUNCIO VIBRAS -->
+<section class="ad">
+  <div class="wrap ad-wrap">
+    <div>
+      <p class="eyebrow" data-i18n="adEyebrow">Para dueños de restaurante</p>
+      <h2 data-i18n="adTitle">¿Sabe cuánto le cuesta cada plato?</h2>
+      <p data-i18n="adText">Vibras Positivas HM le hace una app para costear sus recetas, ver el margen de cada plato y recibir alertas cuando sube un insumo.</p>
+    </div>
+    <a class="btn btn-ad" href="https://wa.me/573117700431?text=Hola%20Harold%2C%20vi%20la%20app%20Restaurantes%20al%20D%C3%ADa%20y%20quiero%20la%20app%20de%20costos%20para%20mi%20restaurante" target="_blank" rel="noopener" data-i18n="adBtn">Escribir por WhatsApp</a>
+  </div>
+</section>
+
+<footer class="foot">
+  <div class="wrap">
+    <h3 data-i18n="srcTitle">Fuentes</h3>
+    <ul class="sources">
+      <li data-i18n="src1">El Colombiano, publicación del 26 de octubre de 2026 con cifras de la Cámara de Comercio de Medellín para Antioquia, Acoga, Migración Colombia y Anato.</li>
+      <li><a href="https://www.elcolombiano.com/negocios/precio-corrientazo-colombia-2026-almuerzo-EH42104415" target="_blank" rel="noopener" data-i18n="src2">El Colombiano: el costo del corrientazo en 2026</a></li>
+      <li><a href="https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985" target="_blank" rel="noopener" data-i18n="src3">El Colombiano: salario mínimo 2026 y precio de la bandeja paisa</a></li>
+      <li><a href="https://www.elcolombiano.com/negocios/precio-hamburguesa-medellin-2026-alza-costos-GE32411777" target="_blank" rel="noopener" data-i18n="src4">El Colombiano: recargo nocturno y precios de hamburguesas</a></li>
+      <li><a href="https://www.portafolio.co/negocios/comercio/acodres-pide-medidas-de-alivio-ante-el-impacto-inflacionario-y-tributario-sobre-el-sector-gastronomico-en-bogota-486016" target="_blank" rel="noopener" data-i18n="src5">Portafolio: Acodres pide medidas de alivio</a></li>
+    </ul>
+    <p class="credits" data-i18n="credits">Fotos y videos reales de Colombia (Medellín y Bogotá) tomados de Pexels: Andres Segura, Christian Bolaños, Enzo Renz, Carlos Hernández, Nano Erdozain y Saulo Hernández. Las proyecciones son cálculos propios a partir de las cifras publicadas.</p>
+    <p class="sign"><b>Vibras Positivas HM</b> · <a href="https://vibraspositivashm.com" target="_blank" rel="noopener">vibraspositivashm.com</a> · Caucasia, Antioquia</p>
+    <p class="updated" id="lastUpdate"></p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
