@@ -1,34 +1,566 @@
 {
-  "actualizado": null,
+  "actualizado": "2026-10-27T00:09:13.410Z",
   "zona": "America/Bogota",
-  "total": 4,
+  "total": 80,
   "noticias": [
     {
-      "titulo": "El corrientazo ya se acerca a los $20.000 y restaurantes sienten el golpe en sus ventas",
+      "titulo": "Restaurantes de Medellín están contra las cuerdas: Gremio revela qué está golpeando sus negocios",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ2VERGhiNlZySGl2T3B1THhYTV85Qlk4V3NDTlNRaHRaZWpVMjZySUlGS3hrZjQ4OWNoRTBES2dPVTRlM0NhN3Q3N00yRFR1OVNnWkUzMHZUUG16Nnk1Y2ZkOU1jWUl3eEdfTUhkZXdxZE1vR0V4WFVlMGtXZWNVQm9hVmV5LUcwQjVqOERhMkpmU0Fxc1NDVU54YXdhWndWTVEzYm9PWDNrb1gzVnRpSkRnMGlha2x1Q09abEhXeWpLZjZjRHRIV25YeHlyR1RBQ2wtSVU4SFd1dw?oc=5",
+      "fecha": "2026-10-26T17:09:15.000Z",
+      "fuente": "Publimetro Colombia",
+      "imagen": ""
+    },
+    {
+      "titulo": "Domicilios de corrientazos en Rappi subieron 160% este año: la bandeja paisa y el sancocho ‘reinan’ en Medellín | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdHdFQXRjNnROakxhQkw4MWh2OFFKM2lqQzBablh5TmFocEhGOXlMclNQc2RlQXdDWU5BYUNnX1QtM3gzei1Bb1NHemdqN3ZSQVBBLVVKUzdVZURtNUU0d3labWloQXdWN0t6ZDBKZmZyVktUYk9reHc4MUx4SVNoMVNUUmNIQTBLRXY5TFpkTUZGQW53NnEzYVk4em1tRTlzTjRCajZiUzI2THVXZVB5Y0V6RURRX3Ax0gG-AUFVX3lxTE5CbXlsblk0TDBMc0JVWGtlQkVVQXNtbFhUa09YZ3F5aV8zQ3BadjFneklmTFNXZml1U29qaVpQNjE4Q1F6dndhUXpINWg1OVRtTDZzd2tMNkxxSlNqdzhFQ3pvTW91alZPTzcyRlZvTFk2R0NvZnBWaTZYMXY0TGxJUDR4TUZ1eUR6X09oY3IxVGMzeUg1em1OeHZQd0VHZnZScDByZy1sUVhrQi1FbXc4aDNQRnRPZFRra3drRWc?oc=5",
+      "fecha": "2026-10-26T16:47:33.000Z",
+      "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los ingredientes y la nómina se comen los restaurantes: van 520 cierres en Medellín este año | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGZ4T0c1dlB6ZVlrc0RYazgwSjZSMVZUQ2VfRWF0ZVhTQl9mSjJOQ3R1dDhZV0xXSGtYVTk2U2d1bmVnMkFGUEpLMXU5VEpmajB1WUluNUJTNzVwbzJPcVFzZmcyUnNDdGh2NjhrQXNvaHhPMkt3Y3g0VHhBSy1fQUFhSU0zekdGbklDUGtB0gGTAUFVX3lxTE5KMVRwcERfaVhCSm9FZkdMUXNUd1hwaFJIZHlTal8zdVJVbmg4MHhFZmdNZE5faVJ0MmkyeDBPMFo2TDlZaUdWNE0xUG5sV3dxN1hsN0dQRTRFY3FLcmR0Ukg0N1ZDMHJLTk52bE1fZjQ0am9taDI5aFNuSnVCY0FFTjg0X3k3Q293VXp1THJoenJMbw?oc=5",
+      "fecha": "2026-10-26T16:02:02.000Z",
+      "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes de Medell&#237;n est&#225;n contra las cuerdas: gremio revela qu&#233; est&#225; golpeando sus negocios",
+      "enlace": "https://www.msn.com/es-co/dinero/general/restaurantes-de-medell%C3%ADn-est%C3%A1n-contra-las-cuerdas-gremio-revela-qu%C3%A9-est%C3%A1-golpeando-sus-negocios/ar-AA2g6iLj",
+      "fecha": "2026-10-26T10:09:15.000Z",
+      "fuente": "Publimetro on MSN",
+      "imagen": "http://www.bing.com/th?id=ONUT.9AuwTPNeXMzsmWfpO4ggGg&pid=News"
+    },
+    {
+      "titulo": "Domicilios de corrientazos en Rappi subieron 160% este a&#241;o: la bandeja paisa y el sancocho reinan en Medell&#237;n",
+      "enlace": "https://www.msn.com/es-co/dinero/general/domicilios-de-corrientazos-en-rappi-subieron-160-este-a%C3%B1o-la-bandeja-paisa-y-el-sancocho-reinan-en-medell%C3%ADn/ar-AA2g6lkL",
+      "fecha": "2026-10-26T09:46:32.000Z",
+      "fuente": "El Colombiano on MSN",
+      "imagen": "http://www.bing.com/th?id=ONUT.IHPkLl8hC468KIy0TBWl9w&pid=News"
+    },
+    {
+      "titulo": "Un proyecto de ley propone un IVA único del 5% para el sector gastronómico en Colombia",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUJXVkhJLTZNdm1IaFhnVlRJMGlUUkRpbWpia3dsNXZ0RHdWaVp1RnFnaGRPbnpBd3VXTzZoak9CZmVULV9saVNkWEo0YmVYLUhHS19tdHc2SWgydnU3aWlOaXNwWFNkclJIb3dlR05ZdmNaNkZsRkFUTXQwaDNqdTdpVGViWW1hMHFxckxKQzJBd2pBajFra3d2cGdBRkJYaFF2Qk9zXzdjY1pydjNQN3diZ24?oc=5",
+      "fecha": "2026-10-25T18:57:12.000Z",
+      "fuente": "IFM Noticias",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los ingredientes y la n&#243;mina se comen los restaurantes: van 520 cierres en Medell&#237;n este a&#241;o",
+      "enlace": "https://www.msn.com/es-co/dinero/other/los-ingredientes-y-la-n%C3%B3mina-se-comen-los-restaurantes-van-520-cierres-en-medell%C3%ADn-este-a%C3%B1o/ar-AA2g5mIn",
+      "fecha": "2026-10-25T13:08:25.000Z",
+      "fuente": "El Colombiano on MSN",
+      "imagen": "http://www.bing.com/th?id=ONUT.GQlL84t-WnO8rucaCMgEIg&pid=News"
+    },
+    {
+      "titulo": "Restaurantes peruanos en jaque frente a El Niño: La escasez de papa, limón y pescado pone bajo presión a la gastronomía peruana",
+      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSkNyVWpDMnlOVWxuRW96Mjk4cFBJaXFrVkZBSVB5TWtab3BqM3doOFJvLWxRbnQ0eWl3d3NhVkVzQ2d0dHp5dHpPZTQwbXRDMS1qdUpWOTFLQjNISldFVXFiZzhGV2lvbDZCY1VzYVlocXFGWjBwYkhsZ1lCUXlpS2stQ2lQVEFPOFRXYzJQZm9BYjBQYUlabjlqcExiMXdRcWYwLVBLOUJoRFBxUmo5VEF6ZkpsZVJLR0RlV0dCWHFmRFNoaGlQeC1WSklqc0dybHJ3bWJ0c2JLWWpOVmgzWjctM2pJZC01Q3JVTjJlV1I3SFpDY053WU1n0gGUAkFVX3lxTE0xVUhPZkxTOTJLM3hFb05zOHAzZ0NEdHZoQV8xMEQtV0VWczE4MGd4OGxfd2lUR3hKa0VTcXVYVnFTYTBsdHpick5OdEZZS05NclFVdFpRNHZwMVlzYnpNc0dvejhpcXFKcG1XQ1hnUXVfcXMzZGttVm5SNTVNTGhXRmphWXNJS1ZIWEJxZnBaY3puenJpNWRicE9SV3pISDNld01iWi0yY1BmNnlJREcwWkhiaVpvdnR0a0JNYTdqNkticzFpRk5YYnBJazNUWXYzTU15ejB2ZklxcjA0UGZsX0Y1ZHJ0X1FDbUJiZjNYa0ZranBiUmhGeFg3RDN3QVY4d0xuXzhNa19MaG45dlJrb1BMQw?oc=5",
+      "fecha": "2026-10-25T13:01:00.000Z",
+      "fuente": "Infobae",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes y bares en Colombia podrían pagar menos IVA: proyecto de ley propone tarifa del 5%",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmtoaXJ5R3N0a0dVellfVmdpbkRJOEZaUkFRYXkzQ1d5QmxqRXUxaFNuZ195ODNTRk5udl81NjF5N2RuVndISnNxNUJCRHFFX2RYNERfWDJ4VV9UaG1SN2FRTFBtRDNRSmJhNzZZbGtRUDBkYnNwRFUxc191T0dvbnBwdDhFUUN5OW1WUzhkVGJfT3ZFSGd5ZWM2OW5tRzhuM2p5NWFhNFRreERoQzJNVnRRRUloQ2VfOFFYTGkzVlVSQ29uelpqazJlYjJYZWM0NS1Ra9IB7wFBVV95cUxPazVRcm9lcGZwOWNYVFpJblkwdngyeHY5aV8zSzZQdzdseFBaWDlZMjhUcGF4TWtXVjFEbGpCcEpveTdFTHQ2UWo4VXFPdkNlelNzQ2ZGTkhDcVIwbkVQWldtbnNvZzNGd1dyYWlRQkRPRTQtenhHemVLUnJzbU5yQ1NXbm9jdGdlWFo3NFFIOF9mS2pvUW11S0xXdmFoUXRqVTl0QU9qRW11WXNGdTMtM3FxZmxZcXBESi02SzEzV3AtWUx0emN1b21UMFN4bmI5eFZOQ01TWEdIUXJja3ZfSmZRcFoxQ3BUN0dzZzhXQQ?oc=5",
+      "fecha": "2026-10-25T04:23:00.000Z",
+      "fuente": "Infobae",
+      "imagen": ""
+    },
+    {
+      "titulo": "Impacto del fenómeno El Niño en el sector gastronómico por incremento de precios de insumos",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObzg4a0Q5RjFGaWxYRlRsaEZkcnJmVDZaeUV1Nzg0ZGxFbzBidm9WLVRmSTM0djlkb0RiZXhJSDBRcTFOUm90eU5KaURLUXpTSDRMWjQzWjlBYm1LS213dWg0Uk5nRVAxd3p1OFZxWjUxTEhjbzBVMHl6VU5waHRIc1NEbWxPLWp5VFdxR2hxRVg2QWdQNXhSdmhHVEZHWEYtYnpDdFd4STJSNDZPUC1fOFkxR0NTVGhiVFhRa3NyRmhRTElXMDJyMnpUa3ZNdTBIMHRoclhFejVhdw?oc=5",
+      "fecha": "2026-10-25T04:15:33.000Z",
+      "fuente": "Infobae",
+      "imagen": ""
+    },
+    {
+      "titulo": "Proyecto de ley gastronómico propone IVA del 5% para restaurantes y franquicias y busca unificar reglas tributarias",
+      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaVVySTRVX3F4SnRlb19tRXN6cHA4SmhTZEwyRWJ4NlZ4eWkyeEJ4OTg2Qjl0bWQtNHV5cV9EZ05NSmVla00zendRMExoaWZlTDBYYmwtN29RLXY2Ym5VVkZsMnE5RUYzNUlxcml6dmhYMDZCV1JRSkV4NmFIelEtQkVWeEF1UW5pQWdCS01wRm9zTHVpWmM4RUo2LWVQcXRORlYyUE1jN2t4aTlRWHVwcW4tSDBnc0NjdktFNm9FU3VGMTBKSXp0SnlQeGJMUVNLUER2Sl96RXhHd1VicHR4RkJ4V18xZHpWWlBFNNIB8gFBVV95cUxPUWM0TS0zQTBhQ3hoT2hJQUZraEI1REQ4YnFSUFNWTExHZXQ0NGRwNG43QTJoTVdqTW91dEhqU3llLXFCdy1uWlZMTFBqdW9SUnFvaDN4VzRnczg2aDduT3FPSjNBRmI4M0NmNkJPU2gxUUtZMVdNeTcwS0d6eUVkTVFUTTg3UHdRRTc2bldyNjFkY0diTkxzRS00Tk9GZHIzYzBUU3FRRlRtVnRBeTFCZUZHbHR0UVMtc1JleHpVR3o4TGluMEZBazhXc3FySjRjb2k3N3Y0WWVPUTd6M1dEWjdlTXo2alFFUWVkTTVFeWhzZw?oc=5",
+      "fecha": "2026-10-24T20:57:19.000Z",
+      "fuente": "Portafolio.co",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cinco restaurantes nuevos para conocer en Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1bzlMZ1BScE5BdUdCUFA0dkR2bkV6cUppNGhZUS1YNDA2d3licGdoUFMwbHIyNjh4NXVpYnlUZEt0cUlNQ292bzRLOGM0TGtySzg0SEZ5YmFWWmtsZFoxbXI0QnZzOGhnWmhSR1RJTkxlUQ?oc=5",
+      "fecha": "2026-10-24T17:20:45.000Z",
+      "fuente": "Vivir en El Poblado",
+      "imagen": ""
+    },
+    {
+      "titulo": "El parque Ribalta acoge el acto central de UcraïnaFest con música, danza y gastronomía ucraniana",
+      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLWxCSDBlTzJaeEZTYkt6NHhsdU9KVU9WSmNValBZblI5TWtyOExiVkoyeUpsaXlqRFJNejNZeUZOcVhpWFZzaE50V0NtcVY5RE9oWHRRZXBtODJBb3NJMVQ1cHgzc0Y3OFExbmR2OGhhMUg2cnp5d2luNnBHRzVDcDdPVERWZ3BWRlNOM3FsZHU1X0lEVVdQUktKYkJwWWt5b08zMWQzZGVVLTVHR1UzUVEwSzQ2NlZPLXNvNzlqbHpxcjY2UENqSXNQdHBJWHB2al9xODlnTWN5WXpTalBzQXNmdWIxTFFwVEHSAe8BQVVfeXFMUGxBM1lxeVlheGM2ckdqdHpzSldBdU83Um02T1hQdEpDUnpHeUY2SVhWcVFZOWV5c204TnE3MG10emNlNE0tdHdyTTV3RW9oazlJblRSMy1CWmlKcF9CSktoY25nRjV5OURSSEhTUHFQRVBrcDFLa0t5NjVtaFBNV3RycldIX2NqdVBhaW03ajAyc2hhOFB4bVJKYWFEYlJ1SmFiZHNRYV8tSVZtYTJ1akJ3ekJMSzNtWkdxNzYyejdSZjUtZHdDY04yWXh6N3Q0Qmh3bW04U0FXazJXZHZsZDBhU1hrTkR2SWlzTVdiNDg?oc=5",
+      "fecha": "2026-10-24T15:32:58.000Z",
+      "fuente": "El Debate",
+      "imagen": ""
+    },
+    {
+      "titulo": "Proyecto de ley propone reducir al 5 % el IVA para restaurantes, bares y panader&#237;as en Colombia",
+      "enlace": "https://www.bluradio.com/economia/proyecto-de-ley-propone-reducir-al-5-el-iva-para-restaurantes-bares-y-panaderias-en-colombia-rg10",
+      "fecha": "2026-10-24T15:28:00.000Z",
+      "fuente": "Blu Radio",
+      "imagen": "http://www.bing.com/th?id=ONUT.I-vxZ5xJ3duYzAMtmJ_FNA&pid=News"
+    },
+    {
+      "titulo": "Medellín Gourmet entra en su recta final: 150 restaurantes, menús para dos desde $89.000 y sabores de la despensa colombiana",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV2tQdHdPZzRjTml1dDczY3B3Nkp4MjFJbzJ5eWRRZFlCOGo4dHhjXzZLU3FMQkhBSkctWU1PYUNISzFQNUl2eVM4ZWJLWlNhT2ZrRDlQQmJZNTRHSFc4c2pBMXY3UnZTQVhvbWpWb3FlOEpCb0w2QUtIYjg4NUdhdnpHbmFSUS1Xam1sVllaOFdmNHNseURtM0g0WTZfUTJpbklGSXJRT0ZoTGtzc0s0TURLVEdSUDJPNXJ5czFR?oc=5",
+      "fecha": "2026-10-24T15:11:00.000Z",
+      "fuente": "IFM Noticias",
+      "imagen": ""
+    },
+    {
+      "titulo": "Aracena acoge el I Encuentro de bares y restaurantes de gastronomía sostenible de la Sierra",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUWsxWllMdjdWQW1mbXNGSEY1Zzk3QXNHRkF2d1pYVDBjdFNuQldBdjY2NWRTZE12dkZFVUdPY1BpXzc5RlBRTUFONHFMVjZrQzB0ZEJZYUJqWGRwSDc2cGY4MmhLX0RTLVdwWHkxNVRzWmNzU2MxdURobHBQSHkzSzhCMHNfdTVkYldoX0FWVGx0bklpVDV6Q0RMRVQtRnZmZGJnOWJST2hFSU9yYW1tZFdxdkpEVXZYV0JaUTJ4bHFsS2V1ZVVkblQ4UVNyd9IB0wFBVV95cUxNRXh6d0lrWWluSFU2WFVhckFtZ2s3aExHY05UdzVqV19XcUJvdlNGWnJhdGd5OE9NZjJQUnR0aGpNMmRKQjM5TWVzYkN3UEc1SUFzNWU3bE1RelhaSlV2dzkxdThibVJxOE1fWjE0NlNjNUh6OHJjbWNFNnZlQWx4MVZCM3UzVWNLdEc5VjJNOEFSOGpjM2lhNGxmMlQ2THI3VFNNdFBvc2U3RWJhaE5Td3E2TE5ING1CNVl5YUZWWnN2QnNtekJEcVl5UXVXTXFhWjZn?oc=5",
+      "fecha": "2026-10-24T08:44:22.000Z",
+      "fuente": "Huelva Información",
+      "imagen": ""
+    },
+    {
+      "titulo": "Jerez acoge el Comité de Acción Territorial de la Federación Española del Vino en el año de la Capitalidad Gastronómica",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMmJDdlpwRVBuT3U0UjNGOWhvNUdNbGdFNmV0ZmtSaE9qT1g0NUI0ZzJWdVBXaFR2QUlNeUtPVVhoVnhrbzNCdXNRcFU4cFVZeE85QnNWZVo5SnlHZHZqRlF1Z0JOYTF6ampIYlY2dGZKd1VxZDVSRWxtYXJXNGdGNWpQdFFuSUYxS0pFOGtrSTNScnBSYjItb2d2dWNhTFBpdXVUU3JNWWJZMlVlT0hUVWZ4cjhhc051Zl90NkFkalJIdTNSUUljaV93Nk1MSERjNTdaT1lsVW8wdw?oc=5",
+      "fecha": "2026-10-23T18:35:14.000Z",
+      "fuente": "- JerezNews",
+      "imagen": ""
+    },
+    {
+      "titulo": "El Huerto del Cura acoge el encuentro gastronómico A seis manos",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXp1VlprWGlrZ2xZLXdsd0VvU2s5c1M3UHQ5RDdNYzRNTy15TlpJb2ZLQmhCU0tEdUdQbUNLZkltODVfcHhGeGt2eUwyR20wejZYdkpHMXJaSHdxaDk0Q0dYRUZ2eWEyTDhtVWJmUHRmLUZlMEVNcmM2YmVnMFh5S3R5WUVobk5aUHZfWUVPdS10M2xUdjZkcm84V1IyblVPck5SZllFbkIxMkFGUmJaMV9BZTU?oc=5",
+      "fecha": "2026-10-23T10:08:03.000Z",
+      "fuente": "Alicante Mag",
+      "imagen": ""
+    },
+    {
+      "titulo": "Canalla Bistró acoge la nueva experiencia gastronómica para BERSHKA MMBRS",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmQ5LUVQNzQwQzA2QVF1T1FmWm9LNV8wUWJWXzE2QmYxWENmdm4zeWFPOGVIa1NfYWtGQlN2THNVZDd1Y3h4T2w4T3REeVZlTmFnZ1h3aFU5SHZzRmdNYWRwWE1IbU5RYXBLd2sxQjNjYzJNbFlfanVuN201TDl2V29qbGdkZnVXSENCVF9WU21PMU13OGowTGNB?oc=5",
+      "fecha": "2026-10-23T07:52:19.000Z",
+      "fuente": "Valencia Secreta",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los Montesinos acoge este sábado RECine Event, una experiencia cultural que une cine, música en directo y gastronomía",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSTE1aUtaSEZXOU9jMmZaMDQ5aEtnSmo1S0xMUk1fb1RXV3ZtQmpqMzBXazladmVfal9sZHJna0NvZVh0eEpGd25tUmxTSGs5SVllaW1zdzZXZE5MSkttSFJNQW1rTHl1QVF3dF94VUVYaHR5MGlrZlBXa3hhdmxId2szd3FhWFdMMEhvZnNQMjdlTmY0SUJydkVNWW1kdGpKTWg5RzVJNkdnQ0hSTXE2UGVqZDA0V1M2TERxZ21DZHB6X0wyb3NETV9ua3dDY0FFTml1dndnTWRUczJx?oc=5",
+      "fecha": "2026-10-22T08:48:11.000Z",
+      "fuente": "Vegabajadigital",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes, bares y cafeterías en Colombia tendrían nuevas reglas e impuestos: así es el proyecto de ley",
+      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTVJ5Rm9hSnZhVTJGcEdJa3JSZ2JTMWNGUjFFQlpEaHVfZmliYkZpR1FiSnVjV0FCT1RiZnd0dW5LOFBjY09SdkpVTFY4azFPVkI4OFZUT1RFeGRGQkdtN3RLS2FydS15TktEU1g2c1B4aHNnWXpsT25aMWplOVZLMEE3bkdfdlhlRktVVk1vTXk2S3ZKUmZDa3ByRnphUnN0NFdSVVJIRVZLZHdJRk1nenVQSTJTak5TOEFpX0lvdUdMcks2d0VQai1jRDBCZ2RhTHRNSTJFOGRBQWZTT2N6LWlWVW85WWJPeVhJNW01RnpvTFJ2WENOM1JXOU7SAYICQVVfeXFMT3hTemMzN1lnSndmN2trSnNBSWdKVDZVZW1FbzR5QURmYU90RW5vTUhQOUk4UUFpNk5idUdHNkRBdzYtVVFSX2RtOU1wUERaR0pIaGtIWDVFekFaTE1FVUxsWWlxZlNmVFVtTnpDTWNsdmduQm9DS2RfSUw3UVJoNFBiUldpTjg2c3kxVFZja21DRkd0Yko1cWdmTjlOcFYxRnFQSlJsMmVtT1FockFXNFBDZDRCWWt2N1FRdkgyb2JyVUVTcEFqbTFwRU1VekFJc0M2bFJqRXJSWHRONzhuZnIzdlctNXNDQ3EtU2Q3ZGxqVGJqLWRIYjJmbXpydGx6RC1R?oc=5",
+      "fecha": "2026-10-22T01:42:38.000Z",
+      "fuente": "Revista Semana",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes, bares y cafeter&#237;as en Colombia tendr&#237;an nuevas reglas e impuestos: as&#237; es el proyecto de ley",
+      "enlace": "https://www.msn.com/es-co/noticias/other/restaurantes-bares-y-cafeter%C3%ADas-en-colombia-tendr%C3%ADan-nuevas-reglas-e-impuestos-as%C3%AD-es-el-proyecto-de-ley/ar-AA2fLElC",
+      "fecha": "2026-10-21T18:28:16.000Z",
+      "fuente": "Semana on MSN",
+      "imagen": "http://www.bing.com/th?id=ONUT.I3IhoB2UNE_Eu-whbH8qCA&pid=News"
+    },
+    {
+      "titulo": "El boom de la alta cocina colombiana: de las recetas de la abuela al talento internacional",
+      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSjVoV2pFOF9nV0NfaDlqRW9BRDh6bHlkZnpDeU0xZkxFVEtIZ2dvUWxheVJ0c0ZEbVRUdDROM0I4TmkyTFlwcWhJUVpmYjhEdmN6QlhWeE1NaElqNExSeXBYZ0FTZk9zZzZKMUZsbk56SFlqd3hXel95VGg0cGxKb1hJcVJCdEtXMnpmZFE1TUZsLXljdWlEaEV5d1hqRzFmaXRTTW9YSEdYMFh5cTFDMURBZHBmLU15Q2dzVWRxOUVrYUlqUWVNM211bDNyLThMdUVhTFRaM2diS0hTVzVGTm4tenFKU2c3bTlxYg?oc=5",
+      "fecha": "2026-10-21T15:09:00.000Z",
+      "fuente": "Vanguardia",
+      "imagen": "http://www.bing.com/th?id=ONUT.XW_l5Q3i2IwfiFNIQnxRFg&pid=News"
+    },
+    {
+      "titulo": "El negocio del corrientazo a domicilio crece en Colombia",
+      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFktcFRZRUFsRzVuckxPRVBUbjg2bkgyTFlrN2ZkaDJnRW1XZGtSNmswdGQtUzVqTWJqMkgteDNyLUk0WkdNc1RSZ0QwcUlKQmNFaDZQZm9PMkVCQ2tLc0ZrTS1XelJkTVBaOEJnblVpRnJrR1M4UXNNUnVXSDNJWXlXUTlrQWhTNXpGLU1pNnJfdjFuTW1OY2hjMA?oc=5",
+      "fecha": "2026-10-20T22:57:13.000Z",
+      "fuente": "El Espectador",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fue a uno de los bodegones más destacados de Palermo, pidió un almuerzo para 6 y mostró cuánto gastó",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeW5VdVBKeU1nSjRKaHBIaXBMeGNVaE5MM2M2ZkxUZU5PVk5DQUE0UVdESHhuUTVPQ2hnSGxCTF96QzJNWWRwRmp4RVI5ZHR6ay1CcFdJQXZLVEJmenlGbHhuVm02bTZ3X05tT1BtNkxPdWo4VkxoUVBfal9Xd2xVRkNwTHBQZEpDaGUtY2NKOTlfcWlzR3RyUTVoV3ZSVmVTZlQ2V3I3MS1oaHdaWjhyclNFbndoV0l4YXR1eEhRbVNzc0M2UmNja1FjNWRGVzFIQTFudHE3NHExV2xq0gH3AUFVX3lxTE1iQXA3emEwdE1TVGwtQlJaQnlPVFFLaHU4RDdhVVFEVEFGNDN3S3RrMlBHejljSWlWVUJ5azNONU9UV280c2FiSXVDY0VGczl6UXZsbDRtM0ZpUFJYaDBaRTFvN053ODhfNUVvSmZCUHp0U01tYTFMa1BkYmxUNm1oNE9WVnVUWVo2cEVOdi1qUXBrNG94M0ZVak9EbkFNem8xOEFwU19hUXMyTkVESjZ3VzlzTWlkY2U1QUNES0J3aTZSMnRreXJKR3VrejFVdGF6SldlU2dLYUFoTVVGZHZJazJSOFFILWdGOVlCMkJPRFFsNkZ2QkE?oc=5",
+      "fecha": "2026-10-20T18:18:00.000Z",
+      "fuente": "Infobae",
+      "imagen": ""
+    },
+    {
+      "titulo": "Badajoz se convierte en el epicentro de la gastronomía y acoge la nueva fiesta de los Soletes de Guía Repsol",
+      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ3FJSXlRUEtWVWttalVQR2wtVUFiY0x2d01kQTlsNXR5V0Vob2RuR19vOGRPbEp1b0s2S1p0Wm1hZFlQbkNybmZfeXVhb09FZjRFdGFaN3d5SUh2TzQ4N0U2S3ZQeV9WVVdzZUltTFlCejI3dkxrZUFpajhRTmhiSFp4cEhMTUZsbXhqN0NjcHFfeWhXaXlES1NOQldpNGo5YXF4dXNyVGlVVU5qNDhBY0ttbHVIdThUb0h2ZEN0aENyR3pVUVpVbVV5V1lDT2FjT3FEMGN6YWI1VGktWGVQODJWOXVUenV4QXFkbmNQcldqdWRpX25GTFdn0gH_AUFVX3lxTE94RzI0NmFZa29xdHd4U0EtNTZ6MWJ2bHAtRzBLN2lib0RsdFhadG5rNHhGN0toeXFhQTVhRjNycm5DNXNNYU9qR25wTkRYeE9ZRk4tWlNyYzNWY1pqWVNFM0FjV203WU1qMlJSbFEydTdWTGNOcUVibTh5clVMaFFyc19iQ0NIejliZlBnbEIxOGhsNVlCbklZU0VZVDgycXgtMDdmT1FwRHpUa0dsdEV2ZXNfb21TTFk3NFVoSE1RMm50Q2kxbUpXWG9jaXhjc21vZnpVM2ViRVh4aUtOcndFZU1oQjVtTFQ3ZFJnSzhNLVNla2RSWlYxYjc3SmpiVQ?oc=5",
+      "fecha": "2026-10-20T15:52:23.000Z",
+      "fuente": "COPE",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los retos financieros y laborales de los chefs para sostener sus negocios gastron&#243;micos",
+      "enlace": "https://www.larepublica.co/ocio/los-retos-financieros-y-laborales-de-los-chefs-para-sostener-sus-negocios-gastronomicos-4506741",
+      "fecha": "2026-10-20T05:03:00.000Z",
+      "fuente": "La Rep&#250;blica",
+      "imagen": "http://www.bing.com/th?id=ONUT.jlqqvGvRd_2zqXc7K3CWhw&pid=News"
+    },
+    {
+      "titulo": "¿Crisis en el sector gastronómico de Medellín?: Salir a comer se volvió un lujo, pero restaurantes están al borde de la quiebra",
+      "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPR0d6cTdOWkhfbUdzYnFwSjhyQWc1STJocUtnbXZzc2NKQ21DMkpyWU9wTEEydzM5ZTctZ3JFc3AxbGJHTjQ2ZndmODhIMmtVd29IMUp1OEFiS3Y5Z0ppS2NWUHFHaDlZbVBuZThwUngxNTlwSlpBSU9SUGRMR0gwZ3Jja0E5TVNGbmxia2JzRjBGc3U1YktlMGZhZWpPdm5yLUpPdGpjdXVfZWluclZLVnhxeGFwWmRjQjQ0ZzQ3YVhsQUI2SlNpZmhqdmJVcXo1R1A1d21id051OFgtVzNXV0NtSnFMdHNQdjRrMW9ORTZ1a0p0b2NxczU5dUJFaTJQM1HSAYcCQVVfeXFMT1YzQmRubHNLQkhCdm9LbWRPeGJRb19RT1Y3ckprSm5DUm5wV016cmpGa3A1Ni1OeE1zUmVoM0F6bkZRaGdKMXl3akdZbF81Q0hocWZNWVJDblpNazdvOXNqQ1RzN0RyMG9qV3VYZzlLazM2U1JwWWUzNmkwWFo3UVd3SHNGaUw5Y01qa1ViejJjb2R4emExYzlZM1lnRUoyWU10YUhESWdjSHBub1g5VlFSSEdRdFdhSUtZbnRZUF9DTzJBcXRWZ2dxTDRwS3hoWmpVeHA3a3JhTW52OWxfREdQQ0lRN1RxTng3eER4c3FCRnpGdUZnN0NBLXprT25sYXBvVmhfWGM?oc=5",
+      "fecha": "2026-10-19T23:07:39.000Z",
+      "fuente": "Revista Semana",
+      "imagen": ""
+    },
+    {
+      "titulo": "“Las cuentas no dan”: restaurantes de Medellín esperan cerrar 2026 en tablas",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTlWNGw2Q0xtbHpqcDl1a0VHTFRIbDhHVlkzUHd4ZV9oNUFFZ1JkZENlODVzVDRaeDIyd3pHT3doaWtRMFdfeDN4ZTRjanJtWFNIc2VhUFktMWR1d2pqRmNqS3BYUDEwbVo2MEh1clZaNXQzd2JPRGVDM1dRM004SUZSWFhHVWdFT3QyeW8zUDMwTmN5dWxDZmljUzQzM0JPbnY1TVc1YnB1R1k?oc=5",
+      "fecha": "2026-10-19T21:51:57.000Z",
+      "fuente": "360 Radio",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Crisis en el sector gastronómico de Medellín? Altos precios tienen en jaque a los restaurantes",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLV93Z0FqdGEyRTNsMXFrT1FsajVRZ3RQVmtoVExhY3VmeFJuc0F5MVZiMXdiT2pNUVdCeldjY1pmUk1KYmRaSXpjNDRXM0xOcWJnd3hGRERvc1dScXczMW44aDVMeGdudXYxRlhWTXlzdlZmb0M1ZWRTUVFXaERqTTVmUmtKOVNVNEMxQWpFUmFKMzBEVTFEMTk1WWNwS1g0d24wM3p0cWFaLVJxNkZfdEdMSksxZlByZlFNRUtUQi1rb3RuYlJ4ZnFpWWZKVFVCLVMwVDlXVUVqdw?oc=5",
+      "fecha": "2026-10-19T17:11:19.000Z",
+      "fuente": "Blu Radio",
+      "imagen": ""
+    },
+    {
+      "titulo": "&#191;Crisis en el sector gastron&#243;mico de Medell&#237;n?: Salir a comer se volvi&#243; un lujo, pero restaurantes est&#225;n al borde de la quiebra",
+      "enlace": "https://www.msn.com/es-co/dinero/general/crisis-en-el-sector-gastron%C3%B3mico-de-medell%C3%ADn-salir-a-comer-se-volvi%C3%B3-un-lujo-pero-restaurantes-est%C3%A1n-al-borde-de-la-quiebra/ar-AA2fC0Zg",
+      "fecha": "2026-10-19T15:57:54.000Z",
+      "fuente": "Semana on MSN",
+      "imagen": "http://www.bing.com/th?id=ONUT._tji6EAjVx2XhMaXcKCAPg&pid=News"
+    },
+    {
+      "titulo": "Arrancó el Pizza Master 2026: conozca los restaurantes participantes en Medellín y sus creaciones",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZ2FGZk5pV3dSaUQ4QTdLZVNKZWlIQWVFMjN5MVpha1BBcndoTE1OTHJPVWlKMjhUdndUQTJfYUdkNkFGQXVrSTJKQXRWN3ZpQlkxUmxrWnpBR1k5bWhjVjZrVTk2a29UN3dPbWs2NlRqbXFtNmNTNGxNdmgxdw?oc=5",
+      "fecha": "2026-10-19T14:40:30.000Z",
+      "fuente": "Telemedellín",
+      "imagen": ""
+    },
+    {
+      "titulo": "De la tradición a la innovación: Vila-real acoge la cocina en vivo con el reconocido actor Juan Echanove",
+      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb3pwSE94aFJGMjhsUU9xYjZZXzhkeVd0eXF3ZmRzYXFOazZLNy1FSXNWbUdSajVtckF2ZWJnbUVnMnM2TklKMVFfeW83ZTE1eFRXLXo2ZU1xUkZwNk5pRkg0NHZuZ1FGYTBwbW9hM1VYVFFtbWxMZWp4WW9PNlIzdlA1czBiUU9zN3ZxVTM0azJfVWJ5Vmd5b0lmdmI1b19XTVdXam42Q3M5YU9sSmtablFzZGctb2tkV3lXZ1piTTFzUFpVcE80ZU9Kam1CMTFSQ2owV0hVazNSaVk3Mmg5aFctNXcydTA3OEZN?oc=5",
+      "fecha": "2026-10-19T13:35:57.000Z",
+      "fuente": "Castellón Plaza",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ermua acoge en noviembre un ciclo de cinco talleres sobre gastronomía y tradiciones de China y Japón",
+      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXByaVZYN1llWHpPUG9nWWlxMjFJRzdjUERzMjcxZGJPQWV6R2pqb2hjeWJSbEIwT242emZIU0JiLWloSERwYnUyakVZMDNMMDhiZEVMQkl6RkVIX0YzbHd6ZjhOd3RjcEsxa1VUMHg0SjM0cGhqb0FuZklOdlYxbW52QVdLYllwOXE0czBYazbSAZYBQVVfeXFMTXhHVlQ2YTB0WkJtWmU5SENtd0M2TktLb01iZmczeVpwMUhXdGdBRF9USUxpUjh2V0VuWTRzcEtqQXVfdU8wS3I3MUZkZnpoVlJPR3RpUjNhRmM0MDBnREpweWM3aDV2QXRwaURUdWdqOHpKM3ZQcDd6VmlCdkVkZU5nLUpBc28yTHNNdTZPeTh2UzNWM1l3?oc=5",
+      "fecha": "2026-10-19T12:00:42.000Z",
+      "fuente": "Deia",
+      "imagen": ""
+    },
+    {
+      "titulo": "&#191;Crisis en el sector gastron&#243;mico de Medell&#237;n? Altos precios tienen en jaque a los restaurantes",
+      "enlace": "https://www.bluradio.com/regiones/antioquia/crisis-en-el-sector-gastronomico-de-medellin-altos-precios-tienen-en-jaque-a-los-restaurantes-rg10",
+      "fecha": "2026-10-19T10:11:00.000Z",
+      "fuente": "Blu Radio",
+      "imagen": "http://www.bing.com/th?id=ONUT.rjFynw4S5JuwDEXAVUfdHg&pid=News"
+    },
+    {
+      "titulo": "“Las cuentas no dan”: restaurantes de Medell&#237;n esperan cerrar 2026 en tablas",
+      "enlace": "https://360radio.com.co/medellin/las-cuentas-no-dan-restaurantes-de-medellin-esperan-cerrar-2026-en-tablas/",
+      "fecha": "2026-10-19T09:51:00.000Z",
+      "fuente": "360 Radio",
+      "imagen": "http://www.bing.com/th?id=ONUT.kvnTtqJ07WdosCrgA2l0vA&pid=News"
+    },
+    {
+      "titulo": "Chelva acoge la Feria del Alto Turia con productos locales, catas, música, visitas guiadas y gastronomía popular",
+      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82UDVxUnRDMS02bnlEeHZZTEEwak1CY1FqMlZyWVNGb0dYU1JmSXdDNUpPY3Uya2lzRDZqVGFqOG9TMWJidkpFTmFPb1ZBWWRfZFRXbWJOR0NyZFYtN3pacFI0VUFBTmhvWGhCSmlGZ2MyMEJXMVNyY2FjNXp6ZkU?oc=5",
+      "fecha": "2026-10-18T07:00:00.000Z",
+      "fuente": "Valenciabonita",
+      "imagen": ""
+    },
+    {
+      "titulo": "Crisis en restaurantes de Medell&#237;n y Antioquia los lleva a cerrar sus puertas",
+      "enlace": "https://elnorte.com.co/crisis-en-restaurantes-de-medellin-y-antioquia-los-lleva-a-cerrar-sus-puertas/",
+      "fecha": "2026-10-17T10:47:00.000Z",
+      "fuente": "El Norte",
+      "imagen": "http://www.bing.com/th?id=ONUT.DsI9-VllTdZ84f_f81bPDw&pid=News"
+    },
+    {
+      "titulo": "Crisis en restaurantes de Medellín y Antioquia los lleva a cerrar sus puertas",
+      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUktFNXdkSUZRanF5TGJYOVNFLTdOb182RlllOW1Ta3lvRzdKUnoxWFdhb1l0MC13Wmp4RFhhcWpwRFdfNUdfLWg1SVA4V1BteGU0MlJqTkFZY2M4clFHSHRab0F2bWtUaUlBbmJnemRWNUdKOFZZOVVsUVQyaml3RUZCczl3ajJuOTVzMG5kYlFVN1VmQl9pVThaT3drNmsyajY0?oc=5",
+      "fecha": "2026-10-17T07:00:00.000Z",
+      "fuente": "El Norte",
+      "imagen": ""
+    },
+    {
+      "titulo": "Presto entra en liquidación judicial y busca comprador para evitar el cierre de sus restaurantes",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXBvTGNFcW1VamFfM3JsSHdVV3lJcjU4LXl2OXI0TzBsRFdnSGdxTFBfVnVBcDNjQTR6eXNaYTdpMmtpcFhmWVpiVkw3OVhKbEJud2xkT2d4c05Ib0ZQc1h3aGNkN1hURXFUWlJvMHIzdXh1N080R19CTzNTWmJySmpJRmZkUDdlakFXY0FNOGNyNDRtVWowVnRpblhnckZBYk1waF9pUjU1WV8xeVc4WVhxM2JVUVhJckFJQQ?oc=5",
+      "fecha": "2026-10-17T07:00:00.000Z",
+      "fuente": "El Norte",
+      "imagen": ""
+    },
+    {
+      "titulo": "Presto: la cadena colombiana de hamburguesas busca salvarse",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tX2JLNldmSVFDY1llUHpDYXRzaXhHcXhFOVA0V3I2aHRkOGJ0Zk9DY005d1BGSERvbTNaVm9LRElIV0FoNWl5R3lmNmFwWmRYZk5IdlBCUzdUZldBeHVvUGJzYWFCUFFTV0VseE80MXg4RjlBeVhqbFR0U0Q?oc=5",
+      "fecha": "2026-10-16T18:41:12.000Z",
+      "fuente": "Estrella Digital Colombia",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes conocidos en Medellín han cerrado por altos costos de arriendo e incrementos salariales",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMTRfS0hyaU04YTNoV3NFWWQ5dUxxNWRFUXBXcE9kZVZFUzFEV2dNM0g0NWFSMVFQM2FtcDN2T0FUY0VKTkdLWVJpLWhRS3ZaUEtOUFZQX3ltVjdSZUhoS1lXNWFBWG1WbnpqZ2RCWG9RY0Z1UEJoelV3Z3BkWFY1OVVfWWdlbDV0b0lYV1I0aVUzekNxWWtYX0haSEMycGZ4NHNsOWZNaEVoX09oUlZKSnNLeWJlajMtM25zWk04UW10a0htYjdFbzZDMDllSWJG0gHkAUFVX3lxTE10Y29kbEtBSVR2T19uQ3JiWmFwSXozM3FhbmhnVEdfTGc0UENLSTVwU1VCRXd0c0RQVEFJWi1iRGluaTMzYjJOQmx3ZTZPUENPQk1BVFZ0M0NsQmxmbW9odjRuQWZ1bHBqWmV6UklLSVRfRGtHV3owMVJFR2Q4TGFZQ1QwaTdqaEdNY1BPbFEwY2dGMlJmckhQX1VOdWFXY1VLS1ZHb1E2cnVYZWRlMlBiS1NqbUQwVS16S0RfWGM4RDdyX29zbXJjdFdoaE1qZDB2U1lISzhXWjRFVVpRd0Q2QVV0ZQ?oc=5",
+      "fecha": "2026-10-16T07:00:00.000Z",
+      "fuente": "Caracol Radio",
+      "imagen": ""
+    },
+    {
+      "titulo": "Por quiebra, Presto se va a liquidación y busca comprador para evitar el cierre de sus restaurantes | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUVmMWFzYUp0Rk1qcUFMaGN1Qk00dmlWVThLQnd6XzhIQUtFVlJaTEk0eENsMWRuclg5akR5M2pDQW9NVnktaC14SWlWR044Y2V4b2NhbnB3b2VzcTA0aERWV0djbHZ2R3F6OWF4T29IaHlseGVGUl9MY1BVTWYtQ0FIV0o0YUxRcVdMVUs4eHZzOWdVZkU4VDU2dlJCYjFRY3Zodnc3M2Npd9IBrwFBVV95cUxNMG40RzlYdXdiYjJaVTB5ZTljUXpiNExDaTBwM2FXd3JGZk5rZWF4S3NQR3FkZTQtNlgwZjRBMnZ6Vl9VUThaU2V3ZkY1ZG00aG4xSnN5bGNOOEtKYTNDTzQyb3lGVVF4N3VnRFdkSTNFT1lZNkd6d2RMeGhvT1ZuTlBLSUZQYTVsWXZuTEMyV2xzaWplX3lwQlZ2YmR2eUN6NzNSU1RqY29hNmYzM3pJ?oc=5",
+      "fecha": "2026-10-16T07:00:00.000Z",
+      "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
+      "titulo": "Acodres pide extremar controles para evitar tragedias como la de Hello Life en Bucaramanga",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcXBQZ3REZGdRX2RrRlZadkJ0QWF1ak9QV3MtYjdNWWpWV1lyMW9HZkMxMjl0cDJRZGFkeHBBMzRnQ3FYcHNPRTBWTkRXelkxRi1NWWJScGJNTmtVQWwtVHNKNHl0RUd5bnkxcndOWVhDMWZYNGdLOHZoNlFsemktN3g2MXpicVgyMVZFalZKREljU3dnbElXbzlycjVFZzE0VTdzSkVXQ0JFdmZGVGg0M3NZWDJpd3haYm04ajhNdlNNS1HSAdcBQVVfeXFMT3A1VXhwN0Zvck9rNWtVUjZUeEFmWS0zblVQMTdHYV91T1ZjOEhVTkVLX1FjY2FVQkxmZWtpeU9aRUFoNkczWGlYUFhBOHBhU2hydFpPOGRIMS1MSlJBbzVYWktNeDlQRnk1ZGt1dHBVMzZlVGs5UFM5MXRWN3pxOXNCRVhSVW1sMzdwM1Ezcl91dTctS1dsQ3VvblFsODJJOU9lMzNkMXluYlhqVWNVQllua3pMYnJOc1RmR01SZ0NqQXVocU93NlpFc2dUSUMxTjlVN0p2RFk?oc=5",
+      "fecha": "2026-10-16T07:00:00.000Z",
+      "fuente": "Caracol Radio",
+      "imagen": ""
+    },
+    {
+      "titulo": "Acodr&#233;s pide reforzar prevenci&#243;n en restaurantes tras muerte de mujer en Bucaramanga",
+      "enlace": "https://www.bluradio.com/regiones/santanderes/acodres-pide-reforzar-prevencion-en-restaurantes-tras-muerte-de-mujer-en-bucaramanga-rg10",
+      "fecha": "2026-10-15T14:23:00.000Z",
+      "fuente": "Blu Radio",
+      "imagen": "http://www.bing.com/th?id=ONUT.uD32sx8_iMcnNJzwl3MU-w&pid=News"
+    },
+    {
+      "titulo": "Badajoz acoge por primera vez el Campeonato de España de Cocina y Repostería con 18 equipos participantes",
+      "enlace": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYnI2bndoMm8yeVFWZFFLWWt5dGhTbEdoVFNGQ2tIc2owaUk3Ukl1c05IZzFUNTV5Q0J5TTJxeHQ1S0gySU1IYkpBTDFWNWkxV2Z6dkIwc1lGdzk2Tk1hRWxNelpXZ3ByV3EyUHdveXFsaVc4OXhwYmFuZXF6VnphOEYyYURHOVJjMlBqd1dXZnM5ZVFQZmRvZlVFUDBXWUFmalhTT1RBeXd4aXV4NHdTQVNnLWw0OVpla2Zpa0dSS0ZFTlBwdGRzeFBpY3JxTno1Y09iV3JrOEFkNHY0b0kwV2RpYkU4a3NnaGNGay1HX096b0FZRW52eFZPMjFXQ1VqSHNzWVp0TFNWcGtu?oc=5",
+      "fecha": "2026-10-15T11:03:00.000Z",
+      "fuente": "Directo Extremadura",
+      "imagen": ""
+    },
+    {
+      "titulo": "Ayamonte acoge la segunda edición de «Huelva es Sabor», el certamen gastronómico que apuesta por la sostenibilidad y el producto local",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS2lUdnhjc0lvX1ZtbElIRlZxbWFaVjlPa0JkVnZfMXhoZTFtZkVnNlgwTUhJR3Y4a0NSc0VhbE9POXhSMXZfOWcwdnNiYlo4NXI2R2NfdUFXc1FOS284TmFhMnI0T1RsU0J1eXFvUXdvZ3Y3blRUZDdkVVA5YjdsSTRtSXoyTkRHN2I3TzdVUXhrVnpQa2NRMWJkeWdoUTVibFZoekhzUmZJc1hoUTJPbl9WbDBGbUdGR0Y4VG8tUUoxS1NDOEtEZklfTmFzV1FPbDhSNmVmUnJaRi1iRHp4QXFjOVdCekE?oc=5",
+      "fecha": "2026-10-15T07:50:01.000Z",
+      "fuente": "Ayuntamiento de Ayamonte",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes de Antioquia advierten por difícil cierre de 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaG9TcGdiVUhDMEVlLUJYQ0pRUWhFTFh4UjU5M0ptRnpEXy04MHBsanRrYzJZZXN3SUlsZkVPMUR6X0RUM2pxa1ZoRHBidlQ1S01UeENWRXJEYVk5bURQQktnMGVFSDNGdHpXQ25OQ2duNVEzZ3Z2UkZBLTZtZzA0NzVabHVBMzJLaXhkcFpxQ2t4dG13anNHc243aw?oc=5",
+      "fecha": "2026-10-15T07:00:00.000Z",
+      "fuente": "MiOriente",
+      "imagen": ""
+    },
+    {
+      "titulo": "Acodrés pide reforzar prevención en restaurantes tras muerte de mujer en Bucaramanga",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOallEMmJHQjBVZ1cyS3kxeXc3dERyNVNTNW5KNzY4Q1ppWUFDM0lWVDhfbDF1T1VDN0hLal9lR1BWaVQ2NmRUYWpjb0dsRFo1bFdyTlRMX09pNWNkMFBMRkNDcHdmSUR6eUtBRl8ta3UzTGEwd1J1Tk5aT3ZfeHhWcTR6d3JUdUtVQS14bVA0MThnanFobDM2UnZOUno2NmtVdnN5WHJ4VWhRcGpvaWRZZjRMdXFsRXROcmRSRmtTVlNESTl6djZ0NXJXdFQwZHZD0gHeAUFVX3lxTE11RHR2M25oUGVISmVrTHRoXzV4T2xpeWVxV1FiaENlaXRxV2RMSV8yNDBIcnpTRlMyWWlsWGxwc2Yyc0xpVzdOZHU3RUJ6T3MyMEVueEpTV2lJVHVIRjVhM09IWTFHM0NBdFRnbXNPc0RDZU9QNV81cXBQUVRHcXpHSTM0cm1kd3FLVHdfMWtGWmFwdTBKOVhjZkZXUnhzOXFqak0tYXF1Z2RjWER4UkxvWHluYk80VTZBOTVSdTlabUJsTzRCQ3RjUy1QZkRneXZNREg2WWxKZmY5MDZ0dw?oc=5",
+      "fecha": "2026-10-15T07:00:00.000Z",
+      "fuente": "Blu Radio",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes de Antioquia advierten por dif&#237;cil cierre de 2026",
+      "enlace": "https://mioriente.com/antioquia/restaurantes-de-antioquia-advierten-por-dificil-cierre-de-2026/",
+      "fecha": "2026-10-15T06:28:00.000Z",
+      "fuente": "Mi Oriente",
+      "imagen": "http://www.bing.com/th?id=ONUT.YxxxsNJkpvc9mBpbE6DpAg&pid=News"
+    },
+    {
+      "titulo": "Arriendos, salarios y materias primas dejaron sin rentabilidad a restaurantes de Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXNVU3RycGV2ZXBFXzRpb0Naa3ptS0phTzZudnlWWTB4ekdWNnVMTFhUNzlKU2VWWTYxblM0ckhOZFphN2RxdHkwUklCanhFX181ZEM4ZU1MNGFFQy1HeDFVa2VHZTlzcHpzQXRFSHpsZHk3b3l5MzMzeEI5ZGZnNkFYM3JsblYxc0ZzNmI1Q1Iwelo4NUpnRW1fNmdKaUJPS2tZNU4zMXg0SXhmQnlrM3F0akVDQk9RbE1mNVpHdzjSAdQBQVVfeXFMTUdaMC1ub29GQnp1bEppMVgyU0hyVFk3U3RJQ2tqZ09hbUJjeDI5djd6UllMaFhUZGtKUWxJWFpDcXJyNy1FcjVDUGVQNmhOcXBPcDhMZWxNYV9uTmZVLXFEQkZDTEpELTNNSm41cjltTFRPbkFjZGY1X3BxUF94SjFYaGt1N1lKQ2xHVS0yN3E1aVhIV01Gal9rM0QtOHRnYlJja0lQdURXM2ZhSy1lMTdGZzhxR3ZreEpWWElHcVNqUkptS3N2NV9IcGZ5Um9jVFJPaWw?oc=5",
+      "fecha": "2026-10-14T07:00:00.000Z",
+      "fuente": "Caracol Radio",
+      "imagen": "http://www.bing.com/th?id=ONUT.aUDqGSjNFcijiJvyWGOBNw&pid=News"
+    },
+    {
+      "titulo": "'Es muy duro': Enorme tristeza por la conmovedora despedida de querido restaurante de Corea del Sur que hizo historia en el país",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVWpaTnp0MEVVVDhNMTlUaFlGX3czaHFKbjZLWTQ5WW11TG5MX0JrSzJIeFFIX0tabmw3c2YyN1FuTVdQSUE0TE9QOWxmWXdEOWxUSENFMUV4R0E2WUVXcFE4TVJFaUhNcE4waXlBckt1WExkck54WlVUUVJGdjBaQUN0QzRqaDEyZWxMa0Q1V0ltdHFpNEhEX0kyVVV5ZDJsOU5rOUtrdDZITTlldm5LQkxYM2ZTcUd6SjBZUkJFU1NUaWItUnBCTmN0b0NkYkJCeDFfdVhmWE42THJZWkl5OEVDcEdqbTZqQlRGUWJpRW94X1NLNm9EaHdGLWZpSnV1X2ZGY3h0RnI?oc=5",
+      "fecha": "2026-10-14T07:00:00.000Z",
+      "fuente": "RED+ Noticias",
+      "imagen": ""
+    },
+    {
+      "titulo": "80% de los graduados de Gastro-Lab son mujeres que busca revolucionar la cocina salvadoreña",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ055LXlRYXBnZ2VscmZDazFzV3pTdzAtc01NaEFibFhsVW9ISm9YQ19scUU0NzNHSGxmTDBRX1RnVWxzcHg2VjlELVNTeDJ2aWtkVUQyUHlZVnN4LU1mUTF6M21QRi1QZ2dJX2VaeVB4SktfU09XcEY1d1lYaDhHMGZoeDdfWURHOXZQRlBsYU45QV9HdjY2ZTZ0Z3JzUDM0eFY3VU5nR29RYmNOVGgzT3FBbU9OZmtsRENmRmI0US0zdzV5V002ak1MaEhYSFM0Mk1BWNIB7wFBVV95cUxONG50ZVlEdHlfYlNQRlpIMmVYTFhZZ25GdjdkRFhFV2NsOGpsbzYxRGNwNlo0Wjc1ZVh3SDh2Z25UVDJ2MjdQTFB3WmxOTkFmSjFsRVRRQy1iM0ZlWjZXWld4YnlydnBMLXJzQjRHWWh0S3FobXZSemZLZFZzSTREYzdSWW5OZTV2a0JzRUh5RlpnNlBBNTkxWDd2bEFESW9LNnBIQnVYejB5WTItRHpxTGJIOWk4TF85NlI0dHpvbVUzRndsekJ2ZDg0bHNwQmdoSFZGLTNkM3lNT3VGMldUYmczTDBNT1VzbmprNDlKVQ?oc=5",
+      "fecha": "2026-10-14T07:00:00.000Z",
+      "fuente": "Infobae",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes de Santa Marta tuvieron una afluencia del 40% durante semana de receso de octubre",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeENBX3ZtVkZLT29OQnc5RVZzVndLTHpYdmQ2V3hQT1U2Mkl4TUlJRGF3RHhSd3R5U2k1ajhqTjdENHlGLW45b1dLa0hmbVE0b1RrWWNMR19nS3RmZk9HdGRfcDZCNDdRcEtiUE8xLWZRTGthdFp3S0Q0cTFNaGJTTUN5QUlPaF9CY2dGVVQ3U1RLV2RDSDZGdEU5TnpzRWfSAbMBQVVfeXFMTjc3MmFMaENnNXBVMzNacWIwSUlIcjBhWk54T3BXOWNvR0d0Y0hqMUxfVThwNTNpV3pYY2dnU3FVV1ZBWkFqeDQtV3NDVUhPQ1FsWVQyNnZvWF9aYnRSN0x6OXlCRDJ4MUlaWEU5X0haYUF6WFJRc0hHUVlmaXY0Y3B2YXZUZXhmTUdZX1EwMHp3VWphRmE0R19YLUhpUjgzTW1LdFRLVEtLNUIxNGZyeDAySlk?oc=5",
+      "fecha": "2026-10-13T07:00:00.000Z",
+      "fuente": "Caracol Radio",
+      "imagen": ""
+    },
+    {
+      "titulo": "El corrientazo subi&#243; de precio y se acerca a los $20.000: papa y carne, los alimentos que m&#225;s presionan",
+      "enlace": "https://www.msn.com/es-co/dinero/general/el-corrientazo-subi%C3%B3-de-precio-y-se-acerca-a-los-20-000-papa-y-carne-los-alimentos-que-m%C3%A1s-presionan/ar-AA2dYbSP",
+      "fecha": "2026-10-10T12:02:00.000Z",
+      "fuente": "MSN",
+      "imagen": ""
+    },
+    {
+      "titulo": "El corrientazo subió de precio y se acerca a los $20.000: papa y carne, los alimentos que más presionan",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbm9PbGpmSi1obXplTWVOTkdLaHF4LWNtUzhiZGgxWnN3LUxOZ2Z2QXYwS2Y5ekNkUmFlOGoxdDY4d2ZZR0N5SGVnZG1jcDNqampjZHNwOWdad1NvS2ZXTWdfMDc1WEZENVI0RnJhaGJoazZfbGdHdXU4SEgzcjBYZE1tM3pwVXU0NktBTGMtSkdNdDR6aDFUc2ZLcUpQbkU2RnFUQzF4VW85Z0FYTW1tcFdQWTcxTmRMVTVSTnE3M3J6Rkg0UGo40gHMAUFVX3lxTE9WbGRkdHZFR0x2LUxKT3ZCZC1LdV9tdFdwNjY0LTh2RHJTczA5N2ZpMVhQWFRjRnlrM19wT3BtNnUwUDVXS0dzVlJRZnducGdGTTJzUExhclJ5SFpfZmw3VFZCUUFsS21CTUtaeVRUc2NTQTNlOUIzYy1pNDhxa3Fna1N6SHdDMHBzOWxWMGdxNXZtVXV5SXZBSW1qVHlzNEMwNXg4eDlOenVzZmM2WG1SMkxRdHgtTGNYeDVtTHdQUFVISXFfd1NVMDZDQw?oc=5",
+      "fecha": "2026-10-10T07:00:00.000Z",
+      "fuente": "Portafolio.co",
+      "imagen": ""
+    },
+    {
+      "titulo": "Alza en los precios de los alimentos golpea a restaurantes de Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEZNdnhUUGZzQXJZMVFTZnpDVWlJTDhzZFlIdmllU2x6LXZEOElFNGVaUk1oc09jTXo2TWQ1TmFnT2FfSjFFUE0xOFF4b3M0ME9tS0g2TXlneW0xVmxSSFdIOWtNR3AzUzIyT2hsenYta204SU83eGw3UWF3Y3FFQ1VBY3BTYlhjRms2eUNHQVFQSzI5Mm1EamQyQ2Z3T0dmc05ldEc5ZHdIcDMwZ3pwX04xR3l2dFp5QVE00gHIAUFVX3lxTE95dHhhLXJkbXo5UmkyX0t3T0pDREY2VVdHQmpndzdHRi0wbFVwSUNkTFZxVXFWcDR1c0lhXzhhc1dqMkNOTkVGcENtLUZTd2VDaDB4eHJWYjBFQUtRYkVNT2tUd3hpcnplcjFaX05aLWdHSFMyZmRvcWg4Q215Zm1zTW42SjNaNWUyajNWOXZtY3I4T0dGbm1sVUtJd3hmc1h4MXlGWjI0RERRUWc5UlEyTkxHTkVGLVlMSHBPM0dUTU5Ja3hpTm12?oc=5",
+      "fecha": "2026-10-09T07:00:00.000Z",
+      "fuente": "Blu Radio",
+      "imagen": ""
+    },
+    {
+      "titulo": "La bandeja paisa en Medellín se encareció 14,3% en un año por cuenta de la inflación | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV1ZZblJKLUZ2anMxRDRXbnFfaXdtbkstbjVDWHZQOTZTY2xwU2RtSGtlcU94cG1iU1FwTVppR0YxU1B5by1obUpZUGZBYVZNZ0RkOXJHdGRSc25qNW84TmQ3RnhxeWZuSHNEWVE4dXgxcVBOZE9nWGt1c0lvbjZLN2ExZG0xLURscjJNdWdvMl90R1A4OWh6TNIBngFBVV95cUxQMGJMV0Z3Sl8wMl82VElSQXdTNHpzb3RqaUktZFY5bWdRRW1zMnplcU95Ums4anlLYTFXZlRsZHBnNHktb19LX1lMUE84Z2dBZXhFUVItc2xkSXpKNVdhTlNjeEF4N1NaZTRhdVQzRFBwUXJPcXlaY0VxN3QxSTFGeDdPUWVlVXVxWGxxbFRsLVZpbFcwOWVLVTdPaEd3UQ?oc=5",
+      "fecha": "2026-10-09T07:00:00.000Z",
+      "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Por qué está subiendo el precio del “corrientazo” en Colombia? Gremio de gastronomía lo explica",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzRIZk54Wkc4Tl8tVjVaVzBTYV83XzlkUUc3X1ZNRDZ6M3BfN2VHZjl4NkFNbkgzbkZNWEV1eFhuRzVOZ09BWjVwYUJrVTViZ2h1SkROcEpKaVFBclpaN1BmSlVreHlSUXo3LXc5SXk1aEtPWFBWbFRTbHlWTWxqSlB3SkstWWNROEZjTnVXRXFMUXlMUjJiMHBpUWhUZkhrV21JRGMybE9QbngycEJZYU9pQ0t5MGPSAcsBQVVfeXFMTXFsOTg2aDhlMmZ2X3R0WE14RDJjdFJJSU0yMVpDR3NzeFBaQUkwemhENnNkSlpFeVdTVDM0SUp6S3dqSnJmcHcyREJYd3pZTHVsWV9Kd2h5SXZRTDNxd3czTENLR1h3Ym8zTXNPWVhUOGpBaGp2ZlpBQUpyRlJQNE95eEVYM1ZWd3U0U3ZtVGgtN2JVWmNVWkFWVDMtaXhlRDNfR0NBQzg4TzVTRVJscUxMbEdpY1NVb1FJSWRpemxKcXBRQnQyTEpvVUU?oc=5",
+      "fecha": "2026-10-09T07:00:00.000Z",
+      "fuente": "Caracol Radio",
+      "imagen": ""
+    },
+    {
+      "titulo": "¡Muy caro! El corrientazo ya se acerca a los $20.000 y restaurantes sienten el golpe en sus ventas | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUDdpejRNejBPSGV4c2tHZVVDT1g4QVFXOU1mdW1oeXZfanpFbjFpdHUyMjl5UExMWHZsMXhTRmhtTWRUNF9QSVQ1NThDZU1rX2hQU3VYNmdXbmtrSTRzWEdRcEpxbzJZNGdTbkh3dU1Qb294RGJwMlBZTEE1UXBpdy1QOWpET3M4b3ZtWVVObHZTdmVG0gGaAUFVX3lxTE1FMjhyVVc5WUozYTl4cjhJS0VvRmZiQ0NiSHhwVHJuQWZZOUhpbzFKci1PamhsbEp0b3dRd1RQWnpsTGM2LXllcERUNDJmb3U3aEhyYlg1RVBWcV9tMVYyNnRXRHEzQmw4NE9GZ3dJM09XamJna3lTNDhFSnE5dndnQ2hkTGYtOTMzT05XeW9xUEtNTXRaeHdHZUE?oc=5",
+      "fecha": "2026-10-09T07:00:00.000Z",
+      "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
+      "titulo": "&#161;Muy caro! El corrientazo ya se acerca a los $20.000 y restaurantes sienten el golpe en sus ventas",
       "enlace": "https://www.elcolombiano.com/negocios/precio-corrientazo-colombia-2026-almuerzo-EH42104415",
-      "fecha": "",
+      "fecha": "2026-10-09T02:14:00.000Z",
       "fuente": "El Colombiano",
       "imagen": ""
     },
     {
-      "titulo": "Bares y restaurantes piden medidas de alivio por el impacto inflacionario y tributario",
-      "enlace": "https://www.portafolio.co/negocios/comercio/acodres-pide-medidas-de-alivio-ante-el-impacto-inflacionario-y-tributario-sobre-el-sector-gastronomico-en-bogota-486016",
-      "fecha": "",
-      "fuente": "Portafolio",
+      "titulo": "Garachico acoge una muestra de gastronomía y artesanía ‘Oficios y Sabores’",
+      "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UelhBVEFMdlUwSWJmb0JLdmdoV2tBdm9iTkt5bGZLMnp4azhSV0h6NkUydGJlNkhiMl9YbDV1Zy1TaEVYZDhwcEpWeXlJNE5ndTNpTUZzQ2podFpvMHpFQUZn?oc=5",
+      "fecha": "2026-10-07T11:23:54.000Z",
+      "fuente": "La Voz de Tenerife Norte",
       "imagen": ""
     },
     {
-      "titulo": "Salario mínimo e IPC presionan los costos de los restaurantes: así subió la bandeja paisa en Medellín",
-      "enlace": "https://www.elcolombiano.com/negocios/precio-de-la-bandeja-piasa-en-2026-BG32615985",
-      "fecha": "2026-01-18T12:00:00.000Z",
+      "titulo": "La Plaza de las Méridas del Mundo acoge este sábado la primera edición de la Fiesta del Vino Nuevo ‘Meditrinalia’, una iniciativa que une tradición, cultura, gastronomía y solidaridad",
+      "enlace": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNeFJWNS1mNzY5MFJVcGpWUUhyRTM5a1laaE5UdnBveWhVUm16Wk5qWDBMOVRxVm1zTlVFOU9kX0JPM2h3RXdTOGdEbTFXUEUwZFpHUWpNOEZCUDcyaU5WTkNJanB1VWJZTU4xaHY4aVBZbkw3R2NoXzVsSmd1R0FVUmNRcjE0NGtkcExLNHNtOFpESDA4MzdUSy1rTGFObXFLRDJoa00yeXN3OXQ5SkhCMGU5NjdqRTNocm9vcU5wWE5BX192TmtRS1E3bldwZlZCU2Y4OVcxZk9Ndl9LWEpkRm1HSFZRaTROYTBPRFpoVTJTODhzU0QxQW85SWxJLWltN1owbXlYd1A3d05XR3NoUExfTmIybXhCd0stVFFDR0lTRHc?oc=5",
+      "fecha": "2026-10-07T07:00:00.000Z",
+      "fuente": "Ayuntamiento Mérida",
+      "imagen": ""
+    },
+    {
+      "titulo": "Reguetón y diversidad en la Alameda Vieja: Jerez acoge desde este viernes un festival con música, gastronomía y bailes hispanos",
+      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQzFibXBvdTZSNnA2eUFfNnc1UXQ1WVUtcnZmZHBmSlZ4VFVnMWNUeXRtVHF3eTVsN2lmaGkyeXhtcXZjUWd6N3ZSa3RNbW14NC1EdTNndmt2NVhicExUYWtjMmJpWEFCNl82bFg2SVRDdEtobFFHX3pZeDdrQzczSHdrTzhHZFhSZzFyWmUyTG5rclBESWhOQWNrRkFheGluM1pkZHVNZUJqMG1HQUVYZ1M3WGJVbFVDLUpfY0lxR0J6OVBCb2RxbW9CVU00RFMtVFVPUkFXZ1BILVAtenkwaWVSeDZRN0VKS2wtajNYSmFJbXdiVXBQTVJFYlU?oc=5",
+      "fecha": "2026-10-07T07:00:00.000Z",
+      "fuente": "La Voz del Sur",
+      "imagen": ""
+    },
+    {
+      "titulo": "%Restaurantes en El Poblado Alto: el nuevo polo de Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kRDE4dUsybXZjYjBRdDA5TFV3Y2tpZFJ6WHRxelFVYm5wa1dNTFJyTUs5djhYeEcwX3h4d3BBVVZqRTZZcW1kaHY3UnNHWFNTZnBSMHV5YzdqMzBPVi1kaEc0QkVoc0sxSWJLZHV4Y3ZMSjBwd0Z1Mg?oc=5",
+      "fecha": "2026-10-06T07:00:00.000Z",
+      "fuente": "Revista Diners Colombia",
+      "imagen": ""
+    },
+    {
+      "titulo": "Estos son los restaurantes que participan en Medellín Gourmet hasta el 2 de noviembre",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oVklrSG4wTkNNMnZqUDk3bWtJUHZ5eTNFX1NXd0JNYWdmU3E1UVZveFRxZlY4QmM3bmp2SnV6VHQ4QVAzeFFoUVBscEFkQnYzdHU1elZGNWhmS211a1ZjWnRaWUxrNWRQQlhfOFVUa0FrM2NtdU5Pa0Q3MEJDZw?oc=5",
+      "fecha": "2026-10-06T07:00:00.000Z",
+      "fuente": "Telemedellín",
+      "imagen": ""
+    },
+    {
+      "titulo": "Garachico acoge la muestra de artesanía y gastronomía",
+      "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uQ0dUemNicGZBbHJMVFZzY0ItYk51Y0xXM09FWjc1c2paVGlrckVFTTFDOHJaZ2tWTmNVZlFDX0VHUndJYXFTNTRNZkNWWUlJY1JIQU1TUVkwSFpOZWhuWUpvTUpjajVmWDlScg?oc=5",
+      "fecha": "2026-10-06T07:00:00.000Z",
+      "fuente": "Canarias en Pleno",
+      "imagen": ""
+    },
+    {
+      "titulo": "Medellín Gourmet restaurantes participantes y precios",
+      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTRzTzdVZlFlS3dGUGJ1YkxqWUNxV25iazg1anFlS3RyNG8xOVIxOXBIOVhockVYUkxfZWJfYmx1TmtuZWNKcjFCMUdrSG9WNmNrSG91RXJwd1VKeG9yampXNjlOQ0pyYnRHNlBIRVZzYk1QbGVtVDlhTGhsWFNPS1dkQTVSbnl2aDZPSUNjbw?oc=5",
+      "fecha": "2026-10-05T07:00:00.000Z",
+      "fuente": "ABC Economía",
+      "imagen": ""
+    },
+    {
+      "titulo": "Medellín Gourmet 2026: 150 restaurantes ofrecen menús para dos personas desde $89.000 pesos",
+      "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lNWxWWkdtSTl2Z1FBN2Zrb3VtRjcyUW54QzhVdWw3ZUpwZ3F4LXozU2NBUnlYNDB5TWNOaGdJdGhBY1lSNlIxSGQ5UFZnNmJPazdKV0hXYVpMU1NzaHBRWFBVREFjVDYtNFlmZ0F2RQ?oc=5",
+      "fecha": "2026-10-05T07:00:00.000Z",
+      "fuente": "Hora 13 Noticias",
+      "imagen": ""
+    },
+    {
+      "titulo": "Santa Marta cuenta con más de 234 establecimientos gastronómicos formalizados",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYkEyMWVqTjVsQmdsUk9JaE1ka3FHQzVQLUZublZNVnNoalVhcnlzTWxkSW9sRzlTX2pxMFNZaDFVSTMzcEdkeFRBaHdIWnBJX1VVTjFHaW9fMUJDMGgxM2VEdDlKUU52WFFOdkMxeXE5eVRjdXhJMjdQUWhsdVptQmtCYUg3Mk9hYWx2QVBPam9HUk00ejFrcWNlT0l1ZmtOanJYam1LUklxSjB0Smc3QThwWHpFNTBXdE03dno5MUluSmhNbTI4cWVXMA?oc=5",
+      "fecha": "2026-10-05T07:00:00.000Z",
+      "fuente": "Hoy Diario del Magdalena",
+      "imagen": ""
+    },
+    {
+      "titulo": "Almagro acoge la segunda edición del Congreso Internacional de Gastronomía Cinegética en noviembre",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOUtFaGFpdjNZdURiRkdxNGxtLXBxdEpTeUtoZ1VpRGt6T1U2TXRja0RtZWV1QWlteExJa3dFTmJWRHc3a0Nrc0oxRUhLV0pyU2Q5ZTZabW14aUx4UmxhMHlDOHJzSi1uWGJxZFVtV3JkTGFaVHhGcUszSGNrdUtWOFp0ZEpscTVBU21JbWZweW9pYVQ5dUhWY0ZPTUxvSjBweUtQSjV1Y2tCVEcyQmNNVFBuNWVJeXdJcFpJ?oc=5",
+      "fecha": "2026-10-05T07:00:00.000Z",
+      "fuente": "ValdeREC",
+      "imagen": ""
+    },
+    {
+      "titulo": "¡A comer se dijo! Medellín Gourmet llega con 150 restaurantes y menús para dos desde $89.000",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMHc0NmoxSzJndUdoNTl5Um9lWURZaDZ0T0lIcXM5NnNDdEF2UHFFNTdsS1ZjaUJnVXNXMjFTZzVfR05ydE5CN253bGx3bWhsU3VQbjIxRjI5Q0g1UkRJbG9ubXg2dXVZaGc1b3hXeE13bDhiSVpZZURZYzNCak9LMXJxSWpLOHVCcUZSbnVXLXZtcUJOWVJkTVBBY0RZUXpNejNKdnBJcnphYlpISGFmYVRFVUZTS0I1Y2luTVItZzYxdlNmcDVNNmE5Sm15WUNHM2ROVXZEb9IB4wFBVV95cUxPbzgwM0JhYTJoT09naHg2VndSNWRvRnVlekY0U3ROZWJhbzFERlJabTJZUWhCN2dtYzVfUnZNeXIwbjBEeDdsdjJLWHk0dVN1akJadmQ0LWxoREdEUjNiU3ppN1FlRVRqUWFvTjNsdGl5cVE3ZGh0ZlNoTXVpa2RlbmF6NEJqSHpfdkF5NVlxeDRER3hKZDJTWUtKOFdwbnZIMDIySmtlVV93SDBGRDZ3OGtoUU9ZZFVUZENRR0sycFFFXy1hMUdmeEFya2Fua0RPMGN2eW54NEhNYXc4eWRDX25xUQ?oc=5",
+      "fecha": "2026-10-04T07:00:00.000Z",
+      "fuente": "Teleantioquia",
+      "imagen": ""
+    },
+    {
+      "titulo": "\"El modelo de negocio de los restaurantes de Valledupar está bajo amenaza\": Javier Arroyo",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTBSbndxYTFjR2ZDMVV2OGlwT0hfYjRQT3ViSW9rTWprVVVFMHdoamp0NTZGSXNacWRsS3FQUVEwMXNyU01kQTZkcXQwODN0VjNWSjM2U0tNQVRvN3UzR1hmeklwWmhjaXk1UUx0eUlmdnhJNFhSQ3djU3V0LV9TbGRtTHZPVmxQY0pZaFpFbEFMZW9NQ1IxWjNlTFdJaTR6amRXd052RDV4TzVKeVRpb2xkSDgydjRqVHc?oc=5",
+      "fecha": "2026-10-04T07:00:00.000Z",
+      "fuente": "El Pilón",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes de Valledupar enfrentan altos costos y pérdida de empleos por aumento de insumos, nómina y energía",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDhnVzlzYnk0VTlNTnB2YUFVRnJSNTRtcjQ3X2VEN2tLYnZjRHhDaXQ2cEg0bVRVVzh2SHVrbmJuQlNTVGNJd0lZS0l3TGRmcFBtU1VhanYzY3MybUhkM3d2MkV1djNoOGlWdTdSMUtaMWIyb1Bia2R1WEU0aU13QmQwZ3RKOEQ2S3NyTXFjeHJjdnJMRlp1VG9NN0V1cGVmVTluemJreThWSUVFT293eDN5eEkzdWYtODBYZExvdjJqeGRQeE12RUxLVVBGQjTSAdQBQVVfeXFMT3BXUldtdWhyNVVBRVMzY3RRelRqOVFYLXVodFgxUVl3WGtXZE5kVlFnMkpyR1lxWU5XWTQzU2JFR1NVMTVHdnlYM3I5VmJ0N3BXbjF1UF9WYmNGVHVlZTJyeXBGNEk3bDJLQWVoYllBQllIYTRIMkVXRjJTUHR0VDg3ZFc2SnZSM29MbEx5S3BCbVlxN1QwRHQ0bktBMXpydXlMejNobkoxbXNKV0FTYWlldklrMXFIUC1nNy1IajJ2MWkxaEEyY21iTFl4MlRzMkpvM1Q?oc=5",
+      "fecha": "2026-10-04T07:00:00.000Z",
+      "fuente": "Pulzo",
+      "imagen": ""
+    },
+    {
+      "titulo": "Medellín Gourmet: 150 restaurantes en Medellín y Oriente con menús desde $89 000",
+      "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4akZUZnRrWHZpeWtJZ2lubENKT255UkR2NTBpeWJqT05HcFVpZmhadENxSlZPMzR6LUxNSmF6azFiMTRXbU01cDY2U0k2TkFZVmdNdG9OZElGLU5hUmNWRHpmekJpY2NLM1YyMmF6amRoZw?oc=5",
+      "fecha": "2026-10-02T07:00:00.000Z",
+      "fuente": "MiOriente",
+      "imagen": ""
+    },
+    {
+      "titulo": "Medellín Gourmet regresó con 150 restaurantes y cuatro opciones de menú para recorrer la ciudad a través de la gastronomía",
+      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNelY0cVBSREwzdVNCQ2hodGRvZHlNdGhabDJNMVZxbW9VSEJVNVBpR3IwbG14MjFHZ3JYR3ZtRTFpQW9kdi1ReENZc0R2T0EwelZtRmREdEVfbW1ZUWI5UTB3NGpFZWlGNXZCcmJOSFF1MWhhSW1EYlNjNm5kVGxvbldyTnRaT2dSV1VTRE11WncxdndwS1NVS3VmeFVxRzJwdzNNLXVpMmFNX29DWEJ5ZnpWTDFtVUcxOTBsdlA4Skk3S2lZcW9UN3pCN29HNU9iNEpnYmhweXlPTVpVbDZISGJSNkc2UFpwWEtOdlh1T2o?oc=5",
+      "fecha": "2026-10-02T07:00:00.000Z",
+      "fuente": "IFM Noticias",
+      "imagen": ""
+    },
+    {
+      "titulo": "Medellín Gourmet propone un mes para comer, compartir y descubrir nuevos restaurantes",
+      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3lYQldGajhtcjREUWJRSW1ueGpjVGh0MTZ2NTdDWnAzTUpkQXJaSHNhQ0lDbXRocC1JZHhCLUY4eFFHSEtoeEtWNE4ycGtsUXdTd3BmUGF0VHo5bzIxZk95VTA5ZGQ3U2Z0RXU2LTVfTGtSSnpfWVlpdEVWV2hoOEZxSWZJQk9WaWNfZk4xcw?oc=5",
+      "fecha": "2026-10-01T07:00:00.000Z",
+      "fuente": "Vivir en El Poblado",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Amante de la buena comida? Medellín Gourmet regresa con 150 restaurantes participantes y menús desde $89.000 | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnp4TTdxR0tWMTJ5bEJLT1RPQlMzbFNqWUJPTkJpcnN5V3pwZTY2N2hmQm1haDRwOTc0Tk84U2dfN0M4aWs3Wmc3aUNpSFo2eldMRUlYbVJINkNPVUQ4Vl9waTlxM1FoS3dlaE4wNzRmT0xNUFRxdnpNLW5PMkVoZ0tvbG8yXzJLcjAtVC10bDN3ek9YYlZBcTJEME5KdVFqalowUkRB0gGrAUFVX3lxTE1NMURxZmJMcHl4eGFLWjY4aXFRQTQ5YVR6NmV5WGhkcUtWTzB6aGY2QlpMOXJTcl9RMi1nQWV6aDI0a0lrM3I3WmdrUnFkakhJRE5mODBPajFPVXY0TU5JVjRXU2UzaUcwZ1NMNmVkRjFZcTV3bG4xX2l6OHdqLS1aRzBqWElWSHpNQWxMMERPWGtiOXR4TUxsTUpFNlV4Y1dCZ2x4TllJTUlWQQ?oc=5",
+      "fecha": "2026-10-01T07:00:00.000Z",
       "fuente": "El Colombiano",
       "imagen": ""
     },
     {
-      "titulo": "Ya subió hasta la hamburguesa, ¿cuánto vale una en Medellín este 2026?",
-      "enlace": "https://www.elcolombiano.com/negocios/precio-hamburguesa-medellin-2026-alza-costos-GE32411777",
-      "fecha": "2026-01-10T12:00:00.000Z",
-      "fuente": "El Colombiano",
+      "titulo": "Casa Seat acoge propuestas de referencia en música, moda, gastronomía, cultura y deporte en octubre",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYU5keUxsUnJxeVNTTjZ1a0JhS09ac04tNDlDQ1BVcjk4Y3g2YzN0TUNSSDY5bWxfV0ZpUExaWlBXd0NheExyOWhUUXczMXk3cm10bmgtanN2R2xYTTZPQm1Ja0JONDVaSDc2cUhqRmthcXM5SGJmRmVOTmgxZmdPSWdvOUo5N2tnY2pIZDhYNzFhWExTMTZWSUxLSHVGX3dHc3M5OVp1UEhTNnVhc2tMNlpxakZyZVRJYzliQ08tOGc2VWFJTk1xYVgzdVhfclVVcTZIZlBOemlZSzlqZGJlNmFUd0s?oc=5",
+      "fecha": "2026-09-30T07:00:00.000Z",
+      "fuente": "Europa Press",
+      "imagen": ""
+    },
+    {
+      "titulo": "Málaga acoge la tercera edición de ‘Fashion Café’, un plan que fusiona moda flamenca, música y gastronomía",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORDRabGh6bkNRSzMzSjZGRE9WV1F0TFhncnlnOHdzaDRlV20zY2w1ekdqOXlfSW5ZeENsa1phMWxJclY0SGVZdnk4SW83OW9fOFIxSEJtREZ6eDN5RzVxdU04SmcwUWNIbFdlODdoLUUwb0NEeDJ4VUVlLVUxVXoxYU56Y2xOUWhzVkdLZ1BxU1llcnPSAZgBQVVfeXFMUHNLU1Q0UmxkZjFUWmF3SUNreU5mN2tsYk5YSl8wZGxtbmh3QW11bVV3eF8wbDJwWjF5d3IyR0VhMm9rTDJpQ0VYV19Kc3dsOFpOV19ZTXRidHBaaExrMk0tY2dzalA4c3hmQ2h2ZkFyMGZHOE1KTnJNa1I5MjcwdE1WbGVDS3JBTW9UN3gzZFJzOEN4LVhZc2U?oc=5",
+      "fecha": "2026-09-29T07:00:00.000Z",
+      "fuente": "Málaga Hoy",
       "imagen": ""
     }
   ]
