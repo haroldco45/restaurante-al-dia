@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T00:09:13.410Z",
+  "actualizado": "2026-10-27T05:20:59.401Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
@@ -33,7 +33,7 @@
     },
     {
       "titulo": "Domicilios de corrientazos en Rappi subieron 160% este a&#241;o: la bandeja paisa y el sancocho reinan en Medell&#237;n",
-      "enlace": "https://www.msn.com/es-co/dinero/general/domicilios-de-corrientazos-en-rappi-subieron-160-este-a%C3%B1o-la-bandeja-paisa-y-el-sancocho-reinan-en-medell%C3%ADn/ar-AA2g6lkL",
+      "enlace": "https://www.msn.com/es-co/noticias/otras/domicilios-de-corrientazos-en-rappi-subieron-160-este-a%C3%B1o-la-bandeja-paisa-y-el-sancocho-reinan-en-medell%C3%ADn/ar-AA2g6lkL",
       "fecha": "2026-10-26T09:46:32.000Z",
       "fuente": "El Colombiano on MSN",
       "imagen": "http://www.bing.com/th?id=ONUT.IHPkLl8hC468KIy0TBWl9w&pid=News"
@@ -47,7 +47,7 @@
     },
     {
       "titulo": "Los ingredientes y la n&#243;mina se comen los restaurantes: van 520 cierres en Medell&#237;n este a&#241;o",
-      "enlace": "https://www.msn.com/es-co/dinero/other/los-ingredientes-y-la-n%C3%B3mina-se-comen-los-restaurantes-van-520-cierres-en-medell%C3%ADn-este-a%C3%B1o/ar-AA2g5mIn",
+      "enlace": "https://www.msn.com/es-co/dinero/general/los-ingredientes-y-la-n%C3%B3mina-se-comen-los-restaurantes-van-520-cierres-en-medell%C3%ADn-este-a%C3%B1o/ar-AA2g5mIn",
       "fecha": "2026-10-25T13:08:25.000Z",
       "fuente": "El Colombiano on MSN",
       "imagen": "http://www.bing.com/th?id=ONUT.GQlL84t-WnO8rucaCMgEIg&pid=News"
@@ -354,13 +354,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.YxxxsNJkpvc9mBpbE6DpAg&pid=News"
     },
     {
-      "titulo": "Arriendos, salarios y materias primas dejaron sin rentabilidad a restaurantes de Medellín",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXNVU3RycGV2ZXBFXzRpb0Naa3ptS0phTzZudnlWWTB4ekdWNnVMTFhUNzlKU2VWWTYxblM0ckhOZFphN2RxdHkwUklCanhFX181ZEM4ZU1MNGFFQy1HeDFVa2VHZTlzcHpzQXRFSHpsZHk3b3l5MzMzeEI5ZGZnNkFYM3JsblYxc0ZzNmI1Q1Iwelo4NUpnRW1fNmdKaUJPS2tZNU4zMXg0SXhmQnlrM3F0akVDQk9RbE1mNVpHdzjSAdQBQVVfeXFMTUdaMC1ub29GQnp1bEppMVgyU0hyVFk3U3RJQ2tqZ09hbUJjeDI5djd6UllMaFhUZGtKUWxJWFpDcXJyNy1FcjVDUGVQNmhOcXBPcDhMZWxNYV9uTmZVLXFEQkZDTEpELTNNSm41cjltTFRPbkFjZGY1X3BxUF94SjFYaGt1N1lKQ2xHVS0yN3E1aVhIV01Gal9rM0QtOHRnYlJja0lQdURXM2ZhSy1lMTdGZzhxR3ZreEpWWElHcVNqUkptS3N2NV9IcGZ5Um9jVFJPaWw?oc=5",
-      "fecha": "2026-10-14T07:00:00.000Z",
-      "fuente": "Caracol Radio",
-      "imagen": "http://www.bing.com/th?id=ONUT.aUDqGSjNFcijiJvyWGOBNw&pid=News"
-    },
-    {
       "titulo": "'Es muy duro': Enorme tristeza por la conmovedora despedida de querido restaurante de Corea del Sur que hizo historia en el país",
       "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVWpaTnp0MEVVVDhNMTlUaFlGX3czaHFKbjZLWTQ5WW11TG5MX0JrSzJIeFFIX0tabmw3c2YyN1FuTVdQSUE0TE9QOWxmWXdEOWxUSENFMUV4R0E2WUVXcFE4TVJFaUhNcE4waXlBckt1WExkck54WlVUUVJGdjBaQUN0QzRqaDEyZWxMa0Q1V0ltdHFpNEhEX0kyVVV5ZDJsOU5rOUtrdDZITTlldm5LQkxYM2ZTcUd6SjBZUkJFU1NUaWItUnBCTmN0b0NkYkJCeDFfdVhmWE42THJZWkl5OEVDcEdqbTZqQlRGUWJpRW94X1NLNm9EaHdGLWZpSnV1X2ZGY3h0RnI?oc=5",
       "fecha": "2026-10-14T07:00:00.000Z",
@@ -368,10 +361,31 @@
       "imagen": ""
     },
     {
+      "titulo": "Arriendos, salarios y materias primas dejaron sin rentabilidad a restaurantes de Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXNVU3RycGV2ZXBFXzRpb0Naa3ptS0phTzZudnlWWTB4ekdWNnVMTFhUNzlKU2VWWTYxblM0ckhOZFphN2RxdHkwUklCanhFX181ZEM4ZU1MNGFFQy1HeDFVa2VHZTlzcHpzQXRFSHpsZHk3b3l5MzMzeEI5ZGZnNkFYM3JsblYxc0ZzNmI1Q1Iwelo4NUpnRW1fNmdKaUJPS2tZNU4zMXg0SXhmQnlrM3F0akVDQk9RbE1mNVpHdzjSAdQBQVVfeXFMTUdaMC1ub29GQnp1bEppMVgyU0hyVFk3U3RJQ2tqZ09hbUJjeDI5djd6UllMaFhUZGtKUWxJWFpDcXJyNy1FcjVDUGVQNmhOcXBPcDhMZWxNYV9uTmZVLXFEQkZDTEpELTNNSm41cjltTFRPbkFjZGY1X3BxUF94SjFYaGt1N1lKQ2xHVS0yN3E1aVhIV01Gal9rM0QtOHRnYlJja0lQdURXM2ZhSy1lMTdGZzhxR3ZreEpWWElHcVNqUkptS3N2NV9IcGZ5Um9jVFJPaWw?oc=5",
+      "fecha": "2026-10-14T07:00:00.000Z",
+      "fuente": "Caracol Radio",
+      "imagen": "http://www.bing.com/th?id=ONUT.aUDqGSjNFcijiJvyWGOBNw&pid=News"
+    },
+    {
       "titulo": "80% de los graduados de Gastro-Lab son mujeres que busca revolucionar la cocina salvadoreña",
       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ055LXlRYXBnZ2VscmZDazFzV3pTdzAtc01NaEFibFhsVW9ISm9YQ19scUU0NzNHSGxmTDBRX1RnVWxzcHg2VjlELVNTeDJ2aWtkVUQyUHlZVnN4LU1mUTF6M21QRi1QZ2dJX2VaeVB4SktfU09XcEY1d1lYaDhHMGZoeDdfWURHOXZQRlBsYU45QV9HdjY2ZTZ0Z3JzUDM0eFY3VU5nR29RYmNOVGgzT3FBbU9OZmtsRENmRmI0US0zdzV5V002ak1MaEhYSFM0Mk1BWNIB7wFBVV95cUxONG50ZVlEdHlfYlNQRlpIMmVYTFhZZ25GdjdkRFhFV2NsOGpsbzYxRGNwNlo0Wjc1ZVh3SDh2Z25UVDJ2MjdQTFB3WmxOTkFmSjFsRVRRQy1iM0ZlWjZXWld4YnlydnBMLXJzQjRHWWh0S3FobXZSemZLZFZzSTREYzdSWW5OZTV2a0JzRUh5RlpnNlBBNTkxWDd2bEFESW9LNnBIQnVYejB5WTItRHpxTGJIOWk4TF85NlI0dHpvbVUzRndsekJ2ZDg0bHNwQmdoSFZGLTNkM3lNT3VGMldUYmczTDBNT1VzbmprNDlKVQ?oc=5",
       "fecha": "2026-10-14T07:00:00.000Z",
       "fuente": "Infobae",
+      "imagen": ""
+    },
+    {
+      "titulo": "Durante la semana de receso, restaurantes de Santa Marta registraron afluencia del 40%",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1VLUXdtUl9yVWRROThaSDZ5cGVXNUoyYmQ5RV9LSnEwUjVaaDJDUFpLWVRHQUVJLV9zUXFnTDdkV1N3RGREX0dIenlleXpqV1V5eXduNTh6TUt6ZUNXdjZtSlhsTW9FYWxKaERRNzhRalVGbFB3REJJNFhSNHRjOFFDZllGN2l3US1NMUZQQzctSmswSm5iajJNOUJISFc2b1FkUlg1M3RzQlFiN1hpYm15T3BGQy1sVlE?oc=5",
+      "fecha": "2026-10-13T15:36:00.000Z",
+      "fuente": "Seguimiento.co",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Cuál será la mejor del Pizza Master del 2026? Estos son los restaurantes que participan en Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdHB4bTJfeXA3LVFIQjZzemZyS2tjY3NrM0NTTjVRSV9LSVVHNEZkQUxwa3pERDR2djdQNkZ3Z0U4czdGY2R3UHlmelB2THJRbkQ5RDd4Z1RxaFpwRkRmMmxWc3BuMElJTTF5WW5IX3lNUjU0Tjk4OFpKZk5vVDhMYw?oc=5",
+      "fecha": "2026-10-13T07:00:00.000Z",
+      "fuente": "Telemedellín",
       "imagen": ""
     },
     {
@@ -431,6 +445,13 @@
       "imagen": ""
     },
     {
+      "titulo": "El corrientazo se encareci&#243; 22,4% en el &#250;ltimo a&#241;o y roza la barrera de $20.000",
+      "enlace": "https://www.larepublica.co/economia/el-corrientazo-se-encarecio-22-4-en-el-ultimo-ano-y-roza-la-barrera-de-20-000-4499516",
+      "fecha": "2026-10-08T22:04:00.000Z",
+      "fuente": "La Rep&#250;blica",
+      "imagen": ""
+    },
+    {
       "titulo": "Garachico acoge una muestra de gastronomía y artesanía ‘Oficios y Sabores’",
       "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UelhBVEFMdlUwSWJmb0JLdmdoV2tBdm9iTkt5bGZLMnp4azhSV0h6NkUydGJlNkhiMl9YbDV1Zy1TaEVYZDhwcEpWeXlJNE5ndTNpTUZzQ2podFpvMHpFQUZn?oc=5",
       "fecha": "2026-10-07T11:23:54.000Z",
@@ -448,14 +469,7 @@
       "titulo": "Reguetón y diversidad en la Alameda Vieja: Jerez acoge desde este viernes un festival con música, gastronomía y bailes hispanos",
       "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQzFibXBvdTZSNnA2eUFfNnc1UXQ1WVUtcnZmZHBmSlZ4VFVnMWNUeXRtVHF3eTVsN2lmaGkyeXhtcXZjUWd6N3ZSa3RNbW14NC1EdTNndmt2NVhicExUYWtjMmJpWEFCNl82bFg2SVRDdEtobFFHX3pZeDdrQzczSHdrTzhHZFhSZzFyWmUyTG5rclBESWhOQWNrRkFheGluM1pkZHVNZUJqMG1HQUVYZ1M3WGJVbFVDLUpfY0lxR0J6OVBCb2RxbW9CVU00RFMtVFVPUkFXZ1BILVAtenkwaWVSeDZRN0VKS2wtajNYSmFJbXdiVXBQTVJFYlU?oc=5",
       "fecha": "2026-10-07T07:00:00.000Z",
-      "fuente": "La Voz del Sur",
-      "imagen": ""
-    },
-    {
-      "titulo": "%Restaurantes en El Poblado Alto: el nuevo polo de Medellín",
-      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kRDE4dUsybXZjYjBRdDA5TFV3Y2tpZFJ6WHRxelFVYm5wa1dNTFJyTUs5djhYeEcwX3h4d3BBVVZqRTZZcW1kaHY3UnNHWFNTZnBSMHV5YzdqMzBPVi1kaEc0QkVoc0sxSWJLZHV4Y3ZMSjBwd0Z1Mg?oc=5",
-      "fecha": "2026-10-06T07:00:00.000Z",
-      "fuente": "Revista Diners Colombia",
+      "fuente": "lavozdelsur.es",
       "imagen": ""
     },
     {
@@ -470,6 +484,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uQ0dUemNicGZBbHJMVFZzY0ItYk51Y0xXM09FWjc1c2paVGlrckVFTTFDOHJaZ2tWTmNVZlFDX0VHUndJYXFTNTRNZkNWWUlJY1JIQU1TUVkwSFpOZWhuWUpvTUpjajVmWDlScg?oc=5",
       "fecha": "2026-10-06T07:00:00.000Z",
       "fuente": "Canarias en Pleno",
+      "imagen": ""
+    },
+    {
+      "titulo": "%Restaurantes en El Poblado Alto: el nuevo polo de Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kRDE4dUsybXZjYjBRdDA5TFV3Y2tpZFJ6WHRxelFVYm5wa1dNTFJyTUs5djhYeEcwX3h4d3BBVVZqRTZZcW1kaHY3UnNHWFNTZnBSMHV5YzdqMzBPVi1kaEc0QkVoc0sxSWJLZHV4Y3ZMSjBwd0Z1Mg?oc=5",
+      "fecha": "2026-10-06T07:00:00.000Z",
+      "fuente": "Revista Diners Colombia",
       "imagen": ""
     },
     {
@@ -540,27 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3lYQldGajhtcjREUWJRSW1ueGpjVGh0MTZ2NTdDWnAzTUpkQXJaSHNhQ0lDbXRocC1JZHhCLUY4eFFHSEtoeEtWNE4ycGtsUXdTd3BmUGF0VHo5bzIxZk95VTA5ZGQ3U2Z0RXU2LTVfTGtSSnpfWVlpdEVWV2hoOEZxSWZJQk9WaWNfZk4xcw?oc=5",
       "fecha": "2026-10-01T07:00:00.000Z",
       "fuente": "Vivir en El Poblado",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿Amante de la buena comida? Medellín Gourmet regresa con 150 restaurantes participantes y menús desde $89.000 | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTnp4TTdxR0tWMTJ5bEJLT1RPQlMzbFNqWUJPTkJpcnN5V3pwZTY2N2hmQm1haDRwOTc0Tk84U2dfN0M4aWs3Wmc3aUNpSFo2eldMRUlYbVJINkNPVUQ4Vl9waTlxM1FoS3dlaE4wNzRmT0xNUFRxdnpNLW5PMkVoZ0tvbG8yXzJLcjAtVC10bDN3ek9YYlZBcTJEME5KdVFqalowUkRB0gGrAUFVX3lxTE1NMURxZmJMcHl4eGFLWjY4aXFRQTQ5YVR6NmV5WGhkcUtWTzB6aGY2QlpMOXJTcl9RMi1nQWV6aDI0a0lrM3I3WmdrUnFkakhJRE5mODBPajFPVXY0TU5JVjRXU2UzaUcwZ1NMNmVkRjFZcTV3bG4xX2l6OHdqLS1aRzBqWElWSHpNQWxMMERPWGtiOXR4TUxsTUpFNlV4Y1dCZ2x4TllJTUlWQQ?oc=5",
-      "fecha": "2026-10-01T07:00:00.000Z",
-      "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
-      "titulo": "Casa Seat acoge propuestas de referencia en música, moda, gastronomía, cultura y deporte en octubre",
-      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYU5keUxsUnJxeVNTTjZ1a0JhS09ac04tNDlDQ1BVcjk4Y3g2YzN0TUNSSDY5bWxfV0ZpUExaWlBXd0NheExyOWhUUXczMXk3cm10bmgtanN2R2xYTTZPQm1Ja0JONDVaSDc2cUhqRmthcXM5SGJmRmVOTmgxZmdPSWdvOUo5N2tnY2pIZDhYNzFhWExTMTZWSUxLSHVGX3dHc3M5OVp1UEhTNnVhc2tMNlpxakZyZVRJYzliQ08tOGc2VWFJTk1xYVgzdVhfclVVcTZIZlBOemlZSzlqZGJlNmFUd0s?oc=5",
-      "fecha": "2026-09-30T07:00:00.000Z",
-      "fuente": "Europa Press",
-      "imagen": ""
-    },
-    {
-      "titulo": "Málaga acoge la tercera edición de ‘Fashion Café’, un plan que fusiona moda flamenca, música y gastronomía",
-      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORDRabGh6bkNRSzMzSjZGRE9WV1F0TFhncnlnOHdzaDRlV20zY2w1ekdqOXlfSW5ZeENsa1phMWxJclY0SGVZdnk4SW83OW9fOFIxSEJtREZ6eDN5RzVxdU04SmcwUWNIbFdlODdoLUUwb0NEeDJ4VUVlLVUxVXoxYU56Y2xOUWhzVkdLZ1BxU1llcnPSAZgBQVVfeXFMUHNLU1Q0UmxkZjFUWmF3SUNreU5mN2tsYk5YSl8wZGxtbmh3QW11bVV3eF8wbDJwWjF5d3IyR0VhMm9rTDJpQ0VYV19Kc3dsOFpOV19ZTXRidHBaaExrMk0tY2dzalA4c3hmQ2h2ZkFyMGZHOE1KTnJNa1I5MjcwdE1WbGVDS3JBTW9UN3gzZFJzOEN4LVhZc2U?oc=5",
-      "fecha": "2026-09-29T07:00:00.000Z",
-      "fuente": "Málaga Hoy",
       "imagen": ""
     }
   ]
