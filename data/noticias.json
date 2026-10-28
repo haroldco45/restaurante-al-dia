@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-27T20:49:50.018Z",
+  "actualizado": "2026-10-28T00:10:57.101Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "La Provincia anunció un descuento del 30% en la factura de luz para hoteles, cabañas y restaurantes: Cómo inscribirse",
+      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSmxGV3hxTmV4R09ldWRhVTl6YThKQzQyYUNfVUNHTlc1VlU3YV9xOXZkRUhfTllxeWdhdTZJWjF6VERadWlaZVY4ZDVLbVRZVGI3dktqbmdTTEZjdnE1bGdiNE5vNkFzUlVLdWV4YmJVdEZRQklyNExQV25xTk5RZkoyUHV2WC1UUnl2NllqRXd4OXVTWklPYXZmYjA1c3dmUjR3LTRiWXdNNUR5cjU0NkxwTDluU1RYUGFXdzJ5TlM5N2ZraWhtVGFib0NRekU0S2lCX0twYTVWVGRSSk1ncW1lM0czY3ljZ3JyN3ZxbHE?oc=5",
+      "fecha": "2026-10-27T23:10:00.000Z",
+      "fuente": "La Angostura Digital",
+      "imagen": ""
+    },
     {
       "titulo": "Pasaje Cervantes tendrá feria gastronómica y presentaciones artísticas este fin de mes",
       "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WTWhGSUYwdzMxUmdKTjZwbEZsS3VLR0h6UmtpNGdZSlZUaWxrbzd5Z0V5enRtNURvSGFnM1hzZ0xXc0xpTmQ2LXNkeE5Ia1hvdTVVNWdRdTFOZXVhc2dFRWNzQUJPZGVaVXJ3WkVwaU1Qdw?oc=5",
@@ -347,17 +354,17 @@
       "imagen": "http://www.bing.com/th?id=ONUT.kvnTtqJ07WdosCrgA2l0vA&pid=News"
     },
     {
-      "titulo": "Arrancó el Pizza Master 2026: conozca los restaurantes participantes en Medellín y sus creaciones",
-      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZ2FGZk5pV3dSaUQ4QTdLZVNKZWlIQWVFMjN5MVpha1BBcndoTE1OTHJPVWlKMjhUdndUQTJfYUdkNkFGQXVrSTJKQXRWN3ZpQlkxUmxrWnpBR1k5bWhjVjZrVTk2a29UN3dPbWs2NlRqbXFtNmNTNGxNdmgxdw?oc=5",
-      "fecha": "2026-10-19T07:00:00.000Z",
-      "fuente": "Telemedellín",
-      "imagen": ""
-    },
-    {
       "titulo": "De la tradición a la innovación: Vila-real acoge la cocina en vivo con el reconocido actor Juan Echanove",
       "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb3pwSE94aFJGMjhsUU9xYjZZXzhkeVd0eXF3ZmRzYXFOazZLNy1FSXNWbUdSajVtckF2ZWJnbUVnMnM2TklKMVFfeW83ZTE1eFRXLXo2ZU1xUkZwNk5pRkg0NHZuZ1FGYTBwbW9hM1VYVFFtbWxMZWp4WW9PNlIzdlA1czBiUU9zN3ZxVTM0azJfVWJ5Vmd5b0lmdmI1b19XTVdXam42Q3M5YU9sSmtablFzZGctb2tkV3lXZ1piTTFzUFpVcE80ZU9Kam1CMTFSQ2owV0hVazNSaVk3Mmg5aFctNXcydTA3OEZN?oc=5",
       "fecha": "2026-10-19T07:00:00.000Z",
       "fuente": "Castellón Plaza",
+      "imagen": ""
+    },
+    {
+      "titulo": "Arrancó el Pizza Master 2026: conozca los restaurantes participantes en Medellín y sus creaciones",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZ2FGZk5pV3dSaUQ4QTdLZVNKZWlIQWVFMjN5MVpha1BBcndoTE1OTHJPVWlKMjhUdndUQTJfYUdkNkFGQXVrSTJKQXRWN3ZpQlkxUmxrWnpBR1k5bWhjVjZrVTk2a29UN3dPbWs2NlRqbXFtNmNTNGxNdmgxdw?oc=5",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "fuente": "Telemedellín",
       "imagen": ""
     },
     {
@@ -522,10 +529,10 @@
       "imagen": "http://www.bing.com/th?id=ONUT.aUDqGSjNFcijiJvyWGOBNw&pid=News"
     },
     {
-      "titulo": "Medellín recibe el Foro Gastronómico Internacional Alimentarte: chefs de seis países debaten sobre inteligencia artificial, sostenibilidad y cocina con impacto social",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWxfZ0xleVI5VGl2UHNRMHJtRDUtTk5JNUdvcDlheUc2ZE0zTjRNQ0dRTEp5eEpiTWFLd2RfdVVLSEM0UDl5cTQ4R2NWbzQ4bVZBVG5LRlFOVHZ2cGtWSy1nNkt5dWExRnRlV1FRNVlTS0lRTWFaazVKdVpZSHFOVm14bG53LXpsZ2hpVkZtNmZNOHMwNGRwcVBEUlc4QzdzOUdaNjJVb0RyelQ2amU0cmVHX1hQWmZHdnBwUmxB?oc=5",
+      "titulo": "Restaurante Oli: la nueva propuesta de cocina mediterránea que conquista Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nRmhPRURka0VOM3hNdGpfbmZfTzdjZGZXdVlPV1ZMSkx5amJ1clhHcVA2LWs3OURzVTdQU1hzdV9wTmxfdTNDNTJKUUtGZS1JUENSb2hDSEpVNzFIUFltMjNqbEtYMnc2dlBsNy1IUmlOd3ZRbE1xOQ?oc=5",
       "fecha": "2026-10-14T07:00:00.000Z",
-      "fuente": "IFM Noticias",
+      "fuente": "Revista Diners Colombia",
       "imagen": ""
     },
     {
@@ -533,6 +540,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ055LXlRYXBnZ2VscmZDazFzV3pTdzAtc01NaEFibFhsVW9ISm9YQ19scUU0NzNHSGxmTDBRX1RnVWxzcHg2VjlELVNTeDJ2aWtkVUQyUHlZVnN4LU1mUTF6M21QRi1QZ2dJX2VaeVB4SktfU09XcEY1d1lYaDhHMGZoeDdfWURHOXZQRlBsYU45QV9HdjY2ZTZ0Z3JzUDM0eFY3VU5nR29RYmNOVGgzT3FBbU9OZmtsRENmRmI0US0zdzV5V002ak1MaEhYSFM0Mk1BWNIB7wFBVV95cUxONG50ZVlEdHlfYlNQRlpIMmVYTFhZZ25GdjdkRFhFV2NsOGpsbzYxRGNwNlo0Wjc1ZVh3SDh2Z25UVDJ2MjdQTFB3WmxOTkFmSjFsRVRRQy1iM0ZlWjZXWld4YnlydnBMLXJzQjRHWWh0S3FobXZSemZLZFZzSTREYzdSWW5OZTV2a0JzRUh5RlpnNlBBNTkxWDd2bEFESW9LNnBIQnVYejB5WTItRHpxTGJIOWk4TF85NlI0dHpvbVUzRndsekJ2ZDg0bHNwQmdoSFZGLTNkM3lNT3VGMldUYmczTDBNT1VzbmprNDlKVQ?oc=5",
       "fecha": "2026-10-14T07:00:00.000Z",
       "fuente": "Infobae",
+      "imagen": ""
+    },
+    {
+      "titulo": "Medellín recibe el Foro Gastronómico Internacional Alimentarte: chefs de seis países debaten sobre inteligencia artificial, sostenibilidad y cocina con impacto social",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWxfZ0xleVI5VGl2UHNRMHJtRDUtTk5JNUdvcDlheUc2ZE0zTjRNQ0dRTEp5eEpiTWFLd2RfdVVLSEM0UDl5cTQ4R2NWbzQ4bVZBVG5LRlFOVHZ2cGtWSy1nNkt5dWExRnRlV1FRNVlTS0lRTWFaazVKdVpZSHFOVm14bG53LXpsZ2hpVkZtNmZNOHMwNGRwcVBEUlc4QzdzOUdaNjJVb0RyelQ2amU0cmVHX1hQWmZHdnBwUmxB?oc=5",
+      "fecha": "2026-10-14T07:00:00.000Z",
+      "fuente": "IFM Noticias",
       "imagen": ""
     },
     {
@@ -547,20 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeENBX3ZtVkZLT29OQnc5RVZzVndLTHpYdmQ2V3hQT1U2Mkl4TUlJRGF3RHhSd3R5U2k1ajhqTjdENHlGLW45b1dLa0hmbVE0b1RrWWNMR19nS3RmZk9HdGRfcDZCNDdRcEtiUE8xLWZRTGthdFp3S0Q0cTFNaGJTTUN5QUlPaF9CY2dGVVQ3U1RLV2RDSDZGdEU5TnpzRWfSAbMBQVVfeXFMTjc3MmFMaENnNXBVMzNacWIwSUlIcjBhWk54T3BXOWNvR0d0Y0hqMUxfVThwNTNpV3pYY2dnU3FVV1ZBWkFqeDQtV3NDVUhPQ1FsWVQyNnZvWF9aYnRSN0x6OXlCRDJ4MUlaWEU5X0haYUF6WFJRc0hHUVlmaXY0Y3B2YXZUZXhmTUdZX1EwMHp3VWphRmE0R19YLUhpUjgzTW1LdFRLVEtLNUIxNGZyeDAySlk?oc=5",
       "fecha": "2026-10-13T07:00:00.000Z",
       "fuente": "Caracol Radio",
-      "imagen": ""
-    },
-    {
-      "titulo": "Durante la semana de receso, restaurantes de Santa Marta registraron afluencia del 40%",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1VLUXdtUl9yVWRROThaSDZ5cGVXNUoyYmQ5RV9LSnEwUjVaaDJDUFpLWVRHQUVJLV9zUXFnTDdkV1N3RGREX0dIenlleXpqV1V5eXduNTh6TUt6ZUNXdjZtSlhsTW9FYWxKaERRNzhRalVGbFB3REJJNFhSNHRjOFFDZllGN2l3US1NMUZQQzctSmswSm5iajJNOUJISFc2b1FkUlg1M3RzQlFiN1hpYm15T3BGQy1sVlE?oc=5",
-      "fecha": "2026-10-13T07:00:00.000Z",
-      "fuente": "Seguimiento.co",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Felguera acoge la XLIX Fiesta Gastronómica Su Excelencia La Fabada",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSWNIR2tFRTVUdjR3RFRNaDZTM1VvRWpHaXZpdEVZN1NrZWZnYmMtTDFmdVBVbXZ5X1BSaU5LV3RqWm5SQXZGaHFxRlNjbk1pRThUX3dMc1l1cWVVcFlvSDlsSkFEQUdjaV80YUtOSndkQWNSdXZFcUNEX1JPM0s4VUh4TmJPemR5Q2FMZDNrbThzY0Qyd1pWREhCTTV2V01BQlRSRTBTNlFRYldGVWpwS2Q2ODF0XzZsOEJ2WGppazZYcGdKOFE?oc=5",
-      "fecha": "2026-10-13T07:00:00.000Z",
-      "fuente": "El Búscolu",
       "imagen": ""
     }
   ]
