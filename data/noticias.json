@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-28T00:10:57.101Z",
+  "actualizado": "2026-10-28T05:59:44.715Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Casa de España acoge encuentro que combina gastronomía dominicana y asturiana",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0M3Wkg5dmJJbWt1UDN5S1k1Qk5oYnZIVk4wNThBcHRqTDNDdGlnU2Q4LW5IYjRWQlNneTVRQm1EV0dqNXNCUllZVlg0aWJNbXpLRmp1MzJ2czNQZGFEckpQT0h4UUY1YTFrcTI3Slp3dU9tZXBmdWNNaWZZd1lqOTJ3WURtUkFXTEVLa0ttV3NuR2xYemNYU1VuRGZia3RCYS12U1Y4ZFFuSWVha3NGcU9SeEZCeXpGRmfSAb8BQVVfeXFMTzhIcnFuYTE0Q3ktN2dtckU0RFZYa3pQZHJUVkhmM2UxX2tiTkdCVXRkODZFX0pueElob1piV1FGZ21Fa21vM2VvZm1rYkI2X2xpRE1pY0d0Y0lGcUVlbXRhN3cxcGNSMVFFSGNMSUdIMDVnMVphanFSTnVlcV9KNWpTajhnOVluSFNJWXp5NUd2aXhOWDZ1R1U2bndDSVZCY3VJejJ4LVh3S0s0SVU0OWdWYzBMemFfMVBDVEhHNWc?oc=5",
+      "fecha": "2026-10-28T02:39:49.000Z",
+      "fuente": "El Nacional — La voz de todos",
+      "imagen": ""
+    },
     {
       "titulo": "La Provincia anunció un descuento del 30% en la factura de luz para hoteles, cabañas y restaurantes: Cómo inscribirse",
       "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSmxGV3hxTmV4R09ldWRhVTl6YThKQzQyYUNfVUNHTlc1VlU3YV9xOXZkRUhfTllxeWdhdTZJWjF6VERadWlaZVY4ZDVLbVRZVGI3dktqbmdTTEZjdnE1bGdiNE5vNkFzUlVLdWV4YmJVdEZRQklyNExQV25xTk5RZkoyUHV2WC1UUnl2NllqRXd4OXVTWklPYXZmYjA1c3dmUjR3LTRiWXdNNUR5cjU0NkxwTDluU1RYUGFXdzJ5TlM5N2ZraWhtVGFib0NRekU0S2lCX0twYTVWVGRSSk1ncW1lM0czY3ljZ3JyN3ZxbHE?oc=5",
@@ -207,13 +214,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Los Montesinos acoge este sábado RECine Event, una experiencia cultural que une cine, música en directo y gastronomía",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSTE1aUtaSEZXOU9jMmZaMDQ5aEtnSmo1S0xMUk1fb1RXV3ZtQmpqMzBXazladmVfal9sZHJna0NvZVh0eEpGd25tUmxTSGs5SVllaW1zdzZXZE5MSkttSFJNQW1rTHl1QVF3dF94VUVYaHR5MGlrZlBXa3hhdmxId2szd3FhWFdMMEhvZnNQMjdlTmY0SUJydkVNWW1kdGpKTWg5RzVJNkdnQ0hSTXE2UGVqZDA0V1M2TERxZ21DZHB6X0wyb3NETV9ua3dDY0FFTml1dndnTWRUczJx?oc=5",
-      "fecha": "2026-10-22T08:48:11.000Z",
-      "fuente": "Vegabaja Digital",
-      "imagen": ""
-    },
-    {
       "titulo": "Restaurantes, bares y cafeterías en Colombia tendrían nuevas reglas e impuestos: así es el proyecto de ley",
       "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTVJ5Rm9hSnZhVTJGcEdJa3JSZ2JTMWNGUjFFQlpEaHVfZmliYkZpR1FiSnVjV0FCT1RiZnd0dW5LOFBjY09SdkpVTFY4azFPVkI4OFZUT1RFeGRGQkdtN3RLS2FydS15TktEU1g2c1B4aHNnWXpsT25aMWplOVZLMEE3bkdfdlhlRktVVk1vTXk2S3ZKUmZDa3ByRnphUnN0NFdSVVJIRVZLZHdJRk1nenVQSTJTak5TOEFpX0lvdUdMcks2d0VQai1jRDBCZ2RhTHRNSTJFOGRBQWZTT2N6LWlWVW85WWJPeVhJNW01RnpvTFJ2WENOM1JXOU7SAYICQVVfeXFMT3hTemMzN1lnSndmN2trSnNBSWdKVDZVZW1FbzR5QURmYU90RW5vTUhQOUk4UUFpNk5idUdHNkRBdzYtVVFSX2RtOU1wUERaR0pIaGtIWDVFekFaTE1FVUxsWWlxZlNmVFVtTnpDTWNsdmduQm9DS2RfSUw3UVJoNFBiUldpTjg2c3kxVFZja21DRkd0Yko1cWdmTjlOcFYxRnFQSlJsMmVtT1FockFXNFBDZDRCWWt2N1FRdkgyb2JyVUVTcEFqbTFwRU1VekFJc0M2bFJqRXJSWHRONzhuZnIzdlctNXNDQ3EtU2Q3ZGxqVGJqLWRIYjJmbXpydGx6RC1R?oc=5",
       "fecha": "2026-10-22T01:42:38.000Z",
@@ -222,10 +222,17 @@
     },
     {
       "titulo": "Restaurantes, bares y cafeter&#237;as en Colombia tendr&#237;an nuevas reglas e impuestos: as&#237; es el proyecto de ley",
-      "enlace": "https://www.msn.com/es-co/noticias/other/restaurantes-bares-y-cafeter%C3%ADas-en-colombia-tendr%C3%ADan-nuevas-reglas-e-impuestos-as%C3%AD-es-el-proyecto-de-ley/ar-AA2fLElC",
+      "enlace": "https://www.msn.com/es-co/noticias/otras/restaurantes-bares-y-cafeter%C3%ADas-en-colombia-tendr%C3%ADan-nuevas-reglas-e-impuestos-as%C3%AD-es-el-proyecto-de-ley/ar-AA2fLElC",
       "fecha": "2026-10-21T18:28:16.000Z",
       "fuente": "Semana on MSN",
       "imagen": "http://www.bing.com/th?id=ONUT.I3IhoB2UNE_Eu-whbH8qCA&pid=News"
+    },
+    {
+      "titulo": "Los Montesinos acoge este sábado RECine Event, una experiencia cultural que une cine, música en directo y gastronomía",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcVJhRzNTQlViTlZ1MEpNSkxGUHYzQXdQOHE0Sm9NQlZyOGZycTVFS2dXT2laU1NKd0kzVHFYN0kxdllIZHJWY1ZrRm9tajlXQVFIWkxrb3lBVFg1c3h2QzFNNGRQQnZMS0R2S3ZZR2JtQzdqVGFPWWxpUDN4WVlmV1R2UTR1aXNtczZYVXVZRzRFOXBlQS0zb1R2Mi1SN2pCY0YzLXA5SVdXNXJxY3laMl9WWU5GcXRZemIxak4yTFZNcjM2VlNGNjdSV1VQbDJPYVN1U0pfMWEzb3lpbXFNRQ?oc=5",
+      "fecha": "2026-10-21T18:21:20.000Z",
+      "fuente": "Todo Cultura Vega Baja",
+      "imagen": ""
     },
     {
       "titulo": "Los Montesinos acoge RECine Event que une cine, música en directo y gastronomía",
@@ -291,10 +298,10 @@
       "imagen": ""
     },
     {
-      "titulo": "Los retos financieros y laborales de los chefs para sostener sus negocios gastron&#243;micos",
-      "enlace": "https://www.larepublica.co/ocio/los-retos-financieros-y-laborales-de-los-chefs-para-sostener-sus-negocios-gastronomicos-4506741",
-      "fecha": "2026-10-20T05:03:00.000Z",
-      "fuente": "La Rep&#250;blica",
+      "titulo": "Los retos financieros y laborales de los chefs para sostener sus negocios gastronómicos",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkp0TUk1WkVSZmp5Q0c0Tno0Ny1JX2RNaHhzODY1NzdtVlBJRUJnNElpVlJORFByc2ItY2JFTXhyLXI2LUQwOFZ5QzRuRWNoYWF3dnJxa0wyZk1FT21PRWlkM2xBSm9YcHlBbzR4bk8tYnd6MElJWmZBSUQtQ19WZEdBUElkcTlPbThyN3ZrSkdVZlBQRjY2eEhweFJXR216a2lsRU1JOFV0OWZFeUtzcXpWQ3p4aUpQS1p5RUw0SmdpbTBmcEHSAcYBQVVfeXFMTmlNZFF3QkQ4RDlpbWlCQm9mUHU5a3liLV8wRWhMUXVqdl9RSVA0R3FPRlAyaGtrbm9ZWml2YkJNT0pyVWFwMUJITGJaWXczc3ZyMGRSeE9MOTc1SkpfWm5jVEFGLXU5Q0dIMlJsbHAxMmY1WENHM2JLeEJ3bHFaVVVKTURVcUlmRVAtb0s1a0tBellRNVhVQUljMVBCUlNDWFpVT1p1WUw5MHNWT0J3ZHllc2hzYUV2TWpCd295bzhGNHlrT2Fn?oc=5",
+      "fecha": "2026-10-20T12:02:46.000Z",
+      "fuente": "LaRepublica.co",
       "imagen": "http://www.bing.com/th?id=ONUT.jlqqvGvRd_2zqXc7K3CWhw&pid=News"
     },
     {
@@ -309,13 +316,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTlWNGw2Q0xtbHpqcDl1a0VHTFRIbDhHVlkzUHd4ZV9oNUFFZ1JkZENlODVzVDRaeDIyd3pHT3doaWtRMFdfeDN4ZTRjanJtWFNIc2VhUFktMWR1d2pqRmNqS3BYUDEwbVo2MEh1clZaNXQzd2JPRGVDM1dRM004SUZSWFhHVWdFT3QyeW8zUDMwTmN5dWxDZmljUzQzM0JPbnY1TVc1YnB1R1k?oc=5",
       "fecha": "2026-10-19T21:51:57.000Z",
       "fuente": "360 Radio",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿Crisis en el sector gastronómico de Medellín? Altos precios tienen en jaque a los restaurantes",
-      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLV93Z0FqdGEyRTNsMXFrT1FsajVRZ3RQVmtoVExhY3VmeFJuc0F5MVZiMXdiT2pNUVdCeldjY1pmUk1KYmRaSXpjNDRXM0xOcWJnd3hGRERvc1dScXczMW44aDVMeGdudXYxRlhWTXlzdlZmb0M1ZWRTUVFXaERqTTVmUmtKOVNVNEMxQWpFUmFKMzBEVTFEMTk1WWNwS1g0d24wM3p0cWFaLVJxNkZfdEdMSksxZlByZlFNRUtUQi1rb3RuYlJ4ZnFpWWZKVFVCLVMwVDlXVUVqdw?oc=5",
-      "fecha": "2026-10-19T17:11:19.000Z",
-      "fuente": "Blu Radio",
       "imagen": ""
     },
     {
@@ -340,13 +340,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.rjFynw4S5JuwDEXAVUfdHg&pid=News"
     },
     {
-      "titulo": "El Hotel Abba Fonseca acoge el III Foro Gastronómico de LA GACETA: «La gastronomía forma parte de nuestra identidad»",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFFOMU1TREtLU2hSX1oySTVpbHlGOTZJNFhlVVk2dm92WUF3VnVnN0p1SVRWbE96N1hLZDhKT0wyMS1rZ2ZTMEotbWNRaDRyQ25FNHVBU0Z6MUNvRGhXc3FpX1hWOWRTaWZhZG1xTGFfOFI2bGxzbDRYYXVIZlhDOVpHQXFMQzhLZzEyazdqM0RGbEcwQzVKNlBWUjUtY2Q4REF0VFFWdEJmZmFpMW1hTEZnMTfSAboBQVVfeXFMT1VCa3dQajVxVVJxNWxWNVpjbm15a0p2RVE4V0dVc1RpQUVNYzU5SnRlMTBMUWYtbWtJREE2VVl6QUxIeUIzanJXeXNuZXIyOEhyUlJjWWw4emJvekhFUUtBMHdHWnZKNjUwdkczaDRKRDlpc3J2UnI0N3BMZ2xnLTFWeXVOaF9JUWg4M0VYRjd6bFVESmJWcmN3cHJYMURJSkdfbzZqWXdMem1EOFdiS2ZHd0FUSnI1RVRR?oc=5",
-      "fecha": "2026-10-19T10:01:15.000Z",
-      "fuente": "La Gaceta de Salamanca",
-      "imagen": ""
-    },
-    {
       "titulo": "“Las cuentas no dan”: restaurantes de Medell&#237;n esperan cerrar 2026 en tablas",
       "enlace": "https://360radio.com.co/medellin/las-cuentas-no-dan-restaurantes-de-medellin-esperan-cerrar-2026-en-tablas/",
       "fecha": "2026-10-19T09:51:00.000Z",
@@ -354,10 +347,24 @@
       "imagen": "http://www.bing.com/th?id=ONUT.kvnTtqJ07WdosCrgA2l0vA&pid=News"
     },
     {
+      "titulo": "¿Crisis en el sector gastronómico de Medellín? Altos precios tienen en jaque a los restaurantes",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLV93Z0FqdGEyRTNsMXFrT1FsajVRZ3RQVmtoVExhY3VmeFJuc0F5MVZiMXdiT2pNUVdCeldjY1pmUk1KYmRaSXpjNDRXM0xOcWJnd3hGRERvc1dScXczMW44aDVMeGdudXYxRlhWTXlzdlZmb0M1ZWRTUVFXaERqTTVmUmtKOVNVNEMxQWpFUmFKMzBEVTFEMTk1WWNwS1g0d24wM3p0cWFaLVJxNkZfdEdMSksxZlByZlFNRUtUQi1rb3RuYlJ4ZnFpWWZKVFVCLVMwVDlXVUVqd9IB5wFBVV95cUxQWmFTVEdOY1VRUENuLWNNSmN1aDBkQ1B1Q25yS3liMFluQ2szcjdNM3NVdmtkZFdmZHJieG9mRURUSXlhWENOUWQ1ZDZmRElQTFU0a0N6NDQwOF9yMG1qNHYybTdzUjFUdGk4czdybGttQld6VVd1elQyYnNLWlpMODh4ZlBWai00aUpuYWF2UGxqSXlucjBKb1BlalpBOVQ0Sy0wMkRQd0FOQ3JBb1JFVUw0ZzNmVFVRMmJ4X0ZkRU01QldvTldQOWhSVUxZTGJ0THZyMGRidnRjYWljUFk2SkFyLTdGODQ?oc=5",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "fuente": "Blu Radio",
+      "imagen": ""
+    },
+    {
       "titulo": "De la tradición a la innovación: Vila-real acoge la cocina en vivo con el reconocido actor Juan Echanove",
       "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb3pwSE94aFJGMjhsUU9xYjZZXzhkeVd0eXF3ZmRzYXFOazZLNy1FSXNWbUdSajVtckF2ZWJnbUVnMnM2TklKMVFfeW83ZTE1eFRXLXo2ZU1xUkZwNk5pRkg0NHZuZ1FGYTBwbW9hM1VYVFFtbWxMZWp4WW9PNlIzdlA1czBiUU9zN3ZxVTM0azJfVWJ5Vmd5b0lmdmI1b19XTVdXam42Q3M5YU9sSmtablFzZGctb2tkV3lXZ1piTTFzUFpVcE80ZU9Kam1CMTFSQ2owV0hVazNSaVk3Mmg5aFctNXcydTA3OEZN?oc=5",
       "fecha": "2026-10-19T07:00:00.000Z",
       "fuente": "Castellón Plaza",
+      "imagen": ""
+    },
+    {
+      "titulo": "El Hotel Abba Fonseca acoge el III Foro Gastronómico de LA GACETA: «La gastronomía forma parte de nuestra identidad»",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFFOMU1TREtLU2hSX1oySTVpbHlGOTZJNFhlVVk2dm92WUF3VnVnN0p1SVRWbE96N1hLZDhKT0wyMS1rZ2ZTMEotbWNRaDRyQ25FNHVBU0Z6MUNvRGhXc3FpX1hWOWRTaWZhZG1xTGFfOFI2bGxzbDRYYXVIZlhDOVpHQXFMQzhLZzEyazdqM0RGbEcwQzVKNlBWUjUtY2Q4REF0VFFWdEJmZmFpMW1hTEZnMTfSAboBQVVfeXFMT1VCa3dQajVxVVJxNWxWNVpjbm15a0p2RVE4V0dVc1RpQUVNYzU5SnRlMTBMUWYtbWtJREE2VVl6QUxIeUIzanJXeXNuZXIyOEhyUlJjWWw4emJvekhFUUtBMHdHWnZKNjUwdkczaDRKRDlpc3J2UnI0N3BMZ2xnLTFWeXVOaF9JUWg4M0VYRjd6bFVESmJWcmN3cHJYMURJSkdfbzZqWXdMem1EOFdiS2ZHd0FUSnI1RVRR?oc=5",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "fuente": "La Gaceta de Salamanca",
       "imagen": ""
     },
     {
@@ -379,6 +386,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82UDVxUnRDMS02bnlEeHZZTEEwak1CY1FqMlZyWVNGb0dYU1JmSXdDNUpPY3Uya2lzRDZqVGFqOG9TMWJidkpFTmFPb1ZBWWRfZFRXbWJOR0NyZFYtN3pacFI0VUFBTmhvWGhCSmlGZ2MyMEJXMVNyY2FjNXp6ZkU?oc=5",
       "fecha": "2026-10-18T07:00:00.000Z",
       "fuente": "Valenciabonita",
+      "imagen": ""
+    },
+    {
+      "titulo": "Valledupar celebra la quinta edición de ‘Come Valledupar’, festival gastronómico con más de 26 marcas locales",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOGk3QXp3M203WHRhUXFQRXI0U1VSV1FKV3RkRHBNZHhxRl9KQXZja1ZrblR0bGNrYzRSZXhVX3NjdFFzM2NmSHZtVEJ2N3Y4ZHRzSkVJemlXTS1zN0FCLWczRTlpanJDaU1wMWFxa3dOaER0Qk00Ny1xMzB0VmQ5U1d3bFVlbkpjR3BqSGhtR2VteTJhc2xfYXFKQUphcTd3NU9mSG1VQnlhWGQ2dmhYa09oT2Y5Skl6eFk2ck5QVFRHRUFmdnVWU1RB0gHPAUFVX3lxTE9jQ2VWSkhkZGNIYUR3aU1XUzgwX3BtU183Vzl5MFZHb3pOcXZNN3V5ZG5yWEJjdFloT0prTEZvVEFHZ1BhX2taYTcxb0dsOVZqMG4zcU9tZmhZcFBpdExsN3p5Yk10bDFxTHUyNDlhWVRLWVJpeklFb0NaMkxFME9DckxaMEFPUmtJZWlpNkFuSlFaUE9aaW40RldHQ09qMUMzTWFLb0pJSHFabDNIRU1xSHhiRkRZX1VldGdrQlN5TXlXTGV4cnRQU3ZEXzhSdw?oc=5",
+      "fecha": "2026-10-18T07:00:00.000Z",
+      "fuente": "Pulzo",
       "imagen": ""
     },
     {
@@ -445,17 +459,17 @@
       "imagen": ""
     },
     {
-      "titulo": "Acodres pide extremar controles para evitar tragedias como la de Hello Life en Bucaramanga",
-      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcXBQZ3REZGdRX2RrRlZadkJ0QWF1ak9QV3MtYjdNWWpWV1lyMW9HZkMxMjl0cDJRZGFkeHBBMzRnQ3FYcHNPRTBWTkRXelkxRi1NWWJScGJNTmtVQWwtVHNKNHl0RUd5bnkxcndOWVhDMWZYNGdLOHZoNlFsemktN3g2MXpicVgyMVZFalZKREljU3dnbElXbzlycjVFZzE0VTdzSkVXQ0JFdmZGVGg0M3NZWDJpd3haYm04ajhNdlNNS1HSAdcBQVVfeXFMT3A1VXhwN0Zvck9rNWtVUjZUeEFmWS0zblVQMTdHYV91T1ZjOEhVTkVLX1FjY2FVQkxmZWtpeU9aRUFoNkczWGlYUFhBOHBhU2hydFpPOGRIMS1MSlJBbzVYWktNeDlQRnk1ZGt1dHBVMzZlVGs5UFM5MXRWN3pxOXNCRVhSVW1sMzdwM1Ezcl91dTctS1dsQ3VvblFsODJJOU9lMzNkMXluYlhqVWNVQllua3pMYnJOc1RmR01SZ0NqQXVocU93NlpFc2dUSUMxTjlVN0p2RFk?oc=5",
-      "fecha": "2026-10-16T07:00:00.000Z",
-      "fuente": "Caracol Radio",
-      "imagen": ""
-    },
-    {
       "titulo": "Por quiebra, Presto se va a liquidación y busca comprador para evitar el cierre de sus restaurantes | El Colombiano",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUVmMWFzYUp0Rk1qcUFMaGN1Qk00dmlWVThLQnd6XzhIQUtFVlJaTEk0eENsMWRuclg5akR5M2pDQW9NVnktaC14SWlWR044Y2V4b2NhbnB3b2VzcTA0aERWV0djbHZ2R3F6OWF4T29IaHlseGVGUl9MY1BVTWYtQ0FIV0o0YUxRcVdMVUs4eHZzOWdVZkU4VDU2dlJCYjFRY3Zodnc3M2Npd9IBrwFBVV95cUxNMG40RzlYdXdiYjJaVTB5ZTljUXpiNExDaTBwM2FXd3JGZk5rZWF4S3NQR3FkZTQtNlgwZjRBMnZ6Vl9VUThaU2V3ZkY1ZG00aG4xSnN5bGNOOEtKYTNDTzQyb3lGVVF4N3VnRFdkSTNFT1lZNkd6d2RMeGhvT1ZuTlBLSUZQYTVsWXZuTEMyV2xzaWplX3lwQlZ2YmR2eUN6NzNSU1RqY29hNmYzM3pJ?oc=5",
       "fecha": "2026-10-16T07:00:00.000Z",
       "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
+      "titulo": "Acodres pide extremar controles para evitar tragedias como la de Hello Life en Bucaramanga",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcXBQZ3REZGdRX2RrRlZadkJ0QWF1ak9QV3MtYjdNWWpWV1lyMW9HZkMxMjl0cDJRZGFkeHBBMzRnQ3FYcHNPRTBWTkRXelkxRi1NWWJScGJNTmtVQWwtVHNKNHl0RUd5bnkxcndOWVhDMWZYNGdLOHZoNlFsemktN3g2MXpicVgyMVZFalZKREljU3dnbElXbzlycjVFZzE0VTdzSkVXQ0JFdmZGVGg0M3NZWDJpd3haYm04ajhNdlNNS1HSAdcBQVVfeXFMT3A1VXhwN0Zvck9rNWtVUjZUeEFmWS0zblVQMTdHYV91T1ZjOEhVTkVLX1FjY2FVQkxmZWtpeU9aRUFoNkczWGlYUFhBOHBhU2hydFpPOGRIMS1MSlJBbzVYWktNeDlQRnk1ZGt1dHBVMzZlVGs5UFM5MXRWN3pxOXNCRVhSVW1sMzdwM1Ezcl91dTctS1dsQ3VvblFsODJJOU9lMzNkMXluYlhqVWNVQllua3pMYnJOc1RmR01SZ0NqQXVocU93NlpFc2dUSUMxTjlVN0p2RFk?oc=5",
+      "fecha": "2026-10-16T07:00:00.000Z",
+      "fuente": "Caracol Radio",
       "imagen": ""
     },
     {
@@ -470,7 +484,7 @@
       "enlace": "https://www.bluradio.com/regiones/santanderes/acodres-pide-reforzar-prevencion-en-restaurantes-tras-muerte-de-mujer-en-bucaramanga-rg10",
       "fecha": "2026-10-15T14:23:00.000Z",
       "fuente": "Blu Radio",
-      "imagen": "http://www.bing.com/th?id=ONUT.uD32sx8_iMcnNJzwl3MU-w&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.IK81K6VcQCOaGnSLEcz4fg&pid=News"
     },
     {
       "titulo": "Badajoz acoge por primera vez el Campeonato de España de Cocina y Repostería con 18 equipos participantes",
@@ -547,20 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWxfZ0xleVI5VGl2UHNRMHJtRDUtTk5JNUdvcDlheUc2ZE0zTjRNQ0dRTEp5eEpiTWFLd2RfdVVLSEM0UDl5cTQ4R2NWbzQ4bVZBVG5LRlFOVHZ2cGtWSy1nNkt5dWExRnRlV1FRNVlTS0lRTWFaazVKdVpZSHFOVm14bG53LXpsZ2hpVkZtNmZNOHMwNGRwcVBEUlc4QzdzOUdaNjJVb0RyelQ2amU0cmVHX1hQWmZHdnBwUmxB?oc=5",
       "fecha": "2026-10-14T07:00:00.000Z",
       "fuente": "IFM Noticias",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿Cuál será la mejor del Pizza Master del 2026? Estos son los restaurantes que participan en Medellín",
-      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdHB4bTJfeXA3LVFIQjZzemZyS2tjY3NrM0NTTjVRSV9LSVVHNEZkQUxwa3pERDR2djdQNkZ3Z0U4czdGY2R3UHlmelB2THJRbkQ5RDd4Z1RxaFpwRkRmMmxWc3BuMElJTTF5WW5IX3lNUjU0Tjk4OFpKZk5vVDhMYw?oc=5",
-      "fecha": "2026-10-13T07:00:00.000Z",
-      "fuente": "Telemedellín",
-      "imagen": ""
-    },
-    {
-      "titulo": "Restaurantes de Santa Marta tuvieron una afluencia del 40% durante semana de receso de octubre",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeENBX3ZtVkZLT29OQnc5RVZzVndLTHpYdmQ2V3hQT1U2Mkl4TUlJRGF3RHhSd3R5U2k1ajhqTjdENHlGLW45b1dLa0hmbVE0b1RrWWNMR19nS3RmZk9HdGRfcDZCNDdRcEtiUE8xLWZRTGthdFp3S0Q0cTFNaGJTTUN5QUlPaF9CY2dGVVQ3U1RLV2RDSDZGdEU5TnpzRWfSAbMBQVVfeXFMTjc3MmFMaENnNXBVMzNacWIwSUlIcjBhWk54T3BXOWNvR0d0Y0hqMUxfVThwNTNpV3pYY2dnU3FVV1ZBWkFqeDQtV3NDVUhPQ1FsWVQyNnZvWF9aYnRSN0x6OXlCRDJ4MUlaWEU5X0haYUF6WFJRc0hHUVlmaXY0Y3B2YXZUZXhmTUdZX1EwMHp3VWphRmE0R19YLUhpUjgzTW1LdFRLVEtLNUIxNGZyeDAySlk?oc=5",
-      "fecha": "2026-10-13T07:00:00.000Z",
-      "fuente": "Caracol Radio",
       "imagen": ""
     }
   ]
