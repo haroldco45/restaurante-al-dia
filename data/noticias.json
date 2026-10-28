@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T12:28:09.681Z",
+  "actualizado": "2026-10-28T18:26:51.902Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
@@ -64,7 +64,7 @@
       "enlace": "https://www.msn.com/es-co/dinero/general/restaurantes-de-medell%C3%ADn-est%C3%A1n-contra-las-cuerdas-gremio-revela-qu%C3%A9-est%C3%A1-golpeando-sus-negocios/ar-AA2g6iLj",
       "fecha": "2026-10-26T10:09:15.000Z",
       "fuente": "Publimetro on MSN",
-      "imagen": "http://www.bing.com/th?id=ONUT.9AuwTPNeXMzsmWfpO4ggGg&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.ex8395g-hO1WAWqsItvdiQ&pid=News"
     },
     {
       "titulo": "Domicilios de corrientazos en Rappi subieron 160% este a&#241;o: la bandeja paisa y el sancocho reinan en Medell&#237;n",
@@ -85,7 +85,7 @@
       "enlace": "https://www.msn.com/es-co/dinero/other/los-ingredientes-y-la-n%C3%B3mina-se-comen-los-restaurantes-van-520-cierres-en-medell%C3%ADn-este-a%C3%B1o/ar-AA2g5mIn",
       "fecha": "2026-10-25T13:08:25.000Z",
       "fuente": "El Colombiano on MSN",
-      "imagen": "http://www.bing.com/th?id=ONUT.r_j-_qCJVBl9dwstUAnINg&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.GQlL84t-WnO8rucaCMgEIg&pid=News"
     },
     {
       "titulo": "Restaurantes peruanos en jaque frente a El Niño: La escasez de papa, limón y pescado pone bajo presión a la gastronomía peruana",
@@ -222,7 +222,7 @@
     },
     {
       "titulo": "Restaurantes, bares y cafeter&#237;as en Colombia tendr&#237;an nuevas reglas e impuestos: as&#237; es el proyecto de ley",
-      "enlace": "https://www.msn.com/es-co/noticias/other/restaurantes-bares-y-cafeter%C3%ADas-en-colombia-tendr%C3%ADan-nuevas-reglas-e-impuestos-as%C3%AD-es-el-proyecto-de-ley/ar-AA2fLElC",
+      "enlace": "https://www.msn.com/es-co/noticias/otras/restaurantes-bares-y-cafeter%C3%ADas-en-colombia-tendr%C3%ADan-nuevas-reglas-e-impuestos-as%C3%AD-es-el-proyecto-de-ley/ar-AA2fLElC",
       "fecha": "2026-10-21T18:28:16.000Z",
       "fuente": "Semana on MSN",
       "imagen": "http://www.bing.com/th?id=ONUT.I3IhoB2UNE_Eu-whbH8qCA&pid=News"
@@ -305,13 +305,6 @@
       "imagen": ""
     },
     {
-      "titulo": "¿Crisis en el sector gastronómico de Medellín?: Salir a comer se volvió un lujo, pero restaurantes están al borde de la quiebra",
-      "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPR0d6cTdOWkhfbUdzYnFwSjhyQWc1STJocUtnbXZzc2NKQ21DMkpyWU9wTEEydzM5ZTctZ3JFc3AxbGJHTjQ2ZndmODhIMmtVd29IMUp1OEFiS3Y5Z0ppS2NWUHFHaDlZbVBuZThwUngxNTlwSlpBSU9SUGRMR0gwZ3Jja0E5TVNGbmxia2JzRjBGc3U1YktlMGZhZWpPdm5yLUpPdGpjdXVfZWluclZLVnhxeGFwWmRjQjQ0ZzQ3YVhsQUI2SlNpZmhqdmJVcXo1R1A1d21id051OFgtVzNXV0NtSnFMdHNQdjRrMW9ORTZ1a0p0b2NxczU5dUJFaTJQM1HSAYcCQVVfeXFMT1YzQmRubHNLQkhCdm9LbWRPeGJRb19RT1Y3ckprSm5DUm5wV016cmpGa3A1Ni1OeE1zUmVoM0F6bkZRaGdKMXl3akdZbF81Q0hocWZNWVJDblpNazdvOXNqQ1RzN0RyMG9qV3VYZzlLazM2U1JwWWUzNmkwWFo3UVd3SHNGaUw5Y01qa1ViejJjb2R4emExYzlZM1lnRUoyWU10YUhESWdjSHBub1g5VlFSSEdRdFdhSUtZbnRZUF9DTzJBcXRWZ2dxTDRwS3hoWmpVeHA3a3JhTW52OWxfREdQQ0lRN1RxTng3eER4c3FCRnpGdUZnN0NBLXprT25sYXBvVmhfWGM?oc=5",
-      "fecha": "2026-10-19T23:07:39.000Z",
-      "fuente": "Revista Semana",
-      "imagen": ""
-    },
-    {
       "titulo": "“Las cuentas no dan”: restaurantes de Medellín esperan cerrar 2026 en tablas",
       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTlWNGw2Q0xtbHpqcDl1a0VHTFRIbDhHVlkzUHd4ZV9oNUFFZ1JkZENlODVzVDRaeDIyd3pHT3doaWtRMFdfeDN4ZTRjanJtWFNIc2VhUFktMWR1d2pqRmNqS3BYUDEwbVo2MEh1clZaNXQzd2JPRGVDM1dRM004SUZSWFhHVWdFT3QyeW8zUDMwTmN5dWxDZmljUzQzM0JPbnY1TVc1YnB1R1k?oc=5",
       "fecha": "2026-10-19T21:51:57.000Z",
@@ -344,6 +337,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLV93Z0FqdGEyRTNsMXFrT1FsajVRZ3RQVmtoVExhY3VmeFJuc0F5MVZiMXdiT2pNUVdCeldjY1pmUk1KYmRaSXpjNDRXM0xOcWJnd3hGRERvc1dScXczMW44aDVMeGdudXYxRlhWTXlzdlZmb0M1ZWRTUVFXaERqTTVmUmtKOVNVNEMxQWpFUmFKMzBEVTFEMTk1WWNwS1g0d24wM3p0cWFaLVJxNkZfdEdMSksxZlByZlFNRUtUQi1rb3RuYlJ4ZnFpWWZKVFVCLVMwVDlXVUVqd9IB5wFBVV95cUxQWmFTVEdOY1VRUENuLWNNSmN1aDBkQ1B1Q25yS3liMFluQ2szcjdNM3NVdmtkZFdmZHJieG9mRURUSXlhWENOUWQ1ZDZmRElQTFU0a0N6NDQwOF9yMG1qNHYybTdzUjFUdGk4czdybGttQld6VVd1elQyYnNLWlpMODh4ZlBWai00aUpuYWF2UGxqSXlucjBKb1BlalpBOVQ0Sy0wMkRQd0FOQ3JBb1JFVUw0ZzNmVFVRMmJ4X0ZkRU01QldvTldQOWhSVUxZTGJ0THZyMGRidnRjYWljUFk2SkFyLTdGODQ?oc=5",
       "fecha": "2026-10-19T07:00:00.000Z",
       "fuente": "Blu Radio",
+      "imagen": ""
+    },
+    {
+      "titulo": "¿Crisis en el sector gastronómico de Medellín?: Salir a comer se volvió un lujo, pero restaurantes están al borde de la quiebra",
+      "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPR0d6cTdOWkhfbUdzYnFwSjhyQWc1STJocUtnbXZzc2NKQ21DMkpyWU9wTEEydzM5ZTctZ3JFc3AxbGJHTjQ2ZndmODhIMmtVd29IMUp1OEFiS3Y5Z0ppS2NWUHFHaDlZbVBuZThwUngxNTlwSlpBSU9SUGRMR0gwZ3Jja0E5TVNGbmxia2JzRjBGc3U1YktlMGZhZWpPdm5yLUpPdGpjdXVfZWluclZLVnhxeGFwWmRjQjQ0ZzQ3YVhsQUI2SlNpZmhqdmJVcXo1R1A1d21id051OFgtVzNXV0NtSnFMdHNQdjRrMW9ORTZ1a0p0b2NxczU5dUJFaTJQM1HSAYcCQVVfeXFMT1YzQmRubHNLQkhCdm9LbWRPeGJRb19RT1Y3ckprSm5DUm5wV016cmpGa3A1Ni1OeE1zUmVoM0F6bkZRaGdKMXl3akdZbF81Q0hocWZNWVJDblpNazdvOXNqQ1RzN0RyMG9qV3VYZzlLazM2U1JwWWUzNmkwWFo3UVd3SHNGaUw5Y01qa1ViejJjb2R4emExYzlZM1lnRUoyWU10YUhESWdjSHBub1g5VlFSSEdRdFdhSUtZbnRZUF9DTzJBcXRWZ2dxTDRwS3hoWmpVeHA3a3JhTW52OWxfREdQQ0lRN1RxTng3eER4c3FCRnpGdUZnN0NBLXprT25sYXBvVmhfWGM?oc=5",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "fuente": "Revista Semana",
       "imagen": ""
     },
     {
@@ -484,7 +484,7 @@
       "enlace": "https://www.bluradio.com/regiones/santanderes/acodres-pide-reforzar-prevencion-en-restaurantes-tras-muerte-de-mujer-en-bucaramanga-rg10",
       "fecha": "2026-10-15T14:23:00.000Z",
       "fuente": "Blu Radio",
-      "imagen": "http://www.bing.com/th?id=ONUT.IK81K6VcQCOaGnSLEcz4fg&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.uD32sx8_iMcnNJzwl3MU-w&pid=News"
     },
     {
       "titulo": "Badajoz acoge por primera vez el Campeonato de España de Cocina y Repostería con 18 equipos participantes",
@@ -540,7 +540,7 @@
       "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXNVU3RycGV2ZXBFXzRpb0Naa3ptS0phTzZudnlWWTB4ekdWNnVMTFhUNzlKU2VWWTYxblM0ckhOZFphN2RxdHkwUklCanhFX181ZEM4ZU1MNGFFQy1HeDFVa2VHZTlzcHpzQXRFSHpsZHk3b3l5MzMzeEI5ZGZnNkFYM3JsblYxc0ZzNmI1Q1Iwelo4NUpnRW1fNmdKaUJPS2tZNU4zMXg0SXhmQnlrM3F0akVDQk9RbE1mNVpHdzjSAdQBQVVfeXFMTUdaMC1ub29GQnp1bEppMVgyU0hyVFk3U3RJQ2tqZ09hbUJjeDI5djd6UllMaFhUZGtKUWxJWFpDcXJyNy1FcjVDUGVQNmhOcXBPcDhMZWxNYV9uTmZVLXFEQkZDTEpELTNNSm41cjltTFRPbkFjZGY1X3BxUF94SjFYaGt1N1lKQ2xHVS0yN3E1aVhIV01Gal9rM0QtOHRnYlJja0lQdURXM2ZhSy1lMTdGZzhxR3ZreEpWWElHcVNqUkptS3N2NV9IcGZ5Um9jVFJPaWw?oc=5",
       "fecha": "2026-10-14T07:00:00.000Z",
       "fuente": "Caracol Radio",
-      "imagen": "http://www.bing.com/th?id=ONUT.aUDqGSjNFcijiJvyWGOBNw&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.OOaOoCSfYyBnmB9PsSy93g&pid=News"
     },
     {
       "titulo": "Restaurante Oli: la nueva propuesta de cocina mediterránea que conquista Medellín",
