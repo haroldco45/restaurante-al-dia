@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T18:56:32.956Z",
+  "actualizado": "2026-10-30T22:45:41.512Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
@@ -281,7 +281,7 @@
       "enlace": "https://www.msn.com/es-co/noticias/other/restaurantes-bares-y-cafeter%C3%ADas-en-colombia-tendr%C3%ADan-nuevas-reglas-e-impuestos-as%C3%AD-es-el-proyecto-de-ley/ar-AA2fLElC",
       "fecha": "2026-10-21T18:28:16.000Z",
       "fuente": "Semana on MSN",
-      "imagen": "http://www.bing.com/th?id=ONUT.Z2Jp_vSjQu2ekaVPGfgVcw&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.I3IhoB2UNE_Eu-whbH8qCA&pid=News"
     },
     {
       "titulo": "Los Montesinos acoge este sábado RECine Event, una experiencia cultural que une cine, música en directo y gastronomía",
@@ -333,13 +333,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Pizza Master 2026: Precios, restaurantes en competencia y cómo participar",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmN0aVU5RFRXMEhIVnVSS0Yxcm13bkpHYlhDTVRkTVBqdFEwYlZMelprVndNSVVfSDBJYkJjTDJONG9sNkpVdDNXbHJTUHVNNlpBTGxick1UaWZNM08zRTVtOWZvc25hS1ZKMVJMSHJGVWZTSG1MdG5lVzBWS1l5QlVtYXV1eVBKMHBMMUtjeHJ6YnlaRmh6Wm5GSk9nWGFSZFZFWjhMTGRhQdIBvgFBVV95cUxNNE5ZcGRXUV9sQ09qR2ZSSHIzcENhN0gtVE85aXpMeGdfYVc0cUhZTzNxdE5YU0pyQjhfVGxZR2xQbEVETndJSDd0SnNUMEpSWkgzR1puczMxa2JVVHF3bWJYNlkxd2dRb3FES1Q2SmF3Q2x1THN2TEExOUVjYV9Gc2xVYlVaaHRsWVl1Qk5DeElMOUhhdnlVX2QxYWVPclhWcHVVVEtybHlIcTJjb24xRUw4emdoVTFQc1k5cVBB?oc=5",
-      "fecha": "2026-10-20T07:00:00.000Z",
-      "fuente": "Caracol Radio",
-      "imagen": ""
-    },
-    {
       "titulo": "Badajoz se convierte en el epicentro de la gastronomía y acoge la nueva fiesta de los Soletes de Guía Repsol",
       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ3FJSXlRUEtWVWttalVQR2wtVUFiY0x2d01kQTlsNXR5V0Vob2RuR19vOGRPbEp1b0s2S1p0Wm1hZFlQbkNybmZfeXVhb09FZjRFdGFaN3d5SUh2TzQ4N0U2S3ZQeV9WVVdzZUltTFlCejI3dkxrZUFpajhRTmhiSFp4cEhMTUZsbXhqN0NjcHFfeWhXaXlES1NOQldpNGo5YXF4dXNyVGlVVU5qNDhBY0ttbHVIdThUb0h2ZEN0aENyR3pVUVpVbVV5V1lDT2FjT3FEMGN6YWI1VGktWGVQODJWOXVUenV4QXFkbmNQcldqdWRpX25GTFdn0gH_AUFVX3lxTE94RzI0NmFZa29xdHd4U0EtNTZ6MWJ2bHAtRzBLN2lib0RsdFhadG5rNHhGN0toeXFhQTVhRjNycm5DNXNNYU9qR25wTkRYeE9ZRk4tWlNyYzNWY1pqWVNFM0FjV203WU1qMlJSbFEydTdWTGNOcUVibTh5clVMaFFyc19iQ0NIejliZlBnbEIxOGhsNVlCbklZU0VZVDgycXgtMDdmT1FwRHpUa0dsdEV2ZXNfb21TTFk3NFVoSE1RMm50Q2kxbUpXWG9jaXhjc21vZnpVM2ViRVh4aUtOcndFZU1oQjVtTFQ3ZFJnSzhNLVNla2RSWlYxYjc3SmpiVQ?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
@@ -368,6 +361,13 @@
       "imagen": ""
     },
     {
+      "titulo": "Pizza Master 2026: Precios, restaurantes en competencia y cómo participar",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmN0aVU5RFRXMEhIVnVSS0Yxcm13bkpHYlhDTVRkTVBqdFEwYlZMelprVndNSVVfSDBJYkJjTDJONG9sNkpVdDNXbHJTUHVNNlpBTGxick1UaWZNM08zRTVtOWZvc25hS1ZKMVJMSHJGVWZTSG1MdG5lVzBWS1l5QlVtYXV1eVBKMHBMMUtjeHJ6YnlaRmh6Wm5GSk9nWGFSZFZFWjhMTGRhQdIBvgFBVV95cUxNNE5ZcGRXUV9sQ09qR2ZSSHIzcENhN0gtVE85aXpMeGdfYVc0cUhZTzNxdE5YU0pyQjhfVGxZR2xQbEVETndJSDd0SnNUMEpSWkgzR1puczMxa2JVVHF3bWJYNlkxd2dRb3FES1Q2SmF3Q2x1THN2TEExOUVjYV9Gc2xVYlVaaHRsWVl1Qk5DeElMOUhhdnlVX2QxYWVPclhWcHVVVEtybHlIcTJjb24xRUw4emdoVTFQc1k5cVBB?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "fuente": "Caracol Radio",
+      "imagen": ""
+    },
+    {
       "titulo": "Manuela Par&#237;s: “Cocinar bien es apenas una parte del negocio gastron&#243;mico”",
       "enlace": "https://www.diariolibre.com/revista/buena-vida/2026/10/20/manuela-paris-y-el-desafio-de-hacer-rentable-un-negocio-gastronomico/3694796",
       "fecha": "2026-10-20T05:37:00.000Z",
@@ -386,7 +386,7 @@
       "enlace": "https://www.msn.com/es-co/dinero/general/crisis-en-el-sector-gastron%C3%B3mico-de-medell%C3%ADn-salir-a-comer-se-volvi%C3%B3-un-lujo-pero-restaurantes-est%C3%A1n-al-borde-de-la-quiebra/ar-AA2fC0Zg",
       "fecha": "2026-10-19T15:57:54.000Z",
       "fuente": "Semana on MSN",
-      "imagen": "http://www.bing.com/th?id=ONUT.O6XFTLfRhmQ-VcT0g6TGIQ&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT._tji6EAjVx2XhMaXcKCAPg&pid=News"
     },
     {
       "titulo": "&#191;Crisis en el sector gastron&#243;mico de Medell&#237;n? Altos precios tienen en jaque a los restaurantes",
@@ -480,13 +480,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Precio de la papa capira subió 43 % y preocupa a restaurantes",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjNtQmpIZWx2NC0taTZRdTlpdXRURWNGdWM3akNYLVRUUW15X3Z0RnRiLW1zUk9BTzQxajFHSUY3dzByR1VfMVdMb3RHa1phVXRfcmhTN0tkZ0dIYXdIY3RvaDdTcXhfTFpXSUFaT3psZ0l6Z0JmcHpBV21TaEhKMVNyLTUxUDhLZHU2dm1rcC1qMUttRnJPYnI5N3o1aWxMRy1nTGFiVdIBswFBVV95cUxPblg2OTUycENhSVJkaGNCSDRlcU5ReFItd0lsYUV1cWhEV1BSaXI2eDNCNjZrbzB4cGNjOEtIOTFyN1ZjeUZiM2tKc204cVJTNlZaRlpmSTc0enVkb1lzMlJpTjA0ZlFtR0NyUi0zMF9QWFJocEpPWnZwdy1GTWdGYjhCRDZtWW1GSHlwTVgtUTFHZm9WWUk0NXFXOFdhcF9MaDN1aFZ1TUdWWGU0X0gyYzE4QQ?oc=5",
-      "fecha": "2026-10-17T07:00:00.000Z",
-      "fuente": "Teleantioquia",
-      "imagen": ""
-    },
-    {
       "titulo": "Presto entra en liquidación judicial y busca comprador para evitar el cierre de sus restaurantes",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXBvTGNFcW1VamFfM3JsSHdVV3lJcjU4LXl2OXI0TzBsRFdnSGdxTFBfVnVBcDNjQTR6eXNaYTdpMmtpcFhmWVpiVkw3OVhKbEJud2xkT2d4c05Ib0ZQc1h3aGNkN1hURXFUWlJvMHIzdXh1N080R19CTzNTWmJySmpJRmZkUDdlakFXY0FNOGNyNDRtVWowVnRpblhnckZBYk1waF9pUjU1WV8xeVc4WVhxM2JVUVhJckFJQQ?oc=5",
       "fecha": "2026-10-17T07:00:00.000Z",
@@ -498,6 +491,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82UDVxUnRDMS02bnlEeHZZTEEwak1CY1FqMlZyWVNGb0dYU1JmSXdDNUpPY3Uya2lzRDZqVGFqOG9TMWJidkpFTmFPb1ZBWWRfZFRXbWJOR0NyZFYtN3pacFI0VUFBTmhvWGhCSmlGZ2MyMEJXMVNyY2FjNXp6ZkU?oc=5",
       "fecha": "2026-10-17T07:00:00.000Z",
       "fuente": "Valenciabonita",
+      "imagen": ""
+    },
+    {
+      "titulo": "Precio de la papa capira subió 43 % y preocupa a restaurantes",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjNtQmpIZWx2NC0taTZRdTlpdXRURWNGdWM3akNYLVRUUW15X3Z0RnRiLW1zUk9BTzQxajFHSUY3dzByR1VfMVdMb3RHa1phVXRfcmhTN0tkZ0dIYXdIY3RvaDdTcXhfTFpXSUFaT3psZ0l6Z0JmcHpBV21TaEhKMVNyLTUxUDhLZHU2dm1rcC1qMUttRnJPYnI5N3o1aWxMRy1nTGFiVdIBswFBVV95cUxPblg2OTUycENhSVJkaGNCSDRlcU5ReFItd0lsYUV1cWhEV1BSaXI2eDNCNjZrbzB4cGNjOEtIOTFyN1ZjeUZiM2tKc204cVJTNlZaRlpmSTc0enVkb1lzMlJpTjA0ZlFtR0NyUi0zMF9QWFJocEpPWnZwdy1GTWdGYjhCRDZtWW1GSHlwTVgtUTFHZm9WWUk0NXFXOFdhcF9MaDN1aFZ1TUdWWGU0X0gyYzE4QQ?oc=5",
+      "fecha": "2026-10-17T07:00:00.000Z",
+      "fuente": "Teleantioquia",
       "imagen": ""
     },
     {
