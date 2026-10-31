@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T22:45:41.512Z",
+  "actualizado": "2026-10-31T01:56:48.077Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
@@ -131,7 +131,7 @@
     },
     {
       "titulo": "Domicilios de corrientazos en Rappi subieron 160% este a&#241;o: la bandeja paisa y el sancocho reinan en Medell&#237;n",
-      "enlace": "https://www.msn.com/es-co/dinero/general/domicilios-de-corrientazos-en-rappi-subieron-160-este-a%C3%B1o-la-bandeja-paisa-y-el-sancocho-reinan-en-medell%C3%ADn/ar-AA2g6lkL",
+      "enlace": "https://www.msn.com/es-co/alimentaci%C3%B3n-y-bebidas/cocinas-del-mundo/domicilios-de-corrientazos-en-rappi-subieron-160-este-a%C3%B1o-la-bandeja-paisa-y-el-sancocho-reinan-en-medell%C3%ADn/ar-AA2g6lkL",
       "fecha": "2026-10-26T09:46:32.000Z",
       "fuente": "El Colombiano on MSN",
       "imagen": "http://www.bing.com/th?id=ONUT.IHPkLl8hC468KIy0TBWl9w&pid=News"
@@ -326,13 +326,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.XW_l5Q3i2IwfiFNIQnxRFg&pid=News"
     },
     {
-      "titulo": "Supersociedades autorizó la venta de hamburguesas Presto como ‘negocio en marcha’ tras ordenar su liquidación | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWtGOUh5WnRadTRobnhyQlkyMUlibVFtb29peFB2MGJTZlpLT0FLek1BdFk3bnByQ3QtQXRWX25MZk5heUhCTHIzYS1vUTUxMVd0R2lIRjhhYjhMVzFlUG1MVjI1UFJ4WF82YUktRHN4RFRMTC1zODVnLVRVSUdjZW1HZ0NIOHU4Q3oxSi1SUmh4Wnd6Z01rWnBJSFRyNC1OT2xZTFBDM01tZkJMdXFqadIBtgFBVV95cUxNWGdsdklBVjkxR2FwZHhvOXZvZ3RHOFNINDltUGZSeGtDdDNvaGNadVFwQ3Ryb1hDaVViX0x0Y0lnNjN1bk9PQVpOMWZsQmtoZmRDMy04blB6VmVUZVlSNjRfTFdDYWRVZEhKdW9wTU1wLW1NRHBFbTdTcmc4VG9FNzdTV2VmNkxwNTJXZmlHakNlY2l4MkY4RzVnZ1BNMzBCVzRXaWE0Z2NSai03dTZxcHg0bnNwUQ?oc=5",
-      "fecha": "2026-10-20T07:00:00.000Z",
-      "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
       "titulo": "Badajoz se convierte en el epicentro de la gastronomía y acoge la nueva fiesta de los Soletes de Guía Repsol",
       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ3FJSXlRUEtWVWttalVQR2wtVUFiY0x2d01kQTlsNXR5V0Vob2RuR19vOGRPbEp1b0s2S1p0Wm1hZFlQbkNybmZfeXVhb09FZjRFdGFaN3d5SUh2TzQ4N0U2S3ZQeV9WVVdzZUltTFlCejI3dkxrZUFpajhRTmhiSFp4cEhMTUZsbXhqN0NjcHFfeWhXaXlES1NOQldpNGo5YXF4dXNyVGlVVU5qNDhBY0ttbHVIdThUb0h2ZEN0aENyR3pVUVpVbVV5V1lDT2FjT3FEMGN6YWI1VGktWGVQODJWOXVUenV4QXFkbmNQcldqdWRpX25GTFdn0gH_AUFVX3lxTE94RzI0NmFZa29xdHd4U0EtNTZ6MWJ2bHAtRzBLN2lib0RsdFhadG5rNHhGN0toeXFhQTVhRjNycm5DNXNNYU9qR25wTkRYeE9ZRk4tWlNyYzNWY1pqWVNFM0FjV203WU1qMlJSbFEydTdWTGNOcUVibTh5clVMaFFyc19iQ0NIejliZlBnbEIxOGhsNVlCbklZU0VZVDgycXgtMDdmT1FwRHpUa0dsdEV2ZXNfb21TTFk3NFVoSE1RMm50Q2kxbUpXWG9jaXhjc21vZnpVM2ViRVh4aUtOcndFZU1oQjVtTFQ3ZFJnSzhNLVNla2RSWlYxYjc3SmpiVQ?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
@@ -344,20 +337,27 @@
       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkp0TUk1WkVSZmp5Q0c0Tno0Ny1JX2RNaHhzODY1NzdtVlBJRUJnNElpVlJORFByc2ItY2JFTXhyLXI2LUQwOFZ5QzRuRWNoYWF3dnJxa0wyZk1FT21PRWlkM2xBSm9YcHlBbzR4bk8tYnd6MElJWmZBSUQtQ19WZEdBUElkcTlPbThyN3ZrSkdVZlBQRjY2eEhweFJXR216a2lsRU1JOFV0OWZFeUtzcXpWQ3p4aUpQS1p5RUw0SmdpbTBmcEHSAcYBQVVfeXFMTmlNZFF3QkQ4RDlpbWlCQm9mUHU5a3liLV8wRWhMUXVqdl9RSVA0R3FPRlAyaGtrbm9ZWml2YkJNT0pyVWFwMUJITGJaWXczc3ZyMGRSeE9MOTc1SkpfWm5jVEFGLXU5Q0dIMlJsbHAxMmY1WENHM2JLeEJ3bHFaVVVKTURVcUlmRVAtb0s1a0tBellRNVhVQUljMVBCUlNDWFpVT1p1WUw5MHNWT0J3ZHllc2hzYUV2TWpCd295bzhGNHlrT2Fn?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
       "fuente": "LaRepublica.co",
-      "imagen": "http://www.bing.com/th?id=ONUT.vhIUTm4-lL1X1OW2Un6gdQ&pid=News"
-    },
-    {
-      "titulo": "Fue a uno de los bodegones más destacados de Palermo, pidió un almuerzo para 6 y mostró cuánto gastó",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeW5VdVBKeU1nSjRKaHBIaXBMeGNVaE5MM2M2ZkxUZU5PVk5DQUE0UVdESHhuUTVPQ2hnSGxCTF96QzJNWWRwRmp4RVI5ZHR6ay1CcFdJQXZLVEJmenlGbHhuVm02bTZ3X05tT1BtNkxPdWo4VkxoUVBfal9Xd2xVRkNwTHBQZEpDaGUtY2NKOTlfcWlzR3RyUTVoV3ZSVmVTZlQ2V3I3MS1oaHdaWjhyclNFbndoV0l4YXR1eEhRbVNzc0M2UmNja1FjNWRGVzFIQTFudHE3NHExV2xq0gH3AUFVX3lxTE1iQXA3emEwdE1TVGwtQlJaQnlPVFFLaHU4RDdhVVFEVEFGNDN3S3RrMlBHejljSWlWVUJ5azNONU9UV280c2FiSXVDY0VGczl6UXZsbDRtM0ZpUFJYaDBaRTFvN053ODhfNUVvSmZCUHp0U01tYTFMa1BkYmxUNm1oNE9WVnVUWVo2cEVOdi1qUXBrNG94M0ZVak9EbkFNem8xOEFwU19hUXMyTkVESjZ3VzlzTWlkY2U1QUNES0J3aTZSMnRreXJKR3VrejFVdGF6SldlU2dLYUFoTVVGZHZJazJSOFFILWdGOVlCMkJPRFFsNkZ2QkE?oc=5",
-      "fecha": "2026-10-20T07:00:00.000Z",
-      "fuente": "Infobae",
-      "imagen": ""
+      "imagen": "http://www.bing.com/th?id=ONUT.jlqqvGvRd_2zqXc7K3CWhw&pid=News"
     },
     {
       "titulo": "El negocio del corrientazo a domicilio crece en Colombia",
       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFktcFRZRUFsRzVuckxPRVBUbjg2bkgyTFlrN2ZkaDJnRW1XZGtSNmswdGQtUzVqTWJqMkgteDNyLUk0WkdNc1RSZ0QwcUlKQmNFaDZQZm9PMkVCQ2tLc0ZrTS1XelJkTVBaOEJnblVpRnJrR1M4UXNNUnVXSDNJWXlXUTlrQWhTNXpGLU1pNnJfdjFuTW1OY2hjMA?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
       "fuente": "El Espectador",
+      "imagen": ""
+    },
+    {
+      "titulo": "Supersociedades autorizó la venta de hamburguesas Presto como ‘negocio en marcha’ tras ordenar su liquidación | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWtGOUh5WnRadTRobnhyQlkyMUlibVFtb29peFB2MGJTZlpLT0FLek1BdFk3bnByQ3QtQXRWX25MZk5heUhCTHIzYS1vUTUxMVd0R2lIRjhhYjhMVzFlUG1MVjI1UFJ4WF82YUktRHN4RFRMTC1zODVnLVRVSUdjZW1HZ0NIOHU4Q3oxSi1SUmh4Wnd6Z01rWnBJSFRyNC1OT2xZTFBDM01tZkJMdXFqadIBtgFBVV95cUxNWGdsdklBVjkxR2FwZHhvOXZvZ3RHOFNINDltUGZSeGtDdDNvaGNadVFwQ3Ryb1hDaVViX0x0Y0lnNjN1bk9PQVpOMWZsQmtoZmRDMy04blB6VmVUZVlSNjRfTFdDYWRVZEhKdW9wTU1wLW1NRHBFbTdTcmc4VG9FNzdTV2VmNkxwNTJXZmlHakNlY2l4MkY4RzVnZ1BNMzBCVzRXaWE0Z2NSai03dTZxcHg0bnNwUQ?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fue a uno de los bodegones más destacados de Palermo, pidió un almuerzo para 6 y mostró cuánto gastó",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeW5VdVBKeU1nSjRKaHBIaXBMeGNVaE5MM2M2ZkxUZU5PVk5DQUE0UVdESHhuUTVPQ2hnSGxCTF96QzJNWWRwRmp4RVI5ZHR6ay1CcFdJQXZLVEJmenlGbHhuVm02bTZ3X05tT1BtNkxPdWo4VkxoUVBfal9Xd2xVRkNwTHBQZEpDaGUtY2NKOTlfcWlzR3RyUTVoV3ZSVmVTZlQ2V3I3MS1oaHdaWjhyclNFbndoV0l4YXR1eEhRbVNzc0M2UmNja1FjNWRGVzFIQTFudHE3NHExV2xq0gH3AUFVX3lxTE1iQXA3emEwdE1TVGwtQlJaQnlPVFFLaHU4RDdhVVFEVEFGNDN3S3RrMlBHejljSWlWVUJ5azNONU9UV280c2FiSXVDY0VGczl6UXZsbDRtM0ZpUFJYaDBaRTFvN053ODhfNUVvSmZCUHp0U01tYTFMa1BkYmxUNm1oNE9WVnVUWVo2cEVOdi1qUXBrNG94M0ZVak9EbkFNem8xOEFwU19hUXMyTkVESjZ3VzlzTWlkY2U1QUNES0J3aTZSMnRreXJKR3VrejFVdGF6SldlU2dLYUFoTVVGZHZJazJSOFFILWdGOVlCMkJPRFFsNkZ2QkE?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "fuente": "Infobae",
       "imagen": ""
     },
     {
@@ -417,10 +417,10 @@
       "imagen": ""
     },
     {
-      "titulo": "Arrancó el Pizza Master 2026: conozca los restaurantes participantes en Medellín y sus creaciones",
-      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZ2FGZk5pV3dSaUQ4QTdLZVNKZWlIQWVFMjN5MVpha1BBcndoTE1OTHJPVWlKMjhUdndUQTJfYUdkNkFGQXVrSTJKQXRWN3ZpQlkxUmxrWnpBR1k5bWhjVjZrVTk2a29UN3dPbWs2NlRqbXFtNmNTNGxNdmgxdw?oc=5",
+      "titulo": "De la tradición a la innovación: Vila-real acoge la cocina en vivo con el reconocido actor Juan Echanove",
+      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb3pwSE94aFJGMjhsUU9xYjZZXzhkeVd0eXF3ZmRzYXFOazZLNy1FSXNWbUdSajVtckF2ZWJnbUVnMnM2TklKMVFfeW83ZTE1eFRXLXo2ZU1xUkZwNk5pRkg0NHZuZ1FGYTBwbW9hM1VYVFFtbWxMZWp4WW9PNlIzdlA1czBiUU9zN3ZxVTM0azJfVWJ5Vmd5b0lmdmI1b19XTVdXam42Q3M5YU9sSmtablFzZGctb2tkV3lXZ1piTTFzUFpVcE80ZU9Kam1CMTFSQ2owV0hVazNSaVk3Mmg5aFctNXcydTA3OEZN?oc=5",
       "fecha": "2026-10-19T07:00:00.000Z",
-      "fuente": "Telemedellín",
+      "fuente": "Castellón Plaza",
       "imagen": ""
     },
     {
@@ -431,10 +431,10 @@
       "imagen": ""
     },
     {
-      "titulo": "De la tradición a la innovación: Vila-real acoge la cocina en vivo con el reconocido actor Juan Echanove",
-      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb3pwSE94aFJGMjhsUU9xYjZZXzhkeVd0eXF3ZmRzYXFOazZLNy1FSXNWbUdSajVtckF2ZWJnbUVnMnM2TklKMVFfeW83ZTE1eFRXLXo2ZU1xUkZwNk5pRkg0NHZuZ1FGYTBwbW9hM1VYVFFtbWxMZWp4WW9PNlIzdlA1czBiUU9zN3ZxVTM0azJfVWJ5Vmd5b0lmdmI1b19XTVdXam42Q3M5YU9sSmtablFzZGctb2tkV3lXZ1piTTFzUFpVcE80ZU9Kam1CMTFSQ2owV0hVazNSaVk3Mmg5aFctNXcydTA3OEZN?oc=5",
+      "titulo": "Arrancó el Pizza Master 2026: conozca los restaurantes participantes en Medellín y sus creaciones",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZ2FGZk5pV3dSaUQ4QTdLZVNKZWlIQWVFMjN5MVpha1BBcndoTE1OTHJPVWlKMjhUdndUQTJfYUdkNkFGQXVrSTJKQXRWN3ZpQlkxUmxrWnpBR1k5bWhjVjZrVTk2a29UN3dPbWs2NlRqbXFtNmNTNGxNdmgxdw?oc=5",
       "fecha": "2026-10-19T07:00:00.000Z",
-      "fuente": "Castellón Plaza",
+      "fuente": "Telemedellín",
       "imagen": ""
     },
     {
@@ -480,17 +480,17 @@
       "imagen": ""
     },
     {
-      "titulo": "Presto entra en liquidación judicial y busca comprador para evitar el cierre de sus restaurantes",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXBvTGNFcW1VamFfM3JsSHdVV3lJcjU4LXl2OXI0TzBsRFdnSGdxTFBfVnVBcDNjQTR6eXNaYTdpMmtpcFhmWVpiVkw3OVhKbEJud2xkT2d4c05Ib0ZQc1h3aGNkN1hURXFUWlJvMHIzdXh1N080R19CTzNTWmJySmpJRmZkUDdlakFXY0FNOGNyNDRtVWowVnRpblhnckZBYk1waF9pUjU1WV8xeVc4WVhxM2JVUVhJckFJQQ?oc=5",
-      "fecha": "2026-10-17T07:00:00.000Z",
-      "fuente": "El Norte",
-      "imagen": ""
-    },
-    {
       "titulo": "Chelva acoge la Feria del Alto Turia con productos locales, catas, música, visitas guiadas y gastronomía popular",
       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82UDVxUnRDMS02bnlEeHZZTEEwak1CY1FqMlZyWVNGb0dYU1JmSXdDNUpPY3Uya2lzRDZqVGFqOG9TMWJidkpFTmFPb1ZBWWRfZFRXbWJOR0NyZFYtN3pacFI0VUFBTmhvWGhCSmlGZ2MyMEJXMVNyY2FjNXp6ZkU?oc=5",
       "fecha": "2026-10-17T07:00:00.000Z",
       "fuente": "Valenciabonita",
+      "imagen": ""
+    },
+    {
+      "titulo": "Presto entra en liquidación judicial y busca comprador para evitar el cierre de sus restaurantes",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXBvTGNFcW1VamFfM3JsSHdVV3lJcjU4LXl2OXI0TzBsRFdnSGdxTFBfVnVBcDNjQTR6eXNaYTdpMmtpcFhmWVpiVkw3OVhKbEJud2xkT2d4c05Ib0ZQc1h3aGNkN1hURXFUWlJvMHIzdXh1N080R19CTzNTWmJySmpJRmZkUDdlakFXY0FNOGNyNDRtVWowVnRpblhnckZBYk1waF9pUjU1WV8xeVc4WVhxM2JVUVhJckFJQQ?oc=5",
+      "fecha": "2026-10-17T07:00:00.000Z",
+      "fuente": "El Norte",
       "imagen": ""
     },
     {
