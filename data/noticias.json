@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T07:58:09.115Z",
+  "actualizado": "2026-10-31T14:21:39.258Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
@@ -18,6 +18,13 @@
       "imagen": ""
     },
     {
+      "titulo": "La luz al final del túnel: reflexiones sobre el sector gastronómico",
+      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTdBX0tjNjNWWlZQVU81MVJpdmU1TzNLR24tYXFXVm9lMFFrTG9ITi1rVzUzcTZkblI2QXRvbHdPSnFaTERLbGFyMHBoMlYxOXY4TEJBWHNnV0wzSWVvYzdGeE1XcHRDR3lwTk5iWl9YU3F2VlU5M0d1aVZnOG12ODhPT3hsUkhxOEFRT3ZoSWlxSzlXZmt3dUtGbkg2T2NkOG9xZkZTRkw0ZmlMa1YyNWZxRl8wcHMwN3J1Y1RWRG9Fdw?oc=5",
+      "fecha": "2026-10-30T18:35:00.000Z",
+      "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
       "titulo": "Datos Paula: tres nuevos restaurantes para disfrutar el fin de semana",
       "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQblZVa3VOcGlTb211NGVZSTM1bmtHaldfRmJyZl9oNTRGb2FHNnJkNkExa3R5REoyTXI0R3NTN3RWZHRfMDJtYnBjbWUteXFSYkhvWmF4bEZCLUp2Ylc0Wk10XzIxQ2hpLUlSb2NlVkppRlZOckNFazU5RnBoYnNlcW5VbnZScnRMMmwwX0xOSXMwMWF4ZEJXSUJkWVpPbmJ1NGFjYjZWcEg0MVRqX3FTZDEwVFZ6a3RpTllSQWFtYjJQbkZDQ0Rja3A4dEpnVkXSAc8BQVVfeXFMUG5WVWt1TnBpU29tdTRlWUkzNW5rR2pXX0ZicmZfaDU0Rm9hRzZyZDZBMWt0eURKMk1yNEdzUzd0VmR0XzAybWJwY21lLXlxUmJIb1pheGxGQi1KdmJXNFpNdF8yMUNoaS1JUm9jZVZKaUZWTnJDRWs1OUZwaGJzZXFuVW52UnJ0TDJsMF9MTklzMDFheGRCV0lCZFlaT25idTRhY2I2VnBINDFUal9xU2QxMFRWemt0aU5ZUkFhbWIyUG5GQ0NEY2twOHRKZ1ZF?oc=5",
       "fecha": "2026-10-30T15:02:49.000Z",
@@ -32,6 +39,13 @@
       "imagen": ""
     },
     {
+      "titulo": "Restaurantes en apuros: ¿por qué cierran tantos locales en Medellín? | Q´HUBO Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGtiSTZTbUlaaEZEN1pLalVIbVk5YWM5UnBnNk5qRF9pNVdpaFEzYTNiOHhubzJxZ3EtekhWLUg0X1dUS1lXbVRMMTZQdFE2Z3RmcTFLUDVweTJNY0RuQ0luUmJDaVVhVE1sLXJaOHI5ZWZTN1hKR2kydElKSXNWeWpaaF9NWlBwU1JqZFNmWDJkQ1ZfM2ZORm9ZbzczcWVaOXQ4WkFrMUhfdlHSAbYBQVVfeXFMTWFqbzQ1YXo5SDVLOExkakxtYjQ0MlhGSlRJQWRHMGdqT2xlTDZYenZKa0xQNTlKTXEwMUJ4SkVQbnVoS3dEOVM0QlFITjQ5UHpSSFZkVjY1WGVrMjc0SHlnN19MQzBDYnFFYVVMTHFHTFFRZnh2U28zdlJoSmI1U3JvR3RwWU1EaHhxeDFvV2RfTkhCLVJ6aGZybnFnbEhUczFQTEdTYVhSZUFkTGc2OUpWZWlWanc?oc=5",
+      "fecha": "2026-10-30T00:16:28.000Z",
+      "fuente": "Qhubo Medellín",
+      "imagen": ""
+    },
+    {
       "titulo": "Networking Gastronómico se llevó a cabo en Tegucigalpa con el respaldo de LAFISE",
       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGRJOGQ4dERZaVdVRmZBZkJGWDlvYnQzM3dwTWJTamRRZUNUdEdHNnNKLWJ3ZGo5NVdOMDF2U1J5Vk41anAzTWdNaVMtTUpWcXU3VEdRdnd1ZTB0V0xkZXJfVEttSlB4dTJPaG1ROE5PajQtYlNxd3FXMVROajloZzNLV3MweXMtalZjeVo1akJoSzlKZ3MzX3lQcmdDTDNyajZ4TFVmS0JIVUdQQS1hcnlZVVhyczBE?oc=5",
       "fecha": "2026-10-29T17:13:00.000Z",
@@ -43,13 +57,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObzRUMEF2SmtFbF9xR1ZnSG1qZXBLMzhIaVZrX0laejRMbUN3QVRCdENDaWhzVnlQa081S3dsenZ6dUg1WmpsSjRMS3RYTVVESXdmQlhGSXRpVHE4VmFLXzdLQlRPWjByaTVGQnBWQ2NpMi1PTGZyN0pGRG5BYkFDa3c1TDVfQdIBiwFBVV95cUxOaXhyQ25oMU9CU2h3SVg4RGctZE5qVFladXhOOHZ3Q0JYYzFENVB5Rmt1bzdIZ2dHTWZwajI3NkJDaWZDcTRHR193cWJ3RHhZNTdQQmJRMU5SXzlTQlF5Y2Vja1hiNG1Xc2JxYVBTY1hBYlhqbTQ3TDhYa0ZiOTZPQTc0VDZVUUxIU2Fv?oc=5",
       "fecha": "2026-10-29T16:17:18.000Z",
       "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
-      "titulo": "Restaurantes en apuros: ¿por qué cierran tantos locales en Medellín? | Q´HUBO Medellín",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGtiSTZTbUlaaEZEN1pLalVIbVk5YWM5UnBnNk5qRF9pNVdpaFEzYTNiOHhubzJxZ3EtekhWLUg0X1dUS1lXbVRMMTZQdFE2Z3RmcTFLUDVweTJNY0RuQ0luUmJDaVVhVE1sLXJaOHI5ZWZTN1hKR2kydElKSXNWeWpaaF9NWlBwU1JqZFNmWDJkQ1ZfM2ZORm9ZbzczcWVaOXQ4WkFrMUhfdlHSAbYBQVVfeXFMTWFqbzQ1YXo5SDVLOExkakxtYjQ0MlhGSlRJQWRHMGdqT2xlTDZYenZKa0xQNTlKTXEwMUJ4SkVQbnVoS3dEOVM0QlFITjQ5UHpSSFZkVjY1WGVrMjc0SHlnN19MQzBDYnFFYVVMTHFHTFFRZnh2U28zdlJoSmI1U3JvR3RwWU1EaHhxeDFvV2RfTkhCLVJ6aGZybnFnbEhUczFQTEdTYVhSZUFkTGc2OUpWZWlWanc?oc=5",
-      "fecha": "2026-10-29T16:16:28.000Z",
-      "fuente": "Qhubo Medellín",
       "imagen": ""
     },
     {
@@ -382,18 +389,18 @@
       "imagen": ""
     },
     {
-      "titulo": "Los retos financieros y laborales de los chefs para sostener sus negocios gastronómicos",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkp0TUk1WkVSZmp5Q0c0Tno0Ny1JX2RNaHhzODY1NzdtVlBJRUJnNElpVlJORFByc2ItY2JFTXhyLXI2LUQwOFZ5QzRuRWNoYWF3dnJxa0wyZk1FT21PRWlkM2xBSm9YcHlBbzR4bk8tYnd6MElJWmZBSUQtQ19WZEdBUElkcTlPbThyN3ZrSkdVZlBQRjY2eEhweFJXR216a2lsRU1JOFV0OWZFeUtzcXpWQ3p4aUpQS1p5RUw0SmdpbTBmcEHSAcYBQVVfeXFMTmlNZFF3QkQ4RDlpbWlCQm9mUHU5a3liLV8wRWhMUXVqdl9RSVA0R3FPRlAyaGtrbm9ZWml2YkJNT0pyVWFwMUJITGJaWXczc3ZyMGRSeE9MOTc1SkpfWm5jVEFGLXU5Q0dIMlJsbHAxMmY1WENHM2JLeEJ3bHFaVVVKTURVcUlmRVAtb0s1a0tBellRNVhVQUljMVBCUlNDWFpVT1p1WUw5MHNWT0J3ZHllc2hzYUV2TWpCd295bzhGNHlrT2Fn?oc=5",
-      "fecha": "2026-10-20T07:00:00.000Z",
-      "fuente": "LaRepublica.co",
-      "imagen": "http://www.bing.com/th?id=ONUT.jlqqvGvRd_2zqXc7K3CWhw&pid=News"
-    },
-    {
       "titulo": "Manuela Par&#237;s: “Cocinar bien es apenas una parte del negocio gastron&#243;mico”",
       "enlace": "https://www.diariolibre.com/revista/buena-vida/2026/10/20/manuela-paris-y-el-desafio-de-hacer-rentable-un-negocio-gastronomico/3694796",
       "fecha": "2026-10-20T05:37:00.000Z",
       "fuente": "Diario Libre",
       "imagen": "http://www.bing.com/th?id=ONUT.mkDwv-M5MbWRaGCTAhzaNw&pid=News"
+    },
+    {
+      "titulo": "Los retos financieros y laborales de los chefs para sostener sus negocios gastron&#243;micos",
+      "enlace": "https://www.larepublica.co/ocio/los-retos-financieros-y-laborales-de-los-chefs-para-sostener-sus-negocios-gastronomicos-4506741",
+      "fecha": "2026-10-20T05:03:00.000Z",
+      "fuente": "La Rep&#250;blica",
+      "imagen": "http://www.bing.com/th?id=ONUT.jlqqvGvRd_2zqXc7K3CWhw&pid=News"
     },
     {
       "titulo": "&#191;Crisis en el sector gastron&#243;mico de Medell&#237;n?: Salir a comer se volvi&#243; un lujo, pero restaurantes est&#225;n al borde de la quiebra",
@@ -445,17 +452,17 @@
       "imagen": ""
     },
     {
-      "titulo": "De la tradición a la innovación: Vila-real acoge la cocina en vivo con el reconocido actor Juan Echanove",
-      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb3pwSE94aFJGMjhsUU9xYjZZXzhkeVd0eXF3ZmRzYXFOazZLNy1FSXNWbUdSajVtckF2ZWJnbUVnMnM2TklKMVFfeW83ZTE1eFRXLXo2ZU1xUkZwNk5pRkg0NHZuZ1FGYTBwbW9hM1VYVFFtbWxMZWp4WW9PNlIzdlA1czBiUU9zN3ZxVTM0azJfVWJ5Vmd5b0lmdmI1b19XTVdXam42Q3M5YU9sSmtablFzZGctb2tkV3lXZ1piTTFzUFpVcE80ZU9Kam1CMTFSQ2owV0hVazNSaVk3Mmg5aFctNXcydTA3OEZN?oc=5",
-      "fecha": "2026-10-19T07:00:00.000Z",
-      "fuente": "Castellón Plaza",
-      "imagen": ""
-    },
-    {
       "titulo": "Ermua acoge en noviembre un ciclo de cinco talleres sobre gastronomía y tradiciones de China y Japón",
       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3lHWHhtVzQ3YXl0bERiNTJBZDEzSU9aeExlRFhSa3JxWGZINURydjRyNU9rOHEwVVRadHN3ZzRrNXZoMk1HRExfcUhjZWNSZHU3MnAyVVoyRFR3c1o0S3Y5cGxGMTZvNzRWMjkyb05QTXRyS1hkak42VGk3Y185cGZMSk5uUDhzOUNfWnQ1Tlhya001Z0RmVG0ycnROb252WEhmaVhDMmYtYkEwQU5CaXdsbXBYei0yVHBFUzBtQjdtWFZCeVHSAcsBQVVfeXFMUGQ5eGFqNGQ0bmdWSGg4QzE4UDNMbmxJUTRmWVBEQi1tMEkyVUpHdDNJbkkwVkVhQy1Nd3h1YllxejlEWVhJalpPc19VRmtoQ3pKV3dqLXpvdWJ2VmdXUVZOeFJSRUtlT1JlMFJ0b0tnSU1WeWRZaWtJQjdGQ1d3WWR4MU8xMHNOeFhmRmQyVmI5eVBQUTZqaG83QkxUeVpWWVRObnR3S0laNDdENlVVdUZlLXRVVk05dC04SE9CRFkzZ0JycUZFTWNUUlU?oc=5",
       "fecha": "2026-10-19T07:00:00.000Z",
       "fuente": "Onda Vasca",
+      "imagen": ""
+    },
+    {
+      "titulo": "De la tradición a la innovación: Vila-real acoge la cocina en vivo con el reconocido actor Juan Echanove",
+      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb3pwSE94aFJGMjhsUU9xYjZZXzhkeVd0eXF3ZmRzYXFOazZLNy1FSXNWbUdSajVtckF2ZWJnbUVnMnM2TklKMVFfeW83ZTE1eFRXLXo2ZU1xUkZwNk5pRkg0NHZuZ1FGYTBwbW9hM1VYVFFtbWxMZWp4WW9PNlIzdlA1czBiUU9zN3ZxVTM0azJfVWJ5Vmd5b0lmdmI1b19XTVdXam42Q3M5YU9sSmtablFzZGctb2tkV3lXZ1piTTFzUFpVcE80ZU9Kam1CMTFSQ2owV0hVazNSaVk3Mmg5aFctNXcydTA3OEZN?oc=5",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "fuente": "Castellón Plaza",
       "imagen": ""
     },
     {
@@ -550,17 +557,10 @@
       "imagen": ""
     },
     {
-      "titulo": "Acodres pide extremar controles para evitar tragedias como la de Hello Life en Bucaramanga",
-      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcXBQZ3REZGdRX2RrRlZadkJ0QWF1ak9QV3MtYjdNWWpWV1lyMW9HZkMxMjl0cDJRZGFkeHBBMzRnQ3FYcHNPRTBWTkRXelkxRi1NWWJScGJNTmtVQWwtVHNKNHl0RUd5bnkxcndOWVhDMWZYNGdLOHZoNlFsemktN3g2MXpicVgyMVZFalZKREljU3dnbElXbzlycjVFZzE0VTdzSkVXQ0JFdmZGVGg0M3NZWDJpd3haYm04ajhNdlNNS1HSAdcBQVVfeXFMT3A1VXhwN0Zvck9rNWtVUjZUeEFmWS0zblVQMTdHYV91T1ZjOEhVTkVLX1FjY2FVQkxmZWtpeU9aRUFoNkczWGlYUFhBOHBhU2hydFpPOGRIMS1MSlJBbzVYWktNeDlQRnk1ZGt1dHBVMzZlVGs5UFM5MXRWN3pxOXNCRVhSVW1sMzdwM1Ezcl91dTctS1dsQ3VvblFsODJJOU9lMzNkMXluYlhqVWNVQllua3pMYnJOc1RmR01SZ0NqQXVocU93NlpFc2dUSUMxTjlVN0p2RFk?oc=5",
+      "titulo": "Se acaba famosa cadena de comidas rápidas en Colombia: esta es la razón por la cual la Superintendencia de Sociedades ordenó la liquidación de Presto",
+      "enlace": "https://news.google.com/rss/articles/CBMingJBVV95cUxPNGZsRFdWc0paRmpMSExIU3BHT3dnM0pfSUVwQWNPeV80azVpUVd0UnY1aEhRbnRYYkJhTXJ3Y2IxRjM4Tkh5ckhEN2RQdEtmZWwzdEtqRnQxV0xGd3FqVmRDZGwyRVR2SnRUM0tHRndGTFVWbWU1MTRIYWVIalY5Vzl2c2FkUVZfR1RjY294MXhOcmlTdlA2Ti1NTUFweGhxZHRwcmdzYjdBcUoyVU5ybDdLYU5xSjBBcHZqcHk0TFhLcXZDd1Q2andZWkE1XzEwRGxRVmRuYjY4a05URW1MVXkxeXltY2t2cmcxdXVXU2lpc1lxdFpPSUNhcERVV3pSM2Y2bmtEUmJmQ2o5Nk12ZXdYN0luWFJqa0paRlJR0gG4AkFVX3lxTE5Va2JWeGZyMnotZFRIMW1MYklPb0Y5ejF2aUpnRkx1TFJQN29UOE9nRGZ6V01YaVJqVmhTYTFmV3hBMkNOMVF4YVUxTEJkWjkwZGs4bDViVm5QOEctZlE5OEF2alROc3VmMVFLTEJRQTFQZGtYX1dZbEZuNG54aTNaWi0tSVRWaS11bmE4a28xOHE3SllBZm1wcVNmcURBYjJCeTdQajEzT09hSHA2QzlRN0pVeUpyWHpTcnc5SkplZVZGNUFkSkd4dTBuc1FvTVpXMEJmMEZFXzdFeHpEZUlheFh6YTVmb1dLVDN3eEd3Q2xtQ3NjUjEtTU9vTnZpS2dnTEhnRVJmQTY0aEpSYUVQQnVfZUV0V3dJTy1xcnhPRFNsRndDcjdsQlhvWUhlNWQ4MG9PRm04Sg?oc=5",
       "fecha": "2026-10-16T07:00:00.000Z",
-      "fuente": "Caracol Radio",
-      "imagen": ""
-    },
-    {
-      "titulo": "Presto: la cadena colombiana de hamburguesas busca salvarse",
-      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tX2JLNldmSVFDY1llUHpDYXRzaXhHcXhFOVA0V3I2aHRkOGJ0Zk9DY005d1BGSERvbTNaVm9LRElIV0FoNWl5R3lmNmFwWmRYZk5IdlBCUzdUZldBeHVvUGJzYWFCUFFTV0VseE80MXg4RjlBeVhqbFR0U0Q?oc=5",
-      "fecha": "2026-10-16T07:00:00.000Z",
-      "fuente": "Estrella Digital Colombia",
+      "fuente": "Infobae",
       "imagen": ""
     }
   ]
