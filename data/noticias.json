@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T01:18:52.761Z",
+  "actualizado": "2026-11-01T07:46:31.111Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
@@ -214,18 +214,18 @@
       "imagen": "http://www.bing.com/th?id=ONUT.IHPkLl8hC468KIy0TBWl9w&pid=News"
     },
     {
-      "titulo": "Los ingredientes y la n&#243;mina se comen los restaurantes: van 520 cierres en Medell&#237;n este a&#241;o",
-      "enlace": "https://www.elcolombiano.com/negocios/cierran-520-restaurantes-en-medellin-BA42718108",
-      "fecha": "2026-10-26T02:34:00.000Z",
-      "fuente": "El Colombiano",
-      "imagen": "http://www.bing.com/th?id=ONUT.ZI2iEHxC3YN0Nwx1RSpr-g&pid=News"
-    },
-    {
       "titulo": "Un proyecto de ley propone un IVA único del 5% para el sector gastronómico en Colombia",
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUJXVkhJLTZNdm1IaFhnVlRJMGlUUkRpbWpia3dsNXZ0RHdWaVp1RnFnaGRPbnpBd3VXTzZoak9CZmVULV9saVNkWEo0YmVYLUhHS19tdHc2SWgydnU3aWlOaXNwWFNkclJIb3dlR05ZdmNaNkZsRkFUTXQwaDNqdTdpVGViWW1hMHFxckxKQzJBd2pBajFra3d2cGdBRkJYaFF2Qk9zXzdjY1pydjNQN3diZ24?oc=5",
       "fecha": "2026-10-25T18:57:12.000Z",
       "fuente": "IFM Noticias",
       "imagen": ""
+    },
+    {
+      "titulo": "Los ingredientes y la n&#243;mina se comen los restaurantes: van 520 cierres en Medell&#237;n este a&#241;o",
+      "enlace": "https://www.msn.com/es-co/dinero/general/los-ingredientes-y-la-n%C3%B3mina-se-comen-los-restaurantes-van-520-cierres-en-medell%C3%ADn-este-a%C3%B1o/ar-AA2g5mIn",
+      "fecha": "2026-10-25T13:08:25.000Z",
+      "fuente": "El Colombiano on MSN",
+      "imagen": "http://www.bing.com/th?id=ONUT.r_j-_qCJVBl9dwstUAnINg&pid=News"
     },
     {
       "titulo": "Restaurantes peruanos en jaque frente a El Niño: La escasez de papa, limón y pescado pone bajo presión a la gastronomía peruana",
@@ -403,6 +403,13 @@
       "imagen": "http://www.bing.com/th?id=ONUT.nE_07QyVhg5DkV_zlLyagw&pid=News"
     },
     {
+      "titulo": "Supersociedades autorizó la venta de hamburguesas Presto como ‘negocio en marcha’ tras ordenar su liquidación | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWtGOUh5WnRadTRobnhyQlkyMUlibVFtb29peFB2MGJTZlpLT0FLek1BdFk3bnByQ3QtQXRWX25MZk5heUhCTHIzYS1vUTUxMVd0R2lIRjhhYjhMVzFlUG1MVjI1UFJ4WF82YUktRHN4RFRMTC1zODVnLVRVSUdjZW1HZ0NIOHU4Q3oxSi1SUmh4Wnd6Z01rWnBJSFRyNC1OT2xZTFBDM01tZkJMdXFqadIBtgFBVV95cUxNWGdsdklBVjkxR2FwZHhvOXZvZ3RHOFNINDltUGZSeGtDdDNvaGNadVFwQ3Ryb1hDaVViX0x0Y0lnNjN1bk9PQVpOMWZsQmtoZmRDMy04blB6VmVUZVlSNjRfTFdDYWRVZEhKdW9wTU1wLW1NRHBFbTdTcmc4VG9FNzdTV2VmNkxwNTJXZmlHakNlY2l4MkY4RzVnZ1BNMzBCVzRXaWE0Z2NSai03dTZxcHg0bnNwUQ?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
       "titulo": "Badajoz se convierte en el epicentro de la gastronomía y acoge la nueva fiesta de los Soletes de Guía Repsol",
       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ3FJSXlRUEtWVWttalVQR2wtVUFiY0x2d01kQTlsNXR5V0Vob2RuR19vOGRPbEp1b0s2S1p0Wm1hZFlQbkNybmZfeXVhb09FZjRFdGFaN3d5SUh2TzQ4N0U2S3ZQeV9WVVdzZUltTFlCejI3dkxrZUFpajhRTmhiSFp4cEhMTUZsbXhqN0NjcHFfeWhXaXlES1NOQldpNGo5YXF4dXNyVGlVVU5qNDhBY0ttbHVIdThUb0h2ZEN0aENyR3pVUVpVbVV5V1lDT2FjT3FEMGN6YWI1VGktWGVQODJWOXVUenV4QXFkbmNQcldqdWRpX25GTFdn0gH_AUFVX3lxTE94RzI0NmFZa29xdHd4U0EtNTZ6MWJ2bHAtRzBLN2lib0RsdFhadG5rNHhGN0toeXFhQTVhRjNycm5DNXNNYU9qR25wTkRYeE9ZRk4tWlNyYzNWY1pqWVNFM0FjV203WU1qMlJSbFEydTdWTGNOcUVibTh5clVMaFFyc19iQ0NIejliZlBnbEIxOGhsNVlCbklZU0VZVDgycXgtMDdmT1FwRHpUa0dsdEV2ZXNfb21TTFk3NFVoSE1RMm50Q2kxbUpXWG9jaXhjc21vZnpVM2ViRVh4aUtOcndFZU1oQjVtTFQ3ZFJnSzhNLVNla2RSWlYxYjc3SmpiVQ?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
@@ -428,13 +435,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeW5VdVBKeU1nSjRKaHBIaXBMeGNVaE5MM2M2ZkxUZU5PVk5DQUE0UVdESHhuUTVPQ2hnSGxCTF96QzJNWWRwRmp4RVI5ZHR6ay1CcFdJQXZLVEJmenlGbHhuVm02bTZ3X05tT1BtNkxPdWo4VkxoUVBfal9Xd2xVRkNwTHBQZEpDaGUtY2NKOTlfcWlzR3RyUTVoV3ZSVmVTZlQ2V3I3MS1oaHdaWjhyclNFbndoV0l4YXR1eEhRbVNzc0M2UmNja1FjNWRGVzFIQTFudHE3NHExV2xq0gH3AUFVX3lxTE1iQXA3emEwdE1TVGwtQlJaQnlPVFFLaHU4RDdhVVFEVEFGNDN3S3RrMlBHejljSWlWVUJ5azNONU9UV280c2FiSXVDY0VGczl6UXZsbDRtM0ZpUFJYaDBaRTFvN053ODhfNUVvSmZCUHp0U01tYTFMa1BkYmxUNm1oNE9WVnVUWVo2cEVOdi1qUXBrNG94M0ZVak9EbkFNem8xOEFwU19hUXMyTkVESjZ3VzlzTWlkY2U1QUNES0J3aTZSMnRreXJKR3VrejFVdGF6SldlU2dLYUFoTVVGZHZJazJSOFFILWdGOVlCMkJPRFFsNkZ2QkE?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
       "fuente": "Infobae",
-      "imagen": ""
-    },
-    {
-      "titulo": "Supersociedades autorizó la venta de hamburguesas Presto como ‘negocio en marcha’ tras ordenar su liquidación | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWtGOUh5WnRadTRobnhyQlkyMUlibVFtb29peFB2MGJTZlpLT0FLek1BdFk3bnByQ3QtQXRWX25MZk5heUhCTHIzYS1vUTUxMVd0R2lIRjhhYjhMVzFlUG1MVjI1UFJ4WF82YUktRHN4RFRMTC1zODVnLVRVSUdjZW1HZ0NIOHU4Q3oxSi1SUmh4Wnd6Z01rWnBJSFRyNC1OT2xZTFBDM01tZkJMdXFqadIBtgFBVV95cUxNWGdsdklBVjkxR2FwZHhvOXZvZ3RHOFNINDltUGZSeGtDdDNvaGNadVFwQ3Ryb1hDaVViX0x0Y0lnNjN1bk9PQVpOMWZsQmtoZmRDMy04blB6VmVUZVlSNjRfTFdDYWRVZEhKdW9wTU1wLW1NRHBFbTdTcmc4VG9FNzdTV2VmNkxwNTJXZmlHakNlY2l4MkY4RzVnZ1BNMzBCVzRXaWE0Z2NSai03dTZxcHg0bnNwUQ?oc=5",
-      "fecha": "2026-10-20T07:00:00.000Z",
-      "fuente": "El Colombiano",
       "imagen": ""
     },
     {
