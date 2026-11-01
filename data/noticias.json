@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-10-31T22:06:53.902Z",
+  "actualizado": "2026-11-01T01:18:52.761Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Una bandeja paisa saldrá más cara con la reforma tributaria de Abelardo de la Espriella, según Daniel Quintero: “La Patria Milagro”",
+      "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSzRqSWRxM0NWMnNXX1Q4MWFaSW9jRmNVWFdHUk9CcURjZ3kxRE9ENFY4bEw5OFhiVUlucmF3RTlsWURScUtjNkFtSS00bGV1MFNqanI2cktXZXotU2JaeTl6TnhqdFo0RFhZalVfTElWRXN3bGlGTkZvRHBKRGxSRkczN1dPZXVmTU9ObGcwUEtoVDlTVDJselY5UmlOVVVsTjFsQ1dtcjZpTGJKWHpfMWZBVW9JQk8xYmdJYV9PNTlNdzQwengxRlpucUZ2LVFmcHJTWEJyRVFwUy1OUDZKYzc2N3A0Y2F2ZjhVOGY5cDU1WkxiWTR4RHM5NHFpcnFuRFHSAZwCQVVfeXFMUGZyU1pmd1dFSTFIenU5Ulc2dTgtaGg3S3FqSXJ3UzhMWTJhRjJMSEhjbHJ5V0ZGdWRhTGxfZlNuQXQ5RkZJYTV6NVFDekN1aV9aSVZzYkQxUTJmUnIyMTk1M19kUnh0T3hSMDE5ZTRtXzdEc0FiZ2p5UlB6ekN4TzFQUVlwN1VwaFRrRmRBREZVSmZFRTBKZVpoM2o3WmU2UVFrc1I5Q2lyemV1Q01WUHViMXRUNlZpaHJYbzRhQlQ4WWt5T3dOdW00UWQ0RkZGcFh6c2FvZHFyYzN6NkNITEJ6YUQtVlBkNnRfSmVxbGVFdVNWYnJQY19ubjZDNTktdnZNWU8tMjdwejBFTEVSeXQwTzdRNGtaekhZcEc?oc=5",
+      "fecha": "2026-10-31T19:42:00.000Z",
+      "fuente": "Infobae",
+      "imagen": ""
+    },
     {
       "titulo": "La proyección hecha por el exalcalde de Medellín calcula una diferencia de $1.500 por plato, aunque los restaurantes podrían asumir parte de los costos según sus márgenes, proveedores y competencia, si el Congreso aprueba la iniciativa presentada por e",
       "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbXNpYXhpWFNrSllyclE0VXpoOFBEWVQtanJMZlZTbXdRa29WSDJWejd5ZHdScEFHbGdQMTEwTGRsWFcycGNLVDRPbF9HMGFGZHk0SnpKb2FMMGkxZ19COVdwcVRCVXdPbkJHcFBfMjFNQ2NSZURkbkpuTjNhYmZRSGNhVjJLUUxSYkw3X0ZjRzV5cEJUWGg4RXhLTnNBX2NoVV9CSUpuRkJoWjlWc29XU0c2aE9NWGpyZUZtcVRoOUtJU2VNcFhUc2dIcGJMdG5ZVUYwNXFwcUpKSXl2NVJGb25fVFR5VkVTeVpj?oc=5",
@@ -15,13 +22,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVEJEN2pzQUdXUmZFdjlWUHlqczBqNFhGWHkzQ0hUMEh6N2VPUTZIYkxpcHZyWV9icGlnajVDa2cwMUhnODh6NTBpOWQ5WmNHalZ6UjNCeXhQUkhfaXJxTUNPcWd4ai1mZm9qZHROdXlrUXBuWXVETG5FNUVURHFlMkc0MlNhVUljV3hDYUU4RkNxdG9teHVJY0d4UnIwaE5SXzFTRmFmb1pPMm51NHYxbWFZc3M?oc=5",
       "fecha": "2026-10-31T18:48:41.000Z",
       "fuente": "Uruguay Al Día",
-      "imagen": ""
-    },
-    {
-      "titulo": "Una bandeja paisa saldrá más cara con la reforma tributaria de Abelardo de la Espriella, según Daniel Quintero: “La Patria Milagro”",
-      "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSzRqSWRxM0NWMnNXX1Q4MWFaSW9jRmNVWFdHUk9CcURjZ3kxRE9ENFY4bEw5OFhiVUlucmF3RTlsWURScUtjNkFtSS00bGV1MFNqanI2cktXZXotU2JaeTl6TnhqdFo0RFhZalVfTElWRXN3bGlGTkZvRHBKRGxSRkczN1dPZXVmTU9ObGcwUEtoVDlTVDJselY5UmlOVVVsTjFsQ1dtcjZpTGJKWHpfMWZBVW9JQk8xYmdJYV9PNTlNdzQwengxRlpucUZ2LVFmcHJTWEJyRVFwUy1OUDZKYzc2N3A0Y2F2ZjhVOGY5cDU1WkxiWTR4RHM5NHFpcnFuRFHSAZwCQVVfeXFMUGZyU1pmd1dFSTFIenU5Ulc2dTgtaGg3S3FqSXJ3UzhMWTJhRjJMSEhjbHJ5V0ZGdWRhTGxfZlNuQXQ5RkZJYTV6NVFDekN1aV9aSVZzYkQxUTJmUnIyMTk1M19kUnh0T3hSMDE5ZTRtXzdEc0FiZ2p5UlB6ekN4TzFQUVlwN1VwaFRrRmRBREZVSmZFRTBKZVpoM2o3WmU2UVFrc1I5Q2lyemV1Q01WUHViMXRUNlZpaHJYbzRhQlQ4WWt5T3dOdW00UWQ0RkZGcFh6c2FvZHFyYzN6NkNITEJ6YUQtVlBkNnRfSmVxbGVFdVNWYnJQY19ubjZDNTktdnZNWU8tMjdwejBFTEVSeXQwTzdRNGtaekhZcEc?oc=5",
-      "fecha": "2026-10-31T18:44:56.000Z",
-      "fuente": "Infobae",
       "imagen": ""
     },
     {
@@ -410,17 +410,24 @@
       "imagen": ""
     },
     {
-      "titulo": "Fue a uno de los bodegones más destacados de Palermo, pidió un almuerzo para 6 y mostró cuánto gastó",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeW5VdVBKeU1nSjRKaHBIaXBMeGNVaE5MM2M2ZkxUZU5PVk5DQUE0UVdESHhuUTVPQ2hnSGxCTF96QzJNWWRwRmp4RVI5ZHR6ay1CcFdJQXZLVEJmenlGbHhuVm02bTZ3X05tT1BtNkxPdWo4VkxoUVBfal9Xd2xVRkNwTHBQZEpDaGUtY2NKOTlfcWlzR3RyUTVoV3ZSVmVTZlQ2V3I3MS1oaHdaWjhyclNFbndoV0l4YXR1eEhRbVNzc0M2UmNja1FjNWRGVzFIQTFudHE3NHExV2xq0gH3AUFVX3lxTE1iQXA3emEwdE1TVGwtQlJaQnlPVFFLaHU4RDdhVVFEVEFGNDN3S3RrMlBHejljSWlWVUJ5azNONU9UV280c2FiSXVDY0VGczl6UXZsbDRtM0ZpUFJYaDBaRTFvN053ODhfNUVvSmZCUHp0U01tYTFMa1BkYmxUNm1oNE9WVnVUWVo2cEVOdi1qUXBrNG94M0ZVak9EbkFNem8xOEFwU19hUXMyTkVESjZ3VzlzTWlkY2U1QUNES0J3aTZSMnRreXJKR3VrejFVdGF6SldlU2dLYUFoTVVGZHZJazJSOFFILWdGOVlCMkJPRFFsNkZ2QkE?oc=5",
+      "titulo": "Los retos financieros y laborales de los chefs para sostener sus negocios gastronómicos",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkp0TUk1WkVSZmp5Q0c0Tno0Ny1JX2RNaHhzODY1NzdtVlBJRUJnNElpVlJORFByc2ItY2JFTXhyLXI2LUQwOFZ5QzRuRWNoYWF3dnJxa0wyZk1FT21PRWlkM2xBSm9YcHlBbzR4bk8tYnd6MElJWmZBSUQtQ19WZEdBUElkcTlPbThyN3ZrSkdVZlBQRjY2eEhweFJXR216a2lsRU1JOFV0OWZFeUtzcXpWQ3p4aUpQS1p5RUw0SmdpbTBmcEHSAcYBQVVfeXFMTmlNZFF3QkQ4RDlpbWlCQm9mUHU5a3liLV8wRWhMUXVqdl9RSVA0R3FPRlAyaGtrbm9ZWml2YkJNT0pyVWFwMUJITGJaWXczc3ZyMGRSeE9MOTc1SkpfWm5jVEFGLXU5Q0dIMlJsbHAxMmY1WENHM2JLeEJ3bHFaVVVKTURVcUlmRVAtb0s1a0tBellRNVhVQUljMVBCUlNDWFpVT1p1WUw5MHNWT0J3ZHllc2hzYUV2TWpCd295bzhGNHlrT2Fn?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
-      "fuente": "Infobae",
-      "imagen": ""
+      "fuente": "LaRepublica.co",
+      "imagen": "http://www.bing.com/th?id=ONUT.jlqqvGvRd_2zqXc7K3CWhw&pid=News"
     },
     {
       "titulo": "El negocio del corrientazo a domicilio crece en Colombia",
       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFktcFRZRUFsRzVuckxPRVBUbjg2bkgyTFlrN2ZkaDJnRW1XZGtSNmswdGQtUzVqTWJqMkgteDNyLUk0WkdNc1RSZ0QwcUlKQmNFaDZQZm9PMkVCQ2tLc0ZrTS1XelJkTVBaOEJnblVpRnJrR1M4UXNNUnVXSDNJWXlXUTlrQWhTNXpGLU1pNnJfdjFuTW1OY2hjMA?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
       "fuente": "El Espectador",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fue a uno de los bodegones más destacados de Palermo, pidió un almuerzo para 6 y mostró cuánto gastó",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeW5VdVBKeU1nSjRKaHBIaXBMeGNVaE5MM2M2ZkxUZU5PVk5DQUE0UVdESHhuUTVPQ2hnSGxCTF96QzJNWWRwRmp4RVI5ZHR6ay1CcFdJQXZLVEJmenlGbHhuVm02bTZ3X05tT1BtNkxPdWo4VkxoUVBfal9Xd2xVRkNwTHBQZEpDaGUtY2NKOTlfcWlzR3RyUTVoV3ZSVmVTZlQ2V3I3MS1oaHdaWjhyclNFbndoV0l4YXR1eEhRbVNzc0M2UmNja1FjNWRGVzFIQTFudHE3NHExV2xq0gH3AUFVX3lxTE1iQXA3emEwdE1TVGwtQlJaQnlPVFFLaHU4RDdhVVFEVEFGNDN3S3RrMlBHejljSWlWVUJ5azNONU9UV280c2FiSXVDY0VGczl6UXZsbDRtM0ZpUFJYaDBaRTFvN053ODhfNUVvSmZCUHp0U01tYTFMa1BkYmxUNm1oNE9WVnVUWVo2cEVOdi1qUXBrNG94M0ZVak9EbkFNem8xOEFwU19hUXMyTkVESjZ3VzlzTWlkY2U1QUNES0J3aTZSMnRreXJKR3VrejFVdGF6SldlU2dLYUFoTVVGZHZJazJSOFFILWdGOVlCMkJPRFFsNkZ2QkE?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "fuente": "Infobae",
       "imagen": ""
     },
     {
@@ -445,13 +452,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.mkDwv-M5MbWRaGCTAhzaNw&pid=News"
     },
     {
-      "titulo": "Los retos financieros y laborales de los chefs para sostener sus negocios gastron&#243;micos",
-      "enlace": "https://www.larepublica.co/ocio/los-retos-financieros-y-laborales-de-los-chefs-para-sostener-sus-negocios-gastronomicos-4506741",
-      "fecha": "2026-10-20T05:03:00.000Z",
-      "fuente": "La Rep&#250;blica",
-      "imagen": "http://www.bing.com/th?id=ONUT.jlqqvGvRd_2zqXc7K3CWhw&pid=News"
-    },
-    {
       "titulo": "&#191;Crisis en el sector gastron&#243;mico de Medell&#237;n?: Salir a comer se volvi&#243; un lujo, pero restaurantes est&#225;n al borde de la quiebra",
       "enlace": "https://www.msn.com/es-co/dinero/general/crisis-en-el-sector-gastron%C3%B3mico-de-medell%C3%ADn-salir-a-comer-se-volvi%C3%B3-un-lujo-pero-restaurantes-est%C3%A1n-al-borde-de-la-quiebra/ar-AA2fC0Zg",
       "fecha": "2026-10-19T15:57:54.000Z",
@@ -463,7 +463,7 @@
       "enlace": "https://www.bluradio.com/regiones/antioquia/crisis-en-el-sector-gastronomico-de-medellin-altos-precios-tienen-en-jaque-a-los-restaurantes-rg10",
       "fecha": "2026-10-19T10:11:00.000Z",
       "fuente": "Blu Radio",
-      "imagen": "http://www.bing.com/th?id=ONUT.4oCfdF6cJYSd8tZ1F8naKA&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.rjFynw4S5JuwDEXAVUfdHg&pid=News"
     },
     {
       "titulo": "“Las cuentas no dan”: restaurantes de Medell&#237;n esperan cerrar 2026 en tablas",
