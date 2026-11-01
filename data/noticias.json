@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T14:38:53.749Z",
+  "actualizado": "2026-11-01T19:18:49.989Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
@@ -298,13 +298,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Popayán acoge el encuentro más importante de las cocinas tradicionales en su Congreso Gastronómico",
-      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNGdNeVU4Z1JVanZMb0tkb0N5MlA1VXNIc1dXYTA4SXRZQjMyTHlURmg5UTFiUzRNZEJqYVhBR0diUm9MX29qZjltVm9sUEhoZmo3cGNNTHVtbklyRXFibnJfb3V3T1NHMWxfcjF6VE5nYWdFVUFBeG9SdTlUZ294dGN0amZIRVlXRUNKdHdIRU5pTldEcGt5d2UyeFNaQldrMXFrS3JrVFNodUtHNE1haVVPS2FPV1U4SlhteWRFMnhSMWt0NzJiVHJYRGJKVjBheG1FOE5CREtUTnEwX1RwT0pFWUl2d9IB6wFBVV95cUxNa3JXcXVkT3FJcUhLMjFqUXBNMDRNWExlWWYzeUFUR1RNejZrZ3VwSFdkUUxEYWRkaVhYYnlwUkprbndfRTZYd3l2anRXNGV4OVVaZXRFdmFCaVkwQ0Fwc3FPelJWNXozTEk5d2Z0WW5aMVZ5TVZjMUN0alZBSkFFeTVGMXpSb1g2dklIaTZHLV9yZjFEeG1iLUt6M1VNT3FuaXFhSGdzVUhfSEdNY2tDNnk4ZEpoeGtsYTJ2cFltTmRCaUpMQzcyY0pWTDJqSE1lNGxKUXduTVNpaFMzVzkweFYwQXVMam03UXZv?oc=5",
-      "fecha": "2026-10-23T20:55:38.000Z",
-      "fuente": "El Tiempo",
-      "imagen": ""
-    },
-    {
       "titulo": "Jerez acoge el Comité de Acción Territorial de la Federación Española del Vino en el año de la Capitalidad Gastronómica",
       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMmJDdlpwRVBuT3U0UjNGOWhvNUdNbGdFNmV0ZmtSaE9qT1g0NUI0ZzJWdVBXaFR2QUlNeUtPVVhoVnhrbzNCdXNRcFU4cFVZeE85QnNWZVo5SnlHZHZqRlF1Z0JOYTF6ampIYlY2dGZKd1VxZDVSRWxtYXJXNGdGNWpQdFFuSUYxS0pFOGtrSTNScnBSYjItb2d2dWNhTFBpdXVUU3JNWWJZMlVlT0hUVWZ4cjhhc051Zl90NkFkalJIdTNSUUljaV93Nk1MSERjNTdaT1lsVW8wdw?oc=5",
       "fecha": "2026-10-23T18:35:14.000Z",
@@ -330,6 +323,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXp1VlprWGlrZ2xZLXdsd0VvU2s5c1M3UHQ5RDdNYzRNTy15TlpJb2ZLQmhCU0tEdUdQbUNLZkltODVfcHhGeGt2eUwyR20wejZYdkpHMXJaSHdxaDk0Q0dYRUZ2eWEyTDhtVWJmUHRmLUZlMEVNcmM2YmVnMFh5S3R5WUVobk5aUHZfWUVPdS10M2xUdjZkcm84V1IyblVPck5SZllFbkIxMkFGUmJaMV9BZTU?oc=5",
       "fecha": "2026-10-23T10:08:03.000Z",
       "fuente": "Alicante Mag",
+      "imagen": ""
+    },
+    {
+      "titulo": "Popayán acoge el encuentro más importante de las cocinas tradicionales en su Congreso Gastronómico",
+      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNGdNeVU4Z1JVanZMb0tkb0N5MlA1VXNIc1dXYTA4SXRZQjMyTHlURmg5UTFiUzRNZEJqYVhBR0diUm9MX29qZjltVm9sUEhoZmo3cGNNTHVtbklyRXFibnJfb3V3T1NHMWxfcjF6VE5nYWdFVUFBeG9SdTlUZ294dGN0amZIRVlXRUNKdHdIRU5pTldEcGt5d2UyeFNaQldrMXFrS3JrVFNodUtHNE1haVVPS2FPV1U4SlhteWRFMnhSMWt0NzJiVHJYRGJKVjBheG1FOE5CREtUTnEwX1RwT0pFWUl2d9IB6wFBVV95cUxNa3JXcXVkT3FJcUhLMjFqUXBNMDRNWExlWWYzeUFUR1RNejZrZ3VwSFdkUUxEYWRkaVhYYnlwUkprbndfRTZYd3l2anRXNGV4OVVaZXRFdmFCaVkwQ0Fwc3FPelJWNXozTEk5d2Z0WW5aMVZ5TVZjMUN0alZBSkFFeTVGMXpSb1g2dklIaTZHLV9yZjFEeG1iLUt6M1VNT3FuaXFhSGdzVUhfSEdNY2tDNnk4ZEpoeGtsYTJ2cFltTmRCaUpMQzcyY0pWTDJqSE1lNGxKUXduTVNpaFMzVzkweFYwQXVMam03UXZv?oc=5",
+      "fecha": "2026-10-23T07:00:00.000Z",
+      "fuente": "El Tiempo",
       "imagen": ""
     },
     {
@@ -403,38 +403,10 @@
       "imagen": "http://www.bing.com/th?id=ONUT.16PN4z_ErhgcjQ5i3vrb-A&pid=News"
     },
     {
-      "titulo": "Badajoz se convierte en el epicentro de la gastronomía y acoge la nueva fiesta de los Soletes de Guía Repsol",
-      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ3FJSXlRUEtWVWttalVQR2wtVUFiY0x2d01kQTlsNXR5V0Vob2RuR19vOGRPbEp1b0s2S1p0Wm1hZFlQbkNybmZfeXVhb09FZjRFdGFaN3d5SUh2TzQ4N0U2S3ZQeV9WVVdzZUltTFlCejI3dkxrZUFpajhRTmhiSFp4cEhMTUZsbXhqN0NjcHFfeWhXaXlES1NOQldpNGo5YXF4dXNyVGlVVU5qNDhBY0ttbHVIdThUb0h2ZEN0aENyR3pVUVpVbVV5V1lDT2FjT3FEMGN6YWI1VGktWGVQODJWOXVUenV4QXFkbmNQcldqdWRpX25GTFdn0gH_AUFVX3lxTE94RzI0NmFZa29xdHd4U0EtNTZ6MWJ2bHAtRzBLN2lib0RsdFhadG5rNHhGN0toeXFhQTVhRjNycm5DNXNNYU9qR25wTkRYeE9ZRk4tWlNyYzNWY1pqWVNFM0FjV203WU1qMlJSbFEydTdWTGNOcUVibTh5clVMaFFyc19iQ0NIejliZlBnbEIxOGhsNVlCbklZU0VZVDgycXgtMDdmT1FwRHpUa0dsdEV2ZXNfb21TTFk3NFVoSE1RMm50Q2kxbUpXWG9jaXhjc21vZnpVM2ViRVh4aUtOcndFZU1oQjVtTFQ3ZFJnSzhNLVNla2RSWlYxYjc3SmpiVQ?oc=5",
-      "fecha": "2026-10-20T07:00:00.000Z",
-      "fuente": "COPE",
-      "imagen": ""
-    },
-    {
-      "titulo": "Los retos financieros y laborales de los chefs para sostener sus negocios gastronómicos",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkp0TUk1WkVSZmp5Q0c0Tno0Ny1JX2RNaHhzODY1NzdtVlBJRUJnNElpVlJORFByc2ItY2JFTXhyLXI2LUQwOFZ5QzRuRWNoYWF3dnJxa0wyZk1FT21PRWlkM2xBSm9YcHlBbzR4bk8tYnd6MElJWmZBSUQtQ19WZEdBUElkcTlPbThyN3ZrSkdVZlBQRjY2eEhweFJXR216a2lsRU1JOFV0OWZFeUtzcXpWQ3p4aUpQS1p5RUw0SmdpbTBmcEHSAcYBQVVfeXFMTmlNZFF3QkQ4RDlpbWlCQm9mUHU5a3liLV8wRWhMUXVqdl9RSVA0R3FPRlAyaGtrbm9ZWml2YkJNT0pyVWFwMUJITGJaWXczc3ZyMGRSeE9MOTc1SkpfWm5jVEFGLXU5Q0dIMlJsbHAxMmY1WENHM2JLeEJ3bHFaVVVKTURVcUlmRVAtb0s1a0tBellRNVhVQUljMVBCUlNDWFpVT1p1WUw5MHNWT0J3ZHllc2hzYUV2TWpCd295bzhGNHlrT2Fn?oc=5",
-      "fecha": "2026-10-20T07:00:00.000Z",
-      "fuente": "LaRepublica.co",
-      "imagen": "http://www.bing.com/th?id=ONUT.jlqqvGvRd_2zqXc7K3CWhw&pid=News"
-    },
-    {
-      "titulo": "El negocio del corrientazo a domicilio crece en Colombia",
-      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFktcFRZRUFsRzVuckxPRVBUbjg2bkgyTFlrN2ZkaDJnRW1XZGtSNmswdGQtUzVqTWJqMkgteDNyLUk0WkdNc1RSZ0QwcUlKQmNFaDZQZm9PMkVCQ2tLc0ZrTS1XelJkTVBaOEJnblVpRnJrR1M4UXNNUnVXSDNJWXlXUTlrQWhTNXpGLU1pNnJfdjFuTW1OY2hjMA?oc=5",
-      "fecha": "2026-10-20T07:00:00.000Z",
-      "fuente": "El Espectador",
-      "imagen": ""
-    },
-    {
       "titulo": "Supersociedades autorizó la venta de hamburguesas Presto como ‘negocio en marcha’ tras ordenar su liquidación | El Colombiano",
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWtGOUh5WnRadTRobnhyQlkyMUlibVFtb29peFB2MGJTZlpLT0FLek1BdFk3bnByQ3QtQXRWX25MZk5heUhCTHIzYS1vUTUxMVd0R2lIRjhhYjhMVzFlUG1MVjI1UFJ4WF82YUktRHN4RFRMTC1zODVnLVRVSUdjZW1HZ0NIOHU4Q3oxSi1SUmh4Wnd6Z01rWnBJSFRyNC1OT2xZTFBDM01tZkJMdXFqadIBtgFBVV95cUxNWGdsdklBVjkxR2FwZHhvOXZvZ3RHOFNINDltUGZSeGtDdDNvaGNadVFwQ3Ryb1hDaVViX0x0Y0lnNjN1bk9PQVpOMWZsQmtoZmRDMy04blB6VmVUZVlSNjRfTFdDYWRVZEhKdW9wTU1wLW1NRHBFbTdTcmc4VG9FNzdTV2VmNkxwNTJXZmlHakNlY2l4MkY4RzVnZ1BNMzBCVzRXaWE0Z2NSai03dTZxcHg0bnNwUQ?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
       "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fue a uno de los bodegones más destacados de Palermo, pidió un almuerzo para 6 y mostró cuánto gastó",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeW5VdVBKeU1nSjRKaHBIaXBMeGNVaE5MM2M2ZkxUZU5PVk5DQUE0UVdESHhuUTVPQ2hnSGxCTF96QzJNWWRwRmp4RVI5ZHR6ay1CcFdJQXZLVEJmenlGbHhuVm02bTZ3X05tT1BtNkxPdWo4VkxoUVBfal9Xd2xVRkNwTHBQZEpDaGUtY2NKOTlfcWlzR3RyUTVoV3ZSVmVTZlQ2V3I3MS1oaHdaWjhyclNFbndoV0l4YXR1eEhRbVNzc0M2UmNja1FjNWRGVzFIQTFudHE3NHExV2xq0gH3AUFVX3lxTE1iQXA3emEwdE1TVGwtQlJaQnlPVFFLaHU4RDdhVVFEVEFGNDN3S3RrMlBHejljSWlWVUJ5azNONU9UV280c2FiSXVDY0VGczl6UXZsbDRtM0ZpUFJYaDBaRTFvN053ODhfNUVvSmZCUHp0U01tYTFMa1BkYmxUNm1oNE9WVnVUWVo2cEVOdi1qUXBrNG94M0ZVak9EbkFNem8xOEFwU19hUXMyTkVESjZ3VzlzTWlkY2U1QUNES0J3aTZSMnRreXJKR3VrejFVdGF6SldlU2dLYUFoTVVGZHZJazJSOFFILWdGOVlCMkJPRFFsNkZ2QkE?oc=5",
-      "fecha": "2026-10-20T07:00:00.000Z",
-      "fuente": "Infobae",
       "imagen": ""
     },
     {
@@ -445,11 +417,39 @@
       "imagen": ""
     },
     {
+      "titulo": "Badajoz se convierte en el epicentro de la gastronomía y acoge la nueva fiesta de los Soletes de Guía Repsol",
+      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ3FJSXlRUEtWVWttalVQR2wtVUFiY0x2d01kQTlsNXR5V0Vob2RuR19vOGRPbEp1b0s2S1p0Wm1hZFlQbkNybmZfeXVhb09FZjRFdGFaN3d5SUh2TzQ4N0U2S3ZQeV9WVVdzZUltTFlCejI3dkxrZUFpajhRTmhiSFp4cEhMTUZsbXhqN0NjcHFfeWhXaXlES1NOQldpNGo5YXF4dXNyVGlVVU5qNDhBY0ttbHVIdThUb0h2ZEN0aENyR3pVUVpVbVV5V1lDT2FjT3FEMGN6YWI1VGktWGVQODJWOXVUenV4QXFkbmNQcldqdWRpX25GTFdn0gH_AUFVX3lxTE94RzI0NmFZa29xdHd4U0EtNTZ6MWJ2bHAtRzBLN2lib0RsdFhadG5rNHhGN0toeXFhQTVhRjNycm5DNXNNYU9qR25wTkRYeE9ZRk4tWlNyYzNWY1pqWVNFM0FjV203WU1qMlJSbFEydTdWTGNOcUVibTh5clVMaFFyc19iQ0NIejliZlBnbEIxOGhsNVlCbklZU0VZVDgycXgtMDdmT1FwRHpUa0dsdEV2ZXNfb21TTFk3NFVoSE1RMm50Q2kxbUpXWG9jaXhjc21vZnpVM2ViRVh4aUtOcndFZU1oQjVtTFQ3ZFJnSzhNLVNla2RSWlYxYjc3SmpiVQ?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "fuente": "COPE",
+      "imagen": ""
+    },
+    {
+      "titulo": "Fue a uno de los bodegones más destacados de Palermo, pidió un almuerzo para 6 y mostró cuánto gastó",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeW5VdVBKeU1nSjRKaHBIaXBMeGNVaE5MM2M2ZkxUZU5PVk5DQUE0UVdESHhuUTVPQ2hnSGxCTF96QzJNWWRwRmp4RVI5ZHR6ay1CcFdJQXZLVEJmenlGbHhuVm02bTZ3X05tT1BtNkxPdWo4VkxoUVBfal9Xd2xVRkNwTHBQZEpDaGUtY2NKOTlfcWlzR3RyUTVoV3ZSVmVTZlQ2V3I3MS1oaHdaWjhyclNFbndoV0l4YXR1eEhRbVNzc0M2UmNja1FjNWRGVzFIQTFudHE3NHExV2xq0gH3AUFVX3lxTE1iQXA3emEwdE1TVGwtQlJaQnlPVFFLaHU4RDdhVVFEVEFGNDN3S3RrMlBHejljSWlWVUJ5azNONU9UV280c2FiSXVDY0VGczl6UXZsbDRtM0ZpUFJYaDBaRTFvN053ODhfNUVvSmZCUHp0U01tYTFMa1BkYmxUNm1oNE9WVnVUWVo2cEVOdi1qUXBrNG94M0ZVak9EbkFNem8xOEFwU19hUXMyTkVESjZ3VzlzTWlkY2U1QUNES0J3aTZSMnRreXJKR3VrejFVdGF6SldlU2dLYUFoTVVGZHZJazJSOFFILWdGOVlCMkJPRFFsNkZ2QkE?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "fuente": "Infobae",
+      "imagen": ""
+    },
+    {
+      "titulo": "El negocio del corrientazo a domicilio crece en Colombia",
+      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFktcFRZRUFsRzVuckxPRVBUbjg2bkgyTFlrN2ZkaDJnRW1XZGtSNmswdGQtUzVqTWJqMkgteDNyLUk0WkdNc1RSZ0QwcUlKQmNFaDZQZm9PMkVCQ2tLc0ZrTS1XelJkTVBaOEJnblVpRnJrR1M4UXNNUnVXSDNJWXlXUTlrQWhTNXpGLU1pNnJfdjFuTW1OY2hjMA?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "fuente": "El Espectador",
+      "imagen": ""
+    },
+    {
       "titulo": "Manuela Par&#237;s: “Cocinar bien es apenas una parte del negocio gastron&#243;mico”",
       "enlace": "https://www.diariolibre.com/revista/buena-vida/2026/10/20/manuela-paris-y-el-desafio-de-hacer-rentable-un-negocio-gastronomico/3694796",
       "fecha": "2026-10-20T05:37:00.000Z",
       "fuente": "Diario Libre",
       "imagen": "http://www.bing.com/th?id=ONUT.mkDwv-M5MbWRaGCTAhzaNw&pid=News"
+    },
+    {
+      "titulo": "Los retos financieros y laborales de los chefs para sostener sus negocios gastron&#243;micos",
+      "enlace": "https://www.larepublica.co/ocio/los-retos-financieros-y-laborales-de-los-chefs-para-sostener-sus-negocios-gastronomicos-4506741",
+      "fecha": "2026-10-20T05:03:00.000Z",
+      "fuente": "La Rep&#250;blica",
+      "imagen": "http://www.bing.com/th?id=ONUT.jlqqvGvRd_2zqXc7K3CWhw&pid=News"
     },
     {
       "titulo": "&#191;Crisis en el sector gastron&#243;mico de Medell&#237;n?: Salir a comer se volvi&#243; un lujo, pero restaurantes est&#225;n al borde de la quiebra",
@@ -494,6 +494,13 @@
       "imagen": ""
     },
     {
+      "titulo": "Arrancó el Pizza Master 2026: conozca los restaurantes participantes en Medellín y sus creaciones",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZ2FGZk5pV3dSaUQ4QTdLZVNKZWlIQWVFMjN5MVpha1BBcndoTE1OTHJPVWlKMjhUdndUQTJfYUdkNkFGQXVrSTJKQXRWN3ZpQlkxUmxrWnpBR1k5bWhjVjZrVTk2a29UN3dPbWs2NlRqbXFtNmNTNGxNdmgxdw?oc=5",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "fuente": "Telemedellín",
+      "imagen": ""
+    },
+    {
       "titulo": "Ermua acoge en noviembre un ciclo de cinco talleres sobre gastronomía y tradiciones de China y Japón",
       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3lHWHhtVzQ3YXl0bERiNTJBZDEzSU9aeExlRFhSa3JxWGZINURydjRyNU9rOHEwVVRadHN3ZzRrNXZoMk1HRExfcUhjZWNSZHU3MnAyVVoyRFR3c1o0S3Y5cGxGMTZvNzRWMjkyb05QTXRyS1hkak42VGk3Y185cGZMSk5uUDhzOUNfWnQ1Tlhya001Z0RmVG0ycnROb252WEhmaVhDMmYtYkEwQU5CaXdsbXBYei0yVHBFUzBtQjdtWFZCeVHSAcsBQVVfeXFMUGQ5eGFqNGQ0bmdWSGg4QzE4UDNMbmxJUTRmWVBEQi1tMEkyVUpHdDNJbkkwVkVhQy1Nd3h1YllxejlEWVhJalpPc19VRmtoQ3pKV3dqLXpvdWJ2VmdXUVZOeFJSRUtlT1JlMFJ0b0tnSU1WeWRZaWtJQjdGQ1d3WWR4MU8xMHNOeFhmRmQyVmI5eVBQUTZqaG83QkxUeVpWWVRObnR3S0laNDdENlVVdUZlLXRVVk05dC04SE9CRFkzZ0JycUZFTWNUUlU?oc=5",
       "fecha": "2026-10-19T07:00:00.000Z",
@@ -519,13 +526,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamhSdGtGREkzbzkzT3J5UGV2WkwyWWhfa3dDVzk5dlJrcWppLXlvM3BUalVoRkhVbVdweG1sNUthdHlUSE5UYVhWTC00dTZZY05uWlV1QUtPWUJxOFUtZVJLeGI5YWg3RzB0ejFCVEs1UktpbHZvaEhWNHJZTzJEaVN5dmg0TmRNQlBlczlqcm5JcEMzQVRLWE5oMW45cFBjV1lxT09sYy05cklZS0NCT0NnZzc?oc=5",
       "fecha": "2026-10-19T07:00:00.000Z",
       "fuente": "El Pilón",
-      "imagen": ""
-    },
-    {
-      "titulo": "Arrancó el Pizza Master 2026: conozca los restaurantes participantes en Medellín y sus creaciones",
-      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZ2FGZk5pV3dSaUQ4QTdLZVNKZWlIQWVFMjN5MVpha1BBcndoTE1OTHJPVWlKMjhUdndUQTJfYUdkNkFGQXVrSTJKQXRWN3ZpQlkxUmxrWnpBR1k5bWhjVjZrVTk2a29UN3dPbWs2NlRqbXFtNmNTNGxNdmgxdw?oc=5",
-      "fecha": "2026-10-19T07:00:00.000Z",
-      "fuente": "Telemedellín",
       "imagen": ""
     },
     {
@@ -557,10 +557,10 @@
       "imagen": ""
     },
     {
-      "titulo": "Chelva acoge la Feria del Alto Turia con productos locales, catas, música, visitas guiadas y gastronomía popular",
-      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82UDVxUnRDMS02bnlEeHZZTEEwak1CY1FqMlZyWVNGb0dYU1JmSXdDNUpPY3Uya2lzRDZqVGFqOG9TMWJidkpFTmFPb1ZBWWRfZFRXbWJOR0NyZFYtN3pacFI0VUFBTmhvWGhCSmlGZ2MyMEJXMVNyY2FjNXp6ZkU?oc=5",
+      "titulo": "Precio de la papa capira subió 43 % y preocupa a restaurantes",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjNtQmpIZWx2NC0taTZRdTlpdXRURWNGdWM3akNYLVRUUW15X3Z0RnRiLW1zUk9BTzQxajFHSUY3dzByR1VfMVdMb3RHa1phVXRfcmhTN0tkZ0dIYXdIY3RvaDdTcXhfTFpXSUFaT3psZ0l6Z0JmcHpBV21TaEhKMVNyLTUxUDhLZHU2dm1rcC1qMUttRnJPYnI5N3o1aWxMRy1nTGFiVdIBswFBVV95cUxPblg2OTUycENhSVJkaGNCSDRlcU5ReFItd0lsYUV1cWhEV1BSaXI2eDNCNjZrbzB4cGNjOEtIOTFyN1ZjeUZiM2tKc204cVJTNlZaRlpmSTc0enVkb1lzMlJpTjA0ZlFtR0NyUi0zMF9QWFJocEpPWnZwdy1GTWdGYjhCRDZtWW1GSHlwTVgtUTFHZm9WWUk0NXFXOFdhcF9MaDN1aFZ1TUdWWGU0X0gyYzE4QQ?oc=5",
       "fecha": "2026-10-17T07:00:00.000Z",
-      "fuente": "Valenciabonita",
+      "fuente": "Teleantioquia",
       "imagen": ""
     }
   ]
