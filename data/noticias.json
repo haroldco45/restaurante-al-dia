@@ -1,8 +1,43 @@
 {
-  "actualizado": "2026-11-02T09:44:40.032Z",
+  "actualizado": "2026-11-02T19:55:50.898Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Más de 6.500 restaurantes cerrarían este año en Colombia: la alerta de la asociación de gastronomía",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeE8yUWZjUzZCSDBXSmFPR1ItdXptemVhbTlZTXQwLU15Tl9USDZ2SVpKd1VSWXdOcTdxX1lFbDI0RklZblVwTUtVQ25FNXIwZzA5ZW0tdktETmhUZUJBaEdZdmllcEVzYWRiZk5tbHF6THM1RmdUUWpCRlN3ODdGNk9jOV80TDlVOUh6ejdrMWJiUndJeGNYUzUxY2FVTUNEcVJQM0ZheVZ0eF9CNzJZaDN3X2xiVUVRYXNoUUFhRnNrbjVRUmRnaUNjenFvRld3RjNVQW54aVJmQ0RYcUJn0gHkAUFVX3lxTE01SzdjcGhlZHRCUXZpa2tzVVVfSDBac3AzMjNqSmtjTEhHNzRncnJGRXlWSDZJOF9Ld3dPVnVYOHdPR0ZHWEZ2M1U1QjI5bTRyVWxrMmFMa1hjUndhREYxNkZrTi13ZllOeGF0eE13SjB2dmZtOHdRTjd6ekF0WlN6cHA4RDVfOXQ5UkxnQzBKb1lPVWRqWGswN1p2RzNsbWoyd0s5MDYzWVpWdzZrT2lRSTlsLThrZjV1cW4zdTE2X190aWJKUEFKc1lqSHYtSEcwZnVTQ3puX1h1d2Vxd2tIOXZMdQ?oc=5",
+      "fecha": "2026-11-02T17:39:26.000Z",
+      "fuente": "Revista Semana",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes en Colombia enfrentan crisis: cierres superarían los 6.500 y alertan por nuevos impuestos",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTlNHVnJuVk4tWmxYOFh6bnUyYkgzcU1lNTE1ZFBiS2tCT05tLUVDZFNha2EzOWV2VGNlSDBqN1h2eDdzaWlhTXhqaXg5aVRna243YmRhV1J1Mld4MkJyNDRKR3NDTDhIcGY3NzZTX0xHdG1TSzM4SzlkTGdkVWNyZ2VvUlFnV1JYR3JIUkk1TktwUFlVb3ZkTzlMTmFXWGNpaDEzWDJlRFgwTFFGaUFUUGZPSTBsNUowODdxbTdjOW1vSXUwbGtFbmJmcTRsUdIB0wFBVV95cUxPd0UxYVFkWU5YV3NYRDU2RHVxaVEtU1VkQmluaEtFeXdSTC1Kd3ZVTDdQLVlBb0hSaFVTNGd6eEhIczRGX28tX3J4VUU5T2xUMGgybmpWUUV4VEIwZHlZUF9hMUZ4WERjb3lsYWlKVmVGeHdIQzZWMjRVdmNwdDlVN0tRY0RCUWZxQjFyZWRxVXlxbVBUVXRzczZkVXNoZXFDeEhxUDRmWHliWld1NWptVjBESWdCVnl2NW53RG1UaGc1M3NaVFUzSjAwNklEaXA2WDdZ?oc=5",
+      "fecha": "2026-11-02T15:30:00.000Z",
+      "fuente": "Valora Analitik",
+      "imagen": ""
+    },
+    {
+      "titulo": "M&#225;s de 6.500 restaurantes cerrar&#237;an este a&#241;o en Colombia: la alerta de la asociaci&#243;n de gastronom&#237;a",
+      "enlace": "https://www.msn.com/es-co/alimentaci%C3%B3n-y-bebidas/cocinas-del-mundo/m%C3%A1s-de-6-500-restaurantes-cerrar%C3%ADan-este-a%C3%B1o-en-colombia-la-alerta-de-la-asociaci%C3%B3n-de-gastronom%C3%ADa/ar-AA2gB3jK",
+      "fecha": "2026-11-02T09:33:20.000Z",
+      "fuente": "Semana on MSN",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes en Colombia enfrentan crisis: cierres superar&#237;an los 6.500 y alertan por nuevos impuestos",
+      "enlace": "https://es-us.noticias.yahoo.com/restaurantes-colombia-enfrentan-crisis-cierres-153000584.html",
+      "fecha": "2026-11-02T07:30:00.000Z",
+      "fuente": "Yahoo Noticias en Espa&#241;ol",
+      "imagen": "https://s.yimg.com/lo/mysterio/api/0dccacafbfdd5172c5c67e3718d5ab827fa6c5408f6c77e4e6faee6718e86a9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fvalora_628%2Fe00938e084bfa83a53a4c7b4536e3cd2.jpg"
+    },
+    {
+      "titulo": "Crisis en restaurantes de Colombia: gremio advierte que podr&#237;an cerrar 6.500 negocios este a&#241;o",
+      "enlace": "https://www.pulzo.com/economia/restaurantes-colombia-crisis-gremio-advierte-cierres-este-ano-PP5346480A",
+      "fecha": "2026-11-02T03:24:00.000Z",
+      "fuente": "Pulzo",
+      "imagen": "https://hermes-files.pulzo2.com/images/c5d5574d-35cb-4fcb-b7b1-550c75d52fa0.jpg"
+    },
     {
       "titulo": "Una bandeja paisa saldrá más cara con la reforma tributaria de Abelardo de la Espriella, según Daniel Quintero: “La Patria Milagro”",
       "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSzRqSWRxM0NWMnNXX1Q4MWFaSW9jRmNVWFdHUk9CcURjZ3kxRE9ENFY4bEw5OFhiVUlucmF3RTlsWURScUtjNkFtSS00bGV1MFNqanI2cktXZXotU2JaeTl6TnhqdFo0RFhZalVfTElWRXN3bGlGTkZvRHBKRGxSRkczN1dPZXVmTU9ObGcwUEtoVDlTVDJselY5UmlOVVVsTjFsQ1dtcjZpTGJKWHpfMWZBVW9JQk8xYmdJYV9PNTlNdzQwengxRlpucUZ2LVFmcHJTWEJyRVFwUy1OUDZKYzc2N3A0Y2F2ZjhVOGY5cDU1WkxiWTR4RHM5NHFpcnFuRFHSAZwCQVVfeXFMUGZyU1pmd1dFSTFIenU5Ulc2dTgtaGg3S3FqSXJ3UzhMWTJhRjJMSEhjbHJ5V0ZGdWRhTGxfZlNuQXQ5RkZJYTV6NVFDekN1aV9aSVZzYkQxUTJmUnIyMTk1M19kUnh0T3hSMDE5ZTRtXzdEc0FiZ2p5UlB6ekN4TzFQUVlwN1VwaFRrRmRBREZVSmZFRTBKZVpoM2o3WmU2UVFrc1I5Q2lyemV1Q01WUHViMXRUNlZpaHJYbzRhQlQ4WWt5T3dOdW00UWQ0RkZGcFh6c2FvZHFyYzN6NkNITEJ6YUQtVlBkNnRfSmVxbGVFdVNWYnJQY19ubjZDNTktdnZNWU8tMjdwejBFTEVSeXQwTzdRNGtaekhZcEc?oc=5",
@@ -89,8 +124,8 @@
     },
     {
       "titulo": "Restaurantes en apuros: ¿por qué cierran tantos locales en Medellín? | Q´HUBO Medellín",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdnVOUE8zc1NpSjczWTJaZ3AyTEhGWS1icW15SEdfRTllY1hzLXRDTWxCTmRZTmRKOXBUc19FRDZyclFYVnk5MVJJZHdlNGtyeE9OVTlZSGZUVVk1UF84Vk44dWw2LVJDbEEzcFhIb3pDWHFkTV8tRmJKcVZNU2xBenhZdmtadmFNNUh5Qk5tRlZack1HeDE3OWE2MnRmU2huMXp2YmJB0gGmAUFVX3lxTE52dU5QTzNzU2lKNzNZMlpncDJMSEZZLWJxbXlIR19FOWVjWHMtdENNbEJOZFlOZEo5cFRzX0VENnJyUVhWeTkxUklkd2U0a3J4T05VOVlIZlRVWTVQXzhWTjh1bDYtUkNsQTNwWEhvekNYcWRNXy1GYkpxVk1TbEF6eFl2a1p2YU01SHlCTm1GVlpyTUd4MTc5YTYydGZTaG4xenZiYkE?oc=5",
-      "fecha": "2026-10-29T19:16:32.000Z",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGtiSTZTbUlaaEZEN1pLalVIbVk5YWM5UnBnNk5qRF9pNVdpaFEzYTNiOHhubzJxZ3EtekhWLUg0X1dUS1lXbVRMMTZQdFE2Z3RmcTFLUDVweTJNY0RuQ0luUmJDaVVhVE1sLXJaOHI5ZWZTN1hKR2kydElKSXNWeWpaaF9NWlBwU1JqZFNmWDJkQ1ZfM2ZORm9ZbzczcWVaOXQ4WkFrMUhfdlHSAbYBQVVfeXFMTWFqbzQ1YXo5SDVLOExkakxtYjQ0MlhGSlRJQWRHMGdqT2xlTDZYenZKa0xQNTlKTXEwMUJ4SkVQbnVoS3dEOVM0QlFITjQ5UHpSSFZkVjY1WGVrMjc0SHlnN19MQzBDYnFFYVVMTHFHTFFRZnh2U28zdlJoSmI1U3JvR3RwWU1EaHhxeDFvV2RfTkhCLVJ6aGZybnFnbEhUczFQTEdTYVhSZUFkTGc2OUpWZWlWanc?oc=5",
+      "fecha": "2026-10-30T00:16:28.000Z",
       "fuente": "Qhubo Medellín",
       "imagen": ""
     },
@@ -230,7 +265,7 @@
     {
       "titulo": "Restaurantes peruanos en jaque frente a El Niño: La escasez de papa, limón y pescado pone bajo presión a la gastronomía peruana",
       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSkNyVWpDMnlOVWxuRW96Mjk4cFBJaXFrVkZBSVB5TWtab3BqM3doOFJvLWxRbnQ0eWl3d3NhVkVzQ2d0dHp5dHpPZTQwbXRDMS1qdUpWOTFLQjNISldFVXFiZzhGV2lvbDZCY1VzYVlocXFGWjBwYkhsZ1lCUXlpS2stQ2lQVEFPOFRXYzJQZm9BYjBQYUlabjlqcExiMXdRcWYwLVBLOUJoRFBxUmo5VEF6ZkpsZVJLR0RlV0dCWHFmRFNoaGlQeC1WSklqc0dybHJ3bWJ0c2JLWWpOVmgzWjctM2pJZC01Q3JVTjJlV1I3SFpDY053WU1n0gGUAkFVX3lxTE0xVUhPZkxTOTJLM3hFb05zOHAzZ0NEdHZoQV8xMEQtV0VWczE4MGd4OGxfd2lUR3hKa0VTcXVYVnFTYTBsdHpick5OdEZZS05NclFVdFpRNHZwMVlzYnpNc0dvejhpcXFKcG1XQ1hnUXVfcXMzZGttVm5SNTVNTGhXRmphWXNJS1ZIWEJxZnBaY3puenJpNWRicE9SV3pISDNld01iWi0yY1BmNnlJREcwWkhiaVpvdnR0a0JNYTdqNkticzFpRk5YYnBJazNUWXYzTU15ejB2ZklxcjA0UGZsX0Y1ZHJ0X1FDbUJiZjNYa0ZranBiUmhGeFg3RDN3QVY4d0xuXzhNa19MaG45dlJrb1BMQw?oc=5",
-      "fecha": "2026-10-25T13:01:00.000Z",
+      "fecha": "2026-10-25T07:00:00.000Z",
       "fuente": "Infobae",
       "imagen": ""
     },
@@ -410,13 +445,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Pizza Master 2026: Precios, restaurantes en competencia y cómo participar",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmN0aVU5RFRXMEhIVnVSS0Yxcm13bkpHYlhDTVRkTVBqdFEwYlZMelprVndNSVVfSDBJYkJjTDJONG9sNkpVdDNXbHJTUHVNNlpBTGxick1UaWZNM08zRTVtOWZvc25hS1ZKMVJMSHJGVWZTSG1MdG5lVzBWS1l5QlVtYXV1eVBKMHBMMUtjeHJ6YnlaRmh6Wm5GSk9nWGFSZFZFWjhMTGRhQdIBvgFBVV95cUxNNE5ZcGRXUV9sQ09qR2ZSSHIzcENhN0gtVE85aXpMeGdfYVc0cUhZTzNxdE5YU0pyQjhfVGxZR2xQbEVETndJSDd0SnNUMEpSWkgzR1puczMxa2JVVHF3bWJYNlkxd2dRb3FES1Q2SmF3Q2x1THN2TEExOUVjYV9Gc2xVYlVaaHRsWVl1Qk5DeElMOUhhdnlVX2QxYWVPclhWcHVVVEtybHlIcTJjb24xRUw4emdoVTFQc1k5cVBB?oc=5",
-      "fecha": "2026-10-20T07:00:00.000Z",
-      "fuente": "Caracol Radio",
-      "imagen": ""
-    },
-    {
       "titulo": "Badajoz se convierte en el epicentro de la gastronomía y acoge la nueva fiesta de los Soletes de Guía Repsol",
       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ3FJSXlRUEtWVWttalVQR2wtVUFiY0x2d01kQTlsNXR5V0Vob2RuR19vOGRPbEp1b0s2S1p0Wm1hZFlQbkNybmZfeXVhb09FZjRFdGFaN3d5SUh2TzQ4N0U2S3ZQeV9WVVdzZUltTFlCejI3dkxrZUFpajhRTmhiSFp4cEhMTUZsbXhqN0NjcHFfeWhXaXlES1NOQldpNGo5YXF4dXNyVGlVVU5qNDhBY0ttbHVIdThUb0h2ZEN0aENyR3pVUVpVbVV5V1lDT2FjT3FEMGN6YWI1VGktWGVQODJWOXVUenV4QXFkbmNQcldqdWRpX25GTFdn0gH_AUFVX3lxTE94RzI0NmFZa29xdHd4U0EtNTZ6MWJ2bHAtRzBLN2lib0RsdFhadG5rNHhGN0toeXFhQTVhRjNycm5DNXNNYU9qR25wTkRYeE9ZRk4tWlNyYzNWY1pqWVNFM0FjV203WU1qMlJSbFEydTdWTGNOcUVibTh5clVMaFFyc19iQ0NIejliZlBnbEIxOGhsNVlCbklZU0VZVDgycXgtMDdmT1FwRHpUa0dsdEV2ZXNfb21TTFk3NFVoSE1RMm50Q2kxbUpXWG9jaXhjc21vZnpVM2ViRVh4aUtOcndFZU1oQjVtTFQ3ZFJnSzhNLVNla2RSWlYxYjc3SmpiVQ?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
@@ -435,6 +463,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFktcFRZRUFsRzVuckxPRVBUbjg2bkgyTFlrN2ZkaDJnRW1XZGtSNmswdGQtUzVqTWJqMkgteDNyLUk0WkdNc1RSZ0QwcUlKQmNFaDZQZm9PMkVCQ2tLc0ZrTS1XelJkTVBaOEJnblVpRnJrR1M4UXNNUnVXSDNJWXlXUTlrQWhTNXpGLU1pNnJfdjFuTW1OY2hjMA?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
       "fuente": "El Espectador",
+      "imagen": ""
+    },
+    {
+      "titulo": "Pizza Master 2026: Precios, restaurantes en competencia y cómo participar",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmN0aVU5RFRXMEhIVnVSS0Yxcm13bkpHYlhDTVRkTVBqdFEwYlZMelprVndNSVVfSDBJYkJjTDJONG9sNkpVdDNXbHJTUHVNNlpBTGxick1UaWZNM08zRTVtOWZvc25hS1ZKMVJMSHJGVWZTSG1MdG5lVzBWS1l5QlVtYXV1eVBKMHBMMUtjeHJ6YnlaRmh6Wm5GSk9nWGFSZFZFWjhMTGRhQdIBvgFBVV95cUxNNE5ZcGRXUV9sQ09qR2ZSSHIzcENhN0gtVE85aXpMeGdfYVc0cUhZTzNxdE5YU0pyQjhfVGxZR2xQbEVETndJSDd0SnNUMEpSWkgzR1puczMxa2JVVHF3bWJYNlkxd2dRb3FES1Q2SmF3Q2x1THN2TEExOUVjYV9Gc2xVYlVaaHRsWVl1Qk5DeElMOUhhdnlVX2QxYWVPclhWcHVVVEtybHlIcTJjb24xRUw4emdoVTFQc1k5cVBB?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "fuente": "Caracol Radio",
       "imagen": ""
     },
     {
@@ -526,41 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamhSdGtGREkzbzkzT3J5UGV2WkwyWWhfa3dDVzk5dlJrcWppLXlvM3BUalVoRkhVbVdweG1sNUthdHlUSE5UYVhWTC00dTZZY05uWlV1QUtPWUJxOFUtZVJLeGI5YWg3RzB0ejFCVEs1UktpbHZvaEhWNHJZTzJEaVN5dmg0TmRNQlBlczlqcm5JcEMzQVRLWE5oMW45cFBjV1lxT09sYy05cklZS0NCT0NnZzc?oc=5",
       "fecha": "2026-10-19T07:00:00.000Z",
       "fuente": "El Pilón",
-      "imagen": ""
-    },
-    {
-      "titulo": "El Teatre Tagoba acoge la Cuina en viu de las XVII Jornades Mengem a Vila-real Olla de la Plana con ponencias sobre el futuro de la gastronomía y chefs con estrella Michelin",
-      "enlace": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPTmJtWWN3S1Q4VW95X1hhTXU3VV9JbFNIRFBMV3BWeFl5c2pfMjdVVUpwZ2RmQ3puNHBubktBMTFKZ09SS0RPNENVYWMwWWg4QmVKX3dRSzM5Z052TFAzdUlKZlIySElEX2h2TnBYZ2VpX3U3NzBTc1hVb1dBOTJYTjMyWVQ1ZU9PV2JtLTNKSS1wX25DRjhRZjJHR3YwOTJYQldQNjF5TXpNTHdUMkZCbFRCRjNsanFLc2lPQWsxd3p2N1ktS09rSVBDYWxjS1JaQkR0ZHJsblNzaG1ObzZqSUN3QWQtekE3eFJsdlNVeDVidW5ScTJiMl9jSy1JRkZqRzIxeHdYYnJMWXdJNnJaaE15WW92QXF5c3NBT3ozdVc1NmlTSUI0bVJBSERBX2YwVGVVS0tzMVRzYVl1VG02a0hFZGFfQTQ?oc=5",
-      "fecha": "2026-10-18T22:00:00.000Z",
-      "fuente": "La Plana al Dia",
-      "imagen": ""
-    },
-    {
-      "titulo": "Valledupar celebra la quinta edición de ‘Come Valledupar’, festival gastronómico con más de 26 marcas locales",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOGk3QXp3M203WHRhUXFQRXI0U1VSV1FKV3RkRHBNZHhxRl9KQXZja1ZrblR0bGNrYzRSZXhVX3NjdFFzM2NmSHZtVEJ2N3Y4ZHRzSkVJemlXTS1zN0FCLWczRTlpanJDaU1wMWFxa3dOaER0Qk00Ny1xMzB0VmQ5U1d3bFVlbkpjR3BqSGhtR2VteTJhc2xfYXFKQUphcTd3NU9mSG1VQnlhWGQ2dmhYa09oT2Y5Skl6eFk2ck5QVFRHRUFmdnVWU1RB0gHPAUFVX3lxTE9jQ2VWSkhkZGNIYUR3aU1XUzgwX3BtU183Vzl5MFZHb3pOcXZNN3V5ZG5yWEJjdFloT0prTEZvVEFHZ1BhX2taYTcxb0dsOVZqMG4zcU9tZmhZcFBpdExsN3p5Yk10bDFxTHUyNDlhWVRLWVJpeklFb0NaMkxFME9DckxaMEFPUmtJZWlpNkFuSlFaUE9aaW40RldHQ09qMUMzTWFLb0pJSHFabDNIRU1xSHhiRkRZX1VldGdrQlN5TXlXTGV4cnRQU3ZEXzhSdw?oc=5",
-      "fecha": "2026-10-18T07:00:00.000Z",
-      "fuente": "Pulzo",
-      "imagen": ""
-    },
-    {
-      "titulo": "Crisis en restaurantes de Medell&#237;n y Antioquia los lleva a cerrar sus puertas",
-      "enlace": "https://elnorte.com.co/crisis-en-restaurantes-de-medellin-y-antioquia-los-lleva-a-cerrar-sus-puertas/",
-      "fecha": "2026-10-17T10:47:00.000Z",
-      "fuente": "El Norte",
-      "imagen": "http://www.bing.com/th?id=ONUT.DsI9-VllTdZ84f_f81bPDw&pid=News"
-    },
-    {
-      "titulo": "Crisis en restaurantes de Medellín y Antioquia los lleva a cerrar sus puertas",
-      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUktFNXdkSUZRanF5TGJYOVNFLTdOb182RlllOW1Ta3lvRzdKUnoxWFdhb1l0MC13Wmp4RFhhcWpwRFdfNUdfLWg1SVA4V1BteGU0MlJqTkFZY2M4clFHSHRab0F2bWtUaUlBbmJnemRWNUdKOFZZOVVsUVQyaml3RUZCczl3ajJuOTVzMG5kYlFVN1VmQl9pVThaT3drNmsyajY0?oc=5",
-      "fecha": "2026-10-17T07:00:00.000Z",
-      "fuente": "El Norte",
-      "imagen": ""
-    },
-    {
-      "titulo": "Precio de la papa capira subió 43 % y preocupa a restaurantes",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjNtQmpIZWx2NC0taTZRdTlpdXRURWNGdWM3akNYLVRUUW15X3Z0RnRiLW1zUk9BTzQxajFHSUY3dzByR1VfMVdMb3RHa1phVXRfcmhTN0tkZ0dIYXdIY3RvaDdTcXhfTFpXSUFaT3psZ0l6Z0JmcHpBV21TaEhKMVNyLTUxUDhLZHU2dm1rcC1qMUttRnJPYnI5N3o1aWxMRy1nTGFiVdIBswFBVV95cUxPblg2OTUycENhSVJkaGNCSDRlcU5ReFItd0lsYUV1cWhEV1BSaXI2eDNCNjZrbzB4cGNjOEtIOTFyN1ZjeUZiM2tKc204cVJTNlZaRlpmSTc0enVkb1lzMlJpTjA0ZlFtR0NyUi0zMF9QWFJocEpPWnZwdy1GTWdGYjhCRDZtWW1GSHlwTVgtUTFHZm9WWUk0NXFXOFdhcF9MaDN1aFZ1TUdWWGU0X0gyYzE4QQ?oc=5",
-      "fecha": "2026-10-17T07:00:00.000Z",
-      "fuente": "Teleantioquia",
       "imagen": ""
     }
   ]
