@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T22:56:21.026Z",
+  "actualizado": "2026-11-02T02:03:40.116Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
@@ -214,18 +214,18 @@
       "imagen": "http://www.bing.com/th?id=ONUT.IHPkLl8hC468KIy0TBWl9w&pid=News"
     },
     {
-      "titulo": "Los ingredientes y la n&#243;mina se comen los restaurantes: van 520 cierres en Medell&#237;n este a&#241;o",
-      "enlace": "https://www.elcolombiano.com/negocios/cierran-520-restaurantes-en-medellin-BA42718108",
-      "fecha": "2026-10-26T02:34:00.000Z",
-      "fuente": "El Colombiano",
-      "imagen": "http://www.bing.com/th?id=ONUT.ZI2iEHxC3YN0Nwx1RSpr-g&pid=News"
-    },
-    {
       "titulo": "Un proyecto de ley propone un IVA único del 5% para el sector gastronómico en Colombia",
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUJXVkhJLTZNdm1IaFhnVlRJMGlUUkRpbWpia3dsNXZ0RHdWaVp1RnFnaGRPbnpBd3VXTzZoak9CZmVULV9saVNkWEo0YmVYLUhHS19tdHc2SWgydnU3aWlOaXNwWFNkclJIb3dlR05ZdmNaNkZsRkFUTXQwaDNqdTdpVGViWW1hMHFxckxKQzJBd2pBajFra3d2cGdBRkJYaFF2Qk9zXzdjY1pydjNQN3diZ24?oc=5",
       "fecha": "2026-10-25T18:57:12.000Z",
       "fuente": "IFM Noticias",
       "imagen": ""
+    },
+    {
+      "titulo": "Los ingredientes y la n&#243;mina se comen los restaurantes: van 520 cierres en Medell&#237;n este a&#241;o",
+      "enlace": "https://www.msn.com/es-co/dinero/other/los-ingredientes-y-la-n%C3%B3mina-se-comen-los-restaurantes-van-520-cierres-en-medell%C3%ADn-este-a%C3%B1o/ar-AA2g5mIn",
+      "fecha": "2026-10-25T13:08:25.000Z",
+      "fuente": "El Colombiano on MSN",
+      "imagen": "http://www.bing.com/th?id=ONUT.GQlL84t-WnO8rucaCMgEIg&pid=News"
     },
     {
       "titulo": "Restaurantes peruanos en jaque frente a El Niño: La escasez de papa, limón y pescado pone bajo presión a la gastronomía peruana",
@@ -340,6 +340,13 @@
       "imagen": ""
     },
     {
+      "titulo": "Santurtzi Pintxotan 2026: Concurso de pintxos y gastronomía",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVnBTS2E1SEowaHhkOVRKX3llT1phb0hnc1lWRzc2Zjg4R2xodkQwaEhIcmVNcTZUT1BDNUlhLVV1b2RMbEJlNnhiM3RFcDh6NTlQQ016UlJzdFZKOV9ldEtqT25VaUROWkJlQWE3bWRMM3luU2JDTjB1OWU4aVY4alllNllWOEZ4SVBaQ2hRUEdrWGRfWEw4THQ1Zjl5RkV5c2c5R2kyNXllXzA?oc=5",
+      "fecha": "2026-10-23T07:00:00.000Z",
+      "fuente": "diarioeuskadi.eus",
+      "imagen": ""
+    },
+    {
       "titulo": "Toledo será sede el 9 de noviembre de la gala de los Premios Nacionales de Gastronomía 2026",
       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHZFZmpNbFJzWlNnd2FTSnZVdmo1V0tCMGl0ZllCdjlUQldJc1A5R0pVblpkS1Z3S29EcC15aG9GYi1EV1RIUTFncjRmMk15anBvN0RnOXFuQm9OeE5xRWNFSmwyeVdNM1B1N0w3SXlzZXQxb2d6OUdVMUxZazM2RzhEU1VIRHY0azQyaTlSWm95N1BURXhVaUp3aU93cUNLdTNHYVUzbGg1bTBaX3huYjc4WGh1dUlONzJxTk5iOEhYenhaUzhaWXpqOEcxVC1TOU5OSGxGY2pxQdIB3wFBVV95cUxQdFB4UHd3XzhKSHkyYjNlMV9BTkxRSnBHWnVfOE81WUpLLW5hYjhkbmZHMWNKZU9ZTkUzbXhaeVZsQUd6OHhjU19fVlpUY0VZLWxzQVFBNzktRVFOTU02WVNxbHlla3o3dUJYdGwwUmNEcWswcVNWRV9oUDF1ckNIZzRnYXNxZkpRdWdGd05iV1FIUGg0bE9ma2VIdUtlRU4zQ29hb0xoSWVWTVcxOTVmU2F6QmY3c0lleWFEWkFQZzZjQzhENFJVNU5JdmNaVFFjVjhyd1MxOGoxTzA4dXB3?oc=5",
       "fecha": "2026-10-22T17:48:32.000Z",
@@ -375,13 +382,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Santurtzi Pintxotan 2026: Concurso de pintxos y gastronomía",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVnBTS2E1SEowaHhkOVRKX3llT1phb0hnc1lWRzc2Zjg4R2xodkQwaEhIcmVNcTZUT1BDNUlhLVV1b2RMbEJlNnhiM3RFcDh6NTlQQ016UlJzdFZKOV9ldEtqT25VaUROWkJlQWE3bWRMM3luU2JDTjB1OWU4aVY4alllNllWOEZ4SVBaQ2hRUEdrWGRfWEw4THQ1Zjl5RkV5c2c5R2kyNXllXzA?oc=5",
-      "fecha": "2026-10-21T12:40:20.000Z",
-      "fuente": "diarioeuskadi.eus",
-      "imagen": ""
-    },
-    {
       "titulo": "Restaurantes, bares y cafeterías en Colombia tendrían nuevas reglas e impuestos: así es el proyecto de ley",
       "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTVJ5Rm9hSnZhVTJGcEdJa3JSZ2JTMWNGUjFFQlpEaHVfZmliYkZpR1FiSnVjV0FCT1RiZnd0dW5LOFBjY09SdkpVTFY4azFPVkI4OFZUT1RFeGRGQkdtN3RLS2FydS15TktEU1g2c1B4aHNnWXpsT25aMWplOVZLMEE3bkdfdlhlRktVVk1vTXk2S3ZKUmZDa3ByRnphUnN0NFdSVVJIRVZLZHdJRk1nenVQSTJTak5TOEFpX0lvdUdMcks2d0VQai1jRDBCZ2RhTHRNSTJFOGRBQWZTT2N6LWlWVW85WWJPeVhJNW01RnpvTFJ2WENOM1JXOU7SAYICQVVfeXFMT3hTemMzN1lnSndmN2trSnNBSWdKVDZVZW1FbzR5QURmYU90RW5vTUhQOUk4UUFpNk5idUdHNkRBdzYtVVFSX2RtOU1wUERaR0pIaGtIWDVFekFaTE1FVUxsWWlxZlNmVFVtTnpDTWNsdmduQm9DS2RfSUw3UVJoNFBiUldpTjg2c3kxVFZja21DRkd0Yko1cWdmTjlOcFYxRnFQSlJsMmVtT1FockFXNFBDZDRCWWt2N1FRdkgyb2JyVUVTcEFqbTFwRU1VekFJc0M2bFJqRXJSWHRONzhuZnIzdlctNXNDQ3EtU2Q3ZGxqVGJqLWRIYjJmbXpydGx6RC1R?oc=5",
       "fecha": "2026-10-21T07:00:00.000Z",
@@ -410,13 +410,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.16PN4z_ErhgcjQ5i3vrb-A&pid=News"
     },
     {
-      "titulo": "Supersociedades autorizó la venta de hamburguesas Presto como ‘negocio en marcha’ tras ordenar su liquidación | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWtGOUh5WnRadTRobnhyQlkyMUlibVFtb29peFB2MGJTZlpLT0FLek1BdFk3bnByQ3QtQXRWX25MZk5heUhCTHIzYS1vUTUxMVd0R2lIRjhhYjhMVzFlUG1MVjI1UFJ4WF82YUktRHN4RFRMTC1zODVnLVRVSUdjZW1HZ0NIOHU4Q3oxSi1SUmh4Wnd6Z01rWnBJSFRyNC1OT2xZTFBDM01tZkJMdXFqadIBtgFBVV95cUxNWGdsdklBVjkxR2FwZHhvOXZvZ3RHOFNINDltUGZSeGtDdDNvaGNadVFwQ3Ryb1hDaVViX0x0Y0lnNjN1bk9PQVpOMWZsQmtoZmRDMy04blB6VmVUZVlSNjRfTFdDYWRVZEhKdW9wTU1wLW1NRHBFbTdTcmc4VG9FNzdTV2VmNkxwNTJXZmlHakNlY2l4MkY4RzVnZ1BNMzBCVzRXaWE0Z2NSai03dTZxcHg0bnNwUQ?oc=5",
-      "fecha": "2026-10-20T07:00:00.000Z",
-      "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
       "titulo": "Badajoz se convierte en el epicentro de la gastronomía y acoge la nueva fiesta de los Soletes de Guía Repsol",
       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ3FJSXlRUEtWVWttalVQR2wtVUFiY0x2d01kQTlsNXR5V0Vob2RuR19vOGRPbEp1b0s2S1p0Wm1hZFlQbkNybmZfeXVhb09FZjRFdGFaN3d5SUh2TzQ4N0U2S3ZQeV9WVVdzZUltTFlCejI3dkxrZUFpajhRTmhiSFp4cEhMTUZsbXhqN0NjcHFfeWhXaXlES1NOQldpNGo5YXF4dXNyVGlVVU5qNDhBY0ttbHVIdThUb0h2ZEN0aENyR3pVUVpVbVV5V1lDT2FjT3FEMGN6YWI1VGktWGVQODJWOXVUenV4QXFkbmNQcldqdWRpX25GTFdn0gH_AUFVX3lxTE94RzI0NmFZa29xdHd4U0EtNTZ6MWJ2bHAtRzBLN2lib0RsdFhadG5rNHhGN0toeXFhQTVhRjNycm5DNXNNYU9qR25wTkRYeE9ZRk4tWlNyYzNWY1pqWVNFM0FjV203WU1qMlJSbFEydTdWTGNOcUVibTh5clVMaFFyc19iQ0NIejliZlBnbEIxOGhsNVlCbklZU0VZVDgycXgtMDdmT1FwRHpUa0dsdEV2ZXNfb21TTFk3NFVoSE1RMm50Q2kxbUpXWG9jaXhjc21vZnpVM2ViRVh4aUtOcndFZU1oQjVtTFQ3ZFJnSzhNLVNla2RSWlYxYjc3SmpiVQ?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
@@ -435,6 +428,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFktcFRZRUFsRzVuckxPRVBUbjg2bkgyTFlrN2ZkaDJnRW1XZGtSNmswdGQtUzVqTWJqMkgteDNyLUk0WkdNc1RSZ0QwcUlKQmNFaDZQZm9PMkVCQ2tLc0ZrTS1XelJkTVBaOEJnblVpRnJrR1M4UXNNUnVXSDNJWXlXUTlrQWhTNXpGLU1pNnJfdjFuTW1OY2hjMA?oc=5",
       "fecha": "2026-10-20T07:00:00.000Z",
       "fuente": "El Espectador",
+      "imagen": ""
+    },
+    {
+      "titulo": "Supersociedades autorizó la venta de hamburguesas Presto como ‘negocio en marcha’ tras ordenar su liquidación | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWtGOUh5WnRadTRobnhyQlkyMUlibVFtb29peFB2MGJTZlpLT0FLek1BdFk3bnByQ3QtQXRWX25MZk5heUhCTHIzYS1vUTUxMVd0R2lIRjhhYjhMVzFlUG1MVjI1UFJ4WF82YUktRHN4RFRMTC1zODVnLVRVSUdjZW1HZ0NIOHU4Q3oxSi1SUmh4Wnd6Z01rWnBJSFRyNC1OT2xZTFBDM01tZkJMdXFqadIBtgFBVV95cUxNWGdsdklBVjkxR2FwZHhvOXZvZ3RHOFNINDltUGZSeGtDdDNvaGNadVFwQ3Ryb1hDaVViX0x0Y0lnNjN1bk9PQVpOMWZsQmtoZmRDMy04blB6VmVUZVlSNjRfTFdDYWRVZEhKdW9wTU1wLW1NRHBFbTdTcmc4VG9FNzdTV2VmNkxwNTJXZmlHakNlY2l4MkY4RzVnZ1BNMzBCVzRXaWE0Z2NSai03dTZxcHg0bnNwUQ?oc=5",
+      "fecha": "2026-10-20T07:00:00.000Z",
+      "fuente": "El Colombiano",
       "imagen": ""
     },
     {
@@ -515,17 +515,17 @@
       "imagen": ""
     },
     {
-      "titulo": "Arrancó el Pizza Master 2026: conozca los restaurantes participantes en Medellín y sus creaciones",
-      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZ2FGZk5pV3dSaUQ4QTdLZVNKZWlIQWVFMjN5MVpha1BBcndoTE1OTHJPVWlKMjhUdndUQTJfYUdkNkFGQXVrSTJKQXRWN3ZpQlkxUmxrWnpBR1k5bWhjVjZrVTk2a29UN3dPbWs2NlRqbXFtNmNTNGxNdmgxdw?oc=5",
-      "fecha": "2026-10-19T07:00:00.000Z",
-      "fuente": "Telemedellín",
-      "imagen": ""
-    },
-    {
       "titulo": "El Hotel Abba Fonseca acoge el III Foro Gastronómico de LA GACETA: «La gastronomía forma parte de nuestra identidad»",
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFFOMU1TREtLU2hSX1oySTVpbHlGOTZJNFhlVVk2dm92WUF3VnVnN0p1SVRWbE96N1hLZDhKT0wyMS1rZ2ZTMEotbWNRaDRyQ25FNHVBU0Z6MUNvRGhXc3FpX1hWOWRTaWZhZG1xTGFfOFI2bGxzbDRYYXVIZlhDOVpHQXFMQzhLZzEyazdqM0RGbEcwQzVKNlBWUjUtY2Q4REF0VFFWdEJmZmFpMW1hTEZnMTfSAboBQVVfeXFMT1VCa3dQajVxVVJxNWxWNVpjbm15a0p2RVE4V0dVc1RpQUVNYzU5SnRlMTBMUWYtbWtJREE2VVl6QUxIeUIzanJXeXNuZXIyOEhyUlJjWWw4emJvekhFUUtBMHdHWnZKNjUwdkczaDRKRDlpc3J2UnI0N3BMZ2xnLTFWeXVOaF9JUWg4M0VYRjd6bFVESmJWcmN3cHJYMURJSkdfbzZqWXdMem1EOFdiS2ZHd0FUSnI1RVRR?oc=5",
       "fecha": "2026-10-19T07:00:00.000Z",
       "fuente": "La Gaceta de Salamanca",
+      "imagen": ""
+    },
+    {
+      "titulo": "Arrancó el Pizza Master 2026: conozca los restaurantes participantes en Medellín y sus creaciones",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZ2FGZk5pV3dSaUQ4QTdLZVNKZWlIQWVFMjN5MVpha1BBcndoTE1OTHJPVWlKMjhUdndUQTJfYUdkNkFGQXVrSTJKQXRWN3ZpQlkxUmxrWnpBR1k5bWhjVjZrVTk2a29UN3dPbWs2NlRqbXFtNmNTNGxNdmgxdw?oc=5",
+      "fecha": "2026-10-19T07:00:00.000Z",
+      "fuente": "Telemedellín",
       "imagen": ""
     },
     {
