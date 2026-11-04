@@ -1,14 +1,49 @@
 {
-  "actualizado": "2026-11-04T18:09:04.434Z",
+  "actualizado": "2026-11-04T23:50:36.005Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Cerrarían 6.500 restaurantes este año por costos que se disp",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGN4Y3NIdFFhX2ZfWXhOYUdYU3UyR2Y0WGNxdGJzamEtRzFVYzhuQ2d0dTRHU01JTUdiaVRNVVZuekhfMEo3TDFxUTVIODJ4cXA1eHlJQU44b0hEX19YdHRnUHZEVUdYN0JsSldYOGExdlpsMW1DVW15MmkzMmtSQi1vajBzcTFDZ2UtMU0ybHZhdEx5SHZKREhyWjYzcXo5REJkcy1IUQ?oc=5",
+      "fecha": "2026-11-04T22:32:59.000Z",
+      "fuente": "Diario del Cauca",
+      "imagen": ""
+    },
+    {
+      "titulo": "Alerta por los restaurantes en Colombia: cerrarían 6.500 en 2026 por estos costos",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUpRSnR3SGtuemhPS3prcm1JMW1RQzNHd0d5VlNDZzVzOEdKU0F6T1BLaDh1Uk9NMERFWlNzVzB6QzlEWkRONmhBbE4xUDFMZlJTbER6WmtTZjZXUEtnLTRZNGo4TUJmUXhMaHpJcHdaSVRvWUt6aWlIQk1IX05wTkd6bFlrVlRIdFhadjc5RUJORk9WV0V3YlNydC0yUWN0YW1GdHZyc9IBpwFBVV95cUxOdUpRSnR3SGtuemhPS3prcm1JMW1RQzNHd0d5VlNDZzVzOEdKU0F6T1BLaDh1Uk9NMERFWlNzVzB6QzlEWkRONmhBbE4xUDFMZlJTbER6WmtTZjZXUEtnLTRZNGo4TUJmUXhMaHpJcHdaSVRvWUt6aWlIQk1IX05wTkd6bFlrVlRIdFhadjc5RUJORk9WV0V3YlNydC0yUWN0YW1GdHZycw?oc=5",
+      "fecha": "2026-11-04T21:03:06.000Z",
+      "fuente": "Pulzo",
+      "imagen": ""
+    },
+    {
+      "titulo": "Airbnb dejó más de $3 billones a la economía de Medellín en 2025: restaurantes, los más beneficiados",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUjJIaUpBOVdQZFVfS01peHhxeGRNSjJyZ2tMc0ROaTBXYnNibVgyWHQ3OTk4UHMxMmphMEF0c3NVRGtveXRoemVTejhXTU1TVHVhR2FkVURFNERGMnRBMF8zek1FajF1T1Rva3lPSVpBdDN3X0hDUHV3V0tiMlZmMTB1cDQydVNwZTEyN2o5XzdzSFAtTmZIRURjTmV3c0VnNk1TUU1kZWxPRFNIcWlsb1NjX3J1eFk5NFNERkJCQWFvYkRUNzdGSng4d2pfS1FLUk1Jdk1PaXdPTGVYNnNz0gHsAUFVX3lxTE4zRzdzLURqb2FBRlJ3S3pXUVNRcnltZndqX29Oclh1NVRTdEozcGgwamtIT0trQmZjVkV4NU1KVkhIN3RUcUZMNkpGTGNwTk1fUS1jV0NsWUljYkhEMDR1aUg2ZF9ENmpEaWE2WnIxUDV3OFZxc2VNN0JleWlKeWxOWktRWnd0N09uSHdCMFBjODJ4SVYzNkJ3VVlaM0dJb0Y5RDkteVhUaXNNNjExeV9yN0IwRmM3b3l2ejAwMTdwN0ZaV1JYTERpV3NfQTJuRkxvaGNlYk9GU0FyeEN5TW90UmxEYjlia3RSZDZu?oc=5",
+      "fecha": "2026-11-04T20:31:52.000Z",
+      "fuente": "Blu Radio",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cerrar&#237;an 6.500 restaurantes este a&#241;o por costos que se dispararon",
+      "enlace": "https://www.diariodelsur.com.co/noticias/cerrarian-6-500-restaurantes-este-ano-por-costos-que-se-dispararon",
+      "fecha": "2026-11-04T14:32:00.000Z",
+      "fuente": "Diario del Sur",
+      "imagen": "http://www.bing.com/th?id=ONUT.uzCH50ybpmYmaWGF7ddx0Q&pid=News"
+    },
     {
       "titulo": "Más de 6.500 restaurantes cerrarían en Colombia en 2026, alerta Acoga",
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUZtdHlGZjRtbXNzZW96b2kzZHg2UWJZUXdUUGlUSEEtRHZoT2ktM3RUMG80NGJZNWxZWFNJWUJkZThDWGlDMGFOUU1rNHpRT0pXZFREOS1SS2lVM0h0XzVPaUdlR3ZfZm9qNFFPX2xTVU52dVNpMnFKV2FJeENEVkkxcno0dk53NTNXX2h5Q3p3YklHb3U4Y2ZjZmUtUk9TMkJKNWRwd0Q5UjRxb25ROEVhS23SAbQBQVVfeXFMTjVGbXR5RmY0bW1zc2Vvem9pM2R4NlFiWVF3VFBpVEhBLUR2aE9pLTN0VDBvNDRiWTVsWVhTSVlCZGU4Q1hpQzBhTlFNazR6UU9KV2RURDktUktpVTNIdF81T2lHZUd2X2ZvajRRT19sU1VOdnVTaTJxSldhSXhDRFZJMXJ6NHZOdzUzV19oeUN6d2JJR291OGNmY2ZlLVJPUzJCSjVkcHdEOVI0cW9uUThFYUtt?oc=5",
       "fecha": "2026-11-04T13:27:06.000Z",
       "fuente": "Portafolio.co",
       "imagen": ""
+    },
+    {
+      "titulo": "Airbnb dej&#243; m&#225;s de $3 billones a la econom&#237;a de Medell&#237;n en 2025: restaurantes, los m&#225;s beneficiados",
+      "enlace": "https://www.bluradio.com/regiones/antioquia/airbnb-dejo-mas-de-3-billones-a-la-economia-de-medellin-en-2025-restaurantes-los-mas-beneficiados-rg10",
+      "fecha": "2026-11-04T12:31:00.000Z",
+      "fuente": "Blu Radio",
+      "imagen": "http://www.bing.com/th?id=ONUT.un2FmAeHEl1CZE6VgllSyg&pid=News"
     },
     {
       "titulo": "La Plaza Circular de Murcia acoge diez días de vino, gastronomía y música |",
@@ -18,9 +53,16 @@
       "imagen": ""
     },
     {
+      "titulo": "Alerta por los restaurantes en Colombia: cerrar&#237;an 6.500 en 2026 por estos costos",
+      "enlace": "https://www.pulzo.com/economia/cerrarian-6500-restaurantes-ano-por-estos-costos-hay-alerta-PP5348460",
+      "fecha": "2026-11-04T08:03:00.000Z",
+      "fuente": "Pulzo",
+      "imagen": "http://www.bing.com/th?id=ONUT.T55BA-Yv1vbgP9tJrkmN4A&pid=News"
+    },
+    {
       "titulo": "Restaurantes prenden las alarmas: gremio prev&#233; que 6.500 sitios de comida cerrar&#237;an en Colombia en 2026",
       "enlace": "https://www.portafolio.co/economia/mas-de-6-500-restaurantes-cerrarian-en-colombia-en-2026-alerta-acoga-505682",
-      "fecha": "2026-11-04T00:17:00.000Z",
+      "fecha": "2026-11-04T06:31:00.000Z",
       "fuente": "Portafolio",
       "imagen": "http://www.bing.com/th?id=ONUT.UGkwRrIXS1AnPxuh_y2vbQ&pid=News"
     },
@@ -166,10 +208,10 @@
     },
     {
       "titulo": "M&#225;s de 6.500 restaurantes cerrar&#237;an este a&#241;o en Colombia: la alerta de la asociaci&#243;n de gastronom&#237;a",
-      "enlace": "https://www.msn.com/es-co/noticias/otras/m%C3%A1s-de-6500-restaurantes-cerrar%C3%ADan-este-a%C3%B1o-en-colombia-la-alerta-de-la-asociaci%C3%B3n-de-gastronom%C3%ADa/ar-AA2gB3jK",
+      "enlace": "https://www.msn.com/es-co/noticias/otras/m%C3%A1s-de-6-500-restaurantes-cerrar%C3%ADan-este-a%C3%B1o-en-colombia-la-alerta-de-la-asociaci%C3%B3n-de-gastronom%C3%ADa/ar-AA2gB3jK",
       "fecha": "2026-11-02T09:33:20.000Z",
       "fuente": "Semana on MSN",
-      "imagen": ""
+      "imagen": "http://www.bing.com/th?id=ONUT.7Tof3oQ1BcnglYywlIOwYQ&pid=News"
     },
     {
       "titulo": "Restaurantes en Colombia enfrentan crisis: cierres superar&#237;an los 6.500 y alertan por nuevos impuestos",
@@ -519,48 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNGdNeVU4Z1JVanZMb0tkb0N5MlA1VXNIc1dXYTA4SXRZQjMyTHlURmg5UTFiUzRNZEJqYVhBR0diUm9MX29qZjltVm9sUEhoZmo3cGNNTHVtbklyRXFibnJfb3V3T1NHMWxfcjF6VE5nYWdFVUFBeG9SdTlUZ294dGN0amZIRVlXRUNKdHdIRU5pTldEcGt5d2UyeFNaQldrMXFrS3JrVFNodUtHNE1haVVPS2FPV1U4SlhteWRFMnhSMWt0NzJiVHJYRGJKVjBheG1FOE5CREtUTnEwX1RwT0pFWUl2d9IB6wFBVV95cUxNa3JXcXVkT3FJcUhLMjFqUXBNMDRNWExlWWYzeUFUR1RNejZrZ3VwSFdkUUxEYWRkaVhYYnlwUkprbndfRTZYd3l2anRXNGV4OVVaZXRFdmFCaVkwQ0Fwc3FPelJWNXozTEk5d2Z0WW5aMVZ5TVZjMUN0alZBSkFFeTVGMXpSb1g2dklIaTZHLV9yZjFEeG1iLUt6M1VNT3FuaXFhSGdzVUhfSEdNY2tDNnk4ZEpoeGtsYTJ2cFltTmRCaUpMQzcyY0pWTDJqSE1lNGxKUXduTVNpaFMzVzkweFYwQXVMam03UXZv?oc=5",
       "fecha": "2026-10-23T07:00:00.000Z",
       "fuente": "El Tiempo",
-      "imagen": ""
-    },
-    {
-      "titulo": "Canalla Bistró acoge la nueva experiencia gastronómica para BERSHKA MMBRS",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmQ5LUVQNzQwQzA2QVF1T1FmWm9LNV8wUWJWXzE2QmYxWENmdm4zeWFPOGVIa1NfYWtGQlN2THNVZDd1Y3h4T2w4T3REeVZlTmFnZ1h3aFU5SHZzRmdNYWRwWE1IbU5RYXBLd2sxQjNjYzJNbFlfanVuN201TDl2V29qbGdkZnVXSENCVF9WU21PMU13OGowTGNB?oc=5",
-      "fecha": "2026-10-23T07:00:00.000Z",
-      "fuente": "Valencia Secreta",
-      "imagen": ""
-    },
-    {
-      "titulo": "Peñíscola acoge el V Festival Gastronómico 'Castelló Ruta de Sabor'",
-      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaExlR2g1Q0FlQ29EUHVZTS1VVHpzZjZENUlrNm9nZzJSbmRSWWJnMEJYYkJ0ZGxfUmxRc0RqZFpPRGJVR1BqdVV1Sm84SlpmWW1DdFdvaWFCWHBiVzBLTFJLb1JzaFZKaHBrOUhfUW9NaGg0RVRid1RDWnE4VHY0cUVGUWJUOGhnblNxaFRNMFJRTDBrSjR4R3BfTUVld1d1WnUw?oc=5",
-      "fecha": "2026-10-23T07:00:00.000Z",
-      "fuente": "https://www.castellon5sentidos.com/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Santurtzi Pintxotan 2026: Concurso de pintxos y gastronomía",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVnBTS2E1SEowaHhkOVRKX3llT1phb0hnc1lWRzc2Zjg4R2xodkQwaEhIcmVNcTZUT1BDNUlhLVV1b2RMbEJlNnhiM3RFcDh6NTlQQ016UlJzdFZKOV9ldEtqT25VaUROWkJlQWE3bWRMM3luU2JDTjB1OWU4aVY4alllNllWOEZ4SVBaQ2hRUEdrWGRfWEw4THQ1Zjl5RkV5c2c5R2kyNXllXzA?oc=5",
-      "fecha": "2026-10-23T07:00:00.000Z",
-      "fuente": "diarioeuskadi.eus",
-      "imagen": ""
-    },
-    {
-      "titulo": "Toledo será sede el 9 de noviembre de la gala de los Premios Nacionales de Gastronomía 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHZFZmpNbFJzWlNnd2FTSnZVdmo1V0tCMGl0ZllCdjlUQldJc1A5R0pVblpkS1Z3S29EcC15aG9GYi1EV1RIUTFncjRmMk15anBvN0RnOXFuQm9OeE5xRWNFSmwyeVdNM1B1N0w3SXlzZXQxb2d6OUdVMUxZazM2RzhEU1VIRHY0azQyaTlSWm95N1BURXhVaUp3aU93cUNLdTNHYVUzbGg1bTBaX3huYjc4WGh1dUlONzJxTk5iOEhYenhaUzhaWXpqOEcxVC1TOU5OSGxGY2pxQdIB3wFBVV95cUxQdFB4UHd3XzhKSHkyYjNlMV9BTkxRSnBHWnVfOE81WUpLLW5hYjhkbmZHMWNKZU9ZTkUzbXhaeVZsQUd6OHhjU19fVlpUY0VZLWxzQVFBNzktRVFOTU02WVNxbHlla3o3dUJYdGwwUmNEcWswcVNWRV9oUDF1ckNIZzRnYXNxZkpRdWdGd05iV1FIUGg0bE9ma2VIdUtlRU4zQ29hb0xoSWVWTVcxOTVmU2F6QmY3c0lleWFEWkFQZzZjQzhENFJVNU5JdmNaVFFjVjhyd1MxOGoxTzA4dXB3?oc=5",
-      "fecha": "2026-10-22T17:48:32.000Z",
-      "fuente": "Demócrata",
-      "imagen": ""
-    },
-    {
-      "titulo": "Almendralejo acoge el estreno de ‘El Fogón de los Castúos’, una comedia sobre la gastronomía extremeña",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN3VDTzA0NlJ4VWFOZkFJbTBobld5U3cwbHZrbG5yYkNEM0FrTDE0U2otT1NPejAtSi1uTm00b0pYa25TRG5nOF9vdDRZMGlub2FvXzVrRlBmZUNZRzNoTXZWZ1YtX3ctQXdCY1hCLVVtVms2N2N0MnQyVWZseGtxSmJ0b0xsS25TNGJoWE1PTFVrbHg4Z2F1cFFHeDJ2UVphdjh4U2hCamhiaXNyVFV0RWs5a09wUWJHSk5mX0oybWN5aHVGSm9zV1ZDV1Vvalc0bVhkaERkdXU5bGVVdnc?oc=5",
-      "fecha": "2026-10-22T11:58:27.000Z",
-      "fuente": "La Gaceta Independiente",
-      "imagen": ""
-    },
-    {
-      "titulo": "Los Montesinos acoge este sábado RECine Event, una experiencia cultural que une cine, música en directo y gastronomía",
-      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcVJhRzNTQlViTlZ1MEpNSkxGUHYzQXdQOHE0Sm9NQlZyOGZycTVFS2dXT2laU1NKd0kzVHFYN0kxdllIZHJWY1ZrRm9tajlXQVFIWkxrb3lBVFg1c3h2QzFNNGRQQnZMS0R2S3ZZR2JtQzdqVGFPWWxpUDN4WVlmV1R2UTR1aXNtczZYVXVZRzRFOXBlQS0zb1R2Mi1SN2pCY0YzLXA5SVdXNXJxY3laMl9WWU5GcXRZemIxak4yTFZNcjM2VlNGNjdSV1VQbDJPYVN1U0pfMWEzb3lpbXFNRQ?oc=5",
-      "fecha": "2026-10-21T18:21:20.000Z",
-      "fuente": "Todo Cultura Vega Baja",
       "imagen": ""
     }
   ]
