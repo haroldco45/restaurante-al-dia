@@ -1,13 +1,20 @@
 {
-  "actualizado": "2026-11-04T23:50:36.005Z",
+  "actualizado": "2026-11-05T04:34:35.267Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
     {
       "titulo": "Cerrarían 6.500 restaurantes este año por costos que se disp",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGN4Y3NIdFFhX2ZfWXhOYUdYU3UyR2Y0WGNxdGJzamEtRzFVYzhuQ2d0dTRHU01JTUdiaVRNVVZuekhfMEo3TDFxUTVIODJ4cXA1eHlJQU44b0hEX19YdHRnUHZEVUdYN0JsSldYOGExdlpsMW1DVW15MmkzMmtSQi1vajBzcTFDZ2UtMU0ybHZhdEx5SHZKREhyWjYzcXo5REJkcy1IUQ?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPemRRZm45OGY2TXZfNFdHS2Q1YkdiTnBhUDU4NWphc2xPUHduR0hfXzdDNXhKbmZ0T0l0bWJLMnNUbV9BaGdTMXhOeWVDYkhPTW1veVhUOFJ0TjI2TVRYU2lib1dlWGgwaWFHSVo5ZjhjTUtSamxPSlRYSXJZQXF0OE5sNHBnOGNIQVE0NldSY2d2WGQ2ZUJMSE5zRWJ2WlQ2Y2RhaW5mTWM?oc=5",
       "fecha": "2026-11-04T22:32:59.000Z",
       "fuente": "Diario del Cauca",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cerrarían 6.500 restaurantes este año por costos que se dispararon",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSHktOW5fLVhKeHFzZ3VxSXY5NnZ4Qk5uZms4SW1jVk5IOXQxeTF6OXljTVdVVE9iTXlmbzhNME1Md2dCaWtwallwc2E3YUVkRkNValR1Ykg3cHdjZTI4Tm8wSmpXZU1LcWJrQ05qS1BIaWZERmF2Rnd5LUh4V0JxVGVaclM4YlNqZkliMmFKWElEcW9vZGpQdm8zQlduaGdt?oc=5",
+      "fecha": "2026-11-04T22:32:59.000Z",
+      "fuente": "HSB Noticias",
       "imagen": ""
     },
     {
@@ -46,6 +53,13 @@
       "imagen": "http://www.bing.com/th?id=ONUT.un2FmAeHEl1CZE6VgllSyg&pid=News"
     },
     {
+      "titulo": "Restaurantes prenden las alarmas: gremio prev&#233; que 6.500 sitios de comida cerrar&#237;an en Colombia en 2026",
+      "enlace": "https://www.portafolio.co/economia/mas-de-6-500-restaurantes-cerrarian-en-colombia-en-2026-alerta-acoga-505682",
+      "fecha": "2026-11-04T09:54:00.000Z",
+      "fuente": "Portafolio",
+      "imagen": "http://www.bing.com/th?id=ONUT.UGkwRrIXS1AnPxuh_y2vbQ&pid=News"
+    },
+    {
       "titulo": "La Plaza Circular de Murcia acoge diez días de vino, gastronomía y música |",
       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUzBfT0JRTVRzU0g4ejk0ejYwbGxkaEJTSzc2UW9qR0R5LVpzdzN1LUxGZ1d6Sklxck5MbWppbDhpSXoza3puU0NvbVRQN0ZnS3h3M0Q5NzBLbmFTbWlfWlNFWl9kQl9Xa0JuRGFpV3hLT2FtNmVCbkRBRDNra2lWMWRPQ2tOSzFJd1V1U0NVSkVMaHdrbHBJeHJGMUM?oc=5",
       "fecha": "2026-11-04T09:40:06.000Z",
@@ -58,13 +72,6 @@
       "fecha": "2026-11-04T08:03:00.000Z",
       "fuente": "Pulzo",
       "imagen": "http://www.bing.com/th?id=ONUT.T55BA-Yv1vbgP9tJrkmN4A&pid=News"
-    },
-    {
-      "titulo": "Restaurantes prenden las alarmas: gremio prev&#233; que 6.500 sitios de comida cerrar&#237;an en Colombia en 2026",
-      "enlace": "https://www.portafolio.co/economia/mas-de-6-500-restaurantes-cerrarian-en-colombia-en-2026-alerta-acoga-505682",
-      "fecha": "2026-11-04T06:31:00.000Z",
-      "fuente": "Portafolio",
-      "imagen": "http://www.bing.com/th?id=ONUT.UGkwRrIXS1AnPxuh_y2vbQ&pid=News"
     },
     {
       "titulo": "Karol G trae su restaurante a México y esto es todo lo que debes saber",
@@ -554,13 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXp1VlprWGlrZ2xZLXdsd0VvU2s5c1M3UHQ5RDdNYzRNTy15TlpJb2ZLQmhCU0tEdUdQbUNLZkltODVfcHhGeGt2eUwyR20wejZYdkpHMXJaSHdxaDk0Q0dYRUZ2eWEyTDhtVWJmUHRmLUZlMEVNcmM2YmVnMFh5S3R5WUVobk5aUHZfWUVPdS10M2xUdjZkcm84V1IyblVPck5SZllFbkIxMkFGUmJaMV9BZTU?oc=5",
       "fecha": "2026-10-23T10:08:03.000Z",
       "fuente": "Alicante Mag",
-      "imagen": ""
-    },
-    {
-      "titulo": "Popayán acoge el encuentro más importante de las cocinas tradicionales en su Congreso Gastronómico",
-      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNGdNeVU4Z1JVanZMb0tkb0N5MlA1VXNIc1dXYTA4SXRZQjMyTHlURmg5UTFiUzRNZEJqYVhBR0diUm9MX29qZjltVm9sUEhoZmo3cGNNTHVtbklyRXFibnJfb3V3T1NHMWxfcjF6VE5nYWdFVUFBeG9SdTlUZ294dGN0amZIRVlXRUNKdHdIRU5pTldEcGt5d2UyeFNaQldrMXFrS3JrVFNodUtHNE1haVVPS2FPV1U4SlhteWRFMnhSMWt0NzJiVHJYRGJKVjBheG1FOE5CREtUTnEwX1RwT0pFWUl2d9IB6wFBVV95cUxNa3JXcXVkT3FJcUhLMjFqUXBNMDRNWExlWWYzeUFUR1RNejZrZ3VwSFdkUUxEYWRkaVhYYnlwUkprbndfRTZYd3l2anRXNGV4OVVaZXRFdmFCaVkwQ0Fwc3FPelJWNXozTEk5d2Z0WW5aMVZ5TVZjMUN0alZBSkFFeTVGMXpSb1g2dklIaTZHLV9yZjFEeG1iLUt6M1VNT3FuaXFhSGdzVUhfSEdNY2tDNnk4ZEpoeGtsYTJ2cFltTmRCaUpMQzcyY0pWTDJqSE1lNGxKUXduTVNpaFMzVzkweFYwQXVMam03UXZv?oc=5",
-      "fecha": "2026-10-23T07:00:00.000Z",
-      "fuente": "El Tiempo",
       "imagen": ""
     }
   ]
