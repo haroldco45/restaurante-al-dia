@@ -1,13 +1,20 @@
 {
-  "actualizado": "2026-11-06T16:04:53.661Z",
+  "actualizado": "2026-11-06T21:41:12.727Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
     {
+      "titulo": "Festival del Kalentao: 19 restaurantes de Bucaramanga y Floridablanca sirven el plato más colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONndBVFNsS21xTEEzTUwza3hsUnpNekVqNk5GOTlBN04yRThueEliWTJTRDljMlM2b1JIRlhMUVhTdUNrd0V3YXhVWnRzemxmSnRoMzZnTGEyOTl3UXRCX0h3V2FvUXAtNThUMzRWbGZsMWU3aTJfQnAwMndDQVlLNkZZb1Y5UXJaSUNaUWhoSkxmMXFSUzNjWEMwZnVxWFZSTHVudXhB0gGmAUFVX3lxTE42d0FUU2xLbXFMQTNNTDNreGxSek16RWo2TkY5OUE3TjJFOG54SWJZMlNEOWMyUzZvUkhGWExRWFN1Q2t3RXdheFVadHN6bGZKdGgzNmdMYTI5OXdRdEJfSHdXYW9RcC01OFQzNFZsZmwxZTdpMl9CcDAyd0NBWUs2RllvVjlRclpJQ1pRaGhKTGYxcVJTM2NYQzBmdXFYVlJMdW51eEE?oc=5",
+      "fecha": "2026-11-06T14:17:23.000Z",
+      "fuente": "Alerta",
+      "imagen": ""
+    },
+    {
       "titulo": "Segovia acoge EatCology, ocho jornadas abiertas para conectar gastronomía, medio ambiente y salud",
-      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZVNZaUhmdjR5RjZtbHBKQkd3TWtVQ0hGNzRxRzA1SFRablY1c0tvOVRhQmhmNy14UDUyNEo3YWpaSGJYbThkTDlmWXVUT21SaG5XQmRnempjaXJRWGt6RzB6RHN2V1hwX1doT2JMOHRpdHJuZFY3aW1yLWhDNXRHMVBsT0RyOFBMNmk5bUZhMWtaSGZhUHZfVGJUMDNYNVk1Rmc4QVNTazB6dXhPUEtoVEd3QlZNcldoRW5HSkVpT053c0Q1Q0NvWlV3R09Fb3hZZGo4TmUwSEhIV0JwZ09zRlJMczlMalhFd3JDa0lWVlNvYVk5ZzRMZDV3?oc=5",
-      "fecha": "2026-11-06T10:44:21.000Z",
-      "fuente": "Notimérica",
+      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOV2N1cmVOOVZjS09HUHlEOU81UHVHVWtOazQyb3Q5Y2N2dUhIcDZhUWxjVWtoOWt2SVhsbFFkMnRRNFJRckNrdzZNQVVHRm5YY0VUNWV1TUJlN2M1SHBQUnVRbldJUU05Z19iWUZvQTdGYlFDMDBPcHR1WFR1WW14cmhOYkhpTXdWTUJBbDNlSXJmVl9oMUlOeEVUYjB4eHRZYldyaU1PRGNfdFdaTXhDXzFoZFBscm9iZDR0UlcyUzdEdkNGLWNPZGJoMG0ya2NfNmZ2Y0d5OGNzd0oweXAwR1BkQVhReU5IOS13T3FsODg2MG9YVFN6cldjYjjSAYICQVVfeXFMTndGeXlOVDhjR1k1SEhXd0x4UG5ZMkhvckVBQUxWRXVYa0VrS3ZtWnA3SklYY0FneUNkbFJUTVZtWFZvdzd1Q1czZ01JNERfSXc5TTJMUG9nSW1yeXBEbzBhVjMtcUloTDR5cTdCQ191NVZGNXJkNk9UZVluY2V3UTVpX0R4ZmYzTjdTUUlmV2VQUmMwNHBfY1p4OUFjQXNucXNhQ2NhQXRxVEhiRDFmZE9lZTlpWHBaSlhGdHVDNGY1N3FpdjlFYzZtT1hsRWNUMEdNeE9zZTZjRVBsdm1mbURLR3MzNE1lamc0VjlHa0U1NmNTLXRUU3phcWpOZUEzdk9n?oc=5",
+      "fecha": "2026-11-06T11:03:17.000Z",
+      "fuente": "Confidencial Digital",
       "imagen": ""
     },
     {
@@ -375,13 +382,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Restaurantes en apuros: ¿por qué cierran tantos locales en Medellín? | Q´HUBO Medellín",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGtiSTZTbUlaaEZEN1pLalVIbVk5YWM5UnBnNk5qRF9pNVdpaFEzYTNiOHhubzJxZ3EtekhWLUg0X1dUS1lXbVRMMTZQdFE2Z3RmcTFLUDVweTJNY0RuQ0luUmJDaVVhVE1sLXJaOHI5ZWZTN1hKR2kydElKSXNWeWpaaF9NWlBwU1JqZFNmWDJkQ1ZfM2ZORm9ZbzczcWVaOXQ4WkFrMUhfdlHSAbYBQVVfeXFMTWFqbzQ1YXo5SDVLOExkakxtYjQ0MlhGSlRJQWRHMGdqT2xlTDZYenZKa0xQNTlKTXEwMUJ4SkVQbnVoS3dEOVM0QlFITjQ5UHpSSFZkVjY1WGVrMjc0SHlnN19MQzBDYnFFYVVMTHFHTFFRZnh2U28zdlJoSmI1U3JvR3RwWU1EaHhxeDFvV2RfTkhCLVJ6aGZybnFnbEhUczFQTEdTYVhSZUFkTGc2OUpWZWlWanc?oc=5",
-      "fecha": "2026-10-30T00:16:28.000Z",
-      "fuente": "Qhubo Medellín",
-      "imagen": ""
-    },
-    {
       "titulo": "¿Usted pagaría 4 millones en un restaurante? Esto le pasó a un ciudadano en el Parque Lleras de Medellín",
       "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Edllrend6MFRZV05TTHNDc20tc1hkZzY1T1F6aWw4QjVNOGN3cENRTU1YU2ZiYU9nQUl1UFF1Z3U4OGZDVF83YXI5SUtfN2NlSGdBQ1U4dHVfbU1jelhUSHd2STBRQXpVZkxVZw?oc=5",
       "fecha": "2026-10-29T17:50:20.000Z",
@@ -408,6 +408,13 @@
       "fecha": "2026-10-29T12:45:00.000Z",
       "fuente": "Qhubo Medell&#237;n",
       "imagen": "http://www.bing.com/th?id=ONUT.XdoUmnKud-I7zAeBAKmKNw&pid=News"
+    },
+    {
+      "titulo": "Restaurantes en apuros: ¿por qué cierran tantos locales en Medellín? | Q´HUBO Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGtiSTZTbUlaaEZEN1pLalVIbVk5YWM5UnBnNk5qRF9pNVdpaFEzYTNiOHhubzJxZ3EtekhWLUg0X1dUS1lXbVRMMTZQdFE2Z3RmcTFLUDVweTJNY0RuQ0luUmJDaVVhVE1sLXJaOHI5ZWZTN1hKR2kydElKSXNWeWpaaF9NWlBwU1JqZFNmWDJkQ1ZfM2ZORm9ZbzczcWVaOXQ4WkFrMUhfdlHSAbYBQVVfeXFMTWFqbzQ1YXo5SDVLOExkakxtYjQ0MlhGSlRJQWRHMGdqT2xlTDZYenZKa0xQNTlKTXEwMUJ4SkVQbnVoS3dEOVM0QlFITjQ5UHpSSFZkVjY1WGVrMjc0SHlnN19MQzBDYnFFYVVMTHFHTFFRZnh2U28zdlJoSmI1U3JvR3RwWU1EaHhxeDFvV2RfTkhCLVJ6aGZybnFnbEhUczFQTEdTYVhSZUFkTGc2OUpWZWlWanc?oc=5",
+      "fecha": "2026-10-29T07:00:00.000Z",
+      "fuente": "Qhubo Medellín",
+      "imagen": ""
     },
     {
       "titulo": "Restaurante del Lleras en pol&#233;mica por cuenta de $4 millones tom&#243; medidas: hasta eliminaron el recargo por pago con tarjeta",
@@ -554,13 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1bzlMZ1BScE5BdUdCUFA0dkR2bkV6cUppNGhZUS1YNDA2d3licGdoUFMwbHIyNjh4NXVpYnlUZEt0cUlNQ292bzRLOGM0TGtySzg0SEZ5YmFWWmtsZFoxbXI0QnZzOGhnWmhSR1RJTkxlUQ?oc=5",
       "fecha": "2026-10-24T07:00:00.000Z",
       "fuente": "Vivir en El Poblado",
-      "imagen": ""
-    },
-    {
-      "titulo": "Medellín Gourmet entra en su recta final: 150 restaurantes, menús para dos desde $89.000 y sabores de la despensa colombiana",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV2tQdHdPZzRjTml1dDczY3B3Nkp4MjFJbzJ5eWRRZFlCOGo4dHhjXzZLU3FMQkhBSkctWU1PYUNISzFQNUl2eVM4ZWJLWlNhT2ZrRDlQQmJZNTRHSFc4c2pBMXY3UnZTQVhvbWpWb3FlOEpCb0w2QUtIYjg4NUdhdnpHbmFSUS1Xam1sVllaOFdmNHNseURtM0g0WTZfUTJpbklGSXJRT0ZoTGtzc0s0TURLVEdSUDJPNXJ5czFR?oc=5",
-      "fecha": "2026-10-24T07:00:00.000Z",
-      "fuente": "IFM Noticias",
       "imagen": ""
     }
   ]
