@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T21:41:12.727Z",
+  "actualizado": "2026-11-07T01:29:24.897Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
@@ -278,9 +278,9 @@
     },
     {
       "titulo": "Restaurantes en Colombia enfrentan crisis: cierres superar&#237;an los 6.500 y alertan por nuevos impuestos",
-      "enlace": "https://www.valoraanalitik.com/restaurantes-en-colombia-enfrentan-crisis-cierres-superarian-los-6-500-y-alertan-por-nuevos-impuestos/",
+      "enlace": "https://es-us.noticias.yahoo.com/restaurantes-colombia-enfrentan-crisis-cierres-153000584.html",
       "fecha": "2026-11-02T07:30:00.000Z",
-      "fuente": "Valora Analitik",
+      "fuente": "Yahoo Noticias en Espa&#241;ol",
       "imagen": "https://s.yimg.com/lo/mysterio/api/0dccacafbfdd5172c5c67e3718d5ab827fa6c5408f6c77e4e6faee6718e86a9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fvalora_628%2Fe00938e084bfa83a53a4c7b4536e3cd2.jpg"
     },
     {
@@ -396,13 +396,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Restaurante del Lleras en polémica por cuenta de $4 millones tomó medidas: hasta eliminaron el recargo por pago con tarjeta | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObzRUMEF2SmtFbF9xR1ZnSG1qZXBLMzhIaVZrX0laejRMbUN3QVRCdENDaWhzVnlQa081S3dsenZ6dUg1WmpsSjRMS3RYTVVESXdmQlhGSXRpVHE4VmFLXzdLQlRPWjByaTVGQnBWQ2NpMi1PTGZyN0pGRG5BYkFDa3c1TDVfQdIBiwFBVV95cUxOaXhyQ25oMU9CU2h3SVg4RGctZE5qVFladXhOOHZ3Q0JYYzFENVB5Rmt1bzdIZ2dHTWZwajI3NkJDaWZDcTRHR193cWJ3RHhZNTdQQmJRMU5SXzlTQlF5Y2Vja1hiNG1Xc2JxYVBTY1hBYlhqbTQ3TDhYa0ZiOTZPQTc0VDZVUUxIU2Fv?oc=5",
-      "fecha": "2026-10-29T16:17:18.000Z",
-      "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
       "titulo": "Restaurantes en apuros: &#191;por qu&#233; cierran tantos locales en Medell&#237;n?",
       "enlace": "https://qhubomedellin.com/economia-de-bolsillo/cierres-de-restaurantes-en-medellin-parque-lleras-KL42945917",
       "fecha": "2026-10-29T12:45:00.000Z",
@@ -414,6 +407,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGtiSTZTbUlaaEZEN1pLalVIbVk5YWM5UnBnNk5qRF9pNVdpaFEzYTNiOHhubzJxZ3EtekhWLUg0X1dUS1lXbVRMMTZQdFE2Z3RmcTFLUDVweTJNY0RuQ0luUmJDaVVhVE1sLXJaOHI5ZWZTN1hKR2kydElKSXNWeWpaaF9NWlBwU1JqZFNmWDJkQ1ZfM2ZORm9ZbzczcWVaOXQ4WkFrMUhfdlHSAbYBQVVfeXFMTWFqbzQ1YXo5SDVLOExkakxtYjQ0MlhGSlRJQWRHMGdqT2xlTDZYenZKa0xQNTlKTXEwMUJ4SkVQbnVoS3dEOVM0QlFITjQ5UHpSSFZkVjY1WGVrMjc0SHlnN19MQzBDYnFFYVVMTHFHTFFRZnh2U28zdlJoSmI1U3JvR3RwWU1EaHhxeDFvV2RfTkhCLVJ6aGZybnFnbEhUczFQTEdTYVhSZUFkTGc2OUpWZWlWanc?oc=5",
       "fecha": "2026-10-29T07:00:00.000Z",
       "fuente": "Qhubo Medellín",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurante del Lleras en polémica por cuenta de $4 millones tomó medidas: hasta eliminaron el recargo por pago con tarjeta | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObzRUMEF2SmtFbF9xR1ZnSG1qZXBLMzhIaVZrX0laejRMbUN3QVRCdENDaWhzVnlQa081S3dsenZ6dUg1WmpsSjRMS3RYTVVESXdmQlhGSXRpVHE4VmFLXzdLQlRPWjByaTVGQnBWQ2NpMi1PTGZyN0pGRG5BYkFDa3c1TDVfQdIBiwFBVV95cUxOaXhyQ25oMU9CU2h3SVg4RGctZE5qVFladXhOOHZ3Q0JYYzFENVB5Rmt1bzdIZ2dHTWZwajI3NkJDaWZDcTRHR193cWJ3RHhZNTdQQmJRMU5SXzlTQlF5Y2Vja1hiNG1Xc2JxYVBTY1hBYlhqbTQ3TDhYa0ZiOTZPQTc0VDZVUUxIU2Fv?oc=5",
+      "fecha": "2026-10-29T07:00:00.000Z",
+      "fuente": "El Colombiano",
       "imagen": ""
     },
     {
@@ -477,7 +477,7 @@
       "enlace": "https://www.msn.com/es-co/dinero/general/restaurantes-de-medell%C3%ADn-est%C3%A1n-contra-las-cuerdas-gremio-revela-qu%C3%A9-est%C3%A1-golpeando-sus-negocios/ar-AA2g6iLj",
       "fecha": "2026-10-26T10:09:15.000Z",
       "fuente": "Publimetro on MSN",
-      "imagen": "http://www.bing.com/th?id=ONUT.9AuwTPNeXMzsmWfpO4ggGg&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.ex8395g-hO1WAWqsItvdiQ&pid=News"
     },
     {
       "titulo": "Domicilios de corrientazos en Rappi subieron 160% este a&#241;o: la bandeja paisa y el sancocho reinan en Medell&#237;n",
@@ -519,7 +519,7 @@
       "enlace": "https://www.elcolombiano.com/negocios/cierran-520-restaurantes-en-medellin-BA42718108",
       "fecha": "2026-10-26T02:34:00.000Z",
       "fuente": "El Colombiano",
-      "imagen": "http://www.bing.com/th?id=ONUT.ZI2iEHxC3YN0Nwx1RSpr-g&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.5NcLO5hLaCogGVavHQzi1w&pid=News"
     },
     {
       "titulo": "Un proyecto de ley propone un IVA único del 5% para el sector gastronómico en Colombia",
