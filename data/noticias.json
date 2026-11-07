@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-11-07T14:34:23.181Z",
+  "actualizado": "2026-11-07T19:13:24.856Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "¿Por qué están cerrando tantos restaurantes?: Casa Blu del 7 de noviembre de 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGFXLXhUSkFsbmZlY2oyLTZtX3RDWVQ5d1pSVkxWNDFyVVVoTmRJYjNLeXdUbFRPVUgxM2VGeUtzWU5McTdxbzZQQnhWRWUzYmdtNWJJY3RKYmpmLUZaX25lM1pST1NPOXRKY1lLM1FseURTejhYcnQta296Y3R0Yy04ZkhPVXlPWTBSZnZIZ2NqQng0YWVFYTNtM0lELTBzSnFBbVVVYXFqdFVuQjg4emhiTGhBdHlh0gHGAUFVX3lxTE5vc2hOcG53WXprY3pTN3FFRjRlZWpyeGdQSVR1R2ptZDRzY01UYmswNUpNamxnaEFsbk9ZVVVjcVVNR3JLLU1Odk5XcExuTnRkb2JXMkYzZGd6bkR1dU94QmpOMl9KS3VNRzItTGgyX2d3WDl1Z0pYeXhTUVlMQlBOLS01ZDNDX3dDbDZhSU5MZm9aWGtMb2otWGltUDVUeVI4Ui1ucUN2cG5pOWdQZXVrTWNGY19NTWU3aWlCWkViTzF4bHRBQQ?oc=5",
+      "fecha": "2026-11-07T18:01:21.000Z",
+      "fuente": "Blu Radio",
+      "imagen": ""
+    },
+    {
+      "titulo": "&#191;Por qu&#233; est&#225;n cerrando tantos restaurantes?: Casa Blu del 7 de noviembre de 2026",
+      "enlace": "https://www.bluradio.com/casa-blu/por-que-estan-cerrando-tantos-restaurantes-casa-blu-del-7-de-noviembre-de-2026-pr30",
+      "fecha": "2026-11-07T10:01:00.000Z",
+      "fuente": "Blu Radio",
+      "imagen": "http://www.bing.com/th?id=ONUT.otCe6rLny8aSgywK8SaQ5Q&pid=News"
+    },
     {
       "titulo": "Gastronomía de Rescate",
       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkNMTml6eW1ONDJYS2pmb3U5SHRxOTE1d3BjMy1vcEhyN01saG5DZkhKa3RsSndSanVId1dqTVNjUHFUOFhGMllpdzBOM2ZIQTM4S1RYdXhtNDBQUnVzcDk3YjlucDJHTnpWNTd3ajl3bktqSENZdEZubEVOdzFidkJ3Wl96UQ?oc=5",
@@ -50,7 +64,7 @@
       "enlace": "https://www.elheraldo.co/columnas-de-opinion/2026/11/07/gastronomia-de-rescate/",
       "fecha": "2026-11-06T16:00:00.000Z",
       "fuente": "El Heraldo",
-      "imagen": "http://www.bing.com/th?id=ONUT.ul8eVPBlUmsB-nYlMZTOLw&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.uwvM1tSBdtbvWZfMIFu9RQ&pid=News"
     },
     {
       "titulo": "Festival del Kalentao: 19 restaurantes de Bucaramanga y Floridablanca sirven el plato más colombiano",
@@ -61,9 +75,9 @@
     },
     {
       "titulo": "Segovia acoge EatCology, ocho jornadas abiertas para conectar gastronomía, medio ambiente y salud",
-      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZVNZaUhmdjR5RjZtbHBKQkd3TWtVQ0hGNzRxRzA1SFRablY1c0tvOVRhQmhmNy14UDUyNEo3YWpaSGJYbThkTDlmWXVUT21SaG5XQmRnempjaXJRWGt6RzB6RHN2V1hwX1doT2JMOHRpdHJuZFY3aW1yLWhDNXRHMVBsT0RyOFBMNmk5bUZhMWtaSGZhUHZfVGJUMDNYNVk1Rmc4QVNTazB6dXhPUEtoVEd3QlZNcldoRW5HSkVpT053c0Q1Q0NvWlV3R09Fb3hZZGo4TmUwSEhIV0JwZ09zRlJMczlMalhFd3JDa0lWVlNvYVk5ZzRMZDV3?oc=5",
-      "fecha": "2026-11-06T10:44:21.000Z",
-      "fuente": "Notimérica",
+      "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOV2N1cmVOOVZjS09HUHlEOU81UHVHVWtOazQyb3Q5Y2N2dUhIcDZhUWxjVWtoOWt2SVhsbFFkMnRRNFJRckNrdzZNQVVHRm5YY0VUNWV1TUJlN2M1SHBQUnVRbldJUU05Z19iWUZvQTdGYlFDMDBPcHR1WFR1WW14cmhOYkhpTXdWTUJBbDNlSXJmVl9oMUlOeEVUYjB4eHRZYldyaU1PRGNfdFdaTXhDXzFoZFBscm9iZDR0UlcyUzdEdkNGLWNPZGJoMG0ya2NfNmZ2Y0d5OGNzd0oweXAwR1BkQVhReU5IOS13T3FsODg2MG9YVFN6cldjYjjSAYICQVVfeXFMTndGeXlOVDhjR1k1SEhXd0x4UG5ZMkhvckVBQUxWRXVYa0VrS3ZtWnA3SklYY0FneUNkbFJUTVZtWFZvdzd1Q1czZ01JNERfSXc5TTJMUG9nSW1yeXBEbzBhVjMtcUloTDR5cTdCQ191NVZGNXJkNk9UZVluY2V3UTVpX0R4ZmYzTjdTUUlmV2VQUmMwNHBfY1p4OUFjQXNucXNhQ2NhQXRxVEhiRDFmZE9lZTlpWHBaSlhGdHVDNGY1N3FpdjlFYzZtT1hsRWNUMEdNeE9zZTZjRVBsdm1mbURLR3MzNE1lamc0VjlHa0U1NmNTLXRUU3phcWpOZUEzdk9n?oc=5",
+      "fecha": "2026-11-06T11:03:17.000Z",
+      "fuente": "Confidencial Digital",
       "imagen": ""
     },
     {
@@ -176,7 +190,7 @@
       "enlace": "https://www.portafolio.co/economia/mas-de-6-500-restaurantes-cerrarian-en-colombia-en-2026-alerta-acoga-505682",
       "fecha": "2026-11-04T01:55:00.000Z",
       "fuente": "Portafolio",
-      "imagen": "http://www.bing.com/th?id=ONUT.UGkwRrIXS1AnPxuh_y2vbQ&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.Lwvhyfe-skwfcGVUToLzCA&pid=News"
     },
     {
       "titulo": "Karol G trae su restaurante a México y esto es todo lo que debes saber",
@@ -330,13 +344,13 @@
       "enlace": "https://www.msn.com/es-co/noticias/otras/m%C3%A1s-de-6-500-restaurantes-cerrar%C3%ADan-este-a%C3%B1o-en-colombia-la-alerta-de-la-asociaci%C3%B3n-de-gastronom%C3%ADa/ar-AA2gB3jK",
       "fecha": "2026-11-02T09:33:20.000Z",
       "fuente": "Semana on MSN",
-      "imagen": "http://www.bing.com/th?id=ONUT.7Tof3oQ1BcnglYywlIOwYQ&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.fJh_C4aZLlMGpAgtO0TeEw&pid=News"
     },
     {
       "titulo": "Restaurantes en Colombia enfrentan crisis: cierres superar&#237;an los 6.500 y alertan por nuevos impuestos",
-      "enlace": "https://www.valoraanalitik.com/restaurantes-en-colombia-enfrentan-crisis-cierres-superarian-los-6-500-y-alertan-por-nuevos-impuestos/",
+      "enlace": "https://es-us.noticias.yahoo.com/restaurantes-colombia-enfrentan-crisis-cierres-153000584.html",
       "fecha": "2026-11-02T07:30:00.000Z",
-      "fuente": "Valora Analitik",
+      "fuente": "Yahoo Noticias en Espa&#241;ol",
       "imagen": "https://s.yimg.com/lo/mysterio/api/0dccacafbfdd5172c5c67e3718d5ab827fa6c5408f6c77e4e6faee6718e86a9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fvalora_628%2Fe00938e084bfa83a53a4c7b4536e3cd2.jpg"
     },
     {
@@ -545,20 +559,6 @@
     {
       "titulo": "Los ingredientes y la nómina se comen los restaurantes: van 520 cierres en Medellín este año | El Colombiano",
       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGZ4T0c1dlB6ZVlrc0RYazgwSjZSMVZUQ2VfRWF0ZVhTQl9mSjJOQ3R1dDhZV0xXSGtYVTk2U2d1bmVnMkFGUEpLMXU5VEpmajB1WUluNUJTNzVwbzJPcVFzZmcyUnNDdGh2NjhrQXNvaHhPMkt3Y3g0VHhBSy1fQUFhSU0zekdGbklDUGtB0gGTAUFVX3lxTE5KMVRwcERfaVhCSm9FZkdMUXNUd1hwaFJIZHlTal8zdVJVbmg4MHhFZmdNZE5faVJ0MmkyeDBPMFo2TDlZaUdWNE0xUG5sV3dxN1hsN0dQRTRFY3FLcmR0Ukg0N1ZDMHJLTk52bE1fZjQ0am9taDI5aFNuSnVCY0FFTjg0X3k3Q293VXp1THJoenJMbw?oc=5",
-      "fecha": "2026-10-26T07:00:00.000Z",
-      "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
-      "titulo": "Restaurantes de Medellín están contra las cuerdas: Gremio revela qué está golpeando sus negocios",
-      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ2VERGhiNlZySGl2T3B1THhYTV85Qlk4V3NDTlNRaHRaZWpVMjZySUlGS3hrZjQ4OWNoRTBES2dPVTRlM0NhN3Q3N00yRFR1OVNnWkUzMHZUUG16Nnk1Y2ZkOU1jWUl3eEdfTUhkZXdxZE1vR0V4WFVlMGtXZWNVQm9hVmV5LUcwQjVqOERhMkpmU0Fxc1NDVU54YXdhWndWTVEzYm9PWDNrb1gzVnRpSkRnMGlha2x1Q09abEhXeWpLZjZjRHRIV25YeHlyR1RBQ2wtSVU4SFd1dw?oc=5",
-      "fecha": "2026-10-26T07:00:00.000Z",
-      "fuente": "Publimetro Colombia",
-      "imagen": ""
-    },
-    {
-      "titulo": "Domicilios de corrientazos en Rappi subieron 160% este año: la bandeja paisa y el sancocho ‘reinan’ en Medellín | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdHdFQXRjNnROakxhQkw4MWh2OFFKM2lqQzBablh5TmFocEhGOXlMclNQc2RlQXdDWU5BYUNnX1QtM3gzei1Bb1NHemdqN3ZSQVBBLVVKUzdVZURtNUU0d3labWloQXdWN0t6ZDBKZmZyVktUYk9reHc4MUx4SVNoMVNUUmNIQTBLRXY5TFpkTUZGQW53NnEzYVk4em1tRTlzTjRCajZiUzI2THVXZVB5Y0V6RURRX3Ax0gG-AUFVX3lxTE5CbXlsblk0TDBMc0JVWGtlQkVVQXNtbFhUa09YZ3F5aV8zQ3BadjFneklmTFNXZml1U29qaVpQNjE4Q1F6dndhUXpINWg1OVRtTDZzd2tMNkxxSlNqdzhFQ3pvTW91alZPTzcyRlZvTFk2R0NvZnBWaTZYMXY0TGxJUDR4TUZ1eUR6X09oY3IxVGMzeUg1em1OeHZQd0VHZnZScDByZy1sUVhrQi1FbXc4aDNQRnRPZFRra3drRWc?oc=5",
       "fecha": "2026-10-26T07:00:00.000Z",
       "fuente": "El Colombiano",
       "imagen": ""
