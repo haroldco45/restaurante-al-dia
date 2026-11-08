@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-11-08T01:58:27.324Z",
+  "actualizado": "2026-11-08T20:04:23.820Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Toledo acoge los Premios Nacionales de Gastronomía",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRTRHZUZLLXVVMHIxUmZ1YjdzZnVLZG9RQk1mVHhyU2NHUEt6UmhldGhDY0hLRmhXeWFQd01Bcjl5R05udUxQbFhScm5uTE5JR1RWQ2E3ZHJUaUNfWEJLUEFQc0UzYXRISU5IeGJhajFIWldJdjI4ZnJVN1VVVmFsTUJmOUp2dDR2VXRFckxIVXh4OEJwbHBIb19uRHYzV2tjRl9TSzZYbk1WeVBNLXNKaTZLZTVfcDVIWnB2R0JMRUJkZXlMYUxQTUhnb1BrV3Vm?oc=5",
+      "fecha": "2026-11-08T18:12:02.000Z",
+      "fuente": "La Tribuna de Toledo",
+      "imagen": ""
+    },
     {
       "titulo": "¿Por qué están cerrando tantos restaurantes?: Casa Blu del 7 de noviembre de 2026",
       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb3NoTnBud1l6a2N6UzdxRUY0ZWVqcnhnUElUdUdqbWQ0c2NNVGJrMDVKTWpsZ2hBbG5PWVVVY3FVTUdySy1NTnZOV3BMbk50ZG9iVzJGM2Rnem5EdXVPeEJqTjJfSkt1TUcyLUxoMl9nd1g5dWdKWHl4U1FZTEJQTi0tNWQzQ193Q2w2YUlOTGZvWlhrTG9qLVhpbVA1VHlSOFItbnFDdnBuaTlnUGV1a01jRmNfTU1lN2lpQlpFYk8xeGx0QUHSAcYBQVVfeXFMTm9zaE5wbndZemtjelM3cUVGNGVlanJ4Z1BJVHVHam1kNHNjTVRiazA1Sk1qbGdoQWxuT1lVVWNxVU1HckstTU52TldwTG5OdGRvYlcyRjNkZ3puRHV1T3hCak4yX0pLdU1HMi1MaDJfZ3dYOXVnSlh5eFNRWUxCUE4tLTVkM0Nfd0NsNmFJTkxmb1pYa0xvai1YaW1QNVR5UjhSLW5xQ3Zwbmk5Z1BldWtNY0ZjX01NZTdpaUJaRWJPMXhsdEFB?oc=5",
@@ -348,9 +355,9 @@
     },
     {
       "titulo": "Restaurantes en Colombia enfrentan crisis: cierres superar&#237;an los 6.500 y alertan por nuevos impuestos",
-      "enlace": "https://www.valoraanalitik.com/restaurantes-en-colombia-enfrentan-crisis-cierres-superarian-los-6-500-y-alertan-por-nuevos-impuestos/",
+      "enlace": "https://es-us.noticias.yahoo.com/restaurantes-colombia-enfrentan-crisis-cierres-153000584.html",
       "fecha": "2026-11-02T07:30:00.000Z",
-      "fuente": "Valora Analitik",
+      "fuente": "Yahoo Noticias en Espa&#241;ol",
       "imagen": "https://s.yimg.com/lo/mysterio/api/0dccacafbfdd5172c5c67e3718d5ab827fa6c5408f6c77e4e6faee6718e86a9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fvalora_628%2Fe00938e084bfa83a53a4c7b4536e3cd2.jpg"
     },
     {
@@ -382,13 +389,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Medellín amplía el horario de bares y discotecas durante el puente de Halloween",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0k4aFdmV0h2NlFFV19rZkxaR1ZfdTQ0MDA5YkhvakZjUzVOQTYyN2RVYVBndmdzUTk1Z0RQNm5qdVBOYkR1NFk1SHM2VXJjVGI1WjNxWDVLUWpJUzRoRDRjakFtaWN0dGplbFJQbjR2M3ZpR3RmS2RaX3pMd21YWHZPZlR0ZjFibC1QZHBldlVFVWdzQUZGVFRDQ0xqbUx0T0JlYmdSUkhiblZUVFlWcg?oc=5",
-      "fecha": "2026-10-31T15:57:25.000Z",
-      "fuente": "MiOriente",
-      "imagen": ""
-    },
-    {
       "titulo": "Alcaldía de Medellín amplía a las 4:00 a. m. el cierre de bares en alta mixtura de 11 zonas: el Parque",
       "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wVTJrbDNjYUsyOG1xa1JjX0twdlFJMFN1TjFkSHVaX0VZUmVXYUFqaEdEY1lUQ2Vfbkk0amQ2WlU3Zlc5UkJVTmJkdEs0WExUU0g0V3h4N1NvNWhsZDl3Snd6XzlXY2FkTnR2SERJMDE3d9IBckFVX3lxTE8wVTJrbDNjYUsyOG1xa1JjX0twdlFJMFN1TjFkSHVaX0VZUmVXYUFqaEdEY1lUQ2Vfbkk0amQ2WlU3Zlc5UkJVTmJkdEs0WExUU0g0V3h4N1NvNWhsZDl3Snd6XzlXY2FkTnR2SERJMDE3dw?oc=5",
       "fecha": "2026-10-31T12:07:00.000Z",
@@ -401,6 +401,13 @@
       "fecha": "2026-10-31T08:54:00.000Z",
       "fuente": "Mi Oriente",
       "imagen": "http://www.bing.com/th?id=ONUT.PX8ssSncnkp8kNmVkJWZ3g&pid=News"
+    },
+    {
+      "titulo": "Medellín amplía el horario de bares y discotecas durante el puente de Halloween",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0k4aFdmV0h2NlFFV19rZkxaR1ZfdTQ0MDA5YkhvakZjUzVOQTYyN2RVYVBndmdzUTk1Z0RQNm5qdVBOYkR1NFk1SHM2VXJjVGI1WjNxWDVLUWpJUzRoRDRjakFtaWN0dGplbFJQbjR2M3ZpR3RmS2RaX3pMd21YWHZPZlR0ZjFibC1QZHBldlVFVWdzQUZGVFRDQ0xqbUx0T0JlYmdSUkhiblZUVFlWcg?oc=5",
+      "fecha": "2026-10-31T07:00:00.000Z",
+      "fuente": "MiOriente",
+      "imagen": ""
     },
     {
       "titulo": "Los bares y restaurantes que hacen parte de la ruta coctelera del Día de Muertos",
@@ -431,17 +438,17 @@
       "imagen": ""
     },
     {
-      "titulo": "Cámara Colombiana de Gastronomía busca unir al sector y fortalecer la representación de los restaurantes",
-      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMGFSbXkxOG80OUFBYUl2RVhIQl92MEk1cXdIekZaampudU9MOE4ycDV6UFdWdjVkcmpNaE1VYTdvejdOTzEyZTk3UGl6YVhaeXlEVHQzOGNYNnhOdjdyaTFISUZGQXh0anJCbkgxYnpwZ1ZNWlpPNUM1Nm9yeHItNGh1MzVzWjRZUDdZVnl2RnRDNThLRFlsUktNXzNqMkdVN2NFalVsa2xMYU9VZ2xBcTQxNW1EWEM5QTdYN0tXRVlOSzNpUS1iaVhReC0wbDVEWml2eWowa0FVeHhOQnFtZHBrYlRRY2g0WTdGRTk1Wmk?oc=5",
-      "fecha": "2026-10-30T07:00:00.000Z",
-      "fuente": "Revista La Barra",
-      "imagen": ""
-    },
-    {
       "titulo": "La luz al final del túnel: reflexiones sobre el sector gastronómico | El Colombiano",
       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTdBX0tjNjNWWlZQVU81MVJpdmU1TzNLR24tYXFXVm9lMFFrTG9ITi1rVzUzcTZkblI2QXRvbHdPSnFaTERLbGFyMHBoMlYxOXY4TEJBWHNnV0wzSWVvYzdGeE1XcHRDR3lwTk5iWl9YU3F2VlU5M0d1aVZnOG12ODhPT3hsUkhxOEFRT3ZoSWlxSzlXZmt3dUtGbkg2T2NkOG9xZkZTRkw0ZmlMa1YyNWZxRl8wcHMwN3J1Y1RWRG9Fd9IBxwFBVV95cUxQcElpbFdEODNqYS1BMkhUOUFDdnNjbF9pWEluUmlTZEhTNEJudDhyNWYwVmxGSGJ3d2RLdFFLNlBjVFRCOUJ5QmEwVFM3LTFJeFdXTVRuOHRfRVMtVHZBRDJxbW9FNnpualZuRHBsdjJObDJ5c3EzNHUtMzRDaUFXSGZhTjd1eTY3d0x3SjZCMzFHQmJfcThUbGJwMFkzcTg1N05XUFFvTG43SU9yZWg3VkdWSEwzdDN3em56bm5wZW40Wmk4eFBR?oc=5",
       "fecha": "2026-10-30T07:00:00.000Z",
       "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cámara Colombiana de Gastronomía busca unir al sector y fortalecer la representación de los restaurantes",
+      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMGFSbXkxOG80OUFBYUl2RVhIQl92MEk1cXdIekZaampudU9MOE4ycDV6UFdWdjVkcmpNaE1VYTdvejdOTzEyZTk3UGl6YVhaeXlEVHQzOGNYNnhOdjdyaTFISUZGQXh0anJCbkgxYnpwZ1ZNWlpPNUM1Nm9yeHItNGh1MzVzWjRZUDdZVnl2RnRDNThLRFlsUktNXzNqMkdVN2NFalVsa2xMYU9VZ2xBcTQxNW1EWEM5QTdYN0tXRVlOSzNpUS1iaVhReC0wbDVEWml2eWowa0FVeHhOQnFtZHBrYlRRY2g0WTdGRTk1Wmk?oc=5",
+      "fecha": "2026-10-30T07:00:00.000Z",
+      "fuente": "Revista La Barra",
       "imagen": ""
     },
     {
@@ -503,15 +510,8 @@
     {
       "titulo": ", Proyecto de Ley de la Gastronomía busca reducir costos y simplificar trámites en Colombia",
       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUjMydWxqQWhsV1hxNGZwcnNpQlNsU2s0eXZ5Rkx1TW1oa3NmSHVpMW9EbjdaejVfVHRfVVkyX3V5OUY5RE1fWlZTelU3RTdpYmpTZGJaekRvcmFDN1RLY1E0RVBNMFptVVBEYUZ0Um5hejZwU0ZDWlFrVFk3MTNkNzRIcURYdFpaUjVSalFqZzAyeUtYZFFvM1VtV3E5ejlQbk5GRXJzdm01YkxaZUlOR0hLd3dsRjF3aF9qOHJGQzRRaWNyTDNDTmNBR25FN0luQllHVXlR?oc=5",
-      "fecha": "2026-10-28T20:51:00.000Z",
+      "fecha": "2026-10-28T07:00:00.000Z",
       "fuente": "Revista La Barra",
-      "imagen": ""
-    },
-    {
-      "titulo": "Casa de España acoge encuentro que combina gastronomía dominicana y asturiana",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0M3Wkg5dmJJbWt1UDN5S1k1Qk5oYnZIVk4wNThBcHRqTDNDdGlnU2Q4LW5IYjRWQlNneTVRQm1EV0dqNXNCUllZVlg0aWJNbXpLRmp1MzJ2czNQZGFEckpQT0h4UUY1YTFrcTI3Slp3dU9tZXBmdWNNaWZZd1lqOTJ3WURtUkFXTEVLa0ttV3NuR2xYemNYU1VuRGZia3RCYS12U1Y4ZFFuSWVha3NGcU9SeEZCeXpGRmfSAb8BQVVfeXFMTzhIcnFuYTE0Q3ktN2dtckU0RFZYa3pQZHJUVkhmM2UxX2tiTkdCVXRkODZFX0pueElob1piV1FGZ21Fa21vM2VvZm1rYkI2X2xpRE1pY0d0Y0lGcUVlbXRhN3cxcGNSMVFFSGNMSUdIMDVnMVphanFSTnVlcV9KNWpTajhnOVluSFNJWXp5NUd2aXhOWDZ1R1U2bndDSVZCY3VJejJ4LVh3S0s0SVU0OWdWYzBMemFfMVBDVEhHNWc?oc=5",
-      "fecha": "2026-10-28T02:39:49.000Z",
-      "fuente": "El Nacional — La voz de todos",
       "imagen": ""
     },
     {
@@ -543,6 +543,13 @@
       "imagen": ""
     },
     {
+      "titulo": "Casa de España acoge encuentro que combina gastronomía dominicana y asturiana",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0M3Wkg5dmJJbWt1UDN5S1k1Qk5oYnZIVk4wNThBcHRqTDNDdGlnU2Q4LW5IYjRWQlNneTVRQm1EV0dqNXNCUllZVlg0aWJNbXpLRmp1MzJ2czNQZGFEckpQT0h4UUY1YTFrcTI3Slp3dU9tZXBmdWNNaWZZd1lqOTJ3WURtUkFXTEVLa0ttV3NuR2xYemNYU1VuRGZia3RCYS12U1Y4ZFFuSWVha3NGcU9SeEZCeXpGRmfSAb8BQVVfeXFMTzhIcnFuYTE0Q3ktN2dtckU0RFZYa3pQZHJUVkhmM2UxX2tiTkdCVXRkODZFX0pueElob1piV1FGZ21Fa21vM2VvZm1rYkI2X2xpRE1pY0d0Y0lGcUVlbXRhN3cxcGNSMVFFSGNMSUdIMDVnMVphanFSTnVlcV9KNWpTajhnOVluSFNJWXp5NUd2aXhOWDZ1R1U2bndDSVZCY3VJejJ4LVh3S0s0SVU0OWdWYzBMemFfMVBDVEhHNWc?oc=5",
+      "fecha": "2026-10-27T07:00:00.000Z",
+      "fuente": "El Nacional — La voz de todos",
+      "imagen": ""
+    },
+    {
       "titulo": "Restaurantes de Medell&#237;n est&#225;n contra las cuerdas: gremio revela qu&#233; est&#225; golpeando sus negocios",
       "enlace": "https://www.msn.com/es-co/dinero/general/restaurantes-de-medell%C3%ADn-est%C3%A1n-contra-las-cuerdas-gremio-revela-qu%C3%A9-est%C3%A1-golpeando-sus-negocios/ar-AA2g6iLj",
       "fecha": "2026-10-26T10:09:15.000Z",
@@ -555,13 +562,6 @@
       "fecha": "2026-10-26T09:46:32.000Z",
       "fuente": "El Colombiano on MSN",
       "imagen": "http://www.bing.com/th?id=ONUT.IHPkLl8hC468KIy0TBWl9w&pid=News"
-    },
-    {
-      "titulo": "Los ingredientes y la nómina se comen los restaurantes: van 520 cierres en Medellín este año | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGZ4T0c1dlB6ZVlrc0RYazgwSjZSMVZUQ2VfRWF0ZVhTQl9mSjJOQ3R1dDhZV0xXSGtYVTk2U2d1bmVnMkFGUEpLMXU5VEpmajB1WUluNUJTNzVwbzJPcVFzZmcyUnNDdGh2NjhrQXNvaHhPMkt3Y3g0VHhBSy1fQUFhSU0zekdGbklDUGtB0gGTAUFVX3lxTE5KMVRwcERfaVhCSm9FZkdMUXNUd1hwaFJIZHlTal8zdVJVbmg4MHhFZmdNZE5faVJ0MmkyeDBPMFo2TDlZaUdWNE0xUG5sV3dxN1hsN0dQRTRFY3FLcmR0Ukg0N1ZDMHJLTk52bE1fZjQ0am9taDI5aFNuSnVCY0FFTjg0X3k3Q293VXp1THJoenJMbw?oc=5",
-      "fecha": "2026-10-26T07:00:00.000Z",
-      "fuente": "El Colombiano",
-      "imagen": ""
     }
   ]
 }
