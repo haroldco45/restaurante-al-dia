@@ -1,13 +1,13 @@
 {
-  "actualizado": "2026-11-08T20:04:23.820Z",
+  "actualizado": "2026-11-08T23:51:37.866Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
     {
       "titulo": "Toledo acoge los Premios Nacionales de Gastronomía",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRTRHZUZLLXVVMHIxUmZ1YjdzZnVLZG9RQk1mVHhyU2NHUEt6UmhldGhDY0hLRmhXeWFQd01Bcjl5R05udUxQbFhScm5uTE5JR1RWQ2E3ZHJUaUNfWEJLUEFQc0UzYXRISU5IeGJhajFIWldJdjI4ZnJVN1VVVmFsTUJmOUp2dDR2VXRFckxIVXh4OEJwbHBIb19uRHYzV2tjRl9TSzZYbk1WeVBNLXNKaTZLZTVfcDVIWnB2R0JMRUJkZXlMYUxQTUhnb1BrV3Vm?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV3JucU1heDF5d19zT01sRHRqNlI0Nk9kUXdWcE83a2Rva3hiNnhmY1VIdUx6dHhtRlRtZUNjbWc4SlV1UFpUSzRfb3d0YmEzbVE3SHl2YjQxX3djZ1RqSFNDNE9aOHBNTWVNMG4yNW5IaXZNV2ZJVkJJMk4yUmdObkN6TlZwOVQ4aEZZRHh2c1pkRk4wQzRPVWNfQWlXVllVR0NmSG0wNWhwRUs1eUYzenZUZFIxc0toTXh6RHpyeG9KYl9fSUVLeE1GaHpRY1lqN3E4?oc=5",
       "fecha": "2026-11-08T18:12:02.000Z",
-      "fuente": "La Tribuna de Toledo",
+      "fuente": "La Tribuna de Talavera",
       "imagen": ""
     },
     {
@@ -190,7 +190,7 @@
       "enlace": "https://www.pulzo.com/economia/cerrarian-6500-restaurantes-ano-por-estos-costos-hay-alerta-PP5348460",
       "fecha": "2026-11-04T08:03:00.000Z",
       "fuente": "Pulzo",
-      "imagen": "http://www.bing.com/th?id=ONUT.T55BA-Yv1vbgP9tJrkmN4A&pid=News"
+      "imagen": "http://www.bing.com/th?id=ONUT.6Qrf4d3v5w7kotkpi3NMDg&pid=News"
     },
     {
       "titulo": "Restaurantes prenden las alarmas: gremio prev&#233; que 6.500 sitios de comida cerrar&#237;an en Colombia en 2026",
@@ -235,13 +235,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Crisis en restaurantes de Colombia: 4.400 establecimientos cerrados y otros miles podrían desaparecer antes de terminar 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QMUdFMUZMRng1SGNCcnM3blpqNC1ObGx2Wkl0cXVZRFZJR05CT25oc0ZFSzNQT29KZGwyTW5PVjRvdHkxS3hBT2c3OUt5WjVBQ3BmT0RaUVJpZ1YzOUdLLTZrRGRUMGpXb080ekdZem90ckg4OVdyVkpraw?oc=5",
-      "fecha": "2026-11-03T16:34:45.000Z",
-      "fuente": "PortalNews \"Noticias & Actualidad 7/24\"",
-      "imagen": ""
-    },
-    {
       "titulo": "Cerca de 6.500 restaurantes cerrarían en Colombia durante 2026, advierte Acodres - Emisora Atlántico",
       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMWQ3ODFPZ2V3Q1k2Q3k1LThBM0ZCUVJmS2Q5NElqSDFta1h6MWgxR290VWd5c1loSXZXVkxrZEN2UnQzZGt4UEF4bjF5VUM4VVdGX3p0STN6Smc1OFZPd1hLa2NoTF9DVk5RTlV6dWRoUU9OZnM5TjZ2VDZCQ0VidU42RHIzSVc4MUZJY21hclhaOVNjTGh5SFZoUWhVTU9HTjRXeHZ6UDBQTldWNHQ3QTVlQ2pWeTh5VTlVc0Fn0gHGAUFVX3lxTE10QTRQUENRX0Q3ejlkSmtxSndQbjZLT0JabWhQcmVhRjN5YTZyanVkOEswcnlHR2NXTENCTjFMMXBWdTByNy1seUJSM21SMzI3ZHFuWTEwajFWbk82MTJJaXlINUR2RkQ2cjE1X3NXamxGZzZDTVdPYzVrOWJjNGh5dXowN3NZdUI4emFvX2t3MXl6SGI5WE1Qby15Wkc1SVYyel9tWTFOYmdLRm1oVlNaNm1VbU1Vdm16WTd1aWpIOVJKZjZ2dw?oc=5",
       "fecha": "2026-11-03T13:37:01.000Z",
@@ -282,6 +275,13 @@
       "fecha": "2026-11-03T10:01:00.000Z",
       "fuente": "Diario del Sur",
       "imagen": "http://www.bing.com/th?id=ONUT.etxiFF8rOJZNU-t8MWZ0vg&pid=News"
+    },
+    {
+      "titulo": "Crisis en restaurantes de Colombia: 4.400 establecimientos cerrados y otros miles podr&#237;an desaparecer antes de terminar 2026",
+      "enlace": "https://portalnews.co/nacional/cierre-restaurantes-colombia-crisis-2026",
+      "fecha": "2026-11-03T08:33:00.000Z",
+      "fuente": "PortalNews",
+      "imagen": ""
     },
     {
       "titulo": "Cerca de 6.500 restaurantes cerrar&#237;an en Colombia durante 2026, advierte Acodres",
@@ -355,9 +355,9 @@
     },
     {
       "titulo": "Restaurantes en Colombia enfrentan crisis: cierres superar&#237;an los 6.500 y alertan por nuevos impuestos",
-      "enlace": "https://es-us.noticias.yahoo.com/restaurantes-colombia-enfrentan-crisis-cierres-153000584.html",
+      "enlace": "https://www.valoraanalitik.com/restaurantes-en-colombia-enfrentan-crisis-cierres-superarian-los-6-500-y-alertan-por-nuevos-impuestos/",
       "fecha": "2026-11-02T07:30:00.000Z",
-      "fuente": "Yahoo Noticias en Espa&#241;ol",
+      "fuente": "Valora Analitik",
       "imagen": "https://s.yimg.com/lo/mysterio/api/0dccacafbfdd5172c5c67e3718d5ab827fa6c5408f6c77e4e6faee6718e86a9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fvalora_628%2Fe00938e084bfa83a53a4c7b4536e3cd2.jpg"
     },
     {
