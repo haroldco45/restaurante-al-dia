@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-11-10T20:08:29.918Z",
+  "actualizado": "2026-11-11T00:45:16.742Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Toledo acoge la 52ª edición de los Premios Nacionales de Gastronomía",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTi1RY0VEdUNIRElQLTNZamJvQjJVTEgxV3B1UmNoXzR3ZG8yWDFjUWZ1ZmtHRmFYandtT0xZYmxIUXJhU1paNnlVZ18wdDBZRjFZYlVJRE44X2tlNVhJNWFqTFVobTQ3Y1BpYnlKdVVUbXU2VFVuWHl3TTNOVzZKUERhaHFXWVBqcUFmVlFyeVFuLXBLU0Q1VW5VTmk0c3dIckMzRFNjd27SAa4BQVVfeXFMTzZtX01hcEZQWUloV21kaTRMLTk0bTRSX28tRUZZT0JCc2pDOEVXMWdfNXc2YVhGZVJsLVdzcXN4dV9zQTBlUnBLNklyQXJScjkyenVpUnVnbkFZeWVXLV9PeElDNGhHbGQydXc4cWxhNFMtbWcta0lsaWZCdmFqdG5ZVVY5dlQxejdlV1BtZ1k0aU93TkEtSU1qX0xzUkIwMkx2aXBJcFBNTVp4UFN3?oc=5",
+      "fecha": "2026-11-10T19:41:15.000Z",
+      "fuente": "Gastroactitud",
+      "imagen": ""
+    },
+    {
+      "titulo": "Toledo acoge la entrega de los Premios Nacionales de Gastronomía 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeC1VcGFwSUJKRWIyNFpjTURmT012OEY0bUEyTHVBT1pKcFJxOHhfcDEzYXN0OGxJOVpIWGt6aEluWlQ4RzZRSlZ5b241MHJrclBQbldvZUNKcHZOd2Q2czZ2NkZQTHJuZnd4eVRLSzdLWFVVVmN3ekpqb0lpdnRoal81Q3paaE1UTl9fZ19GWHhORmg5bzRYbHF0UlJNdE9EYkE?oc=5",
+      "fecha": "2026-11-10T18:36:30.000Z",
+      "fuente": "Informativos.Net",
+      "imagen": ""
+    },
     {
       "titulo": "Almagro acoge el segundo Congreso Internacional de Gastronomía Cinegética",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjdXZEJlOGFlVmlUc20wVmZWVVluVWJtV2k4TVUyR1pWeWs0T2RtZVNDQzlienJSRzZCb2U1Nml1Z182VnQ3ZEdieFNhN1hqaWFidG40NC1wUkJ4RndNa0lRYmVydVBHenpHcDVCOENxS2xFUVNGTE43eDJucFhyX2dNc1dtdFRVRmZMUGlndkRxN1hiN1QwX0FTeGRkSk51OG1ta0w4aFhKM0RtZ0tRR2wxQ01UNDAwc2tjRWxHS0JlTFlWTmQw?oc=5",
@@ -116,8 +130,8 @@
       "imagen": ""
     },
     {
-      "titulo": "Presto pasó este jueves a manos de Grupo Nutresa y reabrirá 12 restaurantes en Colombia | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjB2NU85MkRuOUNHQVpZXzVrYUJaMWh4Y3hRTzE5WGpmX3VtM3I2aU9idFJZRURPaUtmOEhPdUZCbFJnU0U4V183WVAwTVdXemZ5VGVVVkw0WDAyOFNMWVR1emlpR3JMOTU4UWJGdTZEU3NuNzloZHZjeElRcUVoQ2lDYUp2SDRYVGU2MlkxcmhlcDNNc2JqWTRkTnRKYmptQmlXd1VsWG12OGFZTDhz0gG0AUFVX3lxTE1lNnN0UldZSkEwalVCTmV5dXEzZW9Kd3o0aDhvZW5QQVYwcUp6OFpQR0gtUEN1U2toSFlLa2JaVThjNXZKWWZsYTQ1UEE0TjV6NnRzbnN2YlhQa3JUMGVMb0NjekJqdDZoVjFOX21vTjVwVEViaHdObl9tYVdRX0VXaXJWX2dfUE9jMjhsUlB0NnU5bG10eVRRUTIyR0dCRE5Qbmtjcy1acHRveXRtZGo3a3N2RA?oc=5",
+      "titulo": "Presto pasó este jueves a manos de Grupo Nutresa y reabrirá 12 restaurantes en Colombia",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjB2NU85MkRuOUNHQVpZXzVrYUJaMWh4Y3hRTzE5WGpmX3VtM3I2aU9idFJZRURPaUtmOEhPdUZCbFJnU0U4V183WVAwTVdXemZ5VGVVVkw0WDAyOFNMWVR1emlpR3JMOTU4UWJGdTZEU3NuNzloZHZjeElRcUVoQ2lDYUp2SDRYVGU2MlkxcmhlcDNNc2JqWTRkTnRKYmptQmlXd1VsWG12OGFZTDhz?oc=5",
       "fecha": "2026-11-05T23:24:28.000Z",
       "fuente": "El Colombiano",
       "imagen": ""
@@ -333,13 +347,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.b8ZaIF2rAVWPhVtXc-jpOA&pid=News"
     },
     {
-      "titulo": "Restaurantes en Colombia estarían al borde del cierre: 6.500 negocios podrían desaparecer por alza de costos y nuevos impuestos",
-      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMHlSVGVHUWFkaG52c0wwa2RLNHdJdk9EUFF5MWlDWm5oWGcyeE0wNURkMWVSemFPUmlZekFPMVlBVUE4c25wTW5kRS1NczRia0JyYS1HRUNwS25HV2l6bkpEc1FJZm13WWxTRXhEY005aHVsTGZISXRjUWhHRE1JRGlXTkhjNHFFNHZ1Ump3YkVWMVRtUGpxc0QzWWk0V2Y3NjNCckdUVnBIelAzM2ZraWhGU0FRQ1hFUFAxM0IxZVlDZk9CTE1pNUVHbHBISUJBQ0NRZjVic0ZWd2lzeUxyZ294ck1qcGFpOEtVdFVXbE1mQkFmN2FYVTZUMnQzVUnSAZoCQVVfeXFMTnhjc3U2Q2ZXSDdjWHVxZDg2Y0JqTHdoZ3dOYkJOejFfVzd3WTNBTXRXOFlubGtjUHlaXzdQSWpyUkY5QVU1dXZFb0hoTDF2RDNYVVN2S2d6dWxXT1BBOTJ0cHNiZ2dPWTdWNUxyVEE3M3NpdEVHOXRoNFB5WUpiU1Q5YUdXMUVsZFpHYVY2bUhQbnA4aHBnNWNjdjhLRUhVWHpoVHg5WGhkU3FOdlQ3akZDODl3Rl9FQW9WTGMtZDJZc05HNjd6OTllY0ZVbGpjLUYxZ0M3QWRfWjBBWFpQRnlfYWNhbHFIMUJZWVFoV1hoZTVUU3NvYy1xcnVSUjdpTmx3eDIyS2pRRzQ3QmZ4ZjRHaWkyZFJiZHRB?oc=5",
-      "fecha": "2026-11-02T20:36:00.000Z",
-      "fuente": "Infobae",
-      "imagen": ""
-    },
-    {
       "titulo": "Inflación asfixia a restaurantes; temen subir precios",
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQem5fNnFudUV5a3ZETVI0YTdxLU44TEw2M1NYRF9kZGpiZTJQcDN4U3Z2cmVXMFVGaGdLSk9nU1Aya3FIbThQcEViWjdrT3kzcXAtbVp5WVVTZVNYOTJpME5ZQXFlZ1Uway1UVW83d05jRTdUWThyRFNwRmlfS0dVdFN3dnhUSmhPOE9CU1NnU1NxcFUtbFk3bjJJNWpTeGpOVl9sNl80eFhoQ3FwWFpBSkU5NDbSAboBQVVfeXFMTS0zUlY5cHFTeTZ3VzdsSDROaS1oUFBRajR0OHZYaDZRSG1RbmNSU1d3SF9saVhiWWw3WjRJbkRiWjZEbVo5cG50V094dHV2ZGRwU2gtd2lySERhaV8xN1NhNGt5UnVBNmJKcXhvdER2b1gxMWJRa2Voa1V3bjFkOEp6RndsT3U5cVF5ZFhZYlB5dTR4MzBkX2lzNWp3SF9UbUhSLWZVYnczYm14YmJ3bXVweHVQenpRQWJB?oc=5",
       "fecha": "2026-11-02T19:28:00.000Z",
@@ -387,6 +394,13 @@
       "fecha": "2026-11-02T09:33:20.000Z",
       "fuente": "Semana on MSN",
       "imagen": "http://www.bing.com/th?id=ONUT.7Tof3oQ1BcnglYywlIOwYQ&pid=News"
+    },
+    {
+      "titulo": "Restaurantes en Colombia estarían al borde del cierre: 6.500 negocios podrían desaparecer por alza de costos y nuevos impuestos",
+      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMHlSVGVHUWFkaG52c0wwa2RLNHdJdk9EUFF5MWlDWm5oWGcyeE0wNURkMWVSemFPUmlZekFPMVlBVUE4c25wTW5kRS1NczRia0JyYS1HRUNwS25HV2l6bkpEc1FJZm13WWxTRXhEY005aHVsTGZISXRjUWhHRE1JRGlXTkhjNHFFNHZ1Ump3YkVWMVRtUGpxc0QzWWk0V2Y3NjNCckdUVnBIelAzM2ZraWhGU0FRQ1hFUFAxM0IxZVlDZk9CTE1pNUVHbHBISUJBQ0NRZjVic0ZWd2lzeUxyZ294ck1qcGFpOEtVdFVXbE1mQkFmN2FYVTZUMnQzVUnSAZoCQVVfeXFMTnhjc3U2Q2ZXSDdjWHVxZDg2Y0JqTHdoZ3dOYkJOejFfVzd3WTNBTXRXOFlubGtjUHlaXzdQSWpyUkY5QVU1dXZFb0hoTDF2RDNYVVN2S2d6dWxXT1BBOTJ0cHNiZ2dPWTdWNUxyVEE3M3NpdEVHOXRoNFB5WUpiU1Q5YUdXMUVsZFpHYVY2bUhQbnA4aHBnNWNjdjhLRUhVWHpoVHg5WGhkU3FOdlQ3akZDODl3Rl9FQW9WTGMtZDJZc05HNjd6OTllY0ZVbGpjLUYxZ0M3QWRfWjBBWFpQRnlfYWNhbHFIMUJZWVFoV1hoZTVUU3NvYy1xcnVSUjdpTmx3eDIyS2pRRzQ3QmZ4ZjRHaWkyZFJiZHRB?oc=5",
+      "fecha": "2026-11-02T08:00:00.000Z",
+      "fuente": "Infobae",
+      "imagen": ""
     },
     {
       "titulo": "Restaurantes en Colombia enfrentan crisis: cierres superar&#237;an los 6.500 y alertan por nuevos impuestos",
@@ -547,20 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUjMydWxqQWhsV1hxNGZwcnNpQlNsU2s0eXZ5Rkx1TW1oa3NmSHVpMW9EbjdaejVfVHRfVVkyX3V5OUY5RE1fWlZTelU3RTdpYmpTZGJaekRvcmFDN1RLY1E0RVBNMFptVVBEYUZ0Um5hejZwU0ZDWlFrVFk3MTNkNzRIcURYdFpaUjVSalFqZzAyeUtYZFFvM1VtV3E5ejlQbk5GRXJzdm01YkxaZUlOR0hLd3dsRjF3aF9qOHJGQzRRaWNyTDNDTmNBR25FN0luQllHVXlR?oc=5",
       "fecha": "2026-10-28T07:00:00.000Z",
       "fuente": "Revista La Barra",
-      "imagen": ""
-    },
-    {
-      "titulo": "India impulsa proyecto innovador para convertir grasa de cocina en diésel",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXlxeGlmRFFVT00yc2dwbnYxWUJYekpkZjk2SXM0NU5odUtmSUJUZS1nQXRBTGJmRllmUS1oMzNhUTd5bk1jUGgyLVZFa3hRbXRGeFZrdjFDSW43NTdtMXp6akxmZ0lJSFVoNmhIc05aOGh3Q0RQWEdFUnprdUl4ZkxtZW81TXRwNEtqbWh3a0dScmZaUm4xS1lwRmloUUM2UndRRTg0a0VhSHY1QXc?oc=5",
-      "fecha": "2026-10-27T23:19:58.000Z",
-      "fuente": "Diario del Sur",
-      "imagen": ""
-    },
-    {
-      "titulo": "La Provincia anunció un descuento del 30% en la factura de luz para hoteles, cabañas y restaurantes: Cómo inscribirse",
-      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSmxGV3hxTmV4R09ldWRhVTl6YThKQzQyYUNfVUNHTlc1VlU3YV9xOXZkRUhfTllxeWdhdTZJWjF6VERadWlaZVY4ZDVLbVRZVGI3dktqbmdTTEZjdnE1bGdiNE5vNkFzUlVLdWV4YmJVdEZRQklyNExQV25xTk5RZkoyUHV2WC1UUnl2NllqRXd4OXVTWklPYXZmYjA1c3dmUjR3LTRiWXdNNUR5cjU0NkxwTDluU1RYUGFXdzJ5TlM5N2ZraWhtVGFib0NRekU0S2lCX0twYTVWVGRSSk1ncW1lM0czY3ljZ3JyN3ZxbHE?oc=5",
-      "fecha": "2026-10-27T23:10:00.000Z",
-      "fuente": "La Angostura Digital",
       "imagen": ""
     }
   ]
