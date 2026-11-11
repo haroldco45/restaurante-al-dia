@@ -1,8 +1,29 @@
 {
-  "actualizado": "2026-11-11T07:25:38.711Z",
+  "actualizado": "2026-11-11T15:29:52.758Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Cox acoge el Focus Pyme Vega Baja 2026 para impulsar el turismo y la gastronomía utilizando la IA y el marketing digital",
+      "enlace": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNR3VpMkMtYjg3Q2hVRnFpRFJuRmpaYWxrMk8zUVJtUGp3RDBYLXpTZTBIaVZyNndfT2VXcGV3d0JGN3dFN3dyZUFESXVPSHRteWg4UWV2Vk12WWlNWkJaY21Gck9FR2R6UEhzaW9EV2VOcEZkRHBNWWVmSzNoTXZFYndsRlJWNkwyUE9wcmVoemtZMzJ3LW8yTGlCZ0s5dmo3ZXBvOVV0RUtkTXFnREJ3RnowVXpOQnZ0b2pxV0hqWUpaTjZXY2c4Z0tqQ1Z2aHlUN1ZHT2p6VTZHekZwc0FHMFBaSUxta0s0M3hibUstUVc3Q3UtOXg4NlZkaERpMDF3N1RpYU9jWlNFcjVUWU5CS0FpMS1SazBPMVdBOWttQTNldUhxNXRYTEZLZ0bSAawCQVVfeXFMTlZ2WkNWcnJkdWw0LUhYOXRmWHhIMTF1WlhGYWdOcDRxNGd0Zkw4UTkzdGdJTE5GQmpGQjRRUlo1RjN1MVhYelROUm5fR1d2QWJ6UE1vbjMyTjh4R2p4MzZYQm9tSHdVUHpkc2Vxa3JoRmdSS3l6RFJVSkhWMDBWdWxrZVJibWVIMWsyUTdmUmpCTWxHQ0JxSXFIZjJjM0ttVnlqd0E4SXpENjF5cFViXzU4NUhienNXUFM5TVVYYVUxVmlfRkEzODdEdkprdUVaWjViWFgwajltQl80ZGNQVC1tc1IyU1NqS0hOTThxbXpCTFhVbDZySkF2YndOQ0dMY1BtS2J0cVhpUWdMQmxCQ1FZa0Y1b2w1MVhWTjczUEFqZlBhM3gyLTNSMEFL?oc=5",
+      "fecha": "2026-11-11T13:17:27.000Z",
+      "fuente": "Onda Cero",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes de Barranquilla alertan por inflación del 6,3% y alza en costos de los alimentos",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkg1OWloeVh5a2RudmhRVldLNlgyUFNmWFVLNG01cURGQk5BZlVON1M0ME8zcjlNLVJHRjNER0lVOG5SNXZIamxoUFBYRzBxd2JQSFpaLXZ1Z0ZfZ3R0S3F5YU9MbEtkTGIwb0ZfTkNnNXRPSVAwVWl0TEUyZWxPN2t5NDBXWTlLQ1Z5ZnNCWF9QdHUwTFU2SGE3NjdoOXJ4RnFMdlFyTmV3dXZTcnpHZ2hldTJXQkREdVptbVdtZ3JkMVlS0gHYAUFVX3lxTE9KTkJ2dHVfblUtRHpJVU8xYk1UNlhHT3BReUg4VUVESTlHRklPX3hjTnY0UnczRlpiUnFxbGZGUUItU0x4YWxOX0JuNENzdEszRHIxU2JpczM4U1JvY1UzaE5VUXhXT2RMQjlfa212SWQ2Y1VsSER2MkNXcExkRk13azBPNTdzUjZ0QllyMmYtSFNOV0Z5SEtTc2dhUFpHeTJPbjA4N1Z6WURqRWZIOXRINTl3YkJvVzB6ZGNKZnV0R3hIOTByMVgyUEoxMDM2VEFCMVJOQy1kNQ?oc=5",
+      "fecha": "2026-11-11T09:45:15.000Z",
+      "fuente": "Caracol Radio",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes de Barranquilla alertan por inflaci&#243;n del 6,3% y alza en costos de los alimentos",
+      "enlace": "https://caracol.com.co/2026/11/11/restaurantes-de-barranquilla-alertan-por-inflacion-del-63-y-alza-en-costos-de-los-alimentos/",
+      "fecha": "2026-11-10T20:45:00.000Z",
+      "fuente": "Caracol Radio",
+      "imagen": "https://caracol.com.co/resizer/v2/7SQKCKVMTFKWTCHYOBQBVDEQQA.jpg?auth=9afa4d20e614eb7aa472db2faee8dc701cc27521218d05810faab1a0192f0f27&quality=70&width=1200&height=675&focal=612,360"
+    },
     {
       "titulo": "Toledo acoge la 52ª edición de los Premios Nacionales de Gastronomía",
       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTi1RY0VEdUNIRElQLTNZamJvQjJVTEgxV3B1UmNoXzR3ZG8yWDFjUWZ1ZmtHRmFYandtT0xZYmxIUXJhU1paNnlVZ18wdDBZRjFZYlVJRE44X2tlNVhJNWFqTFVobTQ3Y1BpYnlKdVVUbXU2VFVuWHl3TTNOVzZKUERhaHFXWVBqcUFmVlFyeVFuLXBLU0Q1VW5VTmk0c3dIckMzRFNjd27SAa4BQVVfeXFMTzZtX01hcEZQWUloV21kaTRMLTk0bTRSX28tRUZZT0JCc2pDOEVXMWdfNXc2YVhGZVJsLVdzcXN4dV9zQTBlUnBLNklyQXJScjkyenVpUnVnbkFZeWVXLV9PeElDNGhHbGQydXc4cWxhNFMtbWcta0lsaWZCdmFqdG5ZVVY5dlQxejdlV1BtZ1k0aU93TkEtSU1qX0xzUkIwMkx2aXBJcFBNTVp4UFN3?oc=5",
@@ -540,27 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Edllrend6MFRZV05TTHNDc20tc1hkZzY1T1F6aWw4QjVNOGN3cENRTU1YU2ZiYU9nQUl1UFF1Z3U4OGZDVF83YXI5SUtfN2NlSGdBQ1U4dHVfbU1jelhUSHd2STBRQXpVZkxVZw?oc=5",
       "fecha": "2026-10-29T07:00:00.000Z",
       "fuente": "Hora 13 Noticias",
-      "imagen": ""
-    },
-    {
-      "titulo": "Restaurante del Lleras en polémica por cuenta de $4 millones tomó medidas: hasta eliminaron el recargo por pago con tarjeta | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObzRUMEF2SmtFbF9xR1ZnSG1qZXBLMzhIaVZrX0laejRMbUN3QVRCdENDaWhzVnlQa081S3dsenZ6dUg1WmpsSjRMS3RYTVVESXdmQlhGSXRpVHE4VmFLXzdLQlRPWjByaTVGQnBWQ2NpMi1PTGZyN0pGRG5BYkFDa3c1TDVfQdIBiwFBVV95cUxOaXhyQ25oMU9CU2h3SVg4RGctZE5qVFladXhOOHZ3Q0JYYzFENVB5Rmt1bzdIZ2dHTWZwajI3NkJDaWZDcTRHR193cWJ3RHhZNTdQQmJRMU5SXzlTQlF5Y2Vja1hiNG1Xc2JxYVBTY1hBYlhqbTQ3TDhYa0ZiOTZPQTc0VDZVUUxIU2Fv?oc=5",
-      "fecha": "2026-10-29T07:00:00.000Z",
-      "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
-      "titulo": "Restaurante del Lleras en pol&#233;mica por cuenta de $4 millones tom&#243; medidas: hasta eliminaron el recargo por pago con tarjeta",
-      "enlace": "https://www.elcolombiano.com/medellin/parque-lleras-polemica-precios-BM42935712",
-      "fecha": "2026-10-29T06:06:00.000Z",
-      "fuente": "El Colombiano",
-      "imagen": "http://www.bing.com/th?id=ONUT.EPH9XCJudr9j6XYkaANURw&pid=News"
-    },
-    {
-      "titulo": "Frisby anota logro internacional con sus restaurantes: nueva hazaña marca el inicio de un capítulo en su empresa",
-      "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNc3c5MlRoVEdNRTFLNjFFUzYwUmRlNWpGand1OGxoNWc1QU5DUzZVdkhYaDQ0QVBhUHo4VTNEVDQ4Qk9TWFdJUUVfT09PcG9WckhLZ3M0bWYwWnZWcGE2VTNuQlNqMDBPTXZqX1RCZ3l4MU15MGtnNWxkSXRkNDk0ZjVaWTNRRm13ejlVYzdBWURzRHhlMDBMYWhWbzhaYWpWWkducmtMdEFFUUxjQS11cVZjc0hveENMTUx2ZE9WMHpndUx1XzZ2d1Y1dVVQT21NNkJldXN1SWg1Z2cwb1BPSU4zaXBORW92bjBUclJ5ZGpTMmJhYmc?oc=5",
-      "fecha": "2026-10-28T23:58:58.000Z",
-      "fuente": "RED+ Noticias",
       "imagen": ""
     }
   ]
