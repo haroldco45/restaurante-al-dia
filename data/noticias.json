@@ -1,8 +1,22 @@
 {
-  "actualizado": "2026-11-12T03:12:28.085Z",
+  "actualizado": "2026-11-12T19:23:53.191Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "En uno de sus años más difíciles, los eventos de octubre aliviaron al sector gastronómico de Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb0cyTUxfX0Z5YVFWUXN1anAxMjk3elpUNVBKM0ZadDJ1bWh1QklvVDVNcnRkMHlnYVZ5N0pyR1B6TTRVWUFQdDdycE9zRThuYWlUOEkwbXpkZ0otN0M2M0xKN21lYWk1RDdzZHhCRjdZMFc0dHdSOVhqRkFteGg0cU5OT2lXNTMxc0FIdkVWQXE4OWt5eWMxUnIwSlRaeU9qV1l1MUotZ3liX2pJYWVyc2tmUl9UWjI1U0NtdmRXRzBlLWh6Q25UMUVVOFkwTHYyNXItWmhveHQ2UjRJN2NFQVFB?oc=5",
+      "fecha": "2026-11-12T17:22:34.000Z",
+      "fuente": "Revista Semana",
+      "imagen": ""
+    },
+    {
+      "titulo": "EDC Colombia y Ritvales ayudaron a reactivar la gastronom&#237;a de Medell&#237;n",
+      "enlace": "https://www.msn.com/es-co/alimentaci%C3%B3n-y-bebidas/recetas/edc-colombia-y-ritvales-ayudaron-a-reactivar-la-gastronom%C3%ADa-de-medell%C3%ADn/ar-AA2hjv6E",
+      "fecha": "2026-11-12T08:13:32.000Z",
+      "fuente": "Publimetro on MSN",
+      "imagen": "http://www.bing.com/th?id=ONUT.1LMKjYaQ1TQfVMacPAa9cA&pid=News"
+    },
     {
       "titulo": "En Barranquilla: Restaurantes advierten presión por inflación y aumento en los costos de los alimentos",
       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSW1SUkdCbXFaazkyOENqcUp5TG96dVB4dlZGeFJJdWZKeHIzcTAwSWRObmJtSWpoU2k0Q1FBSV9kcE5qSk0zdU9tamdWQy05Q3U1SUpWcWFhOGV6TndadXcxWmVtaGd4TFNiVTZjeS1tZU5RMEZRUGN5a2hfX1JJZFVORU5MTU1SeGRucEQ1RHZYTWM3QzlicHpqaEJVRVhRRWtoMzk0MTdwVV9SVWVhUG9KbTRjZmFWUmNOM01xY2NJdkp4N3NIdzFHNFpBVWU5LTJRR1ZWTlVwdw?oc=5",
@@ -75,9 +89,9 @@
     },
     {
       "titulo": "Toledo acoge los Premios Nacionales de Gastronomía",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV3JucU1heDF5d19zT01sRHRqNlI0Nk9kUXdWcE83a2Rva3hiNnhmY1VIdUx6dHhtRlRtZUNjbWc4SlV1UFpUSzRfb3d0YmEzbVE3SHl2YjQxX3djZ1RqSFNDNE9aOHBNTWVNMG4yNW5IaXZNV2ZJVkJJMk4yUmdObkN6TlZwOVQ4aEZZRHh2c1pkRk4wQzRPVWNfQWlXVllVR0NmSG0wNWhwRUs1eUYzenZUZFIxc0toTXh6RHpyeG9KYl9fSUVLeE1GaHpRY1lqN3E4?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRTRHZUZLLXVVMHIxUmZ1YjdzZnVLZG9RQk1mVHhyU2NHUEt6UmhldGhDY0hLRmhXeWFQd01Bcjl5R05udUxQbFhScm5uTE5JR1RWQ2E3ZHJUaUNfWEJLUEFQc0UzYXRISU5IeGJhajFIWldJdjI4ZnJVN1VVVmFsTUJmOUp2dDR2VXRFckxIVXh4OEJwbHBIb19uRHYzV2tjRl9TSzZYbk1WeVBNLXNKaTZLZTVfcDVIWnB2R0JMRUJkZXlMYUxQTUhnb1BrV3Vm?oc=5",
       "fecha": "2026-11-08T18:12:02.000Z",
-      "fuente": "La Tribuna de Talavera",
+      "fuente": "La Tribuna de Toledo",
       "imagen": ""
     },
     {
@@ -166,9 +180,9 @@
     },
     {
       "titulo": "Segovia acoge EatCology, ocho jornadas abiertas para conectar gastronomía, medio ambiente y salud",
-      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZVNZaUhmdjR5RjZtbHBKQkd3TWtVQ0hGNzRxRzA1SFRablY1c0tvOVRhQmhmNy14UDUyNEo3YWpaSGJYbThkTDlmWXVUT21SaG5XQmRnempjaXJRWGt6RzB6RHN2V1hwX1doT2JMOHRpdHJuZFY3aW1yLWhDNXRHMVBsT0RyOFBMNmk5bUZhMWtaSGZhUHZfVGJUMDNYNVk1Rmc4QVNTazB6dXhPUEtoVEd3QlZNcldoRW5HSkVpT053c0Q1Q0NvWlV3R09Fb3hZZGo4TmUwSEhIV0JwZ09zRlJMczlMalhFd3JDa0lWVlNvYVk5ZzRMZDV3?oc=5",
-      "fecha": "2026-11-06T10:44:21.000Z",
-      "fuente": "Notimérica",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPalI3QWxreUdhYnUwX3ZfVExYUDlnQnpsc0N1TWFXdUh1NVVleFBNdmh1SkdaaThXTTd2OUhiY0FNYnBSM2RGd0w1LTA4YU5DM2Z5YzZDTGlPNjEzNWFETThzdmsyeGJnLWVOeE9VSThvWVA5S09nc25oTDZYQkFXenpfMkxPYlAzZmZhd0M5ZUpTaGt6eHcwMV8tYk9BR0VDdWprZ1pkNllzeU9sbllmVkh0QUlVaHl4NHVmOHJYNHJBbjV6VkFuR3NXWFo5elBiZVVndTJwY3IwOEhN?oc=5",
+      "fecha": "2026-11-06T08:00:00.000Z",
+      "fuente": "Revista Emprendedores",
       "imagen": ""
     },
     {
@@ -249,13 +263,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.uzCH50ybpmYmaWGF7ddx0Q&pid=News"
     },
     {
-      "titulo": "Restaurantes prenden las alarmas: gremio prevé que 6.500 sitios de comida cerrarían en Colombia en 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVB1dmxiaS1KLVljQzlYeVo0N0FQbVlYZHdHbGZYWXBzeTdRVEpwb2FNUE9zV0hkX2FvZy0xUUIwbWlydVh4dHo4STlRVERRRE50TDc2NlZzU3hxTjNNcFctXzVOVTVTT1VXVllhRTB2RW95UF92TE1xanNhT3JPcHFDd0dYN0ZleGxKak9fQU1ZTWNRa0M0Z001bnZOc1RITXpOUTJzcUdhWEJRWDBJ0gG0AUFVX3lxTE41Rm10eUZmNG1tc3Nlb3pvaTNkeDZRYllRd1RQaVRIQS1EdmhPaS0zdFQwbzQ0Ylk1bFlYU0lZQmRlOENYaUMwYU5RTWs0elFPSldkVEQ5LVJLaVUzSHRfNU9pR2VHdl9mb2o0UU9fbFNVTnZ1U2kycUpXYUl4Q0RWSTFyejR2Tnc1M1dfaHlDendiSUdvdThjZmNmZS1ST1MyQko1ZHB3RDlSNHFvblE4RWFLbQ?oc=5",
-      "fecha": "2026-11-04T13:27:06.000Z",
-      "fuente": "Portafolio.co",
-      "imagen": ""
-    },
-    {
       "titulo": "Más de 6.500 restaurantes cerrarían en Colombia en 2026, alerta Acoga",
       "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUZtdHlGZjRtbXNzZW96b2kzZHg2UWJZUXdUUGlUSEEtRHZoT2ktM3RUMG80NGJZNWxZWFNJWUJkZThDWGlDMGFOUU1rNHpRT0pXZFREOS1SS2lVM0h0XzVPaUdlR3ZfZm9qNFFPX2xTVU52dVNpMnFKV2FJeENEVkkxcno0dk53NTNXX2h5Q3p3YklHb3U4Y2ZjZmUtUk9TMkJKNWRwd0Q5UjRxb25ROEVhS23SAbQBQVVfeXFMTjVGbXR5RmY0bW1zc2Vvem9pM2R4NlFiWVF3VFBpVEhBLUR2aE9pLTN0VDBvNDRiWTVsWVhTSVlCZGU4Q1hpQzBhTlFNazR6UU9KV2RURDktUktpVTNIdF81T2lHZUd2X2ZvajRRT19sU1VOdnVTaTJxSldhSXhDRFZJMXJ6NHZOdzUzV19oeUN6d2JJR291OGNmY2ZlLVJPUzJCSjVkcHdEOVI0cW9uUThFYUtt?oc=5",
       "fecha": "2026-11-04T13:27:06.000Z",
@@ -270,18 +277,25 @@
       "imagen": "http://www.bing.com/th?id=ONUT.un2FmAeHEl1CZE6VgllSyg&pid=News"
     },
     {
-      "titulo": "La Plaza Circular de Murcia acoge diez días de vino, gastronomía y música |",
-      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUzBfT0JRTVRzU0g4ejk0ejYwbGxkaEJTSzc2UW9qR0R5LVpzdzN1LUxGZ1d6Sklxck5MbWppbDhpSXoza3puU0NvbVRQN0ZnS3h3M0Q5NzBLbmFTbWlfWlNFWl9kQl9Xa0JuRGFpV3hLT2FtNmVCbkRBRDNra2lWMWRPQ2tOSzFJd1V1U0NVSkVMaHdrbHBJeHJGMUM?oc=5",
-      "fecha": "2026-11-04T09:40:06.000Z",
-      "fuente": "C'mon Murcia",
-      "imagen": ""
-    },
-    {
       "titulo": "Alerta por los restaurantes en Colombia: cerrar&#237;an 6.500 en 2026 por estos costos",
       "enlace": "https://www.pulzo.com/economia/cerrarian-6500-restaurantes-ano-por-estos-costos-hay-alerta-PP5348460",
       "fecha": "2026-11-04T08:03:00.000Z",
       "fuente": "Pulzo",
       "imagen": "http://www.bing.com/th?id=ONUT.T55BA-Yv1vbgP9tJrkmN4A&pid=News"
+    },
+    {
+      "titulo": "Restaurantes prenden las alarmas: gremio prevé que 6.500 sitios de comida cerrarían en Colombia en 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVB1dmxiaS1KLVljQzlYeVo0N0FQbVlYZHdHbGZYWXBzeTdRVEpwb2FNUE9zV0hkX2FvZy0xUUIwbWlydVh4dHo4STlRVERRRE50TDc2NlZzU3hxTjNNcFctXzVOVTVTT1VXVllhRTB2RW95UF92TE1xanNhT3JPcHFDd0dYN0ZleGxKak9fQU1ZTWNRa0M0Z001bnZOc1RITXpOUTJzcUdhWEJRWDBJ0gG0AUFVX3lxTE41Rm10eUZmNG1tc3Nlb3pvaTNkeDZRYllRd1RQaVRIQS1EdmhPaS0zdFQwbzQ0Ylk1bFlYU0lZQmRlOENYaUMwYU5RTWs0elFPSldkVEQ5LVJLaVUzSHRfNU9pR2VHdl9mb2o0UU9fbFNVTnZ1U2kycUpXYUl4Q0RWSTFyejR2Tnc1M1dfaHlDendiSUdvdThjZmNmZS1ST1MyQko1ZHB3RDlSNHFvblE4RWFLbQ?oc=5",
+      "fecha": "2026-11-04T08:00:00.000Z",
+      "fuente": "Portafolio.co",
+      "imagen": ""
+    },
+    {
+      "titulo": "La Plaza Circular de Murcia acoge diez días de vino, gastronomía y música |",
+      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUzBfT0JRTVRzU0g4ejk0ejYwbGxkaEJTSzc2UW9qR0R5LVpzdzN1LUxGZ1d6Sklxck5MbWppbDhpSXoza3puU0NvbVRQN0ZnS3h3M0Q5NzBLbmFTbWlfWlNFWl9kQl9Xa0JuRGFpV3hLT2FtNmVCbkRBRDNra2lWMWRPQ2tOSzFJd1V1U0NVSkVMaHdrbHBJeHJGMUM?oc=5",
+      "fecha": "2026-11-04T08:00:00.000Z",
+      "fuente": "C'mon Murcia",
+      "imagen": ""
     },
     {
       "titulo": "Restaurantes prenden las alarmas: gremio prev&#233; que 6.500 sitios de comida cerrar&#237;an en Colombia en 2026",
@@ -368,10 +382,10 @@
       "imagen": "http://www.bing.com/th?id=ONUT.etxiFF8rOJZNU-t8MWZ0vg&pid=News"
     },
     {
-      "titulo": "Crisis en restaurantes de Colombia: 4.400 establecimientos cerrados y otros miles podr&#237;an desaparecer antes de terminar 2026",
-      "enlace": "https://portalnews.co/nacional/cierre-restaurantes-colombia-crisis-2026",
-      "fecha": "2026-11-03T08:33:00.000Z",
-      "fuente": "PortalNews",
+      "titulo": "Crisis en restaurantes de Colombia: 4.400 establecimientos cerrados y otros miles podrían desaparecer antes de terminar 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QMUdFMUZMRng1SGNCcnM3blpqNC1ObGx2Wkl0cXVZRFZJR05CT25oc0ZFSzNQT29KZGwyTW5PVjRvdHkxS3hBT2c3OUt5WjVBQ3BmT0RaUVJpZ1YzOUdLLTZrRGRUMGpXb080ekdZem90ckg4OVdyVkpraw?oc=5",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "fuente": "PortalNews \"Noticias & Actualidad 7/24\"",
       "imagen": ""
     },
     {
@@ -425,7 +439,7 @@
     },
     {
       "titulo": "Restaurantes en Colombia estarían al borde del cierre: 6.500 negocios podrían desaparecer por alza de costos y nuevos impuestos",
-      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMHlSVGVHUWFkaG52c0wwa2RLNHdJdk9EUFF5MWlDWm5oWGcyeE0wNURkMWVSemFPUmlZekFPMVlBVUE4c25wTW5kRS1NczRia0JyYS1HRUNwS25HV2l6bkpEc1FJZm13WWxTRXhEY005aHVsTGZISXRjUWhHRE1JRGlXTkhjNHFFNHZ1Ump3YkVWMVRtUGpxc0QzWWk0V2Y3NjNCckdUVnBIelAzM2ZraWhGU0FRQ1hFUFAxM0IxZVlDZk9CTE1pNUVHbHBISUJBQ0NRZjVic0ZWd2lzeUxyZ294ck1qcGFpOEtVdFVXbE1mQkFmN2FYVTZUMnQzVUnSAZoCQVVfeXFMTnhjc3U2Q2ZXSDdjWHVxZDg2Y0JqTHdoZ3dOYkJOejFfVzd3WTNBTXRXOFlubGtjUHlaXzdQSWpyUkY5QVU1dXZFb0hoTDF2RDNYVVN2S2d6dWxXT1BBOTJ0cHNiZ2dPWTdWNUxyVEE3M3NpdEVHOXRoNFB5WUpiU1Q5YUdXMUVsZFpHYVY2bUhQbnA4aHBnNWNjdjhLRUhVWHpoVHg5WGhkU3FOdlQ3akZDODl3Rl9FQW9WTGMtZDJZc05HNjd6OTllY0ZVbGpjLUYxZ0M3QWRfWjBBWFpQRnlfYWNhbHFIMUJZWVFoV1hoZTVUU3NvYy1xcnVSUjdpTmx3eDIyS2pRRzQ3QmZ4ZjRHaWkyZFJiZHRB?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMHlSVGVHUWFkaG52c0wwa2RLNHdJdk9EUFF5MWlDWm5oWGcyeE0wNURkMWVSemFPUmlZekFPMVlBVUE4c25wTW5kRS1NczRia0JyYS1HRUNwS25HV2l6bkpEc1FJZm13WWxTRXhEY005aHVsTGZISXRjUWhHRE1JRGlXTkhjNHFFNHZ1Ump3YkVWMVRtUGpxc0QzWWk0V2Y3NjNCckdUVnBIelAzM2ZraWhGU0FRQ1hFUFAxM0IxZVlDZk9CTE1pNUVHbHBISUJBQ0NRZjVic0ZWd2lzeUxyZ294ck1qcGFpOEtVdFVXbE1mQkFmN2FYVTZUMnQzVUk?oc=5",
       "fecha": "2026-11-02T08:00:00.000Z",
       "fuente": "Infobae",
       "imagen": ""
@@ -548,20 +562,6 @@
       "fecha": "2026-10-30T06:48:25.000Z",
       "fuente": "Cadena SER",
       "imagen": ""
-    },
-    {
-      "titulo": "Networking Gastronómico se llevó a cabo en Tegucigalpa con el respaldo de LAFISE",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGRJOGQ4dERZaVdVRmZBZkJGWDlvYnQzM3dwTWJTamRRZUNUdEdHNnNKLWJ3ZGo5NVdOMDF2U1J5Vk41anAzTWdNaVMtTUpWcXU3VEdRdnd1ZTB0V0xkZXJfVEttSlB4dTJPaG1ROE5PajQtYlNxd3FXMVROajloZzNLV3MweXMtalZjeVo1akJoSzlKZ3MzX3lQcmdDTDNyajZ4TFVmS0JIVUdQQS1hcnlZVVhyczBE?oc=5",
-      "fecha": "2026-10-29T17:13:00.000Z",
-      "fuente": "www.laprensa.hn",
-      "imagen": ""
-    },
-    {
-      "titulo": "Restaurantes en apuros: &#191;por qu&#233; cierran tantos locales en Medell&#237;n?",
-      "enlace": "https://qhubomedellin.com/economia-de-bolsillo/cierres-de-restaurantes-en-medellin-parque-lleras-KL42945917",
-      "fecha": "2026-10-29T12:45:00.000Z",
-      "fuente": "Qhubo Medell&#237;n",
-      "imagen": "http://www.bing.com/th?id=ONUT.XdoUmnKud-I7zAeBAKmKNw&pid=News"
     }
   ]
 }
