@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T00:36:58.301Z",
+  "actualizado": "2026-11-13T15:49:55.655Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
@@ -354,13 +354,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Cerca de 6.500 restaurantes cerrarían en Colombia durante 2026, advierte Acodres - Emisora Atlántico",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMWQ3ODFPZ2V3Q1k2Q3k1LThBM0ZCUVJmS2Q5NElqSDFta1h6MWgxR290VWd5c1loSXZXVkxrZEN2UnQzZGt4UEF4bjF5VUM4VVdGX3p0STN6Smc1OFZPd1hLa2NoTF9DVk5RTlV6dWRoUU9OZnM5TjZ2VDZCQ0VidU42RHIzSVc4MUZJY21hclhaOVNjTGh5SFZoUWhVTU9HTjRXeHZ6UDBQTldWNHQ3QTVlQ2pWeTh5VTlVc0Fn0gHGAUFVX3lxTE10QTRQUENRX0Q3ejlkSmtxSndQbjZLT0JabWhQcmVhRjN5YTZyanVkOEswcnlHR2NXTENCTjFMMXBWdTByNy1seUJSM21SMzI3ZHFuWTEwajFWbk82MTJJaXlINUR2RkQ2cjE1X3NXamxGZzZDTVdPYzVrOWJjNGh5dXowN3NZdUI4emFvX2t3MXl6SGI5WE1Qby15Wkc1SVYyel9tWTFOYmdLRm1oVlNaNm1VbU1Vdm16WTd1aWpIOVJKZjZ2dw?oc=5",
-      "fecha": "2026-11-03T13:37:01.000Z",
-      "fuente": "Emisora Atlántico 1070 AM",
-      "imagen": ""
-    },
-    {
       "titulo": "Granada acoge un encuentro gastronómico a cuatro manos entre Asturias y la Montaña Palentina",
       "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNXzlnWVdZcnNFeUFVLW5pbHNZN0RrNVN4VUV3aUtva2lGS1BUaml1LWRUYmVXN0tsM1ppR0w0emNrdjg1SHprMk84bVFOaVBFTjZQS3plTmpXY3YwN2R0emZFSklJczRzYWo3THlDUXN1czFCVnpGbFc0RG95UGh0cG9Bak9WMXBLX08yN01mYXJKaFFRZzl0TllXNkJWXzhobkloSV9JempaRzd1VGRFZFpDOFNuaXJVeHFyblJXbVlmVTVRTElMOWxkQzh6RGVXb0o4?oc=5",
       "fecha": "2026-11-03T13:24:41.000Z",
@@ -396,10 +389,17 @@
       "imagen": "http://www.bing.com/th?id=ONUT.etxiFF8rOJZNU-t8MWZ0vg&pid=News"
     },
     {
-      "titulo": "Crisis en restaurantes de Colombia: 4.400 establecimientos cerrados y otros miles podr&#237;an desaparecer antes de terminar 2026",
-      "enlace": "https://portalnews.co/nacional/cierre-restaurantes-colombia-crisis-2026",
-      "fecha": "2026-11-03T08:33:00.000Z",
-      "fuente": "PortalNews",
+      "titulo": "Crisis en restaurantes de Colombia: 4.400 establecimientos cerrados y otros miles podrían desaparecer antes de terminar 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QMUdFMUZMRng1SGNCcnM3blpqNC1ObGx2Wkl0cXVZRFZJR05CT25oc0ZFSzNQT29KZGwyTW5PVjRvdHkxS3hBT2c3OUt5WjVBQ3BmT0RaUVJpZ1YzOUdLLTZrRGRUMGpXb080ekdZem90ckg4OVdyVkpraw?oc=5",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "fuente": "PortalNews \"Noticias & Actualidad 7/24\"",
+      "imagen": ""
+    },
+    {
+      "titulo": "Cerca de 6.500 restaurantes cerrarían en Colombia durante 2026, advierte Acodres - Emisora Atlántico",
+      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMWQ3ODFPZ2V3Q1k2Q3k1LThBM0ZCUVJmS2Q5NElqSDFta1h6MWgxR290VWd5c1loSXZXVkxrZEN2UnQzZGt4UEF4bjF5VUM4VVdGX3p0STN6Smc1OFZPd1hLa2NoTF9DVk5RTlV6dWRoUU9OZnM5TjZ2VDZCQ0VidU42RHIzSVc4MUZJY21hclhaOVNjTGh5SFZoUWhVTU9HTjRXeHZ6UDBQTldWNHQ3QTVlQ2pWeTh5VTlVc0Fn0gHGAUFVX3lxTE10QTRQUENRX0Q3ejlkSmtxSndQbjZLT0JabWhQcmVhRjN5YTZyanVkOEswcnlHR2NXTENCTjFMMXBWdTByNy1seUJSM21SMzI3ZHFuWTEwajFWbk82MTJJaXlINUR2RkQ2cjE1X3NXamxGZzZDTVdPYzVrOWJjNGh5dXowN3NZdUI4emFvX2t3MXl6SGI5WE1Qby15Wkc1SVYyel9tWTFOYmdLRm1oVlNaNm1VbU1Vdm16WTd1aWpIOVJKZjZ2dw?oc=5",
+      "fecha": "2026-11-03T08:00:00.000Z",
+      "fuente": "Emisora Atlántico 1070 AM",
       "imagen": ""
     },
     {
@@ -446,23 +446,23 @@
     },
     {
       "titulo": "M&#225;s de 6.500 restaurantes cerrar&#237;an este a&#241;o en Colombia: la alerta de la asociaci&#243;n de gastronom&#237;a",
-      "enlace": "https://www.msn.com/es-co/noticias/otras/m%C3%A1s-de-6-500-restaurantes-cerrar%C3%ADan-este-a%C3%B1o-en-colombia-la-alerta-de-la-asociaci%C3%B3n-de-gastronom%C3%ADa/ar-AA2gB3jK",
+      "enlace": "https://www.msn.com/es-co/alimentaci%C3%B3n-y-bebidas/cocinas-del-mundo/m%C3%A1s-de-6-500-restaurantes-cerrar%C3%ADan-este-a%C3%B1o-en-colombia-la-alerta-de-la-asociaci%C3%B3n-de-gastronom%C3%ADa/ar-AA2gB3jK",
       "fecha": "2026-11-02T09:33:20.000Z",
       "fuente": "Semana on MSN",
       "imagen": "http://www.bing.com/th?id=ONUT.7Tof3oQ1BcnglYywlIOwYQ&pid=News"
+    },
+    {
+      "titulo": "Restaurantes en Colombia estarían al borde del cierre: 6.500 negocios podrían desaparecer por alza de costos y nuevos impuestos",
+      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMHlSVGVHUWFkaG52c0wwa2RLNHdJdk9EUFF5MWlDWm5oWGcyeE0wNURkMWVSemFPUmlZekFPMVlBVUE4c25wTW5kRS1NczRia0JyYS1HRUNwS25HV2l6bkpEc1FJZm13WWxTRXhEY005aHVsTGZISXRjUWhHRE1JRGlXTkhjNHFFNHZ1Ump3YkVWMVRtUGpxc0QzWWk0V2Y3NjNCckdUVnBIelAzM2ZraWhGU0FRQ1hFUFAxM0IxZVlDZk9CTE1pNUVHbHBISUJBQ0NRZjVic0ZWd2lzeUxyZ294ck1qcGFpOEtVdFVXbE1mQkFmN2FYVTZUMnQzVUnSAZoCQVVfeXFMTnhjc3U2Q2ZXSDdjWHVxZDg2Y0JqTHdoZ3dOYkJOejFfVzd3WTNBTXRXOFlubGtjUHlaXzdQSWpyUkY5QVU1dXZFb0hoTDF2RDNYVVN2S2d6dWxXT1BBOTJ0cHNiZ2dPWTdWNUxyVEE3M3NpdEVHOXRoNFB5WUpiU1Q5YUdXMUVsZFpHYVY2bUhQbnA4aHBnNWNjdjhLRUhVWHpoVHg5WGhkU3FOdlQ3akZDODl3Rl9FQW9WTGMtZDJZc05HNjd6OTllY0ZVbGpjLUYxZ0M3QWRfWjBBWFpQRnlfYWNhbHFIMUJZWVFoV1hoZTVUU3NvYy1xcnVSUjdpTmx3eDIyS2pRRzQ3QmZ4ZjRHaWkyZFJiZHRB?oc=5",
+      "fecha": "2026-11-02T08:00:00.000Z",
+      "fuente": "Infobae",
+      "imagen": ""
     },
     {
       "titulo": "Más de 6.500 restaurantes cerrarían este año en Colombia: la alerta de la asociación de gastronomía",
       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeE8yUWZjUzZCSDBXSmFPR1ItdXptemVhbTlZTXQwLU15Tl9USDZ2SVpKd1VSWXdOcTdxX1lFbDI0RklZblVwTUtVQ25FNXIwZzA5ZW0tdktETmhUZUJBaEdZdmllcEVzYWRiZk5tbHF6THM1RmdUUWpCRlN3ODdGNk9jOV80TDlVOUh6ejdrMWJiUndJeGNYUzUxY2FVTUNEcVJQM0ZheVZ0eF9CNzJZaDN3X2xiVUVRYXNoUUFhRnNrbjVRUmRnaUNjenFvRld3RjNVQW54aVJmQ0RYcUJn0gHkAUFVX3lxTE01SzdjcGhlZHRCUXZpa2tzVVVfSDBac3AzMjNqSmtjTEhHNzRncnJGRXlWSDZJOF9Ld3dPVnVYOHdPR0ZHWEZ2M1U1QjI5bTRyVWxrMmFMa1hjUndhREYxNkZrTi13ZllOeGF0eE13SjB2dmZtOHdRTjd6ekF0WlN6cHA4RDVfOXQ5UkxnQzBKb1lPVWRqWGswN1p2RzNsbWoyd0s5MDYzWVpWdzZrT2lRSTlsLThrZjV1cW4zdTE2X190aWJKUEFKc1lqSHYtSEcwZnVTQ3puX1h1d2Vxd2tIOXZMdQ?oc=5",
       "fecha": "2026-11-02T08:00:00.000Z",
       "fuente": "Revista Semana",
-      "imagen": ""
-    },
-    {
-      "titulo": "Restaurantes en Colombia estarían al borde del cierre: 6.500 negocios podrían desaparecer por alza de costos y nuevos impuestos",
-      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMHlSVGVHUWFkaG52c0wwa2RLNHdJdk9EUFF5MWlDWm5oWGcyeE0wNURkMWVSemFPUmlZekFPMVlBVUE4c25wTW5kRS1NczRia0JyYS1HRUNwS25HV2l6bkpEc1FJZm13WWxTRXhEY005aHVsTGZISXRjUWhHRE1JRGlXTkhjNHFFNHZ1Ump3YkVWMVRtUGpxc0QzWWk0V2Y3NjNCckdUVnBIelAzM2ZraWhGU0FRQ1hFUFAxM0IxZVlDZk9CTE1pNUVHbHBISUJBQ0NRZjVic0ZWd2lzeUxyZ294ck1qcGFpOEtVdFVXbE1mQkFmN2FYVTZUMnQzVUk?oc=5",
-      "fecha": "2026-11-02T08:00:00.000Z",
-      "fuente": "Infobae",
       "imagen": ""
     },
     {
