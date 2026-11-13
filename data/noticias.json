@@ -1,13 +1,27 @@
 {
-  "actualizado": "2026-11-12T19:23:53.191Z",
+  "actualizado": "2026-11-13T00:36:58.301Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Los eventos que impulsaron la gastronomía de Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlRSbkh5anRiRW1ibG9FZDVjMDJRc21Udk9EaUp1bGRydGJDMUJ5UVNhVjZxVkJhRnZpT3ExT0RYVFBVeS1INUpsSHFZNFRCNVVMT2VQcjdxNUpvU245dG9tbFhTX180YzF6UDJjSWJnVDktaWhFMkJXZGl1TTFiOE1jM1Z1MktpNkwxWUk1Ul9kZ3prRV90azhUVQ?oc=5",
+      "fecha": "2026-11-12T20:43:14.000Z",
+      "fuente": "Radio Tiempo",
+      "imagen": ""
+    },
     {
       "titulo": "En uno de sus años más difíciles, los eventos de octubre aliviaron al sector gastronómico de Medellín",
       "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb0cyTUxfX0Z5YVFWUXN1anAxMjk3elpUNVBKM0ZadDJ1bWh1QklvVDVNcnRkMHlnYVZ5N0pyR1B6TTRVWUFQdDdycE9zRThuYWlUOEkwbXpkZ0otN0M2M0xKN21lYWk1RDdzZHhCRjdZMFc0dHdSOVhqRkFteGg0cU5OT2lXNTMxc0FIdkVWQXE4OWt5eWMxUnIwSlRaeU9qV1l1MUotZ3liX2pJYWVyc2tmUl9UWjI1U0NtdmRXRzBlLWh6Q25UMUVVOFkwTHYyNXItWmhveHQ2UjRJN2NFQVFB?oc=5",
       "fecha": "2026-11-12T17:22:34.000Z",
       "fuente": "Revista Semana",
+      "imagen": ""
+    },
+    {
+      "titulo": "El Edificio Ensanche acoge hoy la segunda jornada de Bilbao Moda con diseño, gastronomía y humor",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnFpTURiUjJadmI5bmtQdEFuVF8yZ3VyelFxTDNnazFkWHhvNm05cTZWZWlXVVVGanJweTJXSks2TzhVV1duM0Z1cUVweTZ0ZXNRaDlWY0g3TVdjVF9DYnBWUzhtWEY4Smo0VDc5cGFKUFhXTkVYUldPZUZPN0J1SHpkRGFFSHBVcGpMTzFzSmdSU2oxcEtUcjc5SENoVUlFRVotcFRZS3h6NGJaTUw3Y0Nub3RUMHlOcnh2U2JGNlY5T1BQSi1JZkp6M2hhYTd5?oc=5",
+      "fecha": "2026-11-12T09:29:19.000Z",
+      "fuente": "BizkaiaGaur",
       "imagen": ""
     },
     {
@@ -382,10 +396,10 @@
       "imagen": "http://www.bing.com/th?id=ONUT.etxiFF8rOJZNU-t8MWZ0vg&pid=News"
     },
     {
-      "titulo": "Crisis en restaurantes de Colombia: 4.400 establecimientos cerrados y otros miles podrían desaparecer antes de terminar 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QMUdFMUZMRng1SGNCcnM3blpqNC1ObGx2Wkl0cXVZRFZJR05CT25oc0ZFSzNQT29KZGwyTW5PVjRvdHkxS3hBT2c3OUt5WjVBQ3BmT0RaUVJpZ1YzOUdLLTZrRGRUMGpXb080ekdZem90ckg4OVdyVkpraw?oc=5",
-      "fecha": "2026-11-03T08:00:00.000Z",
-      "fuente": "PortalNews \"Noticias & Actualidad 7/24\"",
+      "titulo": "Crisis en restaurantes de Colombia: 4.400 establecimientos cerrados y otros miles podr&#237;an desaparecer antes de terminar 2026",
+      "enlace": "https://portalnews.co/nacional/cierre-restaurantes-colombia-crisis-2026",
+      "fecha": "2026-11-03T08:33:00.000Z",
+      "fuente": "PortalNews",
       "imagen": ""
     },
     {
@@ -438,17 +452,17 @@
       "imagen": "http://www.bing.com/th?id=ONUT.7Tof3oQ1BcnglYywlIOwYQ&pid=News"
     },
     {
-      "titulo": "Restaurantes en Colombia estarían al borde del cierre: 6.500 negocios podrían desaparecer por alza de costos y nuevos impuestos",
-      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMHlSVGVHUWFkaG52c0wwa2RLNHdJdk9EUFF5MWlDWm5oWGcyeE0wNURkMWVSemFPUmlZekFPMVlBVUE4c25wTW5kRS1NczRia0JyYS1HRUNwS25HV2l6bkpEc1FJZm13WWxTRXhEY005aHVsTGZISXRjUWhHRE1JRGlXTkhjNHFFNHZ1Ump3YkVWMVRtUGpxc0QzWWk0V2Y3NjNCckdUVnBIelAzM2ZraWhGU0FRQ1hFUFAxM0IxZVlDZk9CTE1pNUVHbHBISUJBQ0NRZjVic0ZWd2lzeUxyZ294ck1qcGFpOEtVdFVXbE1mQkFmN2FYVTZUMnQzVUk?oc=5",
-      "fecha": "2026-11-02T08:00:00.000Z",
-      "fuente": "Infobae",
-      "imagen": ""
-    },
-    {
       "titulo": "Más de 6.500 restaurantes cerrarían este año en Colombia: la alerta de la asociación de gastronomía",
       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeE8yUWZjUzZCSDBXSmFPR1ItdXptemVhbTlZTXQwLU15Tl9USDZ2SVpKd1VSWXdOcTdxX1lFbDI0RklZblVwTUtVQ25FNXIwZzA5ZW0tdktETmhUZUJBaEdZdmllcEVzYWRiZk5tbHF6THM1RmdUUWpCRlN3ODdGNk9jOV80TDlVOUh6ejdrMWJiUndJeGNYUzUxY2FVTUNEcVJQM0ZheVZ0eF9CNzJZaDN3X2xiVUVRYXNoUUFhRnNrbjVRUmRnaUNjenFvRld3RjNVQW54aVJmQ0RYcUJn0gHkAUFVX3lxTE01SzdjcGhlZHRCUXZpa2tzVVVfSDBac3AzMjNqSmtjTEhHNzRncnJGRXlWSDZJOF9Ld3dPVnVYOHdPR0ZHWEZ2M1U1QjI5bTRyVWxrMmFMa1hjUndhREYxNkZrTi13ZllOeGF0eE13SjB2dmZtOHdRTjd6ekF0WlN6cHA4RDVfOXQ5UkxnQzBKb1lPVWRqWGswN1p2RzNsbWoyd0s5MDYzWVpWdzZrT2lRSTlsLThrZjV1cW4zdTE2X190aWJKUEFKc1lqSHYtSEcwZnVTQ3puX1h1d2Vxd2tIOXZMdQ?oc=5",
       "fecha": "2026-11-02T08:00:00.000Z",
       "fuente": "Revista Semana",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes en Colombia estarían al borde del cierre: 6.500 negocios podrían desaparecer por alza de costos y nuevos impuestos",
+      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMHlSVGVHUWFkaG52c0wwa2RLNHdJdk9EUFF5MWlDWm5oWGcyeE0wNURkMWVSemFPUmlZekFPMVlBVUE4c25wTW5kRS1NczRia0JyYS1HRUNwS25HV2l6bkpEc1FJZm13WWxTRXhEY005aHVsTGZISXRjUWhHRE1JRGlXTkhjNHFFNHZ1Ump3YkVWMVRtUGpxc0QzWWk0V2Y3NjNCckdUVnBIelAzM2ZraWhGU0FRQ1hFUFAxM0IxZVlDZk9CTE1pNUVHbHBISUJBQ0NRZjVic0ZWd2lzeUxyZ294ck1qcGFpOEtVdFVXbE1mQkFmN2FYVTZUMnQzVUk?oc=5",
+      "fecha": "2026-11-02T08:00:00.000Z",
+      "fuente": "Infobae",
       "imagen": ""
     },
     {
@@ -547,20 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTdBX0tjNjNWWlZQVU81MVJpdmU1TzNLR24tYXFXVm9lMFFrTG9ITi1rVzUzcTZkblI2QXRvbHdPSnFaTERLbGFyMHBoMlYxOXY4TEJBWHNnV0wzSWVvYzdGeE1XcHRDR3lwTk5iWl9YU3F2VlU5M0d1aVZnOG12ODhPT3hsUkhxOEFRT3ZoSWlxSzlXZmt3dUtGbkg2T2NkOG9xZkZTRkw0ZmlMa1YyNWZxRl8wcHMwN3J1Y1RWRG9Fd9IBxwFBVV95cUxQcElpbFdEODNqYS1BMkhUOUFDdnNjbF9pWEluUmlTZEhTNEJudDhyNWYwVmxGSGJ3d2RLdFFLNlBjVFRCOUJ5QmEwVFM3LTFJeFdXTVRuOHRfRVMtVHZBRDJxbW9FNnpualZuRHBsdjJObDJ5c3EzNHUtMzRDaUFXSGZhTjd1eTY3d0x3SjZCMzFHQmJfcThUbGJwMFkzcTg1N05XUFFvTG43SU9yZWg3VkdWSEwzdDN3em56bm5wZW40Wmk4eFBR?oc=5",
       "fecha": "2026-10-30T07:00:00.000Z",
       "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
-      "titulo": "La luz al final del túnel: reflexiones sobre el sector gastronómico",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTdBX0tjNjNWWlZQVU81MVJpdmU1TzNLR24tYXFXVm9lMFFrTG9ITi1rVzUzcTZkblI2QXRvbHdPSnFaTERLbGFyMHBoMlYxOXY4TEJBWHNnV0wzSWVvYzdGeE1XcHRDR3lwTk5iWl9YU3F2VlU5M0d1aVZnOG12ODhPT3hsUkhxOEFRT3ZoSWlxSzlXZmt3dUtGbkg2T2NkOG9xZkZTRkw0ZmlMa1YyNWZxRl8wcHMwN3J1Y1RWRG9Fdw?oc=5",
-      "fecha": "2026-10-30T07:00:00.000Z",
-      "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
-      "titulo": "Fuente Palmera acoge su V Feria Gastronómica con una veintena de tapas para probar",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUUJFdC1iTVhTUUhFd29qWkVaVnpnMnQ4NDczZzhVUzFzak9NcGp4b1BOVGdOUENsZ3NMblpGMmNHNzN6Vkpyb092Q2Z0WEQtVlF6NXhCa3RfQ25rRjgzSXpQaFpaQVdZNnBqNFhmaUN0YUU0S2g0YjFDT1VSeU13aUhITG10Qk16U1dPZHZFZTJqcW5TTnA1eDdTMnhlR2lMUG0tTUNHMHZKZndWWmtXWHFlN0taZzZNSk14MkpSY011MFdROGJlYXBRMEZYSWN0QzdYb9IB6AFBVV95cUxPc1N2N29Wa2cyOTJQcmxsaWhKQ1RfSDZsZFB1VkVLQ3F2dnJjaWVRbURHelloNHlpNGk0Y2otc2NVQlVheHhoOUFUWkxlVmFyT2J0N2RtTExwQjJxdDh5N1JLVkhFZ1ROYlJwb2tqTndJREZFY3JtZkxjQTdzTmQxVFN4V3ZPMXBaUmJPc2VaVXQ4VG1ScTU2RnhuSldKWjU4bURjTEdCMFVoMHBKazhkd2ZWR2g2bHdhZzVWemJsZFoxUFZDNnFGYTdaYnREaFREOVlkV2lrdVp3UFBzUVdVUDYxaHZXWUFP?oc=5",
-      "fecha": "2026-10-30T06:48:25.000Z",
-      "fuente": "Cadena SER",
       "imagen": ""
     }
   ]
