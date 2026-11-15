@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-11-15T19:00:05.450Z",
+  "actualizado": "2026-11-15T23:21:09.115Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Uribe pide bajar los impuestos y alerta por cierres de restaurantes en Colombia",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTm10b0dGeWJyMUx0eGFxNXBZRlFIanVpdGR2aEVHRjdMbnJZamF1cWhmQXVZV2JkWm5SR0xyVFV0VDNqcENHQUJUQW5kOXBOUkxlOWNWSnF4djNMSlR0NnRNc1JTaUs2VXJIZlhsM3NUbEh4bWRiU1l5QWdUcXd0SnBCa0E4eVdQT0dVV0ZTTjhGTWhMWDNZaHlwTG1wZnRYMzZ6eExEWExITTRKTnVWRXc1bVB5bmtmUTBTSQ?oc=5",
+      "fecha": "2026-11-15T22:45:47.000Z",
+      "fuente": "Diario La Libertad",
+      "imagen": ""
+    },
     {
       "titulo": "Castellón acoge un showcooking de cocina japonesa con el arroz como protagonista",
       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdEdzSTk4OW94TTVKbDE4ZmhkdlVEZnVuUDcxRFEzdnFEVEZvVExvbGZuXzl3SEp3aGFmalo0VFZ6dnpjeFRwLUJabnJDMEh0QUJlVzNIZkRDdDIzUnlHdWw0RGJUTmVZUXZlN0NBckFYM2ZIZDhHWmhJN0U5bkNGRVFQZm13U1ZvRXdycDVOdHpWbko4YUtDZGRaTzhoTWw3TlNlMjdqZjUwd014NmNZU3BPOGhsaVE?oc=5",
@@ -40,9 +47,9 @@
     },
     {
       "titulo": "El Edificio Ensanche acoge hoy la segunda jornada de Bilbao Moda con diseño, gastronomía y humor",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdnFpTURiUjJadmI5bmtQdEFuVF8yZ3VyelFxTDNnazFkWHhvNm05cTZWZWlXVVVGanJweTJXSks2TzhVV1duM0Z1cUVweTZ0ZXNRaDlWY0g3TVdjVF9DYnBWUzhtWEY4Smo0VDc5cGFKUFhXTkVYUldPZUZPN0J1SHpkRGFFSHBVcGpMTzFzSmdSU2oxcEtUcjc5SENoVUlFRVotcFRZS3h6NGJaTUw3Y0Nub3RUMHlOcnh2U2JGNlY5T1BQSi1JZkp6M2hhYTd5?oc=5",
-      "fecha": "2026-11-12T09:29:19.000Z",
-      "fuente": "BizkaiaGaur",
+      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNHJ3QW9YY1lmank4YWI1SXlCRHhObDZfVTVEeFowY0ZOQTZLaFR3T25JMGZYOUdzRzNnTS01WEZZbmQ0WlJwb3NwbHM1WS0xNFZEZzFmeVRsZ0xOYi1HTGhoTjlxeDhRWDlCbmRBTzJGSkpUUjlOd0ItdGxEa3JUMGNtSnFKOThRSU8ycFdFemZxbXhLVWNid1U5Zi03MzlNNGlFSlhmUVdscVpjZ3NyTTI5ajJHZVAyejVlQmpFVzBIOGYtcWtpVEVJOU5NaWVrR3pSblphYw?oc=5",
+      "fecha": "2026-11-12T12:58:43.000Z",
+      "fuente": "Anoticias",
       "imagen": ""
     },
     {
@@ -119,7 +126,7 @@
       "titulo": "Almagro acoge el segundo Congreso Internacional de Gastronomía Cinegética",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjdXZEJlOGFlVmlUc20wVmZWVVluVWJtV2k4TVUyR1pWeWs0T2RtZVNDQzlienJSRzZCb2U1Nml1Z182VnQ3ZEdieFNhN1hqaWFidG40NC1wUkJ4RndNa0lRYmVydVBHenpHcDVCOENxS2xFUVNGTE43eDJucFhyX2dNc1dtdFRVRmZMUGlndkRxN1hiN1QwX0FTeGRkSk51OG1ta0w4aFhKM0RtZ0tRR2wxQ01UNDAwc2tjRWxHS0JlTFlWTmQw?oc=5",
       "fecha": "2026-11-10T15:05:00.000Z",
-      "fuente": "cmmedia.es",
+      "fuente": "CMMedia",
       "imagen": ""
     },
     {
@@ -554,13 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0k4aFdmV0h2NlFFV19rZkxaR1ZfdTQ0MDA5YkhvakZjUzVOQTYyN2RVYVBndmdzUTk1Z0RQNm5qdVBOYkR1NFk1SHM2VXJjVGI1WjNxWDVLUWpJUzRoRDRjakFtaWN0dGplbFJQbjR2M3ZpR3RmS2RaX3pMd21YWHZPZlR0ZjFibC1QZHBldlVFVWdzQUZGVFRDQ0xqbUx0T0JlYmdSUkhiblZUVFlWcg?oc=5",
       "fecha": "2026-10-31T07:00:00.000Z",
       "fuente": "MiOriente",
-      "imagen": ""
-    },
-    {
-      "titulo": "Una bandeja paisa saldrá más cara con la reforma tributaria de Abelardo de la Espriella, según Daniel Quintero: “La Patria Milagro”",
-      "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSzRqSWRxM0NWMnNXX1Q4MWFaSW9jRmNVWFdHUk9CcURjZ3kxRE9ENFY4bEw5OFhiVUlucmF3RTlsWURScUtjNkFtSS00bGV1MFNqanI2cktXZXotU2JaeTl6TnhqdFo0RFhZalVfTElWRXN3bGlGTkZvRHBKRGxSRkczN1dPZXVmTU9ObGcwUEtoVDlTVDJselY5UmlOVVVsTjFsQ1dtcjZpTGJKWHpfMWZBVW9JQk8xYmdJYV9PNTlNdzQwengxRlpucUZ2LVFmcHJTWEJyRVFwUy1OUDZKYzc2N3A0Y2F2ZjhVOGY5cDU1WkxiWTR4RHM5NHFpcnFuRFHSAZwCQVVfeXFMUGZyU1pmd1dFSTFIenU5Ulc2dTgtaGg3S3FqSXJ3UzhMWTJhRjJMSEhjbHJ5V0ZGdWRhTGxfZlNuQXQ5RkZJYTV6NVFDekN1aV9aSVZzYkQxUTJmUnIyMTk1M19kUnh0T3hSMDE5ZTRtXzdEc0FiZ2p5UlB6ekN4TzFQUVlwN1VwaFRrRmRBREZVSmZFRTBKZVpoM2o3WmU2UVFrc1I5Q2lyemV1Q01WUHViMXRUNlZpaHJYbzRhQlQ4WWt5T3dOdW00UWQ0RkZGcFh6c2FvZHFyYzN6NkNITEJ6YUQtVlBkNnRfSmVxbGVFdVNWYnJQY19ubjZDNTktdnZNWU8tMjdwejBFTEVSeXQwTzdRNGtaekhZcEc?oc=5",
-      "fecha": "2026-10-31T07:00:00.000Z",
-      "fuente": "Infobae",
       "imagen": ""
     }
   ]
