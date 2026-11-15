@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T12:07:27.230Z",
+  "actualizado": "2026-11-15T19:00:05.450Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
@@ -15,6 +15,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHhDeXZIbmE2a3ZYQ1BSbm1zMVhYUUNybmZDdDZkWUJ4VDRtQ1A5QWhhM3F0ZVQ1bWJuSjJLLTd2QjNlNk44bmFSSVZ2d3F4TWtjblJ3MUVtYlR4TzFYc2JFalhTdGU3aV9RdFpXVHJjNXdKNWlwV3oyNjBlSWFVSDFIdXF4WGZkcEdPeTZiVVF3QmdVZ0F4UDF5OUNPNEtnazRCeEpYRlRGU0k0U1lBSERQVVlaME1sajlHRV8wQQ?oc=5",
       "fecha": "2026-11-13T15:28:00.000Z",
       "fuente": "Revista La Barra",
+      "imagen": ""
+    },
+    {
+      "titulo": "El antojo paisa se digitaliza: la comida rápida crece 21% en Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZejJmVnRLTXgwckhYbkpxbGJMVXc1bXlUNlV6cVlpNTN0VVppYXBOZDg3WjR2b29HOVhyc1BPcFdBQU9LcmZnNE1GMXY5bTQ0QUxUcnN3SEt2R2stS0VCSHpDQXppci1qMW5Qa184UFgzSnpjbjROTA?oc=5",
+      "fecha": "2026-11-13T10:20:57.000Z",
+      "fuente": "ABC Economía",
       "imagen": ""
     },
     {
@@ -249,17 +256,17 @@
       "imagen": ""
     },
     {
-      "titulo": "Presto tiene nuevo dueño: Nutresa asumió su control de manera oficial y aclaró qué pasará con el futuro de los restaurantes que están cerrados",
-      "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNTktGTkFfT09vd2ZyY09ROXcyejNuWDV5c0hVRTdMZkUwZ3c4YlFwZldQUXVIRDh3a2djYUZzUG5oNS01X3BYS3BjNVZMT2N1VnZoSDBtRDhYWmhrQ3dYRTJpRlZJWC1tV2toTy0wMVpSMEVQelJTREo3djV4dl8yWXJtSW9pVEpNSkdVWjBBdHZqN3VwekljWGE2Q2NwNXlVUzk0U2tIc01FVWFfaHRaV1luVTE1MWlJZGREdzRfamhNcEFTWnNEOW50Wk1DeGVLcVNkUTFfeHFfU1pMTmU3ckxDYVMtaDZWUmZqY0Jsdmk1dE8zejhFdExXYVdGaVBGUU5VVVB6Y2M4RllQb0xnZEM3djbSAa8CQVVfeXFMUEVFTmJQaWFtbm4wMnBmOXU3VGt5cHVYVDQ0TEszNXhQWC1HWWktNENpQkxVVG5WaVA2VGZlalNkMjd3R2JLNk1BM0hOenREd1gxQmNHek5vSFBObkY1OEJGQXp2b29Md05ZcS1kc1lWeHlkZVFra2tnRVlnUDQzSmN5V0RsZU56UDQxeEFpcVRfZUJtanEtcGQ3ZVVGOGdvdjhLa0MwVXdhVEJ6NVp0YVZqMDctdFFGS01IZHRyd3puZzk5bmhrSnFjdzl4Y2dwMDNkVzMxdmNoOE85NjdYaUJOYm1rWnpCSHptc2N2a2VLMnpaSDQxY1JrZUVnb0ZYT1JUQ3NTNVZXT3J0ZVJHM1BYNU5XbXVKU3Y1cDc1ZTZEUlo1a1VqVXR5bUY3ZWpR?oc=5",
-      "fecha": "2026-11-05T08:00:00.000Z",
-      "fuente": "Infobae",
-      "imagen": ""
-    },
-    {
       "titulo": "La gastronomía peruana llega al corazón de Valencia: Torrent acoge a nueve chefs y empresarios en los premios Inkazteca 2026",
       "enlace": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOaVFZWDJIdUVNdURQOUZJYUxXWEdrdGRZS1gtYWptVDBhbDBETktCM0ZDcXJZdV83TUo5RzFGMEhNWjBWb29kbXkyRUJnVzNGLTBYMm9FeEY5RzJaZkRKQ052eEdhTTBoQ3lTLTRKbXZaQjlobERfcmZwel8tRW1WdW1VVHhaYWdKVFp3bVVNb2tFM1NXSnVlcm1VX3YtSzFCYTdrUUl2eGlHVjFoY2Y1X09sZEMyUXZCUk5PWldOZ29tMW9xdnlXUVpleVFQVE5KTVFFa3AwVWVSbFFhUWdscFFoWVdOMVZKT1BKV0lYRHdyeXdVUXpKWmdZTGVlaWtKQmFud0FkMHJMNHl4VmJSelJCQkNrU2lzdWlvTQ?oc=5",
       "fecha": "2026-11-05T08:00:00.000Z",
       "fuente": "València Extra",
+      "imagen": ""
+    },
+    {
+      "titulo": "Presto tiene nuevo dueño: Nutresa asumió su control de manera oficial y aclaró qué pasará con el futuro de los restaurantes que están cerrados",
+      "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNTktGTkFfT09vd2ZyY09ROXcyejNuWDV5c0hVRTdMZkUwZ3c4YlFwZldQUXVIRDh3a2djYUZzUG5oNS01X3BYS3BjNVZMT2N1VnZoSDBtRDhYWmhrQ3dYRTJpRlZJWC1tV2toTy0wMVpSMEVQelJTREo3djV4dl8yWXJtSW9pVEpNSkdVWjBBdHZqN3VwekljWGE2Q2NwNXlVUzk0U2tIc01FVWFfaHRaV1luVTE1MWlJZGREdzRfamhNcEFTWnNEOW50Wk1DeGVLcVNkUTFfeHFfU1pMTmU3ckxDYVMtaDZWUmZqY0Jsdmk1dE8zejhFdExXYVdGaVBGUU5VVVB6Y2M4RllQb0xnZEM3djbSAa8CQVVfeXFMUEVFTmJQaWFtbm4wMnBmOXU3VGt5cHVYVDQ0TEszNXhQWC1HWWktNENpQkxVVG5WaVA2VGZlalNkMjd3R2JLNk1BM0hOenREd1gxQmNHek5vSFBObkY1OEJGQXp2b29Md05ZcS1kc1lWeHlkZVFra2tnRVlnUDQzSmN5V0RsZU56UDQxeEFpcVRfZUJtanEtcGQ3ZVVGOGdvdjhLa0MwVXdhVEJ6NVp0YVZqMDctdFFGS01IZHRyd3puZzk5bmhrSnFjdzl4Y2dwMDNkVzMxdmNoOE85NjdYaUJOYm1rWnpCSHptc2N2a2VLMnpaSDQxY1JrZUVnb0ZYT1JUQ3NTNVZXT3J0ZVJHM1BYNU5XbXVKU3Y1cDc1ZTZEUlo1a1VqVXR5bUY3ZWpR?oc=5",
+      "fecha": "2026-11-05T08:00:00.000Z",
+      "fuente": "Infobae",
       "imagen": ""
     },
     {
@@ -338,6 +345,13 @@
       "fecha": "2026-11-04T05:53:00.000Z",
       "fuente": "Portafolio",
       "imagen": "http://www.bing.com/th?id=ONUT.UGkwRrIXS1AnPxuh_y2vbQ&pid=News"
+    },
+    {
+      "titulo": "Jerez acoge el Comité de Acción Territorial de la Federación Española del Vino en el año de la Capitalidad Gastronómica",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMmJDdlpwRVBuT3U0UjNGOWhvNUdNbGdFNmV0ZmtSaE9qT1g0NUI0ZzJWdVBXaFR2QUlNeUtPVVhoVnhrbzNCdXNRcFU4cFVZeE85QnNWZVo5SnlHZHZqRlF1Z0JOYTF6ampIYlY2dGZKd1VxZDVSRWxtYXJXNGdGNWpQdFFuSUYxS0pFOGtrSTNScnBSYjItb2d2dWNhTFBpdXVUU3JNWWJZMlVlT0hUVWZ4cjhhc051Zl90NkFkalJIdTNSUUljaV93Nk1MSERjNTdaT1lsVW8wdw?oc=5",
+      "fecha": "2026-11-03T21:27:31.000Z",
+      "fuente": "- JerezNews",
+      "imagen": ""
     },
     {
       "titulo": "Karol G trae su restaurante a México y esto es todo lo que debes saber",
@@ -467,7 +481,7 @@
     },
     {
       "titulo": "M&#225;s de 6.500 restaurantes cerrar&#237;an este a&#241;o en Colombia: la alerta de la asociaci&#243;n de gastronom&#237;a",
-      "enlace": "https://www.msn.com/es-co/noticias/otras/m%C3%A1s-de-6500-restaurantes-cerrar%C3%ADan-este-a%C3%B1o-en-colombia-la-alerta-de-la-asociaci%C3%B3n-de-gastronom%C3%ADa/ar-AA2gB3jK",
+      "enlace": "https://www.msn.com/es-co/noticias/otras/m%C3%A1s-de-6-500-restaurantes-cerrar%C3%ADan-este-a%C3%B1o-en-colombia-la-alerta-de-la-asociaci%C3%B3n-de-gastronom%C3%ADa/ar-AA2gB3jK",
       "fecha": "2026-11-02T09:33:20.000Z",
       "fuente": "Semana on MSN",
       "imagen": "http://www.bing.com/th?id=ONUT.7Tof3oQ1BcnglYywlIOwYQ&pid=News"
@@ -547,20 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSzRqSWRxM0NWMnNXX1Q4MWFaSW9jRmNVWFdHUk9CcURjZ3kxRE9ENFY4bEw5OFhiVUlucmF3RTlsWURScUtjNkFtSS00bGV1MFNqanI2cktXZXotU2JaeTl6TnhqdFo0RFhZalVfTElWRXN3bGlGTkZvRHBKRGxSRkczN1dPZXVmTU9ObGcwUEtoVDlTVDJselY5UmlOVVVsTjFsQ1dtcjZpTGJKWHpfMWZBVW9JQk8xYmdJYV9PNTlNdzQwengxRlpucUZ2LVFmcHJTWEJyRVFwUy1OUDZKYzc2N3A0Y2F2ZjhVOGY5cDU1WkxiWTR4RHM5NHFpcnFuRFHSAZwCQVVfeXFMUGZyU1pmd1dFSTFIenU5Ulc2dTgtaGg3S3FqSXJ3UzhMWTJhRjJMSEhjbHJ5V0ZGdWRhTGxfZlNuQXQ5RkZJYTV6NVFDekN1aV9aSVZzYkQxUTJmUnIyMTk1M19kUnh0T3hSMDE5ZTRtXzdEc0FiZ2p5UlB6ekN4TzFQUVlwN1VwaFRrRmRBREZVSmZFRTBKZVpoM2o3WmU2UVFrc1I5Q2lyemV1Q01WUHViMXRUNlZpaHJYbzRhQlQ4WWt5T3dOdW00UWQ0RkZGcFh6c2FvZHFyYzN6NkNITEJ6YUQtVlBkNnRfSmVxbGVFdVNWYnJQY19ubjZDNTktdnZNWU8tMjdwejBFTEVSeXQwTzdRNGtaekhZcEc?oc=5",
       "fecha": "2026-10-31T07:00:00.000Z",
       "fuente": "Infobae",
-      "imagen": ""
-    },
-    {
-      "titulo": "Los bares y restaurantes que hacen parte de la ruta coctelera del Día de Muertos",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNS1uSXFuRC1wYk4zbDI5bXhQdHI2VEJQNEJSeHJDSkE4dmk0Z0ZYMko5QnM2UXVqRmFJcENWQ2cwdXVlTExCa2RpNE1NM3hkWHVMOHNwV1VMcDRUWUFMbDJRT0JFTDBhbkFrN2wxSVBhZXUtWVVGYUdhN2dNWFU5bW9IWU5GdTF6SU1fUmxpT2czaU5pU3g3eWhfQzNtZ1JTSExUYlNkSlJ3M1puR2RaRFNXdVJtTUVpbWpGN9IBvAFBVV95cUxOdTRLNHlTbmFaUm5Ha0pWc1UyZTF1TmtOOG1FNGJkdVBfeEgwSUJrU1VvbUV0TnVSc1M4dk5EMnQ1aHhiLVo0WVdLZmRuUFVxRlV6Sm1jU3RONlVkSHpPeUZZbTNrLWU4aEpVTTZtMUhrM1JGUXl5V2xPQy1mRjVKMEd1bDUySUw2VVp2akd6WmQxSDc4RmM4aHN5Q3Z5b3NKUl9HMi1ZVTFUek42UVRPSU95ajVJZEJxck1Kcg?oc=5",
-      "fecha": "2026-10-31T05:01:42.000Z",
-      "fuente": "LaRepublica.co",
-      "imagen": ""
-    },
-    {
-      "titulo": "Datos Paula: tres nuevos restaurantes para disfrutar el fin de semana",
-      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQblZVa3VOcGlTb211NGVZSTM1bmtHaldfRmJyZl9oNTRGb2FHNnJkNkExa3R5REoyTXI0R3NTN3RWZHRfMDJtYnBjbWUteXFSYkhvWmF4bEZCLUp2Ylc0Wk10XzIxQ2hpLUlSb2NlVkppRlZOckNFazU5RnBoYnNlcW5VbnZScnRMMmwwX0xOSXMwMWF4ZEJXSUJkWVpPbmJ1NGFjYjZWcEg0MVRqX3FTZDEwVFZ6a3RpTllSQWFtYjJQbkZDQ0Rja3A4dEpnVkXSAc8BQVVfeXFMUG5WVWt1TnBpU29tdTRlWUkzNW5rR2pXX0ZicmZfaDU0Rm9hRzZyZDZBMWt0eURKMk1yNEdzUzd0VmR0XzAybWJwY21lLXlxUmJIb1pheGxGQi1KdmJXNFpNdF8yMUNoaS1JUm9jZVZKaUZWTnJDRWs1OUZwaGJzZXFuVW52UnJ0TDJsMF9MTklzMDFheGRCV0lCZFlaT25idTRhY2I2VnBINDFUal9xU2QxMFRWemt0aU5ZUkFhbWIyUG5GQ0NEY2twOHRKZ1ZF?oc=5",
-      "fecha": "2026-10-30T15:02:49.000Z",
-      "fuente": "La Tercera",
       "imagen": ""
     }
   ]
