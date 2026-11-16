@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T23:21:09.115Z",
+  "actualizado": "2026-11-16T02:55:28.419Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
@@ -235,13 +235,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Presto pasó este jueves a manos de Grupo Nutresa y reabrirá 12 restaurantes en Colombia",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjB2NU85MkRuOUNHQVpZXzVrYUJaMWh4Y3hRTzE5WGpmX3VtM3I2aU9idFJZRURPaUtmOEhPdUZCbFJnU0U4V183WVAwTVdXemZ5VGVVVkw0WDAyOFNMWVR1emlpR3JMOTU4UWJGdTZEU3NuNzloZHZjeElRcUVoQ2lDYUp2SDRYVGU2MlkxcmhlcDNNc2JqWTRkTnRKYmptQmlXd1VsWG12OGFZTDhz?oc=5",
-      "fecha": "2026-11-05T23:24:28.000Z",
-      "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
       "titulo": "Vila-real acoge la 24.ª edición del Desencuentro Enemigo con tres días de música, gastronomía y amistad",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3o3aGQ1S0MxRjZzQkNDdzFQTUFUVWhKMk9SZF90YXYwU05JNXNFeEI0NTh3dTJOM29oTUw0RmZIOHpfUmhNVkZOVkdEMG0wLU1KSm1oeU02cTc5S2dIZ01kN3NISE9wS29WWnl1U3VPQnJ5RGNRMHpwOTFpcVk4Uld0YVcxVE5MWW5GbkRJYVhYUkhZenBKNl9kaDRCUzc5cnN1Mmt1RUpQM3RZNXJ4NVpPSFFxT0lmejY0ZjFfUW1aYnVT?oc=5",
       "fecha": "2026-11-05T17:30:38.000Z",
@@ -260,6 +253,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xUC1YSFRUblYwYjM3YUxId29aaWtVRExTUnpGVWRpOWJleU9oX2FEeFhJRGo5dWJ2aGJYTEhnVmw3cC1XcXdPN1lnNmpZQmpTaHRTVnZlWm0wRmpjRE5vZDJxV0dnaUljckdiRXZB?oc=5",
       "fecha": "2026-11-05T08:07:48.000Z",
       "fuente": "Diario del Huila",
+      "imagen": ""
+    },
+    {
+      "titulo": "Presto pasó este jueves a manos de Grupo Nutresa y reabrirá 12 restaurantes en Colombia | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjB2NU85MkRuOUNHQVpZXzVrYUJaMWh4Y3hRTzE5WGpmX3VtM3I2aU9idFJZRURPaUtmOEhPdUZCbFJnU0U4V183WVAwTVdXemZ5VGVVVkw0WDAyOFNMWVR1emlpR3JMOTU4UWJGdTZEU3NuNzloZHZjeElRcUVoQ2lDYUp2SDRYVGU2MlkxcmhlcDNNc2JqWTRkTnRKYmptQmlXd1VsWG12OGFZTDhz0gG0AUFVX3lxTE1lNnN0UldZSkEwalVCTmV5dXEzZW9Kd3o0aDhvZW5QQVYwcUp6OFpQR0gtUEN1U2toSFlLa2JaVThjNXZKWWZsYTQ1UEE0TjV6NnRzbnN2YlhQa3JUMGVMb0NjekJqdDZoVjFOX21vTjVwVEViaHdObl9tYVdRX0VXaXJWX2dfUE9jMjhsUlB0NnU5bG10eVRRUTIyR0dCRE5Qbmtjcy1acHRveXRtZGo3a3N2RA?oc=5",
+      "fecha": "2026-11-05T08:00:00.000Z",
+      "fuente": "El Colombiano",
       "imagen": ""
     },
     {
@@ -431,10 +431,10 @@
       "imagen": "http://www.bing.com/th?id=ONUT.etxiFF8rOJZNU-t8MWZ0vg&pid=News"
     },
     {
-      "titulo": "Crisis en restaurantes de Colombia: 4.400 establecimientos cerrados y otros miles podrían desaparecer antes de terminar 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QMUdFMUZMRng1SGNCcnM3blpqNC1ObGx2Wkl0cXVZRFZJR05CT25oc0ZFSzNQT29KZGwyTW5PVjRvdHkxS3hBT2c3OUt5WjVBQ3BmT0RaUVJpZ1YzOUdLLTZrRGRUMGpXb080ekdZem90ckg4OVdyVkpraw?oc=5",
-      "fecha": "2026-11-03T08:00:00.000Z",
-      "fuente": "PortalNews \"Noticias & Actualidad 7/24\"",
+      "titulo": "Crisis en restaurantes de Colombia: 4.400 establecimientos cerrados y otros miles podr&#237;an desaparecer antes de terminar 2026",
+      "enlace": "https://portalnews.co/nacional/cierre-restaurantes-colombia-crisis-2026",
+      "fecha": "2026-11-03T08:33:00.000Z",
+      "fuente": "PortalNews",
       "imagen": ""
     },
     {
@@ -488,7 +488,7 @@
     },
     {
       "titulo": "M&#225;s de 6.500 restaurantes cerrar&#237;an este a&#241;o en Colombia: la alerta de la asociaci&#243;n de gastronom&#237;a",
-      "enlace": "https://www.msn.com/es-co/noticias/otras/m%C3%A1s-de-6-500-restaurantes-cerrar%C3%ADan-este-a%C3%B1o-en-colombia-la-alerta-de-la-asociaci%C3%B3n-de-gastronom%C3%ADa/ar-AA2gB3jK",
+      "enlace": "https://www.msn.com/es-co/noticias/otras/m%C3%A1s-de-6500-restaurantes-cerrar%C3%ADan-este-a%C3%B1o-en-colombia-la-alerta-de-la-asociaci%C3%B3n-de-gastronom%C3%ADa/ar-AA2gB3jK",
       "fecha": "2026-11-02T09:33:20.000Z",
       "fuente": "Semana on MSN",
       "imagen": "http://www.bing.com/th?id=ONUT.7Tof3oQ1BcnglYywlIOwYQ&pid=News"
