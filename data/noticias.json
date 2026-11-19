@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-11-18T19:28:08.110Z",
+  "actualizado": "2026-11-19T01:21:28.208Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Impuesto a los licores genera descontento en empresarios: bares alertan cierres",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNzVLYzFiQjM3Ty1haGtjSm9VMlZzM2NnSmxyZ1hFdEw2bTI4TlJQR3RJZ2lFM0g4c2ZhZ042cFVYT2lzUFhPamxmNXN5aTRENG5HbkRkdHhzbnJ0RWM1UXM1THk4OHA3QmtFRENfcUx1eVFNN25WckV0Y1hpTVhHX1pHSEdERnJ6ZFdBNi1sdXV0WXZpcnduS2ZYT0NTeE1QMGVEUGRUczVYNTlBSkVDRDVDY9IBxwFBVV95cUxOSUVFSkg5cGNDam1XTE5OTDViVUI1M09taFlwUDVpcTV3TG1Ic0E4LTJaUmRjaGF6SGpYY1E5djZ2OFhiX3pIdlZ3RzNKa3A2QlRObXZlVVhtN21Uei12a2RhblM5T0xtUUxfNWNpNE4yOThwNkdOUFhnV3BJYXppZ05IQ1N6LS01MkhXUDVxcXVkakRwczQwM1pWSXk0cER1LWtUMGhpNlhRZHhVR1dETkNESGdhZ2ZGLV9MZzV6ZmZqWWppLWZV?oc=5",
+      "fecha": "2026-11-19T00:04:45.000Z",
+      "fuente": "Caracol Radio",
+      "imagen": ""
+    },
     {
       "titulo": "La faceta de Karol G como empresaria gastronómica y sus favoritos en la mesa: “Soy catadora profesional de bandejas paisas”",
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnNzRmFDcWduYjJpb0RYZW14czgzUU9LNkd0eWozZ1NkWklONXFNVzRCdTlNOW1Ea0lkLTFCQmpRZ0RHY3QzV2dKa2pqNVRvUzkwSEpQVk5UclQ0QTVCZF9leGo1enpMOEFUOXl2ZmtYTXJtRWRvTkJ4ZzVzU0w0bkQ5Y0p1SlBSRDBzM21uVmdOMi1jWXpkVWFFaXRuQzgtSl9HcS0wTVlVWmR3RDVyLQ?oc=5",
@@ -60,18 +67,18 @@
       "imagen": ""
     },
     {
-      "titulo": "Acodr&#233;s pide incluir la gastronom&#237;a en la agenda de competitividad de Ibagu&#233;",
-      "enlace": "https://vozdelpueblo920am.com/acodres-pide-incluir-la-gastronomia-en-la-agenda-de-competitividad-de-ibague/",
-      "fecha": "2026-11-16T16:00:00.000Z",
-      "fuente": "La Voz Del Pueblo - 920AM",
-      "imagen": "http://www.bing.com/th?id=ONUT.p8FFzE9Bt6mpttBjsdN-wQ&pid=News"
-    },
-    {
       "titulo": "EDC Colombia gener&#243; US$ 37,1 millones para Medell&#237;n mientras la gastronom&#237;a acumula 4.400 cierres en el pa&#237;s",
       "enlace": "https://www.infobae.com/colombia/2026/11/17/edc-colombia-genero-us-371-millones-para-medellin-mientras-la-gastronomia-acumula-4400-cierres-en-el-pais/",
       "fecha": "2026-11-16T16:00:00.000Z",
       "fuente": "Infobae",
       "imagen": "http://www.bing.com/th?id=ONUT.K3lOj1CjbbqgSEPc19HriQ&pid=News"
+    },
+    {
+      "titulo": "Acodr&#233;s pide incluir la gastronom&#237;a en la agenda de competitividad de Ibagu&#233;",
+      "enlace": "https://vozdelpueblo920am.com/acodres-pide-incluir-la-gastronomia-en-la-agenda-de-competitividad-de-ibague/",
+      "fecha": "2026-11-16T16:00:00.000Z",
+      "fuente": "La Voz Del Pueblo - 920AM",
+      "imagen": "http://www.bing.com/th?id=ONUT.p8FFzE9Bt6mpttBjsdN-wQ&pid=News"
     },
     {
       "titulo": "La sede Antonio Machado acoge el Seminario Gastronomía del Olivar",
@@ -113,6 +120,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWEo5b3cxWFdGQWFXMkZZOWs3LXlkQ1JQYTVreDAtSVp0UVdTQzY3M3V1QlFHQ2hkU3FSeE9Pb2hwdVIycTE1ellVWFBVTWRQdVMtZl9YblpwckRmb283emJjWXc3cGtpMjM2c0s3YmtocVFhMEpMMzBTQ1otOHVOZnRRSW9lMUV5YUJqekhhVGphN3FBb2lNVDdtY3I4VXA1VFoxeGZsaFAtUkxGVGhsOExRNXBMNnlBc1cxdjBfZ1NUSFRrU1BibNIBzgFBVV95cUxQRHhYVzFqYzlDMW9HZDRCbUx1RlloSjRfMzc4d0t0ZjExSXJYSF90c0gyYWN1VW5vYmdkNFM0UVNWRWl3Y1JOTm5Wb24ySE5XVGtGYXR0VjRvRTRTRHNZZldxRHBtRzVhN29Rejk0cHZqeHFTSzhacWU2LU90ZXpZYmRyUEFYRVBGSWlBellqdVBHM3lvZzRVWkRIZGFBeUlwa0NYVVhqT2ZQVFdGQ3I5Q0Q3aVdOVGNRTE1GSHJnOW5LTDZDV0VsRGJSY0FIUQ?oc=5",
       "fecha": "2026-11-14T11:27:21.000Z",
       "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
+      "titulo": "Alpina acompaña a Premios La Barra 2026 en el reconocimiento a la gastronomía colombiana",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZHBDbDhMSktVamh1T21XaXFkU2QzaTdYTmFMQkNBTHZSWVkyVElKS0oxUThDZzNuTmc0VGZZcWhTWUxmRXU1eWF3NW5Sb2lmcHp6OVVuYTNHaUJpR25jX0NVLXF2bUU0c2hjZTJXUEU0akJudWRpNjZMV09NWjBEZEJNMmhhbnVLVXpFX0N2emVxTzZIRGxDNFBpN1ZaRmFDWUVMRlc3VFVJVXVvb0dJSnU1V2lQUkJlbzAwVXV1VXF0ZUpFczFfU1hlek9xYjczOGhpVA?oc=5",
+      "fecha": "2026-11-13T19:51:00.000Z",
+      "fuente": "Revista La Barra",
       "imagen": ""
     },
     {
@@ -221,13 +235,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Toledo acoge la entrega de los Premios Nacionales de Gastronomía 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeC1VcGFwSUJKRWIyNFpjTURmT012OEY0bUEyTHVBT1pKcFJxOHhfcDEzYXN0OGxJOVpIWGt6aEluWlQ4RzZRSlZ5b241MHJrclBQbldvZUNKcHZOd2Q2czZ2NkZQTHJuZnd4eVRLSzdLWFVVVmN3ekpqb0lpdnRoal81Q3paaE1UTl9fZ19GWHhORmg5bzRYbHF0UlJNdE9EYkE?oc=5",
-      "fecha": "2026-11-10T18:36:30.000Z",
-      "fuente": "Informativos.Net",
-      "imagen": ""
-    },
-    {
       "titulo": "Carne de caza: Almagro reúne a la alta cocina para llevarla a casa",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbFNHRW1QTmJ3aFZicHR2MTlka1JQaER0eW90QkFMR1lCOTcxa3gtM3lMNEdRcGFEeHFkbXU4RGJGR3F6SVVUN1BxdWtodzhEZXlXWjl2eGJGRkhuZWhtbHhoZkRGQlFkVm4xR3ZGX2hlR3Y5TGZoMk5wckVZRmw2QUp1ZnZybEpVMXRxWUZZemxJYzc0TVloLTlXdHo4cElRc1ZhQ2V1aXlJMGJqVmNwLVkyR21JTll4T3J6UdIBwgFBVV95cUxOWl9MT3FSN3Y5WWdid0w0cExxaVdwY2gwX0ptSE9hLWJVSzFEbTBwWGhDWVpxNUtCYmlObGZaVEZYb0Y4MnpSN1lXU29GTmo2ay1EZktSZmEwN3pKQUJIOE0zNDRwM2NqZjk1bzUyT3ZaY21MUGtfeXJQeGg3cm9Qc2ZERF9VR1NCdFFtc0MyWC05Y0kzYUVtTkhRcXRWQThPV3Qxbl9IOUR0YkN5ZGpMS0RGUEhXUGZ3cUdTVzZVcnhpdw?oc=5",
       "fecha": "2026-11-10T16:22:04.000Z",
@@ -239,6 +246,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjdXZEJlOGFlVmlUc20wVmZWVVluVWJtV2k4TVUyR1pWeWs0T2RtZVNDQzlienJSRzZCb2U1Nml1Z182VnQ3ZEdieFNhN1hqaWFidG40NC1wUkJ4RndNa0lRYmVydVBHenpHcDVCOENxS2xFUVNGTE43eDJucFhyX2dNc1dtdFRVRmZMUGlndkRxN1hiN1QwX0FTeGRkSk51OG1ta0w4aFhKM0RtZ0tRR2wxQ01UNDAwc2tjRWxHS0JlTFlWTmQw?oc=5",
       "fecha": "2026-11-10T15:05:00.000Z",
       "fuente": "cmmedia.es",
+      "imagen": ""
+    },
+    {
+      "titulo": "Toledo acoge la entrega de los Premios Nacionales de Gastronomía 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeC1VcGFwSUJKRWIyNFpjTURmT012OEY0bUEyTHVBT1pKcFJxOHhfcDEzYXN0OGxJOVpIWGt6aEluWlQ4RzZRSlZ5b241MHJrclBQbldvZUNKcHZOd2Q2czZ2NkZQTHJuZnd4eVRLSzdLWFVVVmN3ekpqb0lpdnRoal81Q3paaE1UTl9fZ19GWHhORmg5bzRYbHF0UlJNdE9EYkE?oc=5",
+      "fecha": "2026-11-10T08:00:00.000Z",
+      "fuente": "Informativos.Net",
       "imagen": ""
     },
     {
@@ -361,6 +375,13 @@
       "imagen": ""
     },
     {
+      "titulo": "Presto pasó este jueves a manos de Grupo Nutresa y reabrirá 12 restaurantes en Colombia | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjB2NU85MkRuOUNHQVpZXzVrYUJaMWh4Y3hRTzE5WGpmX3VtM3I2aU9idFJZRURPaUtmOEhPdUZCbFJnU0U4V183WVAwTVdXemZ5VGVVVkw0WDAyOFNMWVR1emlpR3JMOTU4UWJGdTZEU3NuNzloZHZjeElRcUVoQ2lDYUp2SDRYVGU2MlkxcmhlcDNNc2JqWTRkTnRKYmptQmlXd1VsWG12OGFZTDhz0gG0AUFVX3lxTE1lNnN0UldZSkEwalVCTmV5dXEzZW9Kd3o0aDhvZW5QQVYwcUp6OFpQR0gtUEN1U2toSFlLa2JaVThjNXZKWWZsYTQ1UEE0TjV6NnRzbnN2YlhQa3JUMGVMb0NjekJqdDZoVjFOX21vTjVwVEViaHdObl9tYVdRX0VXaXJWX2dfUE9jMjhsUlB0NnU5bG10eVRRUTIyR0dCRE5Qbmtjcy1acHRveXRtZGo3a3N2RA?oc=5",
+      "fecha": "2026-11-05T08:00:00.000Z",
+      "fuente": "El Colombiano",
+      "imagen": ""
+    },
+    {
       "titulo": "La gastronomía peruana llega al corazón de Valencia: Torrent acoge a nueve chefs y empresarios en los premios Inkazteca 2026",
       "enlace": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOaVFZWDJIdUVNdURQOUZJYUxXWEdrdGRZS1gtYWptVDBhbDBETktCM0ZDcXJZdV83TUo5RzFGMEhNWjBWb29kbXkyRUJnVzNGLTBYMm9FeEY5RzJaZkRKQ052eEdhTTBoQ3lTLTRKbXZaQjlobERfcmZwel8tRW1WdW1VVHhaYWdKVFp3bVVNb2tFM1NXSnVlcm1VX3YtSzFCYTdrUUl2eGlHVjFoY2Y1X09sZEMyUXZCUk5PWldOZ29tMW9xdnlXUVpleVFQVE5KTVFFa3AwVWVSbFFhUWdscFFoWVdOMVZKT1BKV0lYRHdyeXdVUXpKWmdZTGVlaWtKQmFud0FkMHJMNHl4VmJSelJCQkNrU2lzdWlvTQ?oc=5",
       "fecha": "2026-11-05T08:00:00.000Z",
@@ -382,13 +403,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Presto pasó este jueves a manos de Grupo Nutresa y reabrirá 12 restaurantes en Colombia | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjB2NU85MkRuOUNHQVpZXzVrYUJaMWh4Y3hRTzE5WGpmX3VtM3I2aU9idFJZRURPaUtmOEhPdUZCbFJnU0U4V183WVAwTVdXemZ5VGVVVkw0WDAyOFNMWVR1emlpR3JMOTU4UWJGdTZEU3NuNzloZHZjeElRcUVoQ2lDYUp2SDRYVGU2MlkxcmhlcDNNc2JqWTRkTnRKYmptQmlXd1VsWG12OGFZTDhz0gG0AUFVX3lxTE1lNnN0UldZSkEwalVCTmV5dXEzZW9Kd3o0aDhvZW5QQVYwcUp6OFpQR0gtUEN1U2toSFlLa2JaVThjNXZKWWZsYTQ1UEE0TjV6NnRzbnN2YlhQa3JUMGVMb0NjekJqdDZoVjFOX21vTjVwVEViaHdObl9tYVdRX0VXaXJWX2dfUE9jMjhsUlB0NnU5bG10eVRRUTIyR0dCRE5Qbmtjcy1acHRveXRtZGo3a3N2RA?oc=5",
-      "fecha": "2026-11-05T08:00:00.000Z",
-      "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
       "titulo": "Presto tiene nuevo dueño: Nutresa asumió su control de manera oficial y aclaró qué pasará con el futuro de los restaurantes que están cerrados",
       "enlace": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNTktGTkFfT09vd2ZyY09ROXcyejNuWDV5c0hVRTdMZkUwZ3c4YlFwZldQUXVIRDh3a2djYUZzUG5oNS01X3BYS3BjNVZMT2N1VnZoSDBtRDhYWmhrQ3dYRTJpRlZJWC1tV2toTy0wMVpSMEVQelJTREo3djV4dl8yWXJtSW9pVEpNSkdVWjBBdHZqN3VwekljWGE2Q2NwNXlVUzk0U2tIc01FVWFfaHRaV1luVTE1MWlJZGREdzRfamhNcEFTWnNEOW50Wk1DeGVLcVNkUTFfeHFfU1pMTmU3ckxDYVMtaDZWUmZqY0Jsdmk1dE8zejhFdExXYVdGaVBGUU5VVVB6Y2M4RllQb0xnZEM3djbSAa8CQVVfeXFMUEVFTmJQaWFtbm4wMnBmOXU3VGt5cHVYVDQ0TEszNXhQWC1HWWktNENpQkxVVG5WaVA2VGZlalNkMjd3R2JLNk1BM0hOenREd1gxQmNHek5vSFBObkY1OEJGQXp2b29Md05ZcS1kc1lWeHlkZVFra2tnRVlnUDQzSmN5V0RsZU56UDQxeEFpcVRfZUJtanEtcGQ3ZVVGOGdvdjhLa0MwVXdhVEJ6NVp0YVZqMDctdFFGS01IZHRyd3puZzk5bmhrSnFjdzl4Y2dwMDNkVzMxdmNoOE85NjdYaUJOYm1rWnpCSHptc2N2a2VLMnpaSDQxY1JrZUVnb0ZYT1JUQ3NTNVZXT3J0ZVJHM1BYNU5XbXVKU3Y1cDc1ZTZEUlo1a1VqVXR5bUY3ZWpR?oc=5",
       "fecha": "2026-11-05T08:00:00.000Z",
@@ -407,13 +421,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGN4Y3NIdFFhX2ZfWXhOYUdYU3UyR2Y0WGNxdGJzamEtRzFVYzhuQ2d0dTRHU01JTUdiaVRNVVZuekhfMEo3TDFxUTVIODJ4cXA1eHlJQU44b0hEX19YdHRnUHZEVUdYN0JsSldYOGExdlpsMW1DVW15MmkzMmtSQi1vajBzcTFDZ2UtMU0ybHZhdEx5SHZKREhyWjYzcXo5REJkcy1IUQ?oc=5",
       "fecha": "2026-11-04T22:32:59.000Z",
       "fuente": "Diario del Cauca",
-      "imagen": ""
-    },
-    {
-      "titulo": "Airbnb dejó más de $3 billones a la economía de Medellín en 2025: restaurantes, los más beneficiados",
-      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUjJIaUpBOVdQZFVfS01peHhxeGRNSjJyZ2tMc0ROaTBXYnNibVgyWHQ3OTk4UHMxMmphMEF0c3NVRGtveXRoemVTejhXTU1TVHVhR2FkVURFNERGMnRBMF8zek1FajF1T1Rva3lPSVpBdDN3X0hDUHV3V0tiMlZmMTB1cDQydVNwZTEyN2o5XzdzSFAtTmZIRURjTmV3c0VnNk1TUU1kZWxPRFNIcWlsb1NjX3J1eFk5NFNERkJCQWFvYkRUNzdGSng4d2pfS1FLUk1Jdk1PaXdPTGVYNnNz0gHsAUFVX3lxTE4zRzdzLURqb2FBRlJ3S3pXUVNRcnltZndqX29Oclh1NVRTdEozcGgwamtIT0trQmZjVkV4NU1KVkhIN3RUcUZMNkpGTGNwTk1fUS1jV0NsWUljYkhEMDR1aUg2ZF9ENmpEaWE2WnIxUDV3OFZxc2VNN0JleWlKeWxOWktRWnd0N09uSHdCMFBjODJ4SVYzNkJ3VVlaM0dJb0Y5RDkteVhUaXNNNjExeV9yN0IwRmM3b3l2ejAwMTdwN0ZaV1JYTERpV3NfQTJuRkxvaGNlYk9GU0FyeEN5TW90UmxEYjlia3RSZDZu?oc=5",
-      "fecha": "2026-11-04T20:31:52.000Z",
-      "fuente": "Blu Radio",
       "imagen": ""
     },
     {
@@ -445,8 +452,15 @@
       "imagen": "http://www.bing.com/th?id=ONUT.T55BA-Yv1vbgP9tJrkmN4A&pid=News"
     },
     {
+      "titulo": "Airbnb dejó más de $3 billones a la economía de Medellín en 2025: restaurantes, los más beneficiados",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUjJIaUpBOVdQZFVfS01peHhxeGRNSjJyZ2tMc0ROaTBXYnNibVgyWHQ3OTk4UHMxMmphMEF0c3NVRGtveXRoemVTejhXTU1TVHVhR2FkVURFNERGMnRBMF8zek1FajF1T1Rva3lPSVpBdDN3X0hDUHV3V0tiMlZmMTB1cDQydVNwZTEyN2o5XzdzSFAtTmZIRURjTmV3c0VnNk1TUU1kZWxPRFNIcWlsb1NjX3J1eFk5NFNERkJCQWFvYkRUNzdGSng4d2pfS1FLUk1Jdk1PaXdPTGVYNnNz0gHsAUFVX3lxTE4zRzdzLURqb2FBRlJ3S3pXUVNRcnltZndqX29Oclh1NVRTdEozcGgwamtIT0trQmZjVkV4NU1KVkhIN3RUcUZMNkpGTGNwTk1fUS1jV0NsWUljYkhEMDR1aUg2ZF9ENmpEaWE2WnIxUDV3OFZxc2VNN0JleWlKeWxOWktRWnd0N09uSHdCMFBjODJ4SVYzNkJ3VVlaM0dJb0Y5RDkteVhUaXNNNjExeV9yN0IwRmM3b3l2ejAwMTdwN0ZaV1JYTERpV3NfQTJuRkxvaGNlYk9GU0FyeEN5TW90UmxEYjlia3RSZDZu?oc=5",
+      "fecha": "2026-11-04T08:00:00.000Z",
+      "fuente": "Blu Radio",
+      "imagen": ""
+    },
+    {
       "titulo": "Restaurantes prenden las alarmas: gremio prevé que 6.500 sitios de comida cerrarían en Colombia en 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVB1dmxiaS1KLVljQzlYeVo0N0FQbVlYZHdHbGZYWXBzeTdRVEpwb2FNUE9zV0hkX2FvZy0xUUIwbWlydVh4dHo4STlRVERRRE50TDc2NlZzU3hxTjNNcFctXzVOVTVTT1VXVllhRTB2RW95UF92TE1xanNhT3JPcHFDd0dYN0ZleGxKak9fQU1ZTWNRa0M0Z001bnZOc1RITXpOUTJzcUdhWEJRWDBJ0gG0AUFVX3lxTE41Rm10eUZmNG1tc3Nlb3pvaTNkeDZRYllRd1RQaVRIQS1EdmhPaS0zdFQwbzQ0Ylk1bFlYU0lZQmRlOENYaUMwYU5RTWs0elFPSldkVEQ5LVJLaVUzSHRfNU9pR2VHdl9mb2o0UU9fbFNVTnZ1U2kycUpXYUl4Q0RWSTFyejR2Tnc1M1dfaHlDendiSUdvdThjZmNmZS1ST1MyQko1ZHB3RDlSNHFvblE4RWFLbQ?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVB1dmxiaS1KLVljQzlYeVo0N0FQbVlYZHdHbGZYWXBzeTdRVEpwb2FNUE9zV0hkX2FvZy0xUUIwbWlydVh4dHo4STlRVERRRE50TDc2NlZzU3hxTjNNcFctXzVOVTVTT1VXVllhRTB2RW95UF92TE1xanNhT3JPcHFDd0dYN0ZleGxKak9fQU1ZTWNRa0M0Z001bnZOc1RITXpOUTJzcUdhWEJRWDBJ?oc=5",
       "fecha": "2026-11-04T08:00:00.000Z",
       "fuente": "Portafolio.co",
       "imagen": ""
@@ -548,20 +562,6 @@
       "fecha": "2026-11-03T10:01:00.000Z",
       "fuente": "Diario del Sur",
       "imagen": "http://www.bing.com/th?id=ONUT.etxiFF8rOJZNU-t8MWZ0vg&pid=News"
-    },
-    {
-      "titulo": "Crisis en restaurantes de Colombia: 4.400 establecimientos cerrados y otros miles podr&#237;an desaparecer antes de terminar 2026",
-      "enlace": "https://portalnews.co/nacional/cierre-restaurantes-colombia-crisis-2026",
-      "fecha": "2026-11-03T08:33:00.000Z",
-      "fuente": "PortalNews",
-      "imagen": ""
-    },
-    {
-      "titulo": "Medellín impulsa nuevos retos para la seguridad de hoteles y restaurantes",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjdYV1lLRF9xaDlpY29USURIbXROcGgwUUQxNXBEVzYxSEs5Z2dTcnRibnNjM2NFM0JZZS0wYXZlTUcxZV9hbzFlV3hoSTY0aVlMUTRvbmFlS0w1OW1idkxNQ3E2bzJqZWJZd0syNHZFRUxnSnN5aTlwb01fUWlRUjczQi1yRGMtbkFSRl9RUXlWMFg2ZEFjY0U4RW5YMENybklOQ0V4V1o5MDNr?oc=5",
-      "fecha": "2026-11-03T08:00:00.000Z",
-      "fuente": "La Gran Noticia",
-      "imagen": ""
     }
   ]
 }
