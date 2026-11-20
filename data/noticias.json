@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-11-20T07:56:41.140Z",
+  "actualizado": "2026-11-20T16:40:28.579Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Eventos masivos impulsan en 28 % las ventas de restaurantes en Medellín, en medio de una ola de cierres del sector",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZXloQ0ZYSmh6ZEdwdkEwMDFySmdOOXBmV0MtY2JGdWdnWUlSSm11VlU1SERhQXktRmI2SndUSTlJYkxaTDJNWDZQVldRck9DMWVkWkpGZy0yQl9qUU15ZWJnV2NtRVYyX0M2TUUxbV9fNFN3NWVoaXdDT3dQWEU3WVZ2aVVlbjMzSnVsRFRHQVp4Y3k5NUx2dURHQTdrZGJfNDM3VFpVUmZrWEM2bEMyWjRBOWJSVG1hTTFhOVdEbHVBWHFWUThDWlRtdld1Y19ESUhHYkticS1BMk9CS3E4WFVFZlE?oc=5",
+      "fecha": "2026-11-20T16:20:26.000Z",
+      "fuente": "Forbes Colombia",
+      "imagen": ""
+    },
     {
       "titulo": "Can Saura acoge una jornada sobre la cocina señorial de Menorca y su influencia en la gastronomía actual",
       "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd2I5YUk3SnFIallZZG9Bc1Z5LWhtOU93VWZaYk5kd2hRVXlCZWllbUN5WlFhZVYxbXB0M2hfWWNJdExiY1ZJSzhfYUhxTEJJdzNtSS05T1lSWjZhME52Tld5TzRfU24wOWEtRUJOOE04LVlRSkk4NmdhOHB1MVlaQWJqZkJyOWZPNkpZODBOSk55NXhJbjlRcW1XME5fRW80NjhHUHRWMk5vSGZyYVdLaVRzYXJ3NHVpRVJoX0QzS1N1QWxkcjg3eVdQR1RGSFJCc0FpT0JHRUI3UnNtcFIybXFNSQ?oc=5",
@@ -230,7 +237,7 @@
     {
       "titulo": "Restaurantes de Barranquilla alertan por inflación del 6,3% y alza en costos de los alimentos",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkg1OWloeVh5a2RudmhRVldLNlgyUFNmWFVLNG01cURGQk5BZlVON1M0ME8zcjlNLVJHRjNER0lVOG5SNXZIamxoUFBYRzBxd2JQSFpaLXZ1Z0ZfZ3R0S3F5YU9MbEtkTGIwb0ZfTkNnNXRPSVAwVWl0TEUyZWxPN2t5NDBXWTlLQ1Z5ZnNCWF9QdHUwTFU2SGE3NjdoOXJ4RnFMdlFyTmV3dXZTcnpHZ2hldTJXQkREdVptbVdtZ3JkMVlS0gHYAUFVX3lxTE9KTkJ2dHVfblUtRHpJVU8xYk1UNlhHT3BReUg4VUVESTlHRklPX3hjTnY0UnczRlpiUnFxbGZGUUItU0x4YWxOX0JuNENzdEszRHIxU2JpczM4U1JvY1UzaE5VUXhXT2RMQjlfa212SWQ2Y1VsSER2MkNXcExkRk13azBPNTdzUjZ0QllyMmYtSFNOV0Z5SEtTc2dhUFpHeTJPbjA4N1Z6WURqRWZIOXRINTl3YkJvVzB6ZGNKZnV0R3hIOTByMVgyUEoxMDM2VEFCMVJOQy1kNQ?oc=5",
-      "fecha": "2026-11-11T09:45:15.000Z",
+      "fecha": "2026-11-11T08:00:00.000Z",
       "fuente": "Caracol Radio",
       "imagen": ""
     },
@@ -272,7 +279,7 @@
     {
       "titulo": "Toledo acoge los Premios Nacionales de Gastronomía 2026",
       "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnc5X2hCMFlFdWx4aTlwYVZxcjZVZUZWYlBnVUg4ZnpuS20tdmRDSjdiRlUwczdoMmRyZ1dDV21hUGFKQlh6a2xoX2NEN25SSjltLU9SazFoSXUtODloRXI3ZVdPaFpLM2xxa3h5QTJLenBmaW5BQzVRVVlKaUs3MEo5Q3J4VlV0TU1uUzlJXzN5MmJmVkxFYjUxSmFXTXZqLXo4?oc=5",
-      "fecha": "2026-11-09T14:35:15.000Z",
+      "fecha": "2026-11-09T08:00:00.000Z",
       "fuente": "RTVE.es",
       "imagen": ""
     },
@@ -487,6 +494,13 @@
       "imagen": ""
     },
     {
+      "titulo": "Sector gastronómico certificó a más de 1.200 personas",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHYwMHRpVUZ5czVQUDRqMWF2aGVxOVJmcXVPVG1WNmlreDZiTzEyMFhOMUppWUc4TWRnRDZhX09kQ0puNXpXaExuUkRKcnE0WjRMeGIxMlhWclFoVWVnS1R3Qm5rclZ2Zzl5UXJNZ1hTVVd3U2hLX0hVbEVMY2Z1N0szVG9DSEZfcEUxSXdUMTJnTlREOXlta1pYRUR3WlVTRkVTeDlGUWY5MlBpT1JiX0tB?oc=5",
+      "fecha": "2026-11-04T08:00:00.000Z",
+      "fuente": "hoy diario del magdalena",
+      "imagen": ""
+    },
+    {
       "titulo": "La Plaza Circular de Murcia acoge diez días de vino, gastronomía y música |",
       "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUzBfT0JRTVRzU0g4ejk0ejYwbGxkaEJTSzc2UW9qR0R5LVpzdzN1LUxGZ1d6Sklxck5MbWppbDhpSXoza3puU0NvbVRQN0ZnS3h3M0Q5NzBLbmFTbWlfWlNFWl9kQl9Xa0JuRGFpV3hLT2FtNmVCbkRBRDNra2lWMWRPQ2tOSzFJd1V1U0NVSkVMaHdrbHBJeHJGMUM?oc=5",
       "fecha": "2026-11-04T08:00:00.000Z",
@@ -547,20 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNXzlnWVdZcnNFeUFVLW5pbHNZN0RrNVN4VUV3aUtva2lGS1BUaml1LWRUYmVXN0tsM1ppR0w0emNrdjg1SHprMk84bVFOaVBFTjZQS3plTmpXY3YwN2R0emZFSklJczRzYWo3THlDUXN1czFCVnpGbFc0RG95UGh0cG9Bak9WMXBLX08yN01mYXJKaFFRZzl0TllXNkJWXzhobkloSV9JempaRzd1VGRFZFpDOFNuaXJVeHFyblJXbVlmVTVRTElMOWxkQzh6RGVXb0o4?oc=5",
       "fecha": "2026-11-03T13:24:41.000Z",
       "fuente": "Granada es Noticia",
-      "imagen": ""
-    },
-    {
-      "titulo": "Restaurantes en Colombia: 6.500 negocios podrían cerrar en 2026 por el aumento de costos",
-      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2NZdjYxYzhPbWE4SFMxenpYWTRaeWUybjQzVnd5S0RoUUdBTHVrQ1FlWXBJVFU2ekxtbVVuM01ibTBDV1hDbW9UNGkxcmZlRzA1emJhazNMaVcwUjM1Ym1ndEZnb09rZFBvNWdGaXFucXhUMWhsNkh6SVdzNElBTWxCYkFQcFk5LXRtT010X2JGU2ZwcDRTQnF5OHNIU3JKSGR0MFF0WGQxd25mcTRBR0wxVTdwdVYzd2pzenFxMlYxZDQ?oc=5",
-      "fecha": "2026-11-03T13:06:08.000Z",
-      "fuente": "El Diario - Noticias Pereira, Colombia y el Mundo",
-      "imagen": ""
-    },
-    {
-      "titulo": "Ciutadella acoge \"Gastrochef Menorca\" para celebrar el legado de la Región Europea de Gastronomía",
-      "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeFFmQmhMSnRvWDhreVY0MVRpc21SN3BuUHlUa3FzblJPNGxjVktsbXlCMjE1TnVNaF9rM29QTE1fc0FqZDlwRHRmZnRrYWx6ZG9VUzR0S0ttMVEzUTlsbWxZOG5QQ2hldU1NV1hrWm5HODJVbFRQZTVpOXg1SmM0ZzNDbnNvd2NmalMzalJUUk1Pbm1MMlp1TEFNWGVza2VtUkRpa2h2MUhrXzBoNW1RUWdFN1ZwaUxJVllTYWpTcXhLazhGdzRZN1ZEeGd2V0FORG0xNkRkR3VwNERlcmYtQVhUVC1MQV9jNlNNMFhrellCWnZWTllaODN6YldpUjJsUFlaLUNn0gGGAkFVX3lxTE1yZXBFRm56YkdNMkZYLWp5cGpmVHdIUG1XZTNxZk9IRUtJYlA1YUQ3X2xBdDRHWkRzVmVEMDNCMmthTjV6cUg3NlpxSVZZQmkwOWpvVTItSjNRaDRsc2Z4YXpuUFdwOUVmMzFERHJPOWh5Z25IYUdrMTVtam5JYlJLWVBNVGZNZGpQOEVLbGFEejZOXzZyNVR6NzZXTl9jMzhwLXVLVlI0dFlTT3doUHYzdnFKMHFsZkotb1NGR0RFdDJ0V2tkR2tQaG5hajgtZ2liR1U5MVYzanNhRzhlckVwZ1RXMkVrSklsZVJrVWs2QXlBMm1IWXhUakQyUS1yTVpxcDdiUVE?oc=5",
-      "fecha": "2026-11-03T12:47:10.000Z",
-      "fuente": "Onda Cero",
       "imagen": ""
     }
   ]
