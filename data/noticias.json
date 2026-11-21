@@ -1,8 +1,15 @@
 {
-  "actualizado": "2026-11-21T03:40:36.459Z",
+  "actualizado": "2026-11-21T11:57:01.636Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "Jaén acoge la final del XI Concurso de Recetas 'Gastronomía Rural Jiennense' el 24 de noviembre",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0N5VDYyYXpPenFoTGYxbER4YnhSUTVra0RSMXFOZnZzY0dkMnRGajI1c2d2LV9Vc3dReU5NbkphbmNiNk4xWjU2UUk4aklpMlBQR2lXdXdJOERPUHlyV3htM19leDNQb05CMXZoaFNqcEU3ZU5FWHN0eXdQWVNNUlo5dGNoNXRYTlRydzJXdEJJenFxT2I2WG9ldldocWxtLW41RWxnYUdpc2E3LTlNUFpYQ3BqZllLaEVJWFpmTQ?oc=5",
+      "fecha": "2026-11-21T09:47:09.000Z",
+      "fuente": "www.elcomentariodigital.com",
+      "imagen": ""
+    },
     {
       "titulo": "Miramar acoge su gran Fira de Sant Andreu con tres días de gastronomía, artesanía, oficios, música, coches clásicos y espectáculos",
       "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42WUNPSjdkNExrX0lPTnR4d3BCbWhOcnBiOEpqd0daaWg5VjJHMF9lTmFhMFdhWlFSSmZHd0ZzUjlMdEI4SzduSkpJYkYzdDdxaVRLUFlwWmRLSzRrVVNmTTFlcFV4eGtYQTJkVWt3MG1QMW9wbEhVRUFYVQ?oc=5",
@@ -165,13 +172,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Al mal tiempo buenos sabores: reflexiones sobre el sector gastronómico | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWEo5b3cxWFdGQWFXMkZZOWs3LXlkQ1JQYTVreDAtSVp0UVdTQzY3M3V1QlFHQ2hkU3FSeE9Pb2hwdVIycTE1ellVWFBVTWRQdVMtZl9YblpwckRmb283emJjWXc3cGtpMjM2c0s3YmtocVFhMEpMMzBTQ1otOHVOZnRRSW9lMUV5YUJqekhhVGphN3FBb2lNVDdtY3I4VXA1VFoxeGZsaFAtUkxGVGhsOExRNXBMNnlBc1cxdjBfZ1NUSFRrU1BibNIBzgFBVV95cUxQRHhYVzFqYzlDMW9HZDRCbUx1RlloSjRfMzc4d0t0ZjExSXJYSF90c0gyYWN1VW5vYmdkNFM0UVNWRWl3Y1JOTm5Wb24ySE5XVGtGYXR0VjRvRTRTRHNZZldxRHBtRzVhN29Rejk0cHZqeHFTSzhacWU2LU90ZXpZYmRyUEFYRVBGSWlBellqdVBHM3lvZzRVWkRIZGFBeUlwa0NYVVhqT2ZQVFdGQ3I5Q0Q3aVdOVGNRTE1GSHJnOW5LTDZDV0VsRGJSY0FIUQ?oc=5",
-      "fecha": "2026-11-14T11:27:21.000Z",
-      "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
       "titulo": "Alpina acompaña a Premios La Barra 2026 en el reconocimiento a la gastronomía colombiana",
       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZHBDbDhMSktVamh1T21XaXFkU2QzaTdYTmFMQkNBTHZSWVkyVElKS0oxUThDZzNuTmc0VGZZcWhTWUxmRXU1eWF3NW5Sb2lmcHp6OVVuYTNHaUJpR25jX0NVLXF2bUU0c2hjZTJXUEU0akJudWRpNjZMV09NWjBEZEJNMmhhbnVLVXpFX0N2emVxTzZIRGxDNFBpN1ZaRmFDWUVMRlc3VFVJVXVvb0dJSnU1V2lQUkJlbzAwVXV1VXF0ZUpFczFfU1hlek9xYjczOGhpVA?oc=5",
       "fecha": "2026-11-13T19:51:00.000Z",
@@ -197,6 +197,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZejJmVnRLTXgwckhYbkpxbGJMVXc1bXlUNlV6cVlpNTN0VVppYXBOZDg3WjR2b29HOVhyc1BPcFdBQU9LcmZnNE1GMXY5bTQ0QUxUcnN3SEt2R2stS0VCSHpDQXppci1qMW5Qa184UFgzSnpjbjROTA?oc=5",
       "fecha": "2026-11-13T10:20:57.000Z",
       "fuente": "ABC Economía",
+      "imagen": ""
+    },
+    {
+      "titulo": "Al mal tiempo buenos sabores: reflexiones sobre el sector gastronómico | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWEo5b3cxWFdGQWFXMkZZOWs3LXlkQ1JQYTVreDAtSVp0UVdTQzY3M3V1QlFHQ2hkU3FSeE9Pb2hwdVIycTE1ellVWFBVTWRQdVMtZl9YblpwckRmb283emJjWXc3cGtpMjM2c0s3YmtocVFhMEpMMzBTQ1otOHVOZnRRSW9lMUV5YUJqekhhVGphN3FBb2lNVDdtY3I4VXA1VFoxeGZsaFAtUkxGVGhsOExRNXBMNnlBc1cxdjBfZ1NUSFRrU1BibNIBzgFBVV95cUxQRHhYVzFqYzlDMW9HZDRCbUx1RlloSjRfMzc4d0t0ZjExSXJYSF90c0gyYWN1VW5vYmdkNFM0UVNWRWl3Y1JOTm5Wb24ySE5XVGtGYXR0VjRvRTRTRHNZZldxRHBtRzVhN29Rejk0cHZqeHFTSzhacWU2LU90ZXpZYmRyUEFYRVBGSWlBellqdVBHM3lvZzRVWkRIZGFBeUlwa0NYVVhqT2ZQVFdGQ3I5Q0Q3aVdOVGNRTE1GSHJnOW5LTDZDV0VsRGJSY0FIUQ?oc=5",
+      "fecha": "2026-11-13T08:00:00.000Z",
+      "fuente": "El Colombiano",
       "imagen": ""
     },
     {
@@ -312,13 +319,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Toledo acoge la gala de la 52ª edición de los Premios Nacionales de Gastronomía",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjRyMmxWUmZWVkNtcVlSS3RiN2pOUUYtRnhUX0YtSXBPS1hQalRIM2pDT3B6RmhYTWxybktaeDlWV2JQcmpyX1NOcEN1RV9NSHRCYmN1RFpyQkc2Z0NyT0NTSmZyVHk4aFIwalJfNXNUSk01N182NWVwaWxsWTliWjQ5SWQ4bE00Zm9jTG54dUwzNU1jWFhxVmxOd3BwVVlrNWthdG5MNFJ5UjRPOGg1UUVvNjdVdHRobEJ0UlEtWERrMWp6SGfSAdoBQVVfeXFMUHBOT0Vub1RKb2VWS0IxZWJhVTFlcWNvY0NpeDFhX1Nlb3YtVW1PV09HelVOOWFqQjlQMDd4QzY4MnNGUkRCNmtNOFBfZUdsVjV5VWc3UWFIU2N6XzJpcWI1NmVwNnZpaDVqQWd4TmVJU2I5LUgzWWpnazJrdTY1SUZ3RVR3VXNqLXVsQzNhcGJHbWpvQ2JjZm5XaUVHTWdfTTNFSG1JYktSUGtuY3hEeV9LWDQxMFBrZlJMbHdndGFUWG5oN1l2c2x3OTR5dWUyaUc1R09nbnJ1OEE?oc=5",
-      "fecha": "2026-11-10T08:00:00.000Z",
-      "fuente": "La Razón",
-      "imagen": ""
-    },
-    {
       "titulo": "Almagro acoge el segundo Congreso Internacional de Gastronomía Cinegética",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjdXZEJlOGFlVmlUc20wVmZWVVluVWJtV2k4TVUyR1pWeWs0T2RtZVNDQzlienJSRzZCb2U1Nml1Z182VnQ3ZEdieFNhN1hqaWFidG40NC1wUkJ4RndNa0lRYmVydVBHenpHcDVCOENxS2xFUVNGTE43eDJucFhyX2dNc1dtdFRVRmZMUGlndkRxN1hiN1QwX0FTeGRkSk51OG1ta0w4aFhKM0RtZ0tRR2wxQ01UNDAwc2tjRWxHS0JlTFlWTmQw?oc=5",
       "fecha": "2026-11-10T08:00:00.000Z",
@@ -330,6 +330,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeC1VcGFwSUJKRWIyNFpjTURmT012OEY0bUEyTHVBT1pKcFJxOHhfcDEzYXN0OGxJOVpIWGt6aEluWlQ4RzZRSlZ5b241MHJrclBQbldvZUNKcHZOd2Q2czZ2NkZQTHJuZnd4eVRLSzdLWFVVVmN3ekpqb0lpdnRoal81Q3paaE1UTl9fZ19GWHhORmg5bzRYbHF0UlJNdE9EYkE?oc=5",
       "fecha": "2026-11-10T08:00:00.000Z",
       "fuente": "Informativos.Net",
+      "imagen": ""
+    },
+    {
+      "titulo": "Toledo acoge la gala de la 52ª edición de los Premios Nacionales de Gastronomía",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjRyMmxWUmZWVkNtcVlSS3RiN2pOUUYtRnhUX0YtSXBPS1hQalRIM2pDT3B6RmhYTWxybktaeDlWV2JQcmpyX1NOcEN1RV9NSHRCYmN1RFpyQkc2Z0NyT0NTSmZyVHk4aFIwalJfNXNUSk01N182NWVwaWxsWTliWjQ5SWQ4bE00Zm9jTG54dUwzNU1jWFhxVmxOd3BwVVlrNWthdG5MNFJ5UjRPOGg1UUVvNjdVdHRobEJ0UlEtWERrMWp6SGfSAdoBQVVfeXFMUHBOT0Vub1RKb2VWS0IxZWJhVTFlcWNvY0NpeDFhX1Nlb3YtVW1PV09HelVOOWFqQjlQMDd4QzY4MnNGUkRCNmtNOFBfZUdsVjV5VWc3UWFIU2N6XzJpcWI1NmVwNnZpaDVqQWd4TmVJU2I5LUgzWWpnazJrdTY1SUZ3RVR3VXNqLXVsQzNhcGJHbWpvQ2JjZm5XaUVHTWdfTTNFSG1JYktSUGtuY3hEeV9LWDQxMFBrZlJMbHdndGFUWG5oN1l2c2x3OTR5dWUyaUc1R09nbnJ1OEE?oc=5",
+      "fecha": "2026-11-10T08:00:00.000Z",
+      "fuente": "La Razón",
       "imagen": ""
     },
     {
@@ -431,13 +438,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Gastronomía de Rescate",
-      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkNMTml6eW1ONDJYS2pmb3U5SHRxOTE1d3BjMy1vcEhyN01saG5DZkhKa3RsSndSanVId1dqTVNjUHFUOFhGMllpdzBOM2ZIQTM4S1RYdXhtNDBQUnVzcDk3YjlucDJHTnpWNTd3ajl3bktqSENZdEZubEVOdzFidkJ3Wl96UQ?oc=5",
-      "fecha": "2026-11-06T08:00:00.000Z",
-      "fuente": "ELHERALDO.CO",
-      "imagen": ""
-    },
-    {
       "titulo": "Segovia acoge EatCology, ocho jornadas abiertas para conectar gastronomía, medio ambiente y salud",
       "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPalI3QWxreUdhYnUwX3ZfVExYUDlnQnpsc0N1TWFXdUh1NVVleFBNdmh1SkdaaThXTTd2OUhiY0FNYnBSM2RGd0w1LTA4YU5DM2Z5YzZDTGlPNjEzNWFETThzdmsyeGJnLWVOeE9VSThvWVA5S09nc25oTDZYQkFXenpfMkxPYlAzZmZhd0M5ZUpTaGt6eHcwMV8tYk9BR0VDdWprZ1pkNllzeU9sbllmVkh0QUlVaHl4NHVmOHJYNHJBbjV6VkFuR3NXWFo5elBiZVVndTJwY3IwOEhN?oc=5",
       "fecha": "2026-11-06T08:00:00.000Z",
@@ -449,6 +449,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYU5PNDRDUGswdzRVYWdCREpXNDVKdDZmMmNEd1hoUVUtNDFzQUVDYU5teDlmZGVidHUwNUFhOGZWelFMaUhFNWY2aUw1V2pNbGRVM3lfcUEtdUJIZzgxSXRrUlh4Z1oyWUVxWEhmczNYUmgtTlZac3Y1N1NPaGlLQWJfUEYxSlBZakhORWh6VS0zQ3RmNHZLX2YzbTJQbzltUTlHSjdmZThQdkg3NVpoT2RDUUMwT0lackE?oc=5",
       "fecha": "2026-11-06T08:00:00.000Z",
       "fuente": "Revista La Barra",
+      "imagen": ""
+    },
+    {
+      "titulo": "Gastronomía de Rescate",
+      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkNMTml6eW1ONDJYS2pmb3U5SHRxOTE1d3BjMy1vcEhyN01saG5DZkhKa3RsSndSanVId1dqTVNjUHFUOFhGMllpdzBOM2ZIQTM4S1RYdXhtNDBQUnVzcDk3YjlucDJHTnpWNTd3ajl3bktqSENZdEZubEVOdzFidkJ3Wl96UQ?oc=5",
+      "fecha": "2026-11-06T08:00:00.000Z",
+      "fuente": "ELHERALDO.CO",
       "imagen": ""
     },
     {
@@ -480,13 +487,6 @@
       "imagen": ""
     },
     {
-      "titulo": "El pueblo de Málaga que acoge este sábado su mercadillo 'agroartesanal' con cerámica, comida casera y cerveza artesanal: habrá talleres e intercambio de semillas",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPMGRpbmtjNXFQVGlLMF83a0pKMTFhckNOX0dIOFdBM0JjdUh3bFRzTkkwcXZCUUJCWVlpaF9mLXBtajRYUXg4T05xUW5FQWh6LTdBWndsRDVYQnp3eXEzZ3pMc2JrZVBSeVF4QlI4UWVBZHlmUFd2RmZ5VGVBTzQ1ZVdZZHE4QU44Yno3ckVuNXZYUkFONzRkNW1MU1UtUlVrVkJnd1JpTTUwc2RLQ0tBQVVQdkEzWWYzMEVxRGZSNUFqTVpXSjBzMTlIbXhhYWhfTXo3Q05aS2g2X2k3eVdzX3ZCQXhZYTZoRGZ5VWNvZlVTbDJKbzlEY0tqOWhkWDJybTdROGJNdFl3LXhTajE2YlJ4Zi1yR1JTUzRXQXBIdXA0OHNFa2FUYVNR0gGvAkFVX3lxTE5rMXFSLVk1N3JNN2RKRVZETTZGR3RLZjNreS15Uzh4cXY2LWp0UXFzdU0yMWRPMEVaRElkTUpuOHAtT0d1dnZlTWNEMGhZMlAtTkRmVExBbFpRQWhWd1U0YzVjdlJYSklIc3ZYWVUyZWVySjVtaGJpSEphLUxISW1ENWY1dWxadllmdXdfTTVZTW9nWG1XbHQ4Q3NYTW1VUGRqczZIOXhmTDh1OFZSYVhPa3lEaTM4M0hfN3puMkw1ZGNuWnQxZmFsdXYtSzF3VDRFV3BMMjFsQ1lOb0xTaEtHQUxObWdPNzRoM3J4QXp3N0xyYTNPb1ozZHdfek9IT2JkVGtQUkJ4TmlESkNFVVpkWWtTdzFjcG10MUpfUzFVMkZqWGZqOHJmcHpieGR6dw?oc=5",
-      "fecha": "2026-11-05T08:00:00.000Z",
-      "fuente": "La Opinión de Málaga",
-      "imagen": ""
-    },
-    {
       "titulo": "La gastronomía peruana llega al corazón de Valencia: Torrent acoge a nueve chefs y empresarios en los premios Inkazteca 2026",
       "enlace": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOaVFZWDJIdUVNdURQOUZJYUxXWEdrdGRZS1gtYWptVDBhbDBETktCM0ZDcXJZdV83TUo5RzFGMEhNWjBWb29kbXkyRUJnVzNGLTBYMm9FeEY5RzJaZkRKQ052eEdhTTBoQ3lTLTRKbXZaQjlobERfcmZwel8tRW1WdW1VVHhaYWdKVFp3bVVNb2tFM1NXSnVlcm1VX3YtSzFCYTdrUUl2eGlHVjFoY2Y1X09sZEMyUXZCUk5PWldOZ29tMW9xdnlXUVpleVFQVE5KTVFFa3AwVWVSbFFhUWdscFFoWVdOMVZKT1BKV0lYRHdyeXdVUXpKWmdZTGVlaWtKQmFud0FkMHJMNHl4VmJSelJCQkNrU2lzdWlvTQ?oc=5",
       "fecha": "2026-11-05T08:00:00.000Z",
@@ -505,6 +505,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xUC1YSFRUblYwYjM3YUxId29aaWtVRExTUnpGVWRpOWJleU9oX2FEeFhJRGo5dWJ2aGJYTEhnVmw3cC1XcXdPN1lnNmpZQmpTaHRTVnZlWm0wRmpjRE5vZDJxV0dnaUljckdiRXZB?oc=5",
       "fecha": "2026-11-05T08:00:00.000Z",
       "fuente": "Diario del Huila",
+      "imagen": ""
+    },
+    {
+      "titulo": "El pueblo de Málaga que acoge este sábado su mercadillo 'agroartesanal' con cerámica, comida casera y cerveza artesanal: habrá talleres e intercambio de semillas",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPMGRpbmtjNXFQVGlLMF83a0pKMTFhckNOX0dIOFdBM0JjdUh3bFRzTkkwcXZCUUJCWVlpaF9mLXBtajRYUXg4T05xUW5FQWh6LTdBWndsRDVYQnp3eXEzZ3pMc2JrZVBSeVF4QlI4UWVBZHlmUFd2RmZ5VGVBTzQ1ZVdZZHE4QU44Yno3ckVuNXZYUkFONzRkNW1MU1UtUlVrVkJnd1JpTTUwc2RLQ0tBQVVQdkEzWWYzMEVxRGZSNUFqTVpXSjBzMTlIbXhhYWhfTXo3Q05aS2g2X2k3eVdzX3ZCQXhZYTZoRGZ5VWNvZlVTbDJKbzlEY0tqOWhkWDJybTdROGJNdFl3LXhTajE2YlJ4Zi1yR1JTUzRXQXBIdXA0OHNFa2FUYVNR0gGvAkFVX3lxTE5rMXFSLVk1N3JNN2RKRVZETTZGR3RLZjNreS15Uzh4cXY2LWp0UXFzdU0yMWRPMEVaRElkTUpuOHAtT0d1dnZlTWNEMGhZMlAtTkRmVExBbFpRQWhWd1U0YzVjdlJYSklIc3ZYWVUyZWVySjVtaGJpSEphLUxISW1ENWY1dWxadllmdXdfTTVZTW9nWG1XbHQ4Q3NYTW1VUGRqczZIOXhmTDh1OFZSYVhPa3lEaTM4M0hfN3puMkw1ZGNuWnQxZmFsdXYtSzF3VDRFV3BMMjFsQ1lOb0xTaEtHQUxObWdPNzRoM3J4QXp3N0xyYTNPb1ozZHdfek9IT2JkVGtQUkJ4TmlESkNFVVpkWWtTdzFjcG10MUpfUzFVMkZqWGZqOHJmcHpieGR6dw?oc=5",
+      "fecha": "2026-11-05T08:00:00.000Z",
+      "fuente": "La Opinión de Málaga",
       "imagen": ""
     },
     {
@@ -554,13 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUjJIaUpBOVdQZFVfS01peHhxeGRNSjJyZ2tMc0ROaTBXYnNibVgyWHQ3OTk4UHMxMmphMEF0c3NVRGtveXRoemVTejhXTU1TVHVhR2FkVURFNERGMnRBMF8zek1FajF1T1Rva3lPSVpBdDN3X0hDUHV3V0tiMlZmMTB1cDQydVNwZTEyN2o5XzdzSFAtTmZIRURjTmV3c0VnNk1TUU1kZWxPRFNIcWlsb1NjX3J1eFk5NFNERkJCQWFvYkRUNzdGSng4d2pfS1FLUk1Jdk1PaXdPTGVYNnNz0gHsAUFVX3lxTE4zRzdzLURqb2FBRlJ3S3pXUVNRcnltZndqX29Oclh1NVRTdEozcGgwamtIT0trQmZjVkV4NU1KVkhIN3RUcUZMNkpGTGNwTk1fUS1jV0NsWUljYkhEMDR1aUg2ZF9ENmpEaWE2WnIxUDV3OFZxc2VNN0JleWlKeWxOWktRWnd0N09uSHdCMFBjODJ4SVYzNkJ3VVlaM0dJb0Y5RDkteVhUaXNNNjExeV9yN0IwRmM3b3l2ejAwMTdwN0ZaV1JYTERpV3NfQTJuRkxvaGNlYk9GU0FyeEN5TW90UmxEYjlia3RSZDZu?oc=5",
       "fecha": "2026-11-04T08:00:00.000Z",
       "fuente": "Blu Radio",
-      "imagen": ""
-    },
-    {
-      "titulo": "Restaurantes prenden las alarmas: gremio prevé que 6.500 sitios de comida cerrarían en Colombia en 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVB1dmxiaS1KLVljQzlYeVo0N0FQbVlYZHdHbGZYWXBzeTdRVEpwb2FNUE9zV0hkX2FvZy0xUUIwbWlydVh4dHo4STlRVERRRE50TDc2NlZzU3hxTjNNcFctXzVOVTVTT1VXVllhRTB2RW95UF92TE1xanNhT3JPcHFDd0dYN0ZleGxKak9fQU1ZTWNRa0M0Z001bnZOc1RITXpOUTJzcUdhWEJRWDBJ0gG0AUFVX3lxTE41Rm10eUZmNG1tc3Nlb3pvaTNkeDZRYllRd1RQaVRIQS1EdmhPaS0zdFQwbzQ0Ylk1bFlYU0lZQmRlOENYaUMwYU5RTWs0elFPSldkVEQ5LVJLaVUzSHRfNU9pR2VHdl9mb2o0UU9fbFNVTnZ1U2kycUpXYUl4Q0RWSTFyejR2Tnc1M1dfaHlDendiSUdvdThjZmNmZS1ST1MyQko1ZHB3RDlSNHFvblE4RWFLbQ?oc=5",
-      "fecha": "2026-11-04T08:00:00.000Z",
-      "fuente": "Portafolio.co",
       "imagen": ""
     }
   ]
