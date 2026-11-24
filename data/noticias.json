@@ -1,13 +1,13 @@
 {
-  "actualizado": "2026-11-23T20:45:43.922Z",
+  "actualizado": "2026-11-24T05:05:56.888Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
     {
-      "titulo": "Estos son los 25 mejores restaurantes de Colombia y el número uno no está en Bogotá",
-      "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IdGsyN2hQcFBpbGQzMzRwX3lrTDN5ZGoyMFB0blpDSERMM202dWVBSk9jYmtxbkVjMTcwQ3l2bS1LdUp1OEJrTlFrQ2pZY3Rkb3hWQ3hlTnJiN0hyOFhPdzd1dG5uNFAwRFhSempSMkFLZw?oc=5",
-      "fecha": "2026-11-23T15:21:41.000Z",
-      "fuente": "QPASA",
+      "titulo": "Losa del Obispo acoge en el puente de diciembre dos días de cultura, música, gastronomía y actividades gratuitas para toda la familia",
+      "enlace": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkdy1pUTJNaVpjVlp6VXFmektIM1Qwb3E3eHhJODd4MS10ejhUSV9TeTNTcnFYOTYwNm56SlJrNUN6eU5YZk00bi1VN2pjZ1JEOEpOTURBQ0s2dHl0TV95aGVhd0ZtaGxsTEJ2dUpabGFwMUk?oc=5",
+      "fecha": "2026-11-24T00:40:39.000Z",
+      "fuente": "Valenciabonita",
       "imagen": ""
     },
     {
@@ -102,6 +102,13 @@
       "imagen": ""
     },
     {
+      "titulo": "Estos son los 25 mejores restaurantes de Colombia y el número uno no está en Bogotá",
+      "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IdGsyN2hQcFBpbGQzMzRwX3lrTDN5ZGoyMFB0blpDSERMM202dWVBSk9jYmtxbkVjMTcwQ3l2bS1LdUp1OEJrTlFrQ2pZY3Rkb3hWQ3hlTnJiN0hyOFhPdzd1dG5uNFAwRFhSempSMkFLZw?oc=5",
+      "fecha": "2026-11-19T15:15:00.000Z",
+      "fuente": "QPASA",
+      "imagen": ""
+    },
+    {
       "titulo": "Impuesto a los licores genera descontento en empresarios: bares alertan cierres",
       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNzVLYzFiQjM3Ty1haGtjSm9VMlZzM2NnSmxyZ1hFdEw2bTI4TlJQR3RJZ2lFM0g4c2ZhZ042cFVYT2lzUFhPamxmNXN5aTRENG5HbkRkdHhzbnJ0RWM1UXM1THk4OHA3QmtFRENfcUx1eVFNN25WckV0Y1hpTVhHX1pHSEdERnJ6ZFdBNi1sdXV0WXZpcnduS2ZYT0NTeE1QMGVEUGRUczVYNTlBSkVDRDVDY9IBxwFBVV95cUxOSUVFSkg5cGNDam1XTE5OTDViVUI1M09taFlwUDVpcTV3TG1Ic0E4LTJaUmRjaGF6SGpYY1E5djZ2OFhiX3pIdlZ3RzNKa3A2QlRObXZlVVhtN21Uei12a2RhblM5T0xtUUxfNWNpNE4yOThwNkdOUFhnV3BJYXppZ05IQ1N6LS01MkhXUDVxcXVkakRwczQwM1pWSXk0cER1LWtUMGhpNlhRZHhVR1dETkNESGdhZ2ZGLV9MZzV6ZmZqWWppLWZV?oc=5",
       "fecha": "2026-11-18T23:45:00.000Z",
@@ -173,7 +180,7 @@
     },
     {
       "titulo": "EDC Colombia generó US$ 37,1 millones para Medellín mientras la gastronomía acumula 4.400 cierres en el país",
-      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVll2aXkwUmNMZkQxanJyRFNxcjFOVzg2WFpwLTNYQXBET0NpSlg4UThXWWhBLTZkdXZTS2JaTUlCMG1UaDFZWmVBc3FqUjc5U2ZEWlBKVnJpSTljSFBQbHR4cFExYWZqZEJnYVlrXzNHVWR3aW50dlA3NmVldDd5aWRvSTVWclhGUHRRcFJtc00wMUh0RWJDNi1oRENZeFY5cjhMdDdEdFlLc1p4YkZMVktNcU1Mc25jQ3ppSnNlVWhJVzBGaUZ0SDhHSlZWdnFhWnVWSzJWSXpXbk5sYWNVemF5bXHSAf8BQVVfeXFMTzZvUDVDdGJzQ01lVGRSOUVYWjFGdEpMTkdMaEdnQ0RQVUVDLVZlODRUQ09ENHVvc2N3VmtIWm1NdERIenhnUDZueXNsRjUxbXE5b0Y2M0t1TDFObFpGZWUwZU52dlVOeWctUkZlcFJaazRZdGsxTnZ0eFNycjFxUDAxZWpIWWl5a2NJQVRCbHl0Y1hsZkVZc3hheDJwZVlPRmlhR1lxYkpQMEdLSG5PVnB6RUpsUmVRZ3phNlhiLVZxUkdiMFYxQ3NaQi1SdWIyeEpEcVd3MXVfaWJ6OFE4SjRQMkI5NW9oUXRkdzg1NDNNMTFYeVhVS3hwMHdWeExr?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVll2aXkwUmNMZkQxanJyRFNxcjFOVzg2WFpwLTNYQXBET0NpSlg4UThXWWhBLTZkdXZTS2JaTUlCMG1UaDFZWmVBc3FqUjc5U2ZEWlBKVnJpSTljSFBQbHR4cFExYWZqZEJnYVlrXzNHVWR3aW50dlA3NmVldDd5aWRvSTVWclhGUHRRcFJtc00wMUh0RWJDNi1oRENZeFY5cjhMdDdEdFlLc1p4YkZMVktNcU1Mc25jQ3ppSnNlVWhJVzBGaUZ0SDhHSlZWdnFhWnVWSzJWSXpXbk5sYWNVemF5bXE?oc=5",
       "fecha": "2026-11-17T00:59:00.000Z",
       "fuente": "Infobae",
       "imagen": ""
@@ -291,15 +298,15 @@
       "imagen": ""
     },
     {
-      "titulo": "¡Apúntese! El Plan del Chicharrón en Envigado: 22 restaurantes ofrecerán platos por $25.000 | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXJ4T2Uya1BfRHlQeXBFemM4eFNWYWNRaVF6QjBnZnl2cnpkQmFmVHF3YUhKd3pyMTJZQXdEdTJNYUx1ei1LaUc5WTQxVGVtbmVvSmVfUmVWamFyNTlDUEk1MFMwaGpBRnZ2b0tmV1N3cUNhUk1OS0l6ZEJCX2tLWHlEemkzaTdFSnFNQ1VYZExQazM2dkhibjR4MWNBM29Xa3BaU3VORjFWcTFvRHd0NtIBtgFBVV95cUxONjhNWmkyVUdlUWwtS2E1LVZaTnR6REp1VzlqVGRzSnR1M25NdWNucTRuaWhBSlNFdC1qSHhiVUd1c0xia2Y5RDJfRHdLdUEwVk5iV25TTnF1Q3FwdFpyZkl6UmNaLWk1TjNFaTNCQzJzclVTLVZkNWxWdU9lWFpKZDVEZWJDT0RNeTZUVjZCWkZXd2pxUWg1SUtJMEllWWUxam1rS2x6V2FoY3pJTElOV2pndHhCUQ?oc=5",
+      "titulo": "Premios La Barra 2026: dos de los premiados a lo mejor de la gastronomía colombiana cocinan en Medellín | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmFWVFM2VHNyQmI4cS1TRm9CTUVReVp1ZTZBXzBZN3h6MHh1UHJUSldXeF9qR0U3Mll3bXRMSjVtNHppa3VnVlEtWEgzUXJPbmRUaklnNHNITGMtNEVpVmdGdGRVU2thc3VSdjJmUDc1QnJOSFl3UXRhbjJ0Rlk5OGM2dTh6MGtiemNJNHdyTWVMTFdlV282cTUzSFE1MlFDM182SUx5Y3JweUnSAbABQVVfeXFMUGVkcE93QjN4QWRuY05mRllja0d3VWJCaEFOZUNLT2hFV0RFdE5SMVpmUTlHR29MVWtqU21MSmszN2VBNFczM2ZHV0kwdi1QTFFCNXN5OUNxOXJRZWdlVHN1YUZNa2FkOG5laEZUeXY1TlZSQ3c4dVZfc0NleHZRU0ZJQklQUEkweXZ6VU52cjJOOVd0aGxLODNGNUJ6ZkljaTMtVlFUQUVlNzVVbVNVdkc?oc=5",
       "fecha": "2026-11-12T08:00:00.000Z",
       "fuente": "El Colombiano",
       "imagen": ""
     },
     {
-      "titulo": "Premios La Barra 2026: dos de los premiados a lo mejor de la gastronomía colombiana cocinan en Medellín | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmFWVFM2VHNyQmI4cS1TRm9CTUVReVp1ZTZBXzBZN3h6MHh1UHJUSldXeF9qR0U3Mll3bXRMSjVtNHppa3VnVlEtWEgzUXJPbmRUaklnNHNITGMtNEVpVmdGdGRVU2thc3VSdjJmUDc1QnJOSFl3UXRhbjJ0Rlk5OGM2dTh6MGtiemNJNHdyTWVMTFdlV282cTUzSFE1MlFDM182SUx5Y3JweUnSAbABQVVfeXFMUGVkcE93QjN4QWRuY05mRllja0d3VWJCaEFOZUNLT2hFV0RFdE5SMVpmUTlHR29MVWtqU21MSmszN2VBNFczM2ZHV0kwdi1QTFFCNXN5OUNxOXJRZWdlVHN1YUZNa2FkOG5laEZUeXY1TlZSQ3c4dVZfc0NleHZRU0ZJQklQUEkweXZ6VU52cjJOOVd0aGxLODNGNUJ6ZkljaTMtVlFUQUVlNzVVbVNVdkc?oc=5",
+      "titulo": "¡Apúntese! El Plan del Chicharrón en Envigado: 22 restaurantes ofrecerán platos por $25.000 | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXJ4T2Uya1BfRHlQeXBFemM4eFNWYWNRaVF6QjBnZnl2cnpkQmFmVHF3YUhKd3pyMTJZQXdEdTJNYUx1ei1LaUc5WTQxVGVtbmVvSmVfUmVWamFyNTlDUEk1MFMwaGpBRnZ2b0tmV1N3cUNhUk1OS0l6ZEJCX2tLWHlEemkzaTdFSnFNQ1VYZExQazM2dkhibjR4MWNBM29Xa3BaU3VORjFWcTFvRHd0NtIBtgFBVV95cUxONjhNWmkyVUdlUWwtS2E1LVZaTnR6REp1VzlqVGRzSnR1M25NdWNucTRuaWhBSlNFdC1qSHhiVUd1c0xia2Y5RDJfRHdLdUEwVk5iV25TTnF1Q3FwdFpyZkl6UmNaLWk1TjNFaTNCQzJzclVTLVZkNWxWdU9lWFpKZDVEZWJDT0RNeTZUVjZCWkZXd2pxUWg1SUtJMEllWWUxam1rS2x6V2FoY3pJTElOV2pndHhCUQ?oc=5",
       "fecha": "2026-11-12T08:00:00.000Z",
       "fuente": "El Colombiano",
       "imagen": ""
@@ -554,13 +561,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjB2NU85MkRuOUNHQVpZXzVrYUJaMWh4Y3hRTzE5WGpmX3VtM3I2aU9idFJZRURPaUtmOEhPdUZCbFJnU0U4V183WVAwTVdXemZ5VGVVVkw0WDAyOFNMWVR1emlpR3JMOTU4UWJGdTZEU3NuNzloZHZjeElRcUVoQ2lDYUp2SDRYVGU2MlkxcmhlcDNNc2JqWTRkTnRKYmptQmlXd1VsWG12OGFZTDhz0gG0AUFVX3lxTE1lNnN0UldZSkEwalVCTmV5dXEzZW9Kd3o0aDhvZW5QQVYwcUp6OFpQR0gtUEN1U2toSFlLa2JaVThjNXZKWWZsYTQ1UEE0TjV6NnRzbnN2YlhQa3JUMGVMb0NjekJqdDZoVjFOX21vTjVwVEViaHdObl9tYVdRX0VXaXJWX2dfUE9jMjhsUlB0NnU5bG10eVRRUTIyR0dCRE5Qbmtjcy1acHRveXRtZGo3a3N2RA?oc=5",
       "fecha": "2026-11-05T08:00:00.000Z",
       "fuente": "El Colombiano",
-      "imagen": ""
-    },
-    {
-      "titulo": "El pueblo de Málaga que acoge este sábado su mercadillo 'agroartesanal' con cerámica, comida casera y cerveza artesanal: habrá talleres e intercambio de semillas",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPMGRpbmtjNXFQVGlLMF83a0pKMTFhckNOX0dIOFdBM0JjdUh3bFRzTkkwcXZCUUJCWVlpaF9mLXBtajRYUXg4T05xUW5FQWh6LTdBWndsRDVYQnp3eXEzZ3pMc2JrZVBSeVF4QlI4UWVBZHlmUFd2RmZ5VGVBTzQ1ZVdZZHE4QU44Yno3ckVuNXZYUkFONzRkNW1MU1UtUlVrVkJnd1JpTTUwc2RLQ0tBQVVQdkEzWWYzMEVxRGZSNUFqTVpXSjBzMTlIbXhhYWhfTXo3Q05aS2g2X2k3eVdzX3ZCQXhZYTZoRGZ5VWNvZlVTbDJKbzlEY0tqOWhkWDJybTdROGJNdFl3LXhTajE2YlJ4Zi1yR1JTUzRXQXBIdXA0OHNFa2FUYVNR0gGvAkFVX3lxTE5rMXFSLVk1N3JNN2RKRVZETTZGR3RLZjNreS15Uzh4cXY2LWp0UXFzdU0yMWRPMEVaRElkTUpuOHAtT0d1dnZlTWNEMGhZMlAtTkRmVExBbFpRQWhWd1U0YzVjdlJYSklIc3ZYWVUyZWVySjVtaGJpSEphLUxISW1ENWY1dWxadllmdXdfTTVZTW9nWG1XbHQ4Q3NYTW1VUGRqczZIOXhmTDh1OFZSYVhPa3lEaTM4M0hfN3puMkw1ZGNuWnQxZmFsdXYtSzF3VDRFV3BMMjFsQ1lOb0xTaEtHQUxObWdPNzRoM3J4QXp3N0xyYTNPb1ozZHdfek9IT2JkVGtQUkJ4TmlESkNFVVpkWWtTdzFjcG10MUpfUzFVMkZqWGZqOHJmcHpieGR6dw?oc=5",
-      "fecha": "2026-11-05T08:00:00.000Z",
-      "fuente": "La Opinión de Málaga",
       "imagen": ""
     }
   ]
