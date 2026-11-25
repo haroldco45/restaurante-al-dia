@@ -1,20 +1,34 @@
 {
-  "actualizado": "2026-11-25T00:57:32.243Z",
+  "actualizado": "2026-11-25T09:34:39.741Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
     {
-      "titulo": "4 restaurantes colombianos ingresan a 50 Mejores Restaurantes de Latinoamérica",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVZ0ZlJjYkxVS1g5eGdsLWItU1l1c09ISmdGaUw3WjBiQ3RZY0RoX2ZCRFlielRIT0luekhHbklKeU9oREpfT0VaUnFrNHM0d3ltNWM5THI3YURGNjg0eHN5SnJ2ZkxOd2FBb3p6X3I3eGtXbVJQN1IzWDV3VDhhMmJlUEN4S1lLLS1aYkI3LVpjZmNVcnJibGtZcC13YTU1?oc=5",
-      "fecha": "2026-11-24T17:24:27.000Z",
-      "fuente": "Revista Diners Colombia",
+      "titulo": "Estos son los restaurantes que ofrecen cenas durante la festividad de Acción de Gracias",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM0hTRHdMRkZ0dWxONFpzLUdud0dqOVlUa1RtMGtxX1hyY2pELXhKMGgyVUExVWJRWTBpMXp4dXhYZEtDSmx0b3F2NmRhc1pmUDJlZUI0YS1jaDlPU3EyMVpldXZfVEpEeHNvWmhvTHN3LUp3TUNvRmR5cUpObkluTmFPbEtSMEhRWG1NWmdRXzlTZTRzNmljMWlDQnJScC1HUWNHdWZxWERmQU52dGM3aHVzZnc2dy1PQklyVkZLNzJDaUVuMmfSAcYBQVVfeXFMTjZ2UEhOdFRjcGJTbnowWXpIYXdXUGZBRV9xYWE0WFZ6S1ppdGZ2STJWeDZYY21BTGJDMnVKaEhrQTUxN2picWloY3NkdmFOLS1Zdk1ueFh3ZnJGaXo4dXlOVlF4bG5IQ2tXcmk4Q0doWHhaX25wTzVTNkJZSTZZamFleGVZam9vclBJZ1JVbWdma1d3RmtHdnM3WWZ6T1lHODJpLVg4N09SMV80OE93WUdwaGtlUEh5bGVITjZCTEdELXJWRDJB?oc=5",
+      "fecha": "2026-11-25T05:01:02.000Z",
+      "fuente": "LaRepublica.co",
+      "imagen": ""
+    },
+    {
+      "titulo": "Gastronomía en Boyacá busca impulsar la economía durante la temporada alta de turismo",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTFHQ3VxUFA1VFVlM1hCX0JwQWY1dm9GRnpEMnBvQVVCZXJiekVFMjRuTXk5Vko4cHVzbTQyRXVvZWo2ZlJ2cVA3TFhHdFZDLUtLc3AyNS01VlRmS1FfVjlOYzUwWHRfUUtiWEhVb0ZDaE11VU0yaW5vZVVRRC16T2dnaXdqaFdpbVd1dHlzZ1BTMFpLWS1IQ0ozWEF0a29PY0xLTUVKUVMtczdBN1d0V3g1aDNrSS1OVktRc9IB0AFBVV95cUxOUkt1LVRzTnJfTkZuakVleDdmdUNkT05BZXAwUFdOQkJCd2F5Z29UUHIxY0pnVVU5dDhoalAzdHZzOEdEZVd6cVB5ekVHSzVwVTAwU3NnRjVlNXB2Wi1vRzcxb0NvTE5TLURWbDVFcG1DRHJoMU5wS0hWZ0lRYXItMWRONHhBb3lZcFFzek5CbVlOMjBoR0VDSExnbldZUFVDc1UyNWxkRWRwR2o5b2pQelRGdEJhQldPUmdSdFZzaUVLRE0wZzhhNlRQbXMxcm1Q?oc=5",
+      "fecha": "2026-11-24T19:22:38.000Z",
+      "fuente": "Caracol Radio",
       "imagen": ""
     },
     {
       "titulo": "La hamburguesa SoHo by El Corral Gourmet estará en Bogotá, Medellín y Cali",
       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb2hPYmphNUF4X05SVTcySUl1U1laRjN6ZkwwZFBGZFVzNDM2ZkZSSE5DbWkyZU1laU9FakdnS1hReG9zbEJyc2RESlR5Zm1jNWczTG9SaS1vd3JPY01SWDdSeS1aUU16b3ZROFlldXpwM2UyUTdCZjctUVJKTHdzUjlHeUg4QUZja0x2ZkNOMVQ5c0JNcnhON2s3NDY3WmY0bHhWSTJXcGZXdjJOMDBVNkw4VVNPZUhzLVNZ0gHAAUFVX3lxTE5scVpka2FKZm9vV2F0X0tTWWhMMGRwQTdXZEU2NFNiYzZJaUkwSG9XU3BKZjczWHd0Mlh0M1VGaUdmZkxxeDc5cHVuZE1GWTJFTnJ2dlBfbVprTkI1MlVTZWJmWkxmZkNxWWpTb3dSZUgwejZXaHNJMG90MUtDMGJud0xJUkZ6MmxwQ0pEdEM0ZFNfRmFCcFhBbnFLYVRXbVJNZU0wOWEwaGYzQUNUZWFZWjBhdnVWaG9CVUlvblVyQg?oc=5",
-      "fecha": "2026-11-24T16:27:12.000Z",
+      "fecha": "2026-11-24T18:17:10.000Z",
       "fuente": "Soho",
+      "imagen": ""
+    },
+    {
+      "titulo": "4 restaurantes colombianos ingresan a 50 Mejores Restaurantes de Latinoamérica",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVZ0ZlJjYkxVS1g5eGdsLWItU1l1c09ISmdGaUw3WjBiQ3RZY0RoX2ZCRFlielRIT0luekhHbklKeU9oREpfT0VaUnFrNHM0d3ltNWM5THI3YURGNjg0eHN5SnJ2ZkxOd2FBb3p6X3I3eGtXbVJQN1IzWDV3VDhhMmJlUEN4S1lLLS1aYkI3LVpjZmNVcnJibGtZcC13YTU1?oc=5",
+      "fecha": "2026-11-24T17:24:27.000Z",
+      "fuente": "Revista Diners Colombia",
       "imagen": ""
     },
     {
@@ -445,13 +459,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Toledo acoge la gala de la 52ª edición de los Premios Nacionales de Gastronomía",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjRyMmxWUmZWVkNtcVlSS3RiN2pOUUYtRnhUX0YtSXBPS1hQalRIM2pDT3B6RmhYTWxybktaeDlWV2JQcmpyX1NOcEN1RV9NSHRCYmN1RFpyQkc2Z0NyT0NTSmZyVHk4aFIwalJfNXNUSk01N182NWVwaWxsWTliWjQ5SWQ4bE00Zm9jTG54dUwzNU1jWFhxVmxOd3BwVVlrNWthdG5MNFJ5UjRPOGg1UUVvNjdVdHRobEJ0UlEtWERrMWp6SGfSAdoBQVVfeXFMUHBOT0Vub1RKb2VWS0IxZWJhVTFlcWNvY0NpeDFhX1Nlb3YtVW1PV09HelVOOWFqQjlQMDd4QzY4MnNGUkRCNmtNOFBfZUdsVjV5VWc3UWFIU2N6XzJpcWI1NmVwNnZpaDVqQWd4TmVJU2I5LUgzWWpnazJrdTY1SUZ3RVR3VXNqLXVsQzNhcGJHbWpvQ2JjZm5XaUVHTWdfTTNFSG1JYktSUGtuY3hEeV9LWDQxMFBrZlJMbHdndGFUWG5oN1l2c2x3OTR5dWUyaUc1R09nbnJ1OEE?oc=5",
-      "fecha": "2026-11-10T08:00:00.000Z",
-      "fuente": "La Razón",
-      "imagen": ""
-    },
-    {
       "titulo": "Almagro acoge el segundo Congreso Internacional de Gastronomía Cinegética",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjdXZEJlOGFlVmlUc20wVmZWVVluVWJtV2k4TVUyR1pWeWs0T2RtZVNDQzlienJSRzZCb2U1Nml1Z182VnQ3ZEdieFNhN1hqaWFidG40NC1wUkJ4RndNa0lRYmVydVBHenpHcDVCOENxS2xFUVNGTE43eDJucFhyX2dNc1dtdFRVRmZMUGlndkRxN1hiN1QwX0FTeGRkSk51OG1ta0w4aFhKM0RtZ0tRR2wxQ01UNDAwc2tjRWxHS0JlTFlWTmQw?oc=5",
       "fecha": "2026-11-10T08:00:00.000Z",
@@ -463,6 +470,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeC1VcGFwSUJKRWIyNFpjTURmT012OEY0bUEyTHVBT1pKcFJxOHhfcDEzYXN0OGxJOVpIWGt6aEluWlQ4RzZRSlZ5b241MHJrclBQbldvZUNKcHZOd2Q2czZ2NkZQTHJuZnd4eVRLSzdLWFVVVmN3ekpqb0lpdnRoal81Q3paaE1UTl9fZ19GWHhORmg5bzRYbHF0UlJNdE9EYkE?oc=5",
       "fecha": "2026-11-10T08:00:00.000Z",
       "fuente": "Informativos.Net",
+      "imagen": ""
+    },
+    {
+      "titulo": "Toledo acoge la gala de la 52ª edición de los Premios Nacionales de Gastronomía",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjRyMmxWUmZWVkNtcVlSS3RiN2pOUUYtRnhUX0YtSXBPS1hQalRIM2pDT3B6RmhYTWxybktaeDlWV2JQcmpyX1NOcEN1RV9NSHRCYmN1RFpyQkc2Z0NyT0NTSmZyVHk4aFIwalJfNXNUSk01N182NWVwaWxsWTliWjQ5SWQ4bE00Zm9jTG54dUwzNU1jWFhxVmxOd3BwVVlrNWthdG5MNFJ5UjRPOGg1UUVvNjdVdHRobEJ0UlEtWERrMWp6SGfSAdoBQVVfeXFMUHBOT0Vub1RKb2VWS0IxZWJhVTFlcWNvY0NpeDFhX1Nlb3YtVW1PV09HelVOOWFqQjlQMDd4QzY4MnNGUkRCNmtNOFBfZUdsVjV5VWc3UWFIU2N6XzJpcWI1NmVwNnZpaDVqQWd4TmVJU2I5LUgzWWpnazJrdTY1SUZ3RVR3VXNqLXVsQzNhcGJHbWpvQ2JjZm5XaUVHTWdfTTNFSG1JYktSUGtuY3hEeV9LWDQxMFBrZlJMbHdndGFUWG5oN1l2c2x3OTR5dWUyaUc1R09nbnJ1OEE?oc=5",
+      "fecha": "2026-11-10T08:00:00.000Z",
+      "fuente": "La Razón",
       "imagen": ""
     },
     {
@@ -548,20 +562,6 @@
       "fecha": "2026-11-06T16:00:00.000Z",
       "fuente": "El Heraldo",
       "imagen": "http://www.bing.com/th?id=ONUT.ul8eVPBlUmsB-nYlMZTOLw&pid=News"
-    },
-    {
-      "titulo": "Festival del Kalentao: 19 restaurantes de Bucaramanga y Floridablanca sirven el plato más colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTZrSUlaYnpRbE5UZ2dSNFFNRVZLMmU1UzBhUmRFSUlGUWUtdkNqS1BBeUZMTlhCaE0zdnpZekRuQmliUWhHS3Ztb3ZURTlTZ1p2ZVk2Q0ZaOUFNZjNQRHNiR3JOZzVzYldtaF85MVVUaDJVRWhBOGpSb0lOQnhZWGR6UWZ4RTRUSFVLMlp1dUpIU3lwei1HODBlb3hCTElYZDFKMnV30gGmAUFVX3lxTE42d0FUU2xLbXFMQTNNTDNreGxSek16RWo2TkY5OUE3TjJFOG54SWJZMlNEOWMyUzZvUkhGWExRWFN1Q2t3RXdheFVadHN6bGZKdGgzNmdMYTI5OXdRdEJfSHdXYW9RcC01OFQzNFZsZmwxZTdpMl9CcDAyd0NBWUs2RllvVjlRclpJQ1pRaGhKTGYxcVJTM2NYQzBmdXFYVlJMdW51eEE?oc=5",
-      "fecha": "2026-11-06T08:00:00.000Z",
-      "fuente": "Alerta",
-      "imagen": ""
-    },
-    {
-      "titulo": "Gastronomía de Rescate",
-      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkNMTml6eW1ONDJYS2pmb3U5SHRxOTE1d3BjMy1vcEhyN01saG5DZkhKa3RsSndSanVId1dqTVNjUHFUOFhGMllpdzBOM2ZIQTM4S1RYdXhtNDBQUnVzcDk3YjlucDJHTnpWNTd3ajl3bktqSENZdEZubEVOdzFidkJ3Wl96UQ?oc=5",
-      "fecha": "2026-11-06T08:00:00.000Z",
-      "fuente": "ELHERALDO.CO",
-      "imagen": ""
     }
   ]
 }
