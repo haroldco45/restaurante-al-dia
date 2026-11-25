@@ -1,14 +1,56 @@
 {
-  "actualizado": "2026-11-24T16:04:34.103Z",
+  "actualizado": "2026-11-25T00:57:32.243Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
     {
-      "titulo": "Gremio de restaurantes pide “salvavidas” al Gobierno ante m&#225;s de 5.000 cierres en lo corrido del a&#241;o, &#191;de qu&#233; se trata?",
-      "enlace": "https://www.elcolombiano.com/negocios/restaurantes-proponen-cambiar-impoconsumo-por-iva-8-por-ciento-cierres-NJ43976830",
-      "fecha": "2026-11-24T07:52:00.000Z",
+      "titulo": "4 restaurantes colombianos ingresan a 50 Mejores Restaurantes de Latinoamérica",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVZ0ZlJjYkxVS1g5eGdsLWItU1l1c09ISmdGaUw3WjBiQ3RZY0RoX2ZCRFlielRIT0luekhHbklKeU9oREpfT0VaUnFrNHM0d3ltNWM5THI3YURGNjg0eHN5SnJ2ZkxOd2FBb3p6X3I3eGtXbVJQN1IzWDV3VDhhMmJlUEN4S1lLLS1aYkI3LVpjZmNVcnJibGtZcC13YTU1?oc=5",
+      "fecha": "2026-11-24T17:24:27.000Z",
+      "fuente": "Revista Diners Colombia",
+      "imagen": ""
+    },
+    {
+      "titulo": "La hamburguesa SoHo by El Corral Gourmet estará en Bogotá, Medellín y Cali",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb2hPYmphNUF4X05SVTcySUl1U1laRjN6ZkwwZFBGZFVzNDM2ZkZSSE5DbWkyZU1laU9FakdnS1hReG9zbEJyc2RESlR5Zm1jNWczTG9SaS1vd3JPY01SWDdSeS1aUU16b3ZROFlldXpwM2UyUTdCZjctUVJKTHdzUjlHeUg4QUZja0x2ZkNOMVQ5c0JNcnhON2s3NDY3WmY0bHhWSTJXcGZXdjJOMDBVNkw4VVNPZUhzLVNZ0gHAAUFVX3lxTE5scVpka2FKZm9vV2F0X0tTWWhMMGRwQTdXZEU2NFNiYzZJaUkwSG9XU3BKZjczWHd0Mlh0M1VGaUdmZkxxeDc5cHVuZE1GWTJFTnJ2dlBfbVprTkI1MlVTZWJmWkxmZkNxWWpTb3dSZUgwejZXaHNJMG90MUtDMGJud0xJUkZ6MmxwQ0pEdEM0ZFNfRmFCcFhBbnFLYVRXbVJNZU0wOWEwaGYzQUNUZWFZWjBhdnVWaG9CVUlvblVyQg?oc=5",
+      "fecha": "2026-11-24T16:27:12.000Z",
+      "fuente": "Soho",
+      "imagen": ""
+    },
+    {
+      "titulo": "Gremio de restaurantes pide “salvavidas” al Gobierno ante más de 5.000 cierres en lo corrido del año, ¿de qué se trata? | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDRBY1dqbTVFUHQ1Y054c1NYZVJXYVp1YmpZSFhwOUlxdXZaWEdxTDBMNW9sU0xzeW9lS2FUNWNiWkFvbVgyZTBvWFNQYThXZG9CZTJ4UjRKb1pXWVN0dGhaNEM0UFlRcEQ3TnNxUTNhX0pxYWdfMGhZVEwzd29Rd2R2WXY3S29aOUNETEdNQWhvanFRWkQtUmNtRWY2emtZc2FCNlpONmdBN2U0Z3NuOTJJd1J6WGhvcUpZbUJLYjPSAcABQVVfeXFMUDQ0QWNXam01RVB0NWNOeHNTWGVSV2FadWJqWUhYcDlJcXV2WlhHcUwwTDVvbFNMc3lvZUthVDVjYlpBb21YMmUwb1hTUGE4V2RvQmUyeFI0Sm9aV1lTdHRoWjRDNFBZUXBEN05zcVEzYV9KcWFnXzBoWVRMM3dvUXdkdll2N0tvWjlDRExHTUFob2pxUVpELVJjbUVmNnprWXNhQjZaTjZnQTdlNGdzbjkySXdSelhob3FKWW1CS2Iz?oc=5",
+      "fecha": "2026-11-24T15:31:54.000Z",
       "fuente": "El Colombiano",
-      "imagen": "http://www.bing.com/th?id=ONUT.YK5H0CkUdtt_4-5lEMKiFA&pid=News"
+      "imagen": ""
+    },
+    {
+      "titulo": "Valle Gran Rey acoge la sexta Semana África con música, danza y gastronomía senegalesa",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNXRpeUFENDFOTFB5VFFjVk1uYXNsbmNVTmNSOHFzRnUzQ0FyVnRpTzJVbUJZdGhIZWZWa2RVVTZwT19YQTBJTEpMZ085T2kwSnc2WEd4d0JJTHVOSzdzU0pTZDFyQzlHdjJlX2pVLXRsQ1BadWF3Nk9kZ1U4SG1PXzVDNzd2STRIdktjR3hEOEJSN01lWmgyY3NPVXEyNGFkM2pQRTZPLTVBOWtna1dHZEwyZ2R1c1kzSU9Dd09PX2RNbk5hOUp3U1ExeTN1ZGJi?oc=5",
+      "fecha": "2026-11-24T14:01:43.000Z",
+      "fuente": "La Voz Canaria",
+      "imagen": ""
+    },
+    {
+      "titulo": "Gastronom&#237;a en Boyac&#225; busca impulsar la econom&#237;a durante la temporada alta de turismo",
+      "enlace": "https://caracol.com.co/2026/11/24/gastronomia-en-boyaca-busca-impulsar-la-economia-durante-la-temporada-alta-de-turismo/",
+      "fecha": "2026-11-24T11:24:00.000Z",
+      "fuente": "Caracol Radio",
+      "imagen": "http://www.bing.com/th?id=ONUT.kYh72lJyCbHayqM0m4ccdQ&pid=News"
+    },
+    {
+      "titulo": "El Mercado Municipal de Divina Pastora acoge una nueva edición del ‘Caña más tapa’ con gastronomía local y música en directo",
+      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPendCSXU1dTQ4RHYyMk9HOEtTY2Y5TkNGQWRDRWFLOVp4WUh4N0pPZ3ZOV1ByZ2phR3JHMl9yUERuZTRkeTBhenBOc0N4VUI0cEtjd1ZCUHdUdzRlMGJCTTBPak15ZVFpcUx5bWVBS0dxTUVrSEtLajhIVHMxLVQteVZ6WmliOWlOSHpxTlNpWlA3ODhDVHdSQ2RNbnVHajJxSFJ5bmJ4cG5BZ180NjBpcklIWjlWSWJ4NzFWU1JucTB4UURva2x0bVlTQ2g3cnNuS0VuWUZ1VFBzemNaak51RnBtUHRWRHp5akVTUWQzYktIaExN?oc=5",
+      "fecha": "2026-11-24T10:58:22.000Z",
+      "fuente": "AZ Costa del Sol",
+      "imagen": ""
+    },
+    {
+      "titulo": "Gremio de restaurantes pide “salvavidas” al Gobierno ante m&#225;s de 5.000 cierres en lo corrido del a&#241;o, &#191;de qu&#233; se trata?",
+      "enlace": "https://www.msn.com/es-co/dinero/other/gremio-de-restaurantes-pide-salvavidas-al-gobierno-ante-m%C3%A1s-de-5-000-cierres-en-lo-corrido-del-a%C3%B1o-de-qu%C3%A9-se-trata/ar-AA2i8uYM",
+      "fecha": "2026-11-24T07:52:55.000Z",
+      "fuente": "El Colombiano on MSN",
+      "imagen": "http://www.bing.com/th?id=ONUT.kVMsFepS7q-krUrFYbIT2Q&pid=News"
     },
     {
       "titulo": "Losa del Obispo acoge en el puente de diciembre dos días de cultura, música, gastronomía y actividades gratuitas para toda la familia",
@@ -305,6 +347,13 @@
       "imagen": "http://www.bing.com/th?id=ONUT.1LMKjYaQ1TQfVMacPAa9cA&pid=News"
     },
     {
+      "titulo": "Los eventos que impulsaron la gastronomía de Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlRSbkh5anRiRW1ibG9FZDVjMDJRc21Udk9EaUp1bGRydGJDMUJ5UVNhVjZxVkJhRnZpT3ExT0RYVFBVeS1INUpsSHFZNFRCNVVMT2VQcjdxNUpvU245dG9tbFhTX180YzF6UDJjSWJnVDktaWhFMkJXZGl1TTFiOE1jM1Z1MktpNkwxWUk1Ul9kZ3prRV90azhUVQ?oc=5",
+      "fecha": "2026-11-12T08:00:00.000Z",
+      "fuente": "Radio Tiempo",
+      "imagen": ""
+    },
+    {
       "titulo": "En uno de sus años más difíciles, los eventos de octubre aliviaron al sector gastronómico de Medellín",
       "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb0cyTUxfX0Z5YVFWUXN1anAxMjk3elpUNVBKM0ZadDJ1bWh1QklvVDVNcnRkMHlnYVZ5N0pyR1B6TTRVWUFQdDdycE9zRThuYWlUOEkwbXpkZ0otN0M2M0xKN21lYWk1RDdzZHhCRjdZMFc0dHdSOVhqRkFteGg0cU5OT2lXNTMxc0FIdkVWQXE4OWt5eWMxUnIwSlRaeU9qV1l1MUotZ3liX2pJYWVyc2tmUl9UWjI1U0NtdmRXRzBlLWh6Q25UMUVVOFkwTHYyNXItWmhveHQ2UjRJN2NFQVFB?oc=5",
       "fecha": "2026-11-12T08:00:00.000Z",
@@ -326,13 +375,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Los eventos que impulsaron la gastronomía de Medellín",
-      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlRSbkh5anRiRW1ibG9FZDVjMDJRc21Udk9EaUp1bGRydGJDMUJ5UVNhVjZxVkJhRnZpT3ExT0RYVFBVeS1INUpsSHFZNFRCNVVMT2VQcjdxNUpvU245dG9tbFhTX180YzF6UDJjSWJnVDktaWhFMkJXZGl1TTFiOE1jM1Z1MktpNkwxWUk1Ul9kZ3prRV90azhUVQ?oc=5",
-      "fecha": "2026-11-12T08:00:00.000Z",
-      "fuente": "Radio Tiempo",
-      "imagen": ""
-    },
-    {
       "titulo": "Restaurante de Karol G llega a CDMX, dónde y cuándo abre",
       "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNUpVUlZwZXVvV3BQVzVJOGJVZ0hjczZYVW9JRzd2YXlkQ1dSeGFZZ19XSFlobV95Z1d2MnNLcEdZcTFQc0RNX0ZndVBnb09EUmZjQmdHQmxSZHFvT0czYlM3T3VtaWxYM3dUM01xcHl1SVhlS19NX1FXYVphQzh0SmNuMHBXMVN6T19RYnQ2WVBGUDY2WTVN0gGcAUFVX3lxTE00TVM3OEYzVjBWYzBSMXpVZE56NEFmQmd2ZnBJX1VSb2g1SUpSc1ZPLVZfblFiVC1QUy1XVjNKYjZOcG5sUWlqTlk0OXN2dGtJUXdXR2RqM2d2T0NjbldidzFwdUZwQmsyQ0JEV0hMZGoxa1dDbElYZmpIXzAtQUI4dzRoanlJeHdhTThhY1NQbXUxRW5xQ0hPNHp3SA?oc=5",
       "fecha": "2026-11-11T20:14:00.000Z",
@@ -345,6 +387,13 @@
       "fecha": "2026-11-11T11:55:00.000Z",
       "fuente": "Diario La Libertad",
       "imagen": "https://diariolalibertad.com/wp-content/uploads/2026/11/IMG-20261111-WA0038.webp"
+    },
+    {
+      "titulo": "Karol G abre restaurante temporal en la CDMX con una propuesta culinaria exclusiva",
+      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSURjWF9lUVZBSHBheTJXcGFYRFo0Q3drUkN6OV9CODFENXlGRzJjelp6cGF6SEU0UG5ZRmRnLXVHYlRpVDVaeDJJVEFCY3VfMHZCWHpHTlVIbzhCRFdtMlJUTm5mNG1pLTktb0FHSVc3T1NGMmpBejllTjhwZXJVa3owOEU3T3NCZjZ2WHR2ZmNPOWktOFFGOG1nV2hoN3VzNDlNRDZxbVdTSjZxamE5YWluU2k5bG82ck5KUWlOQkxzSUd1TndLSk0zcTlLVFVGTVlLV3BjR3NlR1XSAeABQVVfeXFMTTZUQ0pXcjh6cGhucmpNRWlIYVZCTzF5bHREZ1lTQzNZd1lYMnFjRnhPZnFka3Q1M0YweDhzbjNtaUc0RTNkZC1rejQ3WURSVm1CaDd5Y285bmhHMWxMUUNzWVlnc0kyWDFNSmtlS1k2bVdsVEpDR1hGcDR0QkZQQUV4aU5OTVdIbTFLRFpkMmgtb2t1OV9SRVBPQ2k3d0t6b3N6V1pvbnBvclg1THd5cWhjYTlMRERBWUZTQ2I3OWFMc2R5ZE1KdUUxVnRTRzVybThqMGl0elNTdEd5Z3lBOHQ?oc=5",
+      "fecha": "2026-11-11T08:00:00.000Z",
+      "fuente": "El Informador",
+      "imagen": ""
     },
     {
       "titulo": "Restaurantes de Barranquilla alertan por inflación del 6,3% y alza en costos de los alimentos",
@@ -375,13 +424,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Karol G abre restaurante temporal en la CDMX con una propuesta culinaria exclusiva",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSURjWF9lUVZBSHBheTJXcGFYRFo0Q3drUkN6OV9CODFENXlGRzJjelp6cGF6SEU0UG5ZRmRnLXVHYlRpVDVaeDJJVEFCY3VfMHZCWHpHTlVIbzhCRFdtMlJUTm5mNG1pLTktb0FHSVc3T1NGMmpBejllTjhwZXJVa3owOEU3T3NCZjZ2WHR2ZmNPOWktOFFGOG1nV2hoN3VzNDlNRDZxbVdTSjZxamE5YWluU2k5bG82ck5KUWlOQkxzSUd1TndLSk0zcTlLVFVGTVlLV3BjR3NlR1XSAeABQVVfeXFMTTZUQ0pXcjh6cGhucmpNRWlIYVZCTzF5bHREZ1lTQzNZd1lYMnFjRnhPZnFka3Q1M0YweDhzbjNtaUc0RTNkZC1rejQ3WURSVm1CaDd5Y285bmhHMWxMUUNzWVlnc0kyWDFNSmtlS1k2bVdsVEpDR1hGcDR0QkZQQUV4aU5OTVdIbTFLRFpkMmgtb2t1OV9SRVBPQ2k3d0t6b3N6V1pvbnBvclg1THd5cWhjYTlMRERBWUZTQ2I3OWFMc2R5ZE1KdUUxVnRTRzVybThqMGl0elNTdEd5Z3lBOHQ?oc=5",
-      "fecha": "2026-11-11T08:00:00.000Z",
-      "fuente": "El Informador",
-      "imagen": ""
-    },
-    {
       "titulo": "Cambrils acoge el ciclo 'Cinema entre fogons' con documentales sobre gastronomía",
       "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaTNyM09RS09CLVpYM2NWYWVDY0FYckw5QnlKektfT09hMU1Udnc3S05NQ09zTURaOUN5YTZYc0ZYNVhOamZxY292THdoVzMyYVhRUmtGYklmYk4ySjdseWVNZnZjNUpILUpENHZFYlpIZWh5QkFfR2puWUxqQnBSbVdfMUtpaWZMNk5rVGhDYXpCYUxoeE5NUzBzbTJKTVhuS3NUNFZyalcyZ0wtV2twVHl2NmhnQi1INlFVY2oxcUQ?oc=5",
       "fecha": "2026-11-10T23:38:54.000Z",
@@ -403,6 +445,13 @@
       "imagen": ""
     },
     {
+      "titulo": "Toledo acoge la gala de la 52ª edición de los Premios Nacionales de Gastronomía",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjRyMmxWUmZWVkNtcVlSS3RiN2pOUUYtRnhUX0YtSXBPS1hQalRIM2pDT3B6RmhYTWxybktaeDlWV2JQcmpyX1NOcEN1RV9NSHRCYmN1RFpyQkc2Z0NyT0NTSmZyVHk4aFIwalJfNXNUSk01N182NWVwaWxsWTliWjQ5SWQ4bE00Zm9jTG54dUwzNU1jWFhxVmxOd3BwVVlrNWthdG5MNFJ5UjRPOGg1UUVvNjdVdHRobEJ0UlEtWERrMWp6SGfSAdoBQVVfeXFMUHBOT0Vub1RKb2VWS0IxZWJhVTFlcWNvY0NpeDFhX1Nlb3YtVW1PV09HelVOOWFqQjlQMDd4QzY4MnNGUkRCNmtNOFBfZUdsVjV5VWc3UWFIU2N6XzJpcWI1NmVwNnZpaDVqQWd4TmVJU2I5LUgzWWpnazJrdTY1SUZ3RVR3VXNqLXVsQzNhcGJHbWpvQ2JjZm5XaUVHTWdfTTNFSG1JYktSUGtuY3hEeV9LWDQxMFBrZlJMbHdndGFUWG5oN1l2c2x3OTR5dWUyaUc1R09nbnJ1OEE?oc=5",
+      "fecha": "2026-11-10T08:00:00.000Z",
+      "fuente": "La Razón",
+      "imagen": ""
+    },
+    {
       "titulo": "Almagro acoge el segundo Congreso Internacional de Gastronomía Cinegética",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjdXZEJlOGFlVmlUc20wVmZWVVluVWJtV2k4TVUyR1pWeWs0T2RtZVNDQzlienJSRzZCb2U1Nml1Z182VnQ3ZEdieFNhN1hqaWFidG40NC1wUkJ4RndNa0lRYmVydVBHenpHcDVCOENxS2xFUVNGTE43eDJucFhyX2dNc1dtdFRVRmZMUGlndkRxN1hiN1QwX0FTeGRkSk51OG1ta0w4aFhKM0RtZ0tRR2wxQ01UNDAwc2tjRWxHS0JlTFlWTmQw?oc=5",
       "fecha": "2026-11-10T08:00:00.000Z",
@@ -414,13 +463,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeC1VcGFwSUJKRWIyNFpjTURmT012OEY0bUEyTHVBT1pKcFJxOHhfcDEzYXN0OGxJOVpIWGt6aEluWlQ4RzZRSlZ5b241MHJrclBQbldvZUNKcHZOd2Q2czZ2NkZQTHJuZnd4eVRLSzdLWFVVVmN3ekpqb0lpdnRoal81Q3paaE1UTl9fZ19GWHhORmg5bzRYbHF0UlJNdE9EYkE?oc=5",
       "fecha": "2026-11-10T08:00:00.000Z",
       "fuente": "Informativos.Net",
-      "imagen": ""
-    },
-    {
-      "titulo": "Toledo acoge la gala de la 52ª edición de los Premios Nacionales de Gastronomía",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjRyMmxWUmZWVkNtcVlSS3RiN2pOUUYtRnhUX0YtSXBPS1hQalRIM2pDT3B6RmhYTWxybktaeDlWV2JQcmpyX1NOcEN1RV9NSHRCYmN1RFpyQkc2Z0NyT0NTSmZyVHk4aFIwalJfNXNUSk01N182NWVwaWxsWTliWjQ5SWQ4bE00Zm9jTG54dUwzNU1jWFhxVmxOd3BwVVlrNWthdG5MNFJ5UjRPOGg1UUVvNjdVdHRobEJ0UlEtWERrMWp6SGfSAdoBQVVfeXFMUHBOT0Vub1RKb2VWS0IxZWJhVTFlcWNvY0NpeDFhX1Nlb3YtVW1PV09HelVOOWFqQjlQMDd4QzY4MnNGUkRCNmtNOFBfZUdsVjV5VWc3UWFIU2N6XzJpcWI1NmVwNnZpaDVqQWd4TmVJU2I5LUgzWWpnazJrdTY1SUZ3RVR3VXNqLXVsQzNhcGJHbWpvQ2JjZm5XaUVHTWdfTTNFSG1JYktSUGtuY3hEeV9LWDQxMFBrZlJMbHdndGFUWG5oN1l2c2x3OTR5dWUyaUc1R09nbnJ1OEE?oc=5",
-      "fecha": "2026-11-10T08:00:00.000Z",
-      "fuente": "La Razón",
       "imagen": ""
     },
     {
@@ -515,52 +557,10 @@
       "imagen": ""
     },
     {
-      "titulo": "Segovia acoge EatCology, ocho jornadas abiertas para conectar gastronomía, medio ambiente y salud",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPalI3QWxreUdhYnUwX3ZfVExYUDlnQnpsc0N1TWFXdUh1NVVleFBNdmh1SkdaaThXTTd2OUhiY0FNYnBSM2RGd0w1LTA4YU5DM2Z5YzZDTGlPNjEzNWFETThzdmsyeGJnLWVOeE9VSThvWVA5S09nc25oTDZYQkFXenpfMkxPYlAzZmZhd0M5ZUpTaGt6eHcwMV8tYk9BR0VDdWprZ1pkNllzeU9sbllmVkh0QUlVaHl4NHVmOHJYNHJBbjV6VkFuR3NXWFo5elBiZVVndTJwY3IwOEhN?oc=5",
-      "fecha": "2026-11-06T08:00:00.000Z",
-      "fuente": "Revista Emprendedores",
-      "imagen": ""
-    },
-    {
-      "titulo": ", Aceite de cocina usado: el riesgo que los restaurantes no pueden pasar por alto",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYU5PNDRDUGswdzRVYWdCREpXNDVKdDZmMmNEd1hoUVUtNDFzQUVDYU5teDlmZGVidHUwNUFhOGZWelFMaUhFNWY2aUw1V2pNbGRVM3lfcUEtdUJIZzgxSXRrUlh4Z1oyWUVxWEhmczNYUmgtTlZac3Y1N1NPaGlLQWJfUEYxSlBZakhORWh6VS0zQ3RmNHZLX2YzbTJQbzltUTlHSjdmZThQdkg3NVpoT2RDUUMwT0lackE?oc=5",
-      "fecha": "2026-11-06T08:00:00.000Z",
-      "fuente": "Revista La Barra",
-      "imagen": ""
-    },
-    {
       "titulo": "Gastronomía de Rescate",
       "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkNMTml6eW1ONDJYS2pmb3U5SHRxOTE1d3BjMy1vcEhyN01saG5DZkhKa3RsSndSanVId1dqTVNjUHFUOFhGMllpdzBOM2ZIQTM4S1RYdXhtNDBQUnVzcDk3YjlucDJHTnpWNTd3ajl3bktqSENZdEZubEVOdzFidkJ3Wl96UQ?oc=5",
       "fecha": "2026-11-06T08:00:00.000Z",
       "fuente": "ELHERALDO.CO",
-      "imagen": ""
-    },
-    {
-      "titulo": "Palma acoge la sexta edición del Campeonato Nacional de Cocina Vegana Ciudad de Palma con Producto Local, con 13 equipos y un jurado de 24 profesionales",
-      "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRGJBdko4NlF0ZTFZd3B0cUtndkZ5VGJJTFVZNmlSMFNnN2N4eFY1UFRuQU1udHFFZEphZHQwWlpyemVfdHhSVjVkaUJ3VXh1Z3JqRVd5Q3hpQ1Z2bWdYZmZLTDA1cDVSRFFpVFEwVnl2cnVfYUJwTVpFcGd1M3ZBeGxIQjdkazRYT0R6N0RLb0NhUG1TZXFfV0ZpM0hhNkRGMGZ0c3RlTFhjelhZNmNCWjU0eUZiNlFoR2hhVE5SRXczWFNLNC14LXR1cTluUURKN1RadFhsUEloRXJteUIxSmVSZm00MlZHcWY0bnVuVElfTFctUDREQ0VESWl5N1FnN2gycnlaZ0lKZVU?oc=5",
-      "fecha": "2026-11-06T08:00:00.000Z",
-      "fuente": "PalmaActiva",
-      "imagen": ""
-    },
-    {
-      "titulo": "Manzanares acoge este sábado la Ruta de los Valores Quijotescos con teatro, gastronomía y actividades familiares",
-      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZlBkWGo5eDFkczNOT1hBSlVZX1FKT1FKaTdKS19QMEUwdlhiWkdMYmFyVzRQRHJfcUd0ZWx2UVZqakR1Q0RQdUVoMDBkaXlvSHpVRmVuR21QdmpLVlN3b3V3X05RWTE4MzBkX19lMlZ6MTcyNTZQMXJNNGdUbW1rS05GOHJlZi1yLThfMjA3WmpGRllHcVpiNnNNa3Vvb1pCY1hEcGVEcktBNmJ2ZkZDSlJkcEtwXzh1QTl2WWFWbW1ySVEyNWtRUUtBVk5yNmc?oc=5",
-      "fecha": "2026-11-05T10:26:15.000Z",
-      "fuente": "La Voz de Tomelloso",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿Quién se está comiendo los restaurantes?",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlJnVzZ0dUxPdGtIY09BamxkYkJNTXcxd2p6VXRWR2luSFNQVm5BSnl3OUc5RXFObjg0eV9BY3N6ckdmWllkYlAxYjBHTGRoeFdybmhWenlfX0UtNmRZenViVU80OWQ3RkRWY09xYTZybUpoSzFtNERDU3QyYWZHck1JMmsxOHE3UGNqbEl4ZjBoSHVwQUdiUQ?oc=5",
-      "fecha": "2026-11-05T08:00:00.000Z",
-      "fuente": "Vivir en El Poblado",
-      "imagen": ""
-    },
-    {
-      "titulo": "Presto ya es de Nutresa: qué pasa con los restaurantes y con los empleados",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTlqaTV0UDlTZFpBcVdjWGJNODkydG9WX1BTamExaVVnakNVa0dhNE9kR1hseGozNi10UzlNWmpjOENOVWdkMHdqWG9rTWNGUlkyYnhBU0RMZ05sdVNWaVo2bTNyZlFzOUs1VmU3N2F3S0hscDBRbHQ0M1dKd1ZyNS1RUEJ1ZFZsbFAwSHRkbTMyT001aTJVbHFob19sRkdxbTFIdmk5QkthVk1tUmtLMkdDRXVpbmFjeV9tUUZB0gHSAUFVX3lxTE5KODZESTN6QVVkZnQwVTlrYUk4dU5qOFdrVEg2RFN0T0Q1YmpiN2p1WEZQc1VsaWdPS3dNb042YVFZX21lM0hFRndGQ203aVBHdkE5VUYtQUp4WHZFc2tsNFFJNWlXQ3FsMzVPVmxfTjVlekVYUGcwY3h2UW5qdWV6RkluNEJVNmxKQTJ0SkJzYU9aMmtYREFvV3BUWTdqVWgwX0J0X0FmTnFJSjE1YzV1R1dIREp3OFBSd3FKTGItZVlOV0JGaFU2SFVLNllsQjM2QQ?oc=5",
-      "fecha": "2026-11-05T08:00:00.000Z",
-      "fuente": "El Espectador",
       "imagen": ""
     }
   ]
