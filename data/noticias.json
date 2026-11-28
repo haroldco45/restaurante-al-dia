@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T12:53:45.992Z",
+  "actualizado": "2026-11-28T03:40:09.426Z",
   "zona": "America/Bogota",
   "total": 80,
   "noticias": [
@@ -103,8 +103,8 @@
     },
     {
       "titulo": "Gremio de restaurantes pide “salvavidas” al Gobierno ante más de 5.000 cierres en lo corrido del año, ¿de qué se trata? | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDRBY1dqbTVFUHQ1Y054c1NYZVJXYVp1YmpZSFhwOUlxdXZaWEdxTDBMNW9sU0xzeW9lS2FUNWNiWkFvbVgyZTBvWFNQYThXZG9CZTJ4UjRKb1pXWVN0dGhaNEM0UFlRcEQ3TnNxUTNhX0pxYWdfMGhZVEwzd29Rd2R2WXY3S29aOUNETEdNQWhvanFRWkQtUmNtRWY2emtZc2FCNlpONmdBN2U0Z3NuOTJJd1J6WGhvcUpZbUJLYjPSAcABQVVfeXFMUDQ0QWNXam01RVB0NWNOeHNTWGVSV2FadWJqWUhYcDlJcXV2WlhHcUwwTDVvbFNMc3lvZUthVDVjYlpBb21YMmUwb1hTUGE4V2RvQmUyeFI0Sm9aV1lTdHRoWjRDNFBZUXBEN05zcVEzYV9KcWFnXzBoWVRMM3dvUXdkdll2N0tvWjlDRExHTUFob2pxUVpELVJjbUVmNnprWXNhQjZaTjZnQTdlNGdzbjkySXdSelhob3FKWW1CS2Iz?oc=5",
-      "fecha": "2026-11-24T15:31:54.000Z",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1RGc2F6VEtKaUgtQjBqQm1iejY3VjFNYk0wU0Z4UmNQZkN3bWl2dTY1MmdoVFQybDBLSlEzaGpHdElwOGtfQUlXLXZUVzZGQ0tvZUdZNldnSnFqbWJaNHFhSm1HMVNuTDlucld6ZG1ydWdvdGc2d0daa05PajZjOVpsT0ViYklqZDdfSDRuT0lXeGlfR3hQRU9hLU54ZlZEWWJFVDgtRHNYUldmMUU2dWtUS21yMWd0ZGM00gHAAUFVX3lxTFA0NEFjV2ptNUVQdDVjTnhzU1hlUldhWnViallIWHA5SXF1dlpYR3FMMEw1b2xTTHN5b2VLYVQ1Y2JaQW9tWDJlMG9YU1BhOFdkb0JlMnhSNEpvWldZU3R0aFo0QzRQWVFwRDdOc3FRM2FfSnFhZ18waFlUTDN3b1F3ZHZZdjdLb1o5Q0RMR01BaG9qcVFaRC1SY21FZjZ6a1lzYUI2Wk42Z0E3ZTRnc245Mkl3UnpYaG9xSlltQktiMw?oc=5",
+      "fecha": "2026-11-24T16:31:01.000Z",
       "fuente": "El Colombiano",
       "imagen": ""
     },
@@ -242,13 +242,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Can Saura acoge una jornada sobre la cocina señorial de Menorca y su influencia en la gastronomía actual",
-      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd2I5YUk3SnFIallZZG9Bc1Z5LWhtOU93VWZaYk5kd2hRVXlCZWllbUN5WlFhZVYxbXB0M2hfWWNJdExiY1ZJSzhfYUhxTEJJdzNtSS05T1lSWjZhME52Tld5TzRfU24wOWEtRUJOOE04LVlRSkk4NmdhOHB1MVlaQWJqZkJyOWZPNkpZODBOSk55NXhJbjlRcW1XME5fRW80NjhHUHRWMk5vSGZyYVdLaVRzYXJ3NHVpRVJoX0QzS1N1QWxkcjg3eVdQR1RGSFJCc0FpT0JHRUI3UnNtcFIybXFNSQ?oc=5",
-      "fecha": "2026-11-19T18:11:00.000Z",
-      "fuente": "Menorca al Dia",
-      "imagen": ""
-    },
-    {
       "titulo": "Estos son los 25 mejores restaurantes de Colombia y el número uno no está en Bogotá",
       "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IdGsyN2hQcFBpbGQzMzRwX3lrTDN5ZGoyMFB0blpDSERMM202dWVBSk9jYmtxbkVjMTcwQ3l2bS1LdUp1OEJrTlFrQ2pZY3Rkb3hWQ3hlTnJiN0hyOFhPdzd1dG5uNFAwRFhSempSMkFLZw?oc=5",
       "fecha": "2026-11-19T15:15:00.000Z",
@@ -260,6 +253,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObmRORUhHMjNGcVN2TUZVYVlONkgxX3lIQzlUV3pON0hmcnFaTW5UbVpYS0NtekNuWTkzSjRLdkpQWFliTWRhTWZUQU55NnJLSDJ1UHVvNkxuMG9zcVJrVkxkbWFfOXJRUU9MZ2d1aXBwakNwSW9PVDgteFJnZGdyVWNNdmVmRWEzMlFscU0tbG1tSFpVYTdjSE5uLW16cUpuMHhYaFRqbzNNYnF0dGxjdU1XWFlJdnVBZEF0N3pQUXB5NmhlTFJmeFd0emU5ZGI5UzFoUjhfTW1IcUphOVcyN1Q4T0FtT2RiSU9oSmU2N1VNREnSAfgBQVVfeXFMT2pMLThINnFTdTVHbUFjTzBFeU9GUGU4aW13bUlxdzdHWUhYVU41Zk9HVjJHYkpKdzQ3RDBqTFQ2eHoxSTl2S0NRQjZQWnh2d3RJRnJRY29sWEttWkZLOHh1cXFiZWJ4NWw1MEVJQjlxTGFRa2syRm12T1BuaURzWEEyY3cyZ3ZWbUlwZWhNeGR6UzBsSm5Cbno2VEV3cHd1cFBuUmhDbkNFZUhRdXBJSWx4akh5amhDN3lldVVuNGZHNmwzZ1FtU0p1S2dEdjRaMUtySEhnV0FkU1Q3eVBIeDNGajR0cGQtajF6WENMRWMxT1kxTFltTXM?oc=5",
       "fecha": "2026-11-19T11:31:12.000Z",
       "fuente": "Revista Semana",
+      "imagen": ""
+    },
+    {
+      "titulo": "Can Saura acoge una jornada sobre la cocina señorial de Menorca y su influencia en la gastronomía actual",
+      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd2I5YUk3SnFIallZZG9Bc1Z5LWhtOU93VWZaYk5kd2hRVXlCZWllbUN5WlFhZVYxbXB0M2hfWWNJdExiY1ZJSzhfYUhxTEJJdzNtSS05T1lSWjZhME52Tld5TzRfU24wOWEtRUJOOE04LVlRSkk4NmdhOHB1MVlaQWJqZkJyOWZPNkpZODBOSk55NXhJbjlRcW1XME5fRW80NjhHUHRWMk5vSGZyYVdLaVRzYXJ3NHVpRVJoX0QzS1N1QWxkcjg3eVdQR1RGSFJCc0FpT0JHRUI3UnNtcFIybXFNSQ?oc=5",
+      "fecha": "2026-11-19T08:00:00.000Z",
+      "fuente": "Menorca al Dia",
       "imagen": ""
     },
     {
@@ -291,13 +291,6 @@
       "imagen": ""
     },
     {
-      "titulo": "Restaurantes de Medellín realizarán evento solidario por la niñez del Chocó",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMmptYW1XVXVpaktfdzViZmZyRWI2clJDcDRhQ1RqSHlkbG1mTzR4TlVISFRIelZwd2RZXy1ndW5GOW4yMjlENGFPUF91WE1ldGlXeU9SbWEtM2dubTdqb0Z1NS1RN01QbkhyTmJ1akEyaGY0UzRZNXVTcktzVmpQX1BELVE4RVVzb0pQbU9PbU9EdnRXbi1jWUlYbG12RVBPUG1HOXFoal91eXEzd3c?oc=5",
-      "fecha": "2026-11-17T20:48:24.000Z",
-      "fuente": "IFM Noticias",
-      "imagen": ""
-    },
-    {
       "titulo": "El Mercado Central de Abastos acoge el 'Ajo Solidario' a beneficio del Comedor El Salvador en el marco de la Capitalidad Gastronómica 2026",
       "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYkxyQWJ1M2RBNWZpSV9sTndWaEpIcHdjcTlYdTdCa1JPa2g4azc4dTJjLXpnMEo5RU42T2xjZEg2LXB2TnlITm5wbXYtZGIzbVlqYmdHZVpOVURNVlcxbzNLb0kxNWI0aExwUFlKbVlNX05vTTZtd0dKNy15eWwwcU1PZW5Belo2YUpwZS15Mm02LTUxa29CUzdlbC0tT1ZmR2FDMm1XeWpyQWtYTVVyZWpRdjItMEhEX3daTEtwLVhKbklHT0VZVjNrUzJfNkZhaWFoakNKWVpvRk81OXhqVFBtV21sdXJ3VjJ1VzBXbkM?oc=5",
       "fecha": "2026-11-17T15:52:23.000Z",
@@ -309,6 +302,13 @@
       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdklweFNTeVVZRjN2OTZfSEctUTJteWdEWlBqWGo1OVVEWWlhR3RFU2dIQ2lLcVNUZ3JFOHA5a0xpTF9jQjdPajNfUlBpV2dSMUdhNzR4UUJMWi1VLURfNjJLSGM4NGN5MDg2TG9QdG5WSUd2ODRBdEJJOE1UeWVVcEdCQ1VBeTdkeWVWaDAtM3R3RFHSAZgBQVVfeXFMUG5fRXpZLV9famdGNjNZUkdmTXFDdDhRVTFFaFJObGdaUTdubzd3Q0JqQXNPLTZvRGhMTDE5M29TNDFUeDczbm83WlBkYzJKdWJ4ZnJ2a0s2YW9IRm51SF9tQTdtaGJva3FEZVlaRXB0MGgxWGhCcnhCYWdqWEdmellEVVkyUnhDNFdXYV9pbmRtbENzdE12dFI?oc=5",
       "fecha": "2026-11-17T12:23:45.000Z",
       "fuente": "Diario de Jerez",
+      "imagen": ""
+    },
+    {
+      "titulo": "Restaurantes de Medellín realizarán evento solidario por la niñez del Chocó",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMmptYW1XVXVpaktfdzViZmZyRWI2clJDcDRhQ1RqSHlkbG1mTzR4TlVISFRIelZwd2RZXy1ndW5GOW4yMjlENGFPUF91WE1ldGlXeU9SbWEtM2dubTdqb0Z1NS1RN01QbkhyTmJ1akEyaGY0UzRZNXVTcktzVmpQX1BELVE4RVVzb0pQbU9PbU9EdnRXbi1jWUlYbG12RVBPUG1HOXFoal91eXEzd3c?oc=5",
+      "fecha": "2026-11-17T08:00:00.000Z",
+      "fuente": "IFM Noticias",
       "imagen": ""
     },
     {
@@ -348,7 +348,7 @@
     },
     {
       "titulo": "EDC Colombia generó US$ 37,1 millones para Medellín mientras la gastronomía acumula 4.400 cierres en el país",
-      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVll2aXkwUmNMZkQxanJyRFNxcjFOVzg2WFpwLTNYQXBET0NpSlg4UThXWWhBLTZkdXZTS2JaTUlCMG1UaDFZWmVBc3FqUjc5U2ZEWlBKVnJpSTljSFBQbHR4cFExYWZqZEJnYVlrXzNHVWR3aW50dlA3NmVldDd5aWRvSTVWclhGUHRRcFJtc00wMUh0RWJDNi1oRENZeFY5cjhMdDdEdFlLc1p4YkZMVktNcU1Mc25jQ3ppSnNlVWhJVzBGaUZ0SDhHSlZWdnFhWnVWSzJWSXpXbk5sYWNVemF5bXHSAf8BQVVfeXFMTzZvUDVDdGJzQ01lVGRSOUVYWjFGdEpMTkdMaEdnQ0RQVUVDLVZlODRUQ09ENHVvc2N3VmtIWm1NdERIenhnUDZueXNsRjUxbXE5b0Y2M0t1TDFObFpGZWUwZU52dlVOeWctUkZlcFJaazRZdGsxTnZ0eFNycjFxUDAxZWpIWWl5a2NJQVRCbHl0Y1hsZkVZc3hheDJwZVlPRmlhR1lxYkpQMEdLSG5PVnB6RUpsUmVRZ3phNlhiLVZxUkdiMFYxQ3NaQi1SdWIyeEpEcVd3MXVfaWJ6OFE4SjRQMkI5NW9oUXRkdzg1NDNNMTFYeVhVS3hwMHdWeExr?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVll2aXkwUmNMZkQxanJyRFNxcjFOVzg2WFpwLTNYQXBET0NpSlg4UThXWWhBLTZkdXZTS2JaTUlCMG1UaDFZWmVBc3FqUjc5U2ZEWlBKVnJpSTljSFBQbHR4cFExYWZqZEJnYVlrXzNHVWR3aW50dlA3NmVldDd5aWRvSTVWclhGUHRRcFJtc00wMUh0RWJDNi1oRENZeFY5cjhMdDdEdFlLc1p4YkZMVktNcU1Mc25jQ3ppSnNlVWhJVzBGaUZ0SDhHSlZWdnFhWnVWSzJWSXpXbk5sYWNVemF5bXE?oc=5",
       "fecha": "2026-11-16T08:00:00.000Z",
       "fuente": "Infobae",
       "imagen": ""
@@ -439,23 +439,23 @@
     },
     {
       "titulo": "EDC Colombia y Ritvales ayudaron a reactivar la gastronom&#237;a de Medell&#237;n",
-      "enlace": "https://www.msn.com/es-co/alimentaci%C3%B3n-y-bebidas/recetas/edc-colombia-y-ritvales-ayudaron-a-reactivar-la-gastronom%C3%ADa-de-medell%C3%ADn/ar-AA2hjv6E",
-      "fecha": "2026-11-12T08:13:32.000Z",
-      "fuente": "Publimetro on MSN",
+      "enlace": "https://www.msn.com/es-co/dinero/general/edc-colombia-y-ritvales-ayudaron-a-reactivar-la-gastronom%C3%ADa-de-medell%C3%ADn/ar-AA2hjv6E",
+      "fecha": "2026-11-12T08:13:00.000Z",
+      "fuente": "MSN",
       "imagen": "http://www.bing.com/th?id=ONUT.o4xWoTcdhQX6XPo67MZLfg&pid=News"
-    },
-    {
-      "titulo": "Los eventos que impulsaron la gastronomía de Medellín",
-      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlRSbkh5anRiRW1ibG9FZDVjMDJRc21Udk9EaUp1bGRydGJDMUJ5UVNhVjZxVkJhRnZpT3ExT0RYVFBVeS1INUpsSHFZNFRCNVVMT2VQcjdxNUpvU245dG9tbFhTX180YzF6UDJjSWJnVDktaWhFMkJXZGl1TTFiOE1jM1Z1MktpNkwxWUk1Ul9kZ3prRV90azhUVQ?oc=5",
-      "fecha": "2026-11-12T08:00:00.000Z",
-      "fuente": "Radio Tiempo",
-      "imagen": ""
     },
     {
       "titulo": "En uno de sus años más difíciles, los eventos de octubre aliviaron al sector gastronómico de Medellín",
       "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb0cyTUxfX0Z5YVFWUXN1anAxMjk3elpUNVBKM0ZadDJ1bWh1QklvVDVNcnRkMHlnYVZ5N0pyR1B6TTRVWUFQdDdycE9zRThuYWlUOEkwbXpkZ0otN0M2M0xKN21lYWk1RDdzZHhCRjdZMFc0dHdSOVhqRkFteGg0cU5OT2lXNTMxc0FIdkVWQXE4OWt5eWMxUnIwSlRaeU9qV1l1MUotZ3liX2pJYWVyc2tmUl9UWjI1U0NtdmRXRzBlLWh6Q25UMUVVOFkwTHYyNXItWmhveHQ2UjRJN2NFQVFB?oc=5",
       "fecha": "2026-11-12T08:00:00.000Z",
       "fuente": "Revista Semana",
+      "imagen": ""
+    },
+    {
+      "titulo": "Los eventos que impulsaron la gastronomía de Medellín",
+      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlRSbkh5anRiRW1ibG9FZDVjMDJRc21Udk9EaUp1bGRydGJDMUJ5UVNhVjZxVkJhRnZpT3ExT0RYVFBVeS1INUpsSHFZNFRCNVVMT2VQcjdxNUpvU245dG9tbFhTX180YzF6UDJjSWJnVDktaWhFMkJXZGl1TTFiOE1jM1Z1MktpNkwxWUk1Ul9kZ3prRV90azhUVQ?oc=5",
+      "fecha": "2026-11-12T08:00:00.000Z",
+      "fuente": "Radio Tiempo",
       "imagen": ""
     },
     {
